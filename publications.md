@@ -77,7 +77,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### 2014
 
-19\. **Chave J., Réjou-Méchain M., Burquez A., Chidumayo E., Colgan M.S., Delitti W. B. C., Duque A., Eid T., Fearnside P. M., Goodman R. C., Henry M., Martinez-Yrizar A., Mugasha W. A., Muller-Landau H. C., Mencuccini M., Nelson B. W., Ngomanda A., Nogueira E. M., Ortiz-Malavassi E., Pélissier R., Ploton P., Ryan C. M., Saldarriaga J. G. and <span style="text-decoration: underline;">Vieilledent G.</span>** 2014. Improved allometric models to estimate the aboveground biomass of tropical trees. *Global Change Biology*. **20**(10): 3177-3190.
+19\. **Chave J., Réjou-Méchain M., Búrquez A., Chidumayo E., Colgan M. S., Delitti W. B.C., Duque A., Eid T., Fearnside P. M., Goodman R. C., Henry M., Martínez-Yrízar A., Mugasha W. A., Muller-Landau H. C., Mencuccini M., Nelson B. W., Ngomanda A., Nogueira E. M., Ortiz-Malavassi E., Pélissier R., Ploton P., Ryan C. M., Saldarriaga J. G and <span style="text-decoration: underline;">Vieilledent G.</span>** 2014. Improved allometric models to estimate the aboveground biomass of tropical trees. *Global Change Biology*. **20**(10): 3177-3190.
 \[doi:[10.1111/gcb.12629](http://dx.doi.org/10.1111/gcb.12629)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Chave2014-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](/publications/Chave2014-GCB-SM.pdf) /
