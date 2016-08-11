@@ -1,8 +1,8 @@
-# ecology.ghslnv.net
+# ghislainv.github.io
 
 ## Website code
 
-This code is used for my professional website at http://ecology.ghslnv.net. I adapted the [Jekyll Now](https://github.com/barryclark/jekyll-now) template to create a [Jekyll](https://github.com/jekyll/jekyll) web-site written in [Mardown](https://daringfireball.net/projects/markdown/).
+This code is used for my professional website at https://ghislainv.github.io. I adapted the [Jekyll Now](https://github.com/barryclark/jekyll-now) template to create a [Jekyll](https://github.com/jekyll/jekyll) web-site written in [Mardown](https://daringfireball.net/projects/markdown/).
 
 ## Credits
 
