@@ -230,7 +230,7 @@ coexistence. PhD Thesis. Cemagref-AgroParisTech. 259 p. \[oai:[pastel.archives-o
 #### Books or book chapters
 
 ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: underline;">Vieilledent G.</span>, Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.** 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. \[doi:
-[10.13140/RG.2.1.1540.9044](http://dx.doi.org/10.13140/RG.2.1.1540.9044)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf).
+[10.13140/RG.2.1.1540.9044](http://dx.doi.org/10.13140/RG.2.1.1540.9044)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
