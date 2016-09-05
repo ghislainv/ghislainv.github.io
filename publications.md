@@ -15,11 +15,11 @@ Researcher profile:
 
 28\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-27\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. accepted. 
-
-26\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
+27\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
 
 #### 2016
+
+26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. in press. 
 
 25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. in press. [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
