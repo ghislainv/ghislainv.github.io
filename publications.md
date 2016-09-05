@@ -95,7 +95,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 from 2000 to 2010 using multi-date Landsat satellite images and the Random Forests classifier. *Remote Sensing of Environment*. **139**:68-80.
 \[doi:[10.1016/j.rse.2013.07.008](http://dx.doi.org/10.1016/j.rse.2013.07.008)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2013-RSE.pdf) /
-KMZ for Google Earth [![GoogleEarth](/publications/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Grinand2013-RSE.kmz)
+KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Grinand2013-RSE.kmz)
 
 16\. **Henry M., A. Bombelli, C. Trotta, A. Alessandrini, L. Birigazzi, G. Sola, <span style="text-decoration: underline;">G. Vieilledent</span>, P. Santenoise, F. Longuetaud, R. Valentini, N. Picard and L. Saint-André.** 2013. GlobAllomeTree: International platform for tree allometric equations to support volume, biomass and carbon assessment. *iForest - Biogeosciences and Forestry.* **6**(1): 326. \[doi:[10.3832/ifor0901-006](http://dx.doi.org/10.3832/ifor0901-006)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Henry2013-iForest.pdf)
