@@ -15,11 +15,13 @@ Researcher profile:
 
 28\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-27\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. in review. 
+27\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. accepted. 
 
 26\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
 
-25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, R. Nishuli, A. Kirkby, E. A. Williamson, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population makes it critically endangered. _PLoS ONE_. in review. 
+#### 2016
+
+25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. in press. [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
 Study featured in:
 [RFI](http://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation),
@@ -32,9 +34,8 @@ Study featured in:
 [National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
-[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/).
-
-#### 2016
+[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
+[Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
 
 24\. **<span style="text-decoration: underline;">Vieilledent G.</span>, O. Gardi, C. Grinand, C. Burren, M. Andriamanjato, C. Camara, C. J. Gardner, L. Glass, A. Rasolohery, H. Rakoto Ratsimba, V. Gond, J.-R. Rakotoarijaona**. 2016. Bioclimatic envelope models predict a decrease in tropical forest carbon stocks with climate change in Madagascar. _Journal of Ecology_. **104**: 703-715.
 \[doi:[10.1111/1365-2745.12548](http://dx.doi.org/10.1111/1365-2745.12548)\].
@@ -238,7 +239,8 @@ Study featured in:
 [National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
-[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/).
+[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
+[Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
 
 i\. **Fox J. C., <span style="text-decoration: underline;">G. Vieilledent</span> and R. J. Keenan**. 2011. Native forest
 individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://aciar.gov.au/files/node/14125/native_forest_management_in_papua_new_guinea_adva_17895.pdf)
