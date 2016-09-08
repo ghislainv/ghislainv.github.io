@@ -15,11 +15,15 @@ Researcher profile:
 
 28\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-27\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. in review. 
+27\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
 
-26\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
+#### 2016
 
-25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, R. Nishuli, A. Kirkby, E. A. Williamson, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population makes it critically endangered. _PLoS ONE_. in review. 
+26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. in press. 
+
+25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. in press. [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
+
+Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
 Study featured in:
 [RFI](http://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation),
@@ -32,9 +36,8 @@ Study featured in:
 [National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
-[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/).
-
-#### 2016
+[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
+[Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
 
 24\. **<span style="text-decoration: underline;">Vieilledent G.</span>, O. Gardi, C. Grinand, C. Burren, M. Andriamanjato, C. Camara, C. J. Gardner, L. Glass, A. Rasolohery, H. Rakoto Ratsimba, V. Gond, J.-R. Rakotoarijaona**. 2016. Bioclimatic envelope models predict a decrease in tropical forest carbon stocks with climate change in Madagascar. _Journal of Ecology_. **104**: 703-715.
 \[doi:[10.1111/1365-2745.12548](http://dx.doi.org/10.1111/1365-2745.12548)\].
@@ -94,7 +97,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 from 2000 to 2010 using multi-date Landsat satellite images and the Random Forests classifier. *Remote Sensing of Environment*. **139**:68-80.
 \[doi:[10.1016/j.rse.2013.07.008](http://dx.doi.org/10.1016/j.rse.2013.07.008)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2013-RSE.pdf) /
-KMZ for Google Earth [![GoogleEarth](/publications/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Grinand2013-RSE.kmz)
+KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Grinand2013-RSE.kmz)
 
 16\. **Henry M., A. Bombelli, C. Trotta, A. Alessandrini, L. Birigazzi, G. Sola, <span style="text-decoration: underline;">G. Vieilledent</span>, P. Santenoise, F. Longuetaud, R. Valentini, N. Picard and L. Saint-André.** 2013. GlobAllomeTree: International platform for tree allometric equations to support volume, biomass and carbon assessment. *iForest - Biogeosciences and Forestry.* **6**(1): 326. \[doi:[10.3832/ifor0901-006](http://dx.doi.org/10.3832/ifor0901-006)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Henry2013-iForest.pdf)
@@ -104,6 +107,8 @@ KMZ for Google Earth [![GoogleEarth](/publications/logo-GoogleEarth.png "KMZ for
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013-BiologicalConservation.pdf) /
 R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R) <a href="https://ghislainv.github.io/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R"><img src="/images/logos/logo-GRASS.png" height="16" alt="GRASS GIS" title="GRASS GIS"></a> /
 KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)
+
+Results of the study were used to update the IUCN conservation status of _Adansonia grandidieri_ [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/30388/0).
 
 This article featured in the *Scientific American* post ['Climate Change Could Wipe Out Amazing Baobab Trees in Madagascar'](http://blogs.scientificamerican.com/extinction-countdown/2013/07/19/climate-change-baobab-madagascar/).
 
@@ -225,7 +230,9 @@ coexistence. PhD Thesis. Cemagref-AgroParisTech. 259 p. \[oai:[pastel.archives-o
 #### Books or book chapters
 
 ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: underline;">Vieilledent G.</span>, Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.** 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. \[doi:
-[10.13140/RG.2.1.1540.9044](http://dx.doi.org/10.13140/RG.2.1.1540.9044)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf).
+[10.13140/RG.2.1.1540.9044](http://dx.doi.org/10.13140/RG.2.1.1540.9044)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
+
+Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
 Study featured in:
 [RFI](http://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation),
@@ -238,7 +245,8 @@ Study featured in:
 [National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
-[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/).
+[Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
+[Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
 
 i\. **Fox J. C., <span style="text-decoration: underline;">G. Vieilledent</span> and R. J. Keenan**. 2011. Native forest
 individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://aciar.gov.au/files/node/14125/native_forest_management_in_papua_new_guinea_adva_17895.pdf)
