@@ -70,7 +70,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0140423&representation=PDF) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Labriere2015_PLoSONE_SM.zip)
 
-20\. **Courbaud B., V. Lafond, G. Lagarrigues, <span style="text-decoration: underline;">Vieilledent G.</span>, T. Cordonnier, F. Jabot and F. De Coligny.** 2015. Applying ecological model evaludation: Lessons learned with the forest dynamics model Samsara2. *Ecological Modelling*. **314**: 1-14.
+20\. **Courbaud B., V. Lafond, G. Lagarrigues, <span style="text-decoration: underline;">G. Vieilledent</span>, T. Cordonnier, F. Jabot and F. De Coligny.** 2015. Applying ecological model evaludation: Lessons learned with the forest dynamics model Samsara2. *Ecological Modelling*. **314**: 1-14.
 \[doi:[10.1016/j.ecolmodel.2015.06.039](http://dx.doi.org/10.1016/j.ecolmodel.2015.06.039)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Courbaud2015-EM.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Courbaud2015-EM-SM.zip)
