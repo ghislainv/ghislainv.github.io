@@ -33,11 +33,13 @@ Study featured in:
 [Radio Canada audio](http://medias-balado.radio-canada.ca/diffusion/2016/04/balado/src/CBF/sammonde-20160409-946.mp3),
 [Médiaterre](http://www.mediaterre.org/actu,20160405150138,9.html),
 [Science Post](http://sciencepost.fr/2016/04/gorille-de-grauer-plus-proches-cousins-de-lhomme-danger-critique-dextinction/),
-[National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
+[National Geographic France](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
 [Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
 [Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
+[National Geographic Voices](http://voices.nationalgeographic.com/2016/09/04/grauers-gorilla-at-extremely-high-risk-of-extinction-in-the-wild/)
+[The Gardian](https://www.theguardian.com/environment/2016/sep/04/eastern-gorilla-critically-endangered-illegal-hunting-iucn-red-list)
 
 24\. **<span style="text-decoration: underline;">Vieilledent G.</span>, O. Gardi, C. Grinand, C. Burren, M. Andriamanjato, C. Camara, C. J. Gardner, L. Glass, A. Rasolohery, H. Rakoto Ratsimba, V. Gond, J.-R. Rakotoarijaona**. 2016. Bioclimatic envelope models predict a decrease in tropical forest carbon stocks with climate change in Madagascar. _Journal of Ecology_. **104**: 703-715.
 \[doi:[10.1111/1365-2745.12548](http://dx.doi.org/10.1111/1365-2745.12548)\].
@@ -242,11 +244,13 @@ Study featured in:
 [Radio Canada audio](http://medias-balado.radio-canada.ca/diffusion/2016/04/balado/src/CBF/sammonde-20160409-946.mp3),
 [Médiaterre](http://www.mediaterre.org/actu,20160405150138,9.html),
 [Science Post](http://sciencepost.fr/2016/04/gorille-de-grauer-plus-proches-cousins-de-lhomme-danger-critique-dextinction/),
-[National Geographic](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
+[National Geographic France](http://www.nationalgeographic.fr/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/),
 [Magazine Goodplanet Info](http://www.goodplanet.info/actualite/2016/04/10/populations-de-gorilles-de-grauer-ont-chute-de-77-20-ans/),
 [Global Magazine](http://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481),
 [Mongabay](http://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/),
 [Le Monde](http://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html).
+[National Geographic Voices](http://voices.nationalgeographic.com/2016/09/04/grauers-gorilla-at-extremely-high-risk-of-extinction-in-the-wild/)
+[The Gardian](https://www.theguardian.com/environment/2016/sep/04/eastern-gorilla-critically-endangered-illegal-hunting-iucn-red-list)
 
 i\. **Fox J. C., <span style="text-decoration: underline;">G. Vieilledent</span> and R. J. Keenan**. 2011. Native forest
 individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://aciar.gov.au/files/node/14125/native_forest_management_in_papua_new_guinea_adva_17895.pdf)
