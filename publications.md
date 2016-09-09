@@ -75,7 +75,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0140423&representation=PDF) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Labriere2015_PLoSONE_SM.zip)
 
-20\. **Courbaud B., V. Lafond, G. Lagarrigues, <span style="text-decoration: underline;">Vieilledent G.</span>, T. Cordonnier, F. Jabot and F. De Coligny.** 2015. Applying ecological model evaludation: Lessons learned with the forest dynamics model Samsara2. *Ecological Modelling*. **314**: 1-14.
+20\. **Courbaud B., V. Lafond, G. Lagarrigues, <span style="text-decoration: underline;">G. Vieilledent</span>, T. Cordonnier, F. Jabot and F. De Coligny.** 2015. Applying ecological model evaludation: Lessons learned with the forest dynamics model Samsara2. *Ecological Modelling*. **314**: 1-14.
 \[doi:[10.1016/j.ecolmodel.2015.06.039](http://dx.doi.org/10.1016/j.ecolmodel.2015.06.039)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Courbaud2015-EM.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Courbaud2015-EM-SM.zip)
@@ -232,7 +232,7 @@ coexistence. PhD Thesis. Cemagref-AgroParisTech. 259 p. \[oai:[pastel.archives-o
 #### Books or book chapters
 
 ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: underline;">Vieilledent G.</span>, Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.** 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. \[doi:
-[10.13140/RG.2.1.1540.9044](http://dx.doi.org/10.13140/RG.2.1.1540.9044)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
+[10.19121/2015.Report.DMX3094100000](http://dx.doi.org/10.19121/2015.Report.DMX3094100000)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
