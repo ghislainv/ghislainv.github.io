@@ -17,9 +17,13 @@ Researcher profile:
 
 27\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
 
-#### 2016
+#### 2017
 
-26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2016. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. in press. 
+26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
+\[doi:[10.1016/j.jag.2016.09.002](http://dx.doi.org/10.1016/j.jag.2016.09.002)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2017-JAG.pdf)
+
+#### 2016
 
 25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. in press. [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
@@ -63,8 +67,8 @@ Article featured in:
 
 23\. **Labrière N., B. Locatelli, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Kharisma,
 V. Gond, I. Basuki and Y. Laumonier.** 2016. Spatial congruence between carbon and biodiversity in a Bornean forest landscape. _Global Ecology and Conservation_. **6**: 105-120. \[doi:[10.1016/j.gecco.2016.01.005](http://dx.doi.org/10.1016/j.gecco.2016.01.005)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://bioscenemada.net/FileTransfer/Labriere2016-GEC.pdf) /
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](http://bioscenemada.net/FileTransfer/Labriere2016-GEC-SM.docx)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Labriere2016-GEC.pdf) /
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Labriere2016-GEC-SM.docx)
 
 22\. **Kunstler G., D. Falster, D. Coomes, F. Hui, R. Kooyman, D. Laughlin, L. Poorter, M. Vanderwel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. J. Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen, S. Gourlet-Fleury, M. Hanewinkel, B. Hérault, J. Kattge, H. Kurokawa, Y. Onoda, J. Peñuelas, H. Poorter, M. Uriarte, S. Richardson, P. Ruiz-Benito, I-F. Sun, G. Ståhl, N. Swenson, J. Thompson, B. Westerlund, C. Wirth, M. Zavala , H. Zeng, J. Zimmerman, N. Zimmermann, M. Westoby.** 2016. Plant functional traits have globally consistent effects on competition. _Nature_. **529**: 204-207. \[doi:[10.1038/nature16476](http://dx.doi.org/10.1038/nature16476)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2016-Nature.pdf) /
