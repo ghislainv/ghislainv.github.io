@@ -63,7 +63,7 @@ Article featured in:
 [El Mercurio](http://www.emol.com/noticias/Tecnologia/2016/02/12/788109/Estudio-asegura-que-cambio-climatico-amenaza-la-absorcion-de-CO2-por-bosques-tropicales.html),
 [Midi-Libre](/images/media/MidiLibre-16-02-2016.png),
 [Cirad](http://www.cirad.fr/en/news/all-news-items/press-releases/2016/climate-change-alters-the-co2-storage-capacity-of-tropical-forests),
-[Cirad activity report 2015.](http://www.cirad.fr/content/download/11005/128917/version/2/file/RA2015_FR.pdf).
+[Cirad activity report 2015](http://www.cirad.fr/content/download/11005/128917/version/2/file/RA2015_FR.pdf).
 
 23\. **Labrière N., B. Locatelli, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Kharisma,
 V. Gond, I. Basuki and Y. Laumonier.** 2016. Spatial congruence between carbon and biodiversity in a Bornean forest landscape. _Global Ecology and Conservation_. **6**: 105-120. \[doi:[10.1016/j.gecco.2016.01.005](http://dx.doi.org/10.1016/j.gecco.2016.01.005)\].
