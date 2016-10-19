@@ -25,7 +25,9 @@ Researcher profile:
 
 #### 2016
 
-25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. in press. [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
+25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. **11**(10): e0162697. 
+\[doi:[10.1371/journal.pone.0162697](http://dx.doi.org/10.1371/journal.pone.0162697)\].
+[![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
