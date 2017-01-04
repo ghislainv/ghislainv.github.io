@@ -6,7 +6,7 @@ permalink: /cv/
 
 Download CV as pdf file in [French](https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf) and English.
 
-### Professional experiences:
+## Professional experiences:
 
 **September 2015 - Present :** [JRC](https://ec.europa.eu/jrc/en/institutes/ies). _Seconded National Expert_.
 
@@ -56,7 +56,7 @@ Creation of an information meta-system used for the monitoring and evaluation of
 
 Statistical modelling of temperate forests resistance to tempests in the Cemagref investigation center at Nogent-sur-Vernisson (France) using physical and management factors in non-linear mixed effects models.
 
-### Background:
+## Background:
 
 **2003-2004:** [National Museum of Natural History (MNHN)](http://www.mnhn.fr/) - [INA-PG](http://www.agroparistech.fr/) - [Paris VII](http://www.sigu7.jussieu.fr/)
 
