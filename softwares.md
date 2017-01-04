@@ -22,7 +22,7 @@ permalink: /softwares/
 
 #### Link
 
-`hSDM` website: [http://hSDM.sf.net](http://hSDM.sf.net "hSDM website")
+`hSDM` website: [http://hSDM.sf.net](http://hSDM.sf.net "hSDM website").
 
 ## Contribution to `MCMCpack`
 
@@ -40,7 +40,7 @@ Since version 1.1-1 (July 2011), `MCMCpack` includes additional functions for ge
 
 #### Link
 
-Last version of `MCMCpack` is available on the Comprehensive R Archive Network at [http://cran.r-project.org/package=MCMCpack](http://CRAN.R-project.org/package=MCMCpack "MCMCpack at CRAN")
+Last version of `MCMCpack` is available on the Comprehensive R Archive Network at [http://cran.r-project.org/package=MCMCpack](http://CRAN.R-project.org/package=MCMCpack "MCMCpack at CRAN").
 
 ## `phcfM` R package
 
@@ -73,7 +73,7 @@ Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements"
 
 #### Link
 
-`phcfM` website: [http://phcfM.sf.net](http://phcfM.sf.net "phcfM website")
+`phcfM` website: [http://phcfM.sf.net](http://phcfM.sf.net "phcfM website").
 
 ## `twoe` (2e) software:
 
