@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <div id="wordle">
-  <img src="/images/wordle.png" alt="wordle"/>
+  <img src="/images/research/wordle.png" alt="wordle"/>
 </div>
 
 ## Community ecology
