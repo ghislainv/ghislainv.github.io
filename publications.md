@@ -125,7 +125,7 @@ This article featured in the *Scientific American* post ['Climate Change Could W
 
 It featured also in the *Conservation Corridor* post ['Are protected area networks enough to conserve biodiversity?'](http://www.conservationcorridor.org/2014/03/protected-area-networks-enough-conserve-biodiversity/).
 
-14\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand and R. Vaudry.** 2013. Forecasting deforestation and carbon emissions in tropical developing countries facing demographic expansion: a case study in Madagascar*. Ecology and Evolution*. **3**:1702-1716.
+14\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand and R. Vaudry.** 2013. Forecasting deforestation and carbon emissions in tropical developing countries facing demographic expansion: a case study in Madagascar. *Ecology and Evolution*. **3**:1702-1716.
 \[doi:[10.1002/ece3.550](http://dx.doi.org/10.1002/ece3.550)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://onlinelibrary.wiley.com/doi/10.1002/ece3.550/pdf) /
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](http://onlinelibrary.wiley.com/store/10.1002/ece3.550/asset/supinfo/ece3550-sup-0001-AppendixS1-S8.pdf?v=1&s=60392770526cfbe1f23b0aa1cc92f3b0e922e267)
@@ -154,12 +154,9 @@ LiDAR approach for tropical forest carbon mapping. _Oecologia_.
 / Supplementary materials
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012-Oecologia-SM.pdf)
 
-9\. **Asner G. P., Clark J. K., Mascaro J., Vaudry R., Chadwick K. D.,
-<span style="text-decoration: underline;">Vieilledent G.</span>,
-Rasamoelina M., Balaji A., Kennedy-Bowdoin T., Maatoug L., Colgan M. S.
-and Knapp D. E.** 2012. Human and environmental controls over
-aboveground carbon storage in Madagascar. _Carbon Balance and
-Management_. **7**:2. <span class="pseudotab">\[doi:[10.1186/1750-0680-7-2](http://dx.doi.org/10.1186/1750-0680-7-2)\].
+9\. **Asner G. P., Clark J. K., Mascaro J., Vaudry R., Chadwick K. D., <span style="text-decoration: underline;">Vieilledent G.</span>,
+Rasamoelina M., Balaji A., Kennedy-Bowdoin T., Maatoug L., Colgan M. S. and Knapp D. E.** 2012. Human and environmental controls over
+aboveground carbon storage in Madagascar. _Carbon Balance and Management_. **7**:2. <span class="pseudotab">\[doi:[10.1186/1750-0680-7-2](http://dx.doi.org/10.1186/1750-0680-7-2)\].
 </span>[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012-CBM.pdf)
 / Supplementary materials
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012-CBM-SM.pdf)
@@ -190,8 +187,7 @@ light and size effects. *PLoS ONE*. **6**(9): e25330. \[doi:[10.1371/journal.pon
 5\. **Albert C. H., Grassein F., Schurr F. M., <span
 style="text-decoration: underline;">Vieilledent G.</span> and Violle
 C.** 2011. When and how should intraspecific variability be considered
-in trait-based plant ecology? *Perspectives in Plant Ecology, Evolution
-and Systematics*. **13**(3): 217-225. \[doi:[10.1016/j.ppees.2011.04.003](http://dx.doi.org/10.1016/j.ppees.2011.04.003)\].
+in trait-based plant ecology? *Perspectives in Plant Ecology, Evolution and Systematics*. **13**(3): 217-225. \[doi:[10.1016/j.ppees.2011.04.003](http://dx.doi.org/10.1016/j.ppees.2011.04.003)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES.pdf)
 / Supplementary materials
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES-SM.pdf)
@@ -219,8 +215,7 @@ forest ecosystems: a hierarchical Bayesian approach. *Oecologia*.
 2\. **<span style="text-decoration: underline;">Vieilledent G.</span>,
 Courbaud B., Kunstler G. and Dhôte J.-F.** 2010. Mortality of silver Fir
 and Norway Spruce in the Western Alps -- A semi-parametric approach
-combining size-dependent and growth-dependent mortality. _Annals of
-Forest Science_. **67**(3): 305. \[doi:[10.1051/forest/2009112](http://dx.doi.org/10.1051/forest/2009112)\].
+combining size-dependent and growth-dependent mortality. _Annals of Forest Science_. **67**(3): 305. \[doi:[10.1051/forest/2009112](http://dx.doi.org/10.1051/forest/2009112)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2010a-AFS.pdf)
 
 #### 2009
