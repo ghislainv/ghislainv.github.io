@@ -20,9 +20,9 @@ permalink: /softwares/
 
 **Royle, J. A.** 2004\. N-Mixture Models for Estimating Population Size from Spatially Replicated Counts. _Biometrics_. **60**: 108-115\. [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/biblio/Royle2004-Biometrics.pdf)
 
-#### Links
+#### Link
 
-`hSDM` website: [http://hSDM.sf.net](http://hSDM.sf.net "hSDM web site")
+`hSDM` website: [http://hSDM.sf.net](http://hSDM.sf.net "hSDM website")
 
 ## Contribution to `MCMCpack`
 
@@ -32,15 +32,15 @@ permalink: /softwares/
 
 Since version 1.1-1 (July 2011), `MCMCpack` includes additional functions for generalized linear mixed models (glmm): `MCMChregress()` for Gaussian models, `MCMChlogit()` for Bernoulli models (logit link function) and `MCMChpoisson()` for Poisson models (log link function). Author: Ghislain Vieilledent. 
 
-#### Link
-
-Last version of `MCMCpack` is available from the Comprehensive R Archive Network at [http://cran.r-project.org/package=MCMCpack](http://CRAN.R-project.org/package=MCMCpack "MCMCpack at CRAN")
-
 #### Related publications
 
 **Martin A. D., Quinn K. M. and Jong Hee Park** 2011. `MCMCpack`: Markov Chain Monte Carlo in R. _Journal of Statistical Software_. **42**(9): 1-21. [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/biblio/Martin2011-JSS.pdf) 
 
 **Pemstein D., Quinn K. M. and Martin A. D.** 2011\. The `Scythe` Statistical Library: An Open Source C++ Library for Statistical Computation. _Journal of Statistical Software_. **42**(12):1-26. [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/biblio/Pemstein2011-JSS.pdf)
+
+#### Link
+
+Last version of `MCMCpack` is available on the Comprehensive R Archive Network at [http://cran.r-project.org/package=MCMCpack](http://CRAN.R-project.org/package=MCMCpack "MCMCpack at CRAN")
 
 ## `phcfM` R package
 
@@ -71,6 +71,10 @@ A GRASS location (`phcfM_SM`) and two mapsets with geographical data layers (`PE
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://onlinelibrary.wiley.com/doi/10.1002/ece3.550/pdf) /
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](http://onlinelibrary.wiley.com/store/10.1002/ece3.550/asset/supinfo/ece3550-sup-0001-AppendixS1-S8.pdf?v=1&s=60392770526cfbe1f23b0aa1cc92f3b0e922e267)
 
+#### Link
+
+`phcfM` website: [http://phcfM.sf.net](http://phcfM.sf.net "phcfM website")
+
 ## `twoe` (2e) software:
 
 ![twoe](/images/softwares/twoe.png)
@@ -86,4 +90,4 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### Link
 
-Last versions of the R package and of the Capsis module are available on the `twoe` website: [http://twoe.sf.net](http://twoe.sf.net "twoe").
+Last versions of the R package and of the Capsis module are available on the `twoe` website: [http://twoe.sf.net](http://twoe.sf.net "twoe website").
