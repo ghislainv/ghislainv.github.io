@@ -12,11 +12,11 @@ Download CV as pdf file in [French](https://github.com/ghislainv/cv/raw/master/c
 
 Detached to the Joint Research Center of the European Commission (Ispra, Italy). Modelling and forecasting deforestation in the tropics.
 
-**December 2010 - September 2012 :** [Cirad](http://ur-bsef.cirad.fr). _Scientific researcher_.
+**December 2010 - September 2012 :** [Cirad](http://ur-forets-societes.cirad.fr). _Scientific researcher_.
 
 Expatriation in Madagascar.
 
-**March 2009 - Present :** [Cirad](http://ur-bsef.cirad.fr). _Scientific researcher_.
+**March 2009 - Present :** [Cirad](http://ur-forets-societes.cirad.fr). _Scientific researcher_.
 
 Study of tropical ecosystem functioning (mainly).
 
