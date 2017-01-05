@@ -19,7 +19,7 @@ Researcher profile:
 
 #### 2017
 
-27. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
+27\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
 \[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf)
 
