@@ -13,11 +13,15 @@ Researcher profile:
 
 #### In preparation
 
-28\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+29\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-27\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
+28\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
 
 #### 2017
+
+27. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
+\[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf)
 
 26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
 \[doi:[10.1016/j.jag.2016.09.002](http://dx.doi.org/10.1016/j.jag.2016.09.002)\].
