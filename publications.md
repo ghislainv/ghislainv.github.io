@@ -13,9 +13,13 @@ Researcher profile:
 
 #### In preparation
 
-29\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+31\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2017. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-28\. **Authier M., G. Dorémus Ghislain, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2016. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review. 
+30\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. 2017. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
+
+29\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. in review.
+
+28\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. in review.
 
 #### 2017
 
