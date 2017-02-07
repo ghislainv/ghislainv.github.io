@@ -25,7 +25,8 @@ Researcher profile:
 
 27\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
 \[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf) /
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Dezecache2017-GCB-SM.pdf)
 
 26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
 \[doi:[10.1016/j.jag.2016.09.002](http://dx.doi.org/10.1016/j.jag.2016.09.002)\].
