@@ -274,5 +274,5 @@ individual-tree modelling in Papua New Guinea. in _Native forest individual-tree
 
 **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.**. 2017. How does war affect gorillas? in _Science Journal for Kids_, L. Hall (Associate Editor). [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://www.sciencejournalforkids.org/uploads/5/4/2/8/54289603/gorilla_article_key.pdf)
 
-**<span style="text-decoration: underline;">G. Vieilledent</span>**. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in _The Conversation_, J. Gallé (Associate Editor). [link](https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281)
+**<span style="text-decoration: underline;">Vieilledent G.</span>**. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in _The Conversation_, J. Gallé (Associate Editor). [link](https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281)
 
