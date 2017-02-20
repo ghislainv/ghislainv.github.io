@@ -19,4 +19,4 @@ ghislain.vieilledent(at)cirad.fr
 
 **European Commission**, [Joint Research Center](https://ec.europa.eu/jrc), Bio-economy Unit (JRC.D.1), I-21027 Ispra VA, ITALY
 
-ghislain.vieilledent(at)jrc.ec.europa.eu
+ghislain.vieilledent(at)ec.europa.eu
