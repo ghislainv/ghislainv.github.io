@@ -17,9 +17,10 @@ Researcher profile:
 
 30\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. 2017. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-29\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. in review.
-
 #### 2017
+
+29\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. in press.
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/ElHajj2017-RemoteSensing.pdf)
 
 28\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. in press.
 
