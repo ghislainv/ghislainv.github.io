@@ -19,17 +19,18 @@ Researcher profile:
 
 #### 2017
 
-29\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. in press.
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/ElHajj2017-RemoteSensing.pdf)
-
-28\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
+29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
 
-27\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
+28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
 \[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Dezecache2017-GCB-SM.pdf)
+
+27\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. **9**(3).
+\[doi:[10.3390/rs9030213](http://dx.doi.org/10.3390/rs9030213)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/ElHajj2017-RemoteSensing.pdf)
 
 26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
 \[doi:[10.1016/j.jag.2016.09.002](http://dx.doi.org/10.1016/j.jag.2016.09.002)\].
