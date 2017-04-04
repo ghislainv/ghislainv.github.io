@@ -13,26 +13,34 @@ Researcher profile:
 
 #### In preparation
 
-31\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, <span style="text-decoration: underline;">G. Vieilledent</span>**. 2017. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+35\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. Laurance, S. Peedell, and F. Achard**. The fate of tropical forests associated to the demographic explosion in Africa. in prep.
 
-30\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. 2017. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
+34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
+
+33\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with national historical forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. in prep.
+
+32\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, and F. Achard**. Unceasing deforestation in western Madagascar is due to uncontrolled global trade and bad governance, not poverty. in prep. 
+
+31\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+
+30\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
 #### 2017
 
-29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
+29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
 
-28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
+28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
 \[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Dezecache2017-GCB-SM.pdf)
 
-27\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. **9**(3).
+27\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, and D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. **9**(3).
 \[doi:[10.3390/rs9030213](http://dx.doi.org/10.3390/rs9030213)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/ElHajj2017-RemoteSensing.pdf)
 
-26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
+26\. **Grinand C., G. Le Maire, <span style="text-decoration: underline;">G. Vieilledent</span>, H. Razakamanarivo, T. Razafimbelo, and M. Bernoux.** 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. _International Journal of Applied Earth Observation and Geoinformation_. **54**: 1-14.
 \[doi:[10.1016/j.jag.2016.09.002](http://dx.doi.org/10.1016/j.jag.2016.09.002)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2017-JAG.pdf)
 
