@@ -79,6 +79,8 @@ Dryad repository including the national forest carbon map at 250m for Madagascar
 
 This article was the Editor's Choice paper for the issue **104**(3) of the _Journal of Ecology_: [Editor's Choice 104:3](https://jecologyblog.wordpress.com/2016/05/06/editors-choice-1043/).
 
+This article has been selected for a _Journal of Ecology_ virtual issue on "Plants in a changing world: global change and plant ecology". Published 24 April 2017. [Browse Virtual Issue](http://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/(ISSN)1365-2745.globalchangevirtualissue)
+
 Article featured in: 
 [The Conversation](https://t.co/pMXLUUrV0I),
 [Le Figaro](/images/media/Figaro-16-02-2016.png),
