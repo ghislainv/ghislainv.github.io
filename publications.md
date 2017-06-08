@@ -13,17 +13,21 @@ Researcher profile:
 
 #### In preparation
 
-35\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. Laurance, S. Peedell, and F. Achard**. The fate of tropical forests associated to the demographic explosion in Africa. in prep.
+xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. Laurance, S. Peedell, and F. Achard**. The fate of tropical forests associated to the demographic explosion in Africa. in prep.
 
-34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
+xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
 
-33\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with national historical forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. in prep.
+xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, and F. Achard**. Unceasing deforestation in western Madagascar is due to uncontrolled global trade and bad governance, not poverty. in prep. 
 
-32\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, and F. Achard**. Unceasing deforestation in western Madagascar is due to uncontrolled global trade and bad governance, not poverty. in prep. 
+xx\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
 
-31\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-30\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
+#### Preprints
+
+p1\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
+\[doi:[10.1101/147827](https://doi.org/10.1101/147827)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2017a-bioRxiv.pdf)
 
 #### 2017
 
