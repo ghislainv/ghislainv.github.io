@@ -25,7 +25,7 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 
 #### Preprints
 
-p1\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
+a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
 \[doi:[10.1101/147827](https://doi.org/10.1101/147827)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2017a-bioRxiv.pdf)
 
