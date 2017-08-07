@@ -143,7 +143,7 @@ KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for
 
 15\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Cornu, A. Cuní Sanchez, J.-M. Leong Pock-Tsy and P. Danthu.** 2013. Vulnerability of baobab species to climate change and effectiveness of the protected area network in Madagascar: towards new conservation priorities. *Biological Conservation*. **166**:11-22
 \[doi:[10.1016/j.biocon.2013.06.007](http://dx.doi.org/10.1016/j.biocon.2013.06.007)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013-BiologicalConservation.pdf) /
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013a-BiologicalConservation.pdf) /
 R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R) <a href="https://ghislainv.github.io/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R"><img src="/images/logos/logo-GRASS.png" height="16" alt="GRASS GIS" title="GRASS GIS"></a> /
 KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)
 
