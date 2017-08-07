@@ -35,7 +35,7 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinan
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
 
-28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. in press.
+28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. **23**(9): 3484-3500.
 \[doi:[10.1111/gcb.13611](http://dx.doi.org/10.1111/gcb.13611)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Dezecache2017-GCB-SM.pdf)
