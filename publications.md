@@ -178,9 +178,9 @@ style="text-decoration: underline;">Vieilledent G.</span>, Vaudry R.,
 Rasamoelina M., Hall J. and van Breugel M.** 2012. A universal airborne
 LiDAR approach for tropical forest carbon mapping. _Oecologia_.
 **168**(4): 1147-1160. \[doi:[10.1007/s00442-011-2165-z](http://dx.doi.org/10.1007/s00442-011-2165-z)\].
-[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012-Oecologia.pdf)
+[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012a-Oecologia.pdf)
 / Supplementary materials
-[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012-Oecologia-SM.pdf)
+[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Asner2012a-Oecologia-SM.pdf)
 
 9\. **Asner G. P., Clark J. K., Mascaro J., Vaudry R., Chadwick K. D., <span style="text-decoration: underline;">Vieilledent G.</span>,
 Rasamoelina M., Balaji A., Kennedy-Bowdoin T., Maatoug L., Colgan M. S. and Knapp D. E.** 2012. Human and environmental controls over
