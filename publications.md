@@ -23,7 +23,7 @@ xx\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decorat
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-xx\. **Strona G, S. Stringer,<span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
+xx\. **Strona G, S. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
 
 #### Preprints
 
