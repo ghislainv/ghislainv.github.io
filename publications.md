@@ -23,6 +23,8 @@ xx\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decorat
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
+xx\. **Strona G, S. Stringer,<span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
+
 #### Preprints
 
 a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
