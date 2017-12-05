@@ -263,6 +263,8 @@ coexistence. PhD Thesis. Cemagref-AgroParisTech. 259 p. \[oai:[pastel.archives-o
 
 #### Books or book chapters
 
+iii. **Joint Research Centre (European Commission).** 2017. Science for the AU-EU partnership. Building knowledge for sustainable development. ISBN 13: 978-92-79-69509-4. \[doi: [10.2760/73805](http://doi.org/10.2760/73805)\]. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC107753/africamainreportonline.pdf)
+
 ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: underline;">Vieilledent G.</span>, Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.** 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. \[doi:
 [10.19121/2015.Report.DMX3094100000](http://dx.doi.org/10.19121/2015.Report.DMX3094100000)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
