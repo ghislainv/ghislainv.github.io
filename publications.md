@@ -27,6 +27,10 @@ xx\. **Strona G, S. Stringer, <span style="text-decoration: underline;">G. Vieil
 
 #### Preprints
 
+b\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute tree species basic wood density from a global wood technology database. _bioRxiv_. 274068.
+\[doi:[10.1101/274068](https://doi.org/10.1101/274068)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-bioRxiv.pdf)
+
 a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
 \[doi:[10.1101/147827](https://doi.org/10.1101/147827)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2017a-bioRxiv.pdf)
@@ -96,7 +100,7 @@ Article featured in:
 [El Mercurio](http://www.emol.com/noticias/Tecnologia/2016/02/12/788109/Estudio-asegura-que-cambio-climatico-amenaza-la-absorcion-de-CO2-por-bosques-tropicales.html),
 [Midi-Libre](/images/media/MidiLibre-16-02-2016.png),
 [Cirad](http://www.cirad.fr/en/news/all-news-items/press-releases/2016/climate-change-alters-the-co2-storage-capacity-of-tropical-forests),
-[Cirad activity report 2015](http://www.cirad.fr/content/download/11005/128917/version/2/file/RA2015_FR.pdf).
+[Cirad activity report 2015](https://www.cirad.fr/content/download/11005/128917/version/3/file/RA2015_FR.pdf).
 
 23\. **Labrière N., B. Locatelli, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Kharisma,
 V. Gond, I. Basuki and Y. Laumonier.** 2016. Spatial congruence between carbon and biodiversity in a Bornean forest landscape. _Global Ecology and Conservation_. **6**: 105-120. \[doi:[10.1016/j.gecco.2016.01.005](http://dx.doi.org/10.1016/j.gecco.2016.01.005)\].
