@@ -17,13 +17,13 @@ xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. La
 
 xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
 
-xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, and F. Achard**. Unceasing deforestation in western Madagascar is due to uncontrolled global trade and bad governance, not poverty. in prep. 
-
-xx\. **Ho Tong Minh D., E. Ndikumana, N. Baghdadi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Biomass retrieval in the Madagascar tropical forest using ALOS PALSAR. _Remote Sensing of Environment_. in review. 
+xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, M. Nourtier, and F. Achard**. It's not only poverty: uncontrolled global trade and bad governance are responsible for rampant deforestation in Western Madagascar. in prep. 
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-xx\. **Strona G, S. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
+xx\. **Strona G, S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
+
+xx\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. in review.
 
 #### Preprints
 
