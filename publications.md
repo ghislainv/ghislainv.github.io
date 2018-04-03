@@ -50,7 +50,7 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinan
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Dezecache2017-GCB-SM.pdf)
 
-27\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, and D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. **9**(3).
+27\. **El Hajj M., N. Baghdadi, I. Fayad, <span style="text-decoration: underline;">G. Vieilledent</span>, J.-S. Bailly, and D. Ho Tong Minh**. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. _Remote Sensing_. **9**(3): 213.
 \[doi:[10.3390/rs9030213](http://dx.doi.org/10.3390/rs9030213)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/ElHajj2017-RemoteSensing.pdf)
 
