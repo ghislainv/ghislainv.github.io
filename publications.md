@@ -23,8 +23,6 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 
 xx\. **Strona G, S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
 
-xx\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. in review.
-
 #### Preprints
 
 b\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute tree species basic wood density from a global wood technology database. _bioRxiv_. 274068.
@@ -34,6 +32,12 @@ b\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard**. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _bioRxiv_. 147827.
 \[doi:[10.1101/147827](https://doi.org/10.1101/147827)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2017a-bioRxiv.pdf)
+
+#### 2018
+
+30\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. _Remote Sensing_. **10**(4): 544.
+\[doi:[10.3390/rs10040544](https://doi.org/10.3390/rs10040544)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Langner2018-RemoteSensing.pdf)
 
 #### 2017
 
