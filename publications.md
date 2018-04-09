@@ -32,8 +32,7 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 #### 2018
 
 31\.**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. in press.
-\[preprint doi:[10.1101/147827](https://doi.org/10.1101/147827)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2017-bioRxiv.pdf)
+[preprint](https://doi.org/10.1101/147827).
 
 30\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** 2018. Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. _Remote Sensing_. **10**(4): 544.
 \[doi:[10.3390/rs10040544](https://doi.org/10.3390/rs10040544)\].
