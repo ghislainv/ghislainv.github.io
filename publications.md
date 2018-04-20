@@ -31,7 +31,7 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 
 #### 2018
 
-31\.**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. in press.
+31\.**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. **222**: 189-197.
 \[doi:[10.1016/j.biocon.2018.04.008](https://doi.org/10.1016/j.biocon.2018.04.008)\].
 [bioRxiv: 147827](https://doi.org/10.1101/147827).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf) /
@@ -153,7 +153,7 @@ KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for
 16\. **Henry M., A. Bombelli, C. Trotta, A. Alessandrini, L. Birigazzi, G. Sola, <span style="text-decoration: underline;">G. Vieilledent</span>, P. Santenoise, F. Longuetaud, R. Valentini, N. Picard and L. Saint-André.** 2013. GlobAllomeTree: International platform for tree allometric equations to support volume, biomass and carbon assessment. *iForest - Biogeosciences and Forestry.* **6**(1): 326. \[doi:[10.3832/ifor0901-006](http://dx.doi.org/10.3832/ifor0901-006)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Henry2013-iForest.pdf)
 
-15\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Cornu, A. Cuní Sanchez, J.-M. Leong Pock-Tsy and P. Danthu.** 2013. Vulnerability of baobab species to climate change and effectiveness of the protected area network in Madagascar: towards new conservation priorities. *Biological Conservation*. **166**:11-22
+15\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Cornu, A. Cuní Sanchez, J.-M. Leong Pock-Tsy and P. Danthu.** 2013. Vulnerability of baobab species to climate change and effectiveness of the protected area network in Madagascar: towards new conservation priorities. _Biological Conservation_. **166**:11-22
 \[doi:[10.1016/j.biocon.2013.06.007](http://dx.doi.org/10.1016/j.biocon.2013.06.007)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013a-BiologicalConservation.pdf) /
 R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R) <a href="https://ghislainv.github.io/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R"><img src="/images/logos/logo-GRASS.png" height="16" alt="GRASS GIS" title="GRASS GIS"></a> /
