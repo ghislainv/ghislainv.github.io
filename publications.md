@@ -37,6 +37,9 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
 
+Study featured in:
+[Cirad](https://www.cirad.fr/actualites/toutes-les-actualites/communiques-de-presse/2018/deforestation-a-madagascar)
+
 30\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** 2018. Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. _Remote Sensing_. **10**(4): 544.
 \[doi:[10.3390/rs10040544](https://doi.org/10.3390/rs10040544)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Langner2018-RemoteSensing.pdf)
