@@ -31,9 +31,9 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 
 #### 2018
 
-32.\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">Vieilledent G.</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
+32\.**Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">Vieilledent G.</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/HoTongMinh2018-RSE.pdf) /
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/HoTongMinh2018-RSE.pdf)
 
 31\.**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. **222**: 189-197.
 \[doi:[10.1016/j.biocon.2018.04.008](https://doi.org/10.1016/j.biocon.2018.04.008)\].
