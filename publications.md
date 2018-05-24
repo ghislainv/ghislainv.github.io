@@ -31,7 +31,7 @@ a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fis
 
 #### 2018
 
-32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">Vieilledent G.</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
+32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/HoTongMinh2018-RSE.pdf)
 
