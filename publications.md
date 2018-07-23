@@ -21,15 +21,13 @@ xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grina
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-xx\. **Strona G, S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in review.
+#### 2018
 
-#### Preprints
-
-a\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute tree species basic wood density from a global wood technology database. _bioRxiv_. 274068.
-\[doi:[10.1101/274068](https://doi.org/10.1101/274068)\].
+34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute tree species basic wood density from a global wood technology database. _American Journal of Botany_.
+[bioRxiv: 274068](https://doi.org/10.1101/274068).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-bioRxiv.pdf)
 
-#### 2018
+33\. **Strona G, S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. Wich**. Small room for compromise between oil palm cultivation and primate conservation in Africa. in press.
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
