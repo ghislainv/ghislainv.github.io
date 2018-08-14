@@ -29,7 +29,7 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 
 33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences PNAS_. 
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2008-PNAS.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
