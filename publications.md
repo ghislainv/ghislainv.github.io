@@ -27,7 +27,7 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 [bioRxiv: 274068](https://doi.org/10.1101/274068).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-bioRxiv.pdf)
 
-33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences PNAS_. 
+33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences PNAS_. **115**(35): 8811-8816.
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 /
@@ -40,7 +40,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 31\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. **222**: 189-197.
 \[doi:[10.1016/j.biocon.2018.04.008](https://doi.org/10.1016/j.biocon.2018.04.008)\].
 [bioRxiv: 147827](https://doi.org/10.1101/147827).
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf) /
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf)
+/
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
 
 Study featured in:
