@@ -34,7 +34,7 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Strona2018-PNAS-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" class="altmetric-embed"></div>
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_. **213**: 206-214.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
@@ -46,7 +46,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
 
 Study featured in:
 [Cirad](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar)
@@ -80,7 +80,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 \[doi:[10.1371/journal.pone.0162697](https://doi.org/10.1371/journal.pone.0162697)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2016-PLoSOne.pdf)
 [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" class="altmetric-embed"></div>
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
@@ -107,7 +107,7 @@ Study featured in:
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2016-JoE.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2016-JoE-SM.pdf) /
 Dryad repository including the national forest carbon map at 250m for Madagascar <a href="https://doi.org/10.5061/dryad.9ph68"><img src="/images/logos/logo-Dryad.png" height="16" alt="Dryad" title="Dryad"></a>
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" class="altmetric-embed"></div>
 
 This article was the Editor's Choice paper for the issue **104**(3) of the _Journal of Ecology_: [Editor's Choice 104:3](https://jecologyblog.wordpress.com/2016/05/06/editors-choice-1043/).
 
@@ -132,7 +132,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 22\. **Kunstler G., D. Falster, D. Coomes, F. Hui, R. Kooyman, D. Laughlin, L. Poorter, M. Vanderwel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. J. Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen, S. Gourlet-Fleury, M. Hanewinkel, B. Hérault, J. Kattge, H. Kurokawa, Y. Onoda, J. Peñuelas, H. Poorter, M. Uriarte, S. Richardson, P. Ruiz-Benito, I-F. Sun, G. Ståhl, N. Swenson, J. Thompson, B. Westerlund, C. Wirth, M. Zavala , H. Zeng, J. Zimmerman, N. Zimmermann, M. Westoby.** 2016. Plant functional traits have globally consistent effects on competition. _Nature_. **529**: 204-207. \[doi:[10.1038/nature16476](https://doi.org/10.1038/nature16476)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2016-Nature.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Kunstler2016-Nature-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" class="altmetric-embed"></div>
 
 #### 2015
 
@@ -176,6 +176,7 @@ KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013a-BiologicalConservation.pdf) /
 R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R) <a href="https://ghislainv.github.io/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R"><img src="/images/logos/logo-GRASS.png" height="16" alt="GRASS GIS" title="GRASS GIS"></a> /
 KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2013.06.007" class="altmetric-embed"></div>
 
 Results of the study were used to update the IUCN conservation status of _Adansonia grandidieri_ [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/30388/0).
 
