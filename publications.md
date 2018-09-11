@@ -33,7 +33,8 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 /
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Strona2018-PNAS-SM.pdf) <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Strona2018-PNAS-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_. **213**: 206-214.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
@@ -44,7 +45,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [bioRxiv: 147827](https://doi.org/10.1101/147827).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf)
 /
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf) <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Study featured in:
 [Cirad](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar)
@@ -77,7 +79,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. **11**(10): e0162697. 
 \[doi:[10.1371/journal.pone.0162697](https://doi.org/10.1371/journal.pone.0162697)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2016-PLoSOne.pdf)
-[![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas) <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" data-hide-no-mentions="true" class="altmetric-embed"></div>
+[![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
 
@@ -103,7 +106,8 @@ Study featured in:
 \[doi:[10.1111/1365-2745.12548](https://doi.org/10.1111/1365-2745.12548)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2016-JoE.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2016-JoE-SM.pdf) /
-Dryad repository including the national forest carbon map at 250m for Madagascar <a href="https://doi.org/10.5061/dryad.9ph68"><img src="/images/logos/logo-Dryad.png" height="16" alt="Dryad" title="Dryad"></a> <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Dryad repository including the national forest carbon map at 250m for Madagascar <a href="https://doi.org/10.5061/dryad.9ph68"><img src="/images/logos/logo-Dryad.png" height="16" alt="Dryad" title="Dryad"></a>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 This article was the Editor's Choice paper for the issue **104**(3) of the _Journal of Ecology_: [Editor's Choice 104:3](https://jecologyblog.wordpress.com/2016/05/06/editors-choice-1043/).
 
@@ -127,7 +131,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 22\. **Kunstler G., D. Falster, D. Coomes, F. Hui, R. Kooyman, D. Laughlin, L. Poorter, M. Vanderwel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. J. Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen, S. Gourlet-Fleury, M. Hanewinkel, B. Hérault, J. Kattge, H. Kurokawa, Y. Onoda, J. Peñuelas, H. Poorter, M. Uriarte, S. Richardson, P. Ruiz-Benito, I-F. Sun, G. Ståhl, N. Swenson, J. Thompson, B. Westerlund, C. Wirth, M. Zavala , H. Zeng, J. Zimmerman, N. Zimmermann, M. Westoby.** 2016. Plant functional traits have globally consistent effects on competition. _Nature_. **529**: 204-207. \[doi:[10.1038/nature16476](https://doi.org/10.1038/nature16476)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2016-Nature.pdf) /
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Kunstler2016-Nature-SM.pdf) <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Kunstler2016-Nature-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 #### 2015
 
@@ -147,7 +152,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 \[doi:[10.1111/gcb.12629](https://doi.org/10.1111/gcb.12629)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Chave2014-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](/publications/Chave2014-GCB-SM.pdf) /
-Pantropical allometry <a href="http://chave.ups-tlse.fr/pantropical_allometry.htm"><img src="/images/logos/logo-internet.png" height="16" alt="internet" title="internet"></a> <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Pantropical allometry <a href="http://chave.ups-tlse.fr/pantropical_allometry.htm"><img src="/images/logos/logo-internet.png" height="16" alt="internet" title="internet"></a>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 18\. **Laurans M., B. Hérault, <span style="text-decoration: underline;">G. Vieilledent</span> and G. Vincent.** 2014. Vertical stratification reduces competition for light in dense tropical forests. *Forest Ecology and Management*. **329**: 79-88.
 \[doi:[10.1016/j.foreco.2014.05.059](https://doi.org/10.1016/j.foreco.2014.05.059)\].
