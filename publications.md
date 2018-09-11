@@ -11,6 +11,8 @@ Researcher profile:
 [ResearchGate](https://www.researchgate.net/profile/Ghislain_Vieilledent),
 [Agritrop](https://agritrop.cirad.fr/view/auteurcirad/556.date.html)
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 #### In preparation
 
 xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. Laurance, S. Peedell, and F. Achard**. The fate of tropical forests associated to the demographic explosion in Africa. in prep.
@@ -32,6 +34,7 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Strona2018-PNAS-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_. **213**: 206-214.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
