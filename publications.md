@@ -60,6 +60,7 @@ Study featured in:
 29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1088/1748-9326/aa6082" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. **23**(9): 3484-3500.
 \[doi:[10.1111/gcb.13611](https://doi.org/10.1111/gcb.13611)\].
