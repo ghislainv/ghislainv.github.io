@@ -8,11 +8,11 @@ Download CV as pdf file in [French](https://github.com/ghislainv/cv/raw/master/c
 
 ## Professional experiences:
 
-**September 2015 - Present :** [JRC](https://ec.europa.eu/jrc/en/institutes/ies). _Seconded National Expert_.
+**September 2015 - September 2018 :** [JRC](https://ec.europa.eu/jrc/en/institutes/ies). _Seconded National Expert_.
 
 Detached to the Joint Research Center of the European Commission (Ispra, Italy). Modelling and forecasting deforestation in the tropics.
 
-**December 2010 - September 2012 :** [Cirad](http://ur-forets-societes.cirad.fr). _Scientific researcher_.
+**December 2009 - September 2012 :** [Cirad](http://ur-forets-societes.cirad.fr). _Scientific researcher_.
 
 Expatriation in Madagascar.
 
