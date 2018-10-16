@@ -25,9 +25,14 @@ xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-d
 
 #### 2018
 
-34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute tree species basic wood density from a global wood technology database. _American Journal of Botany_.
+34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute basic wood density of tree species using a global wood technology database. _American Journal of Botany_. **105**(10): 1-9.
+\[doi:[10.1002/ajb2.1175](https://doi.org/10.1002/ajb2.1175)\].
 [bioRxiv: 274068](https://doi.org/10.1101/274068).
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-bioRxiv.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018a-AJB.pdf)
+/
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018a-AJB-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1002/ajb2.1175" class="altmetric-embed"></div>
+
 
 33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences PNAS_. **115**(35): 8811-8816.
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
