@@ -9,9 +9,8 @@ permalink: /
 
 **Institute**:
 
-[![logo-Cirad](/images/logos/logo-Cirad.png "Cirad")](https://www.cirad.fr/) 
-
-[![logo-AMAP](/images/logos/logo-AMAP.png "AMAP")](http://amap-cirad.fr/) 
+[![logo-Cirad](/images/logos/logo-Cirad.png "Cirad")](https://www.cirad.fr/)
+[![logo-AMAP](/images/logos/logo-AMAP.png "AMAP")](http://amap-cirad.fr/)
 
 **Cirad**, [UMR AMAP](http://amap.cirad.fr/), F-34398 Montpellier, FRANCE
 
