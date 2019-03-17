@@ -51,6 +51,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
+/
+Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation-update-2017.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
 
 Study featured in:
