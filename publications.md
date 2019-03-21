@@ -57,9 +57,10 @@ Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.p
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
 
 Study featured in:
-[Cirad news 1](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar),
-[Cirad news 2](https://www.cirad.fr/actualites/toutes-les-actualites/articles/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite),
-[Presidency of Madagascar](/images/media/Foret_Andry_Rajoelina.pdf)
+[Cirad press release](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar),
+[Cirad news](https://www.cirad.fr/actualites/toutes-les-actualites/articles/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite),
+[Presidency of Madagascar](/images/media/Foret_Andry_Rajoelina.pdf),
+[UPR Forêts et Sociétés news](https://ur-forets-societes.cirad.fr/actualites/le-president-malgache-cite-une-publication-du-cirad-pour-le-lancement-d-un-plan-de-conservation-et-de-restauration-des-forets)
 
 30\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** 2018. Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. _Remote Sensing_. **10**(4): 544.
 \[doi:[10.3390/rs10040544](https://doi.org/10.3390/rs10040544)\].
