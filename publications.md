@@ -8,6 +8,7 @@ Researcher profile:
 [GoogleScholar](http://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr),
 [Web of Science](http://www.researcherid.com/rid/D-8323-2011),
 [ORCID](http://orcid.org/0000-0002-1685-4997),
+[Publons](https://publons.com/researcher/1336046/ghislain-vieilledent/),
 [ResearchGate](https://www.researchgate.net/profile/Ghislain_Vieilledent),
 [Agritrop](https://agritrop.cirad.fr/view/auteurcirad/556.date.html)
 
