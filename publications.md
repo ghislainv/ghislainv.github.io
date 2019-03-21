@@ -58,7 +58,7 @@ Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.p
 Study featured in:
 [Cirad news 1](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar),
 [Cirad news 2](https://www.cirad.fr/actualites/toutes-les-actualites/articles/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite),
-[Presidency of Madagascar](/images/media/Forets_Andry_Rajoelina.pdf)
+[Presidency of Madagascar](/images/media/Foret_Andry_Rajoelina.pdf)
 
 30\. **Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, <span style="text-decoration: underline;">G. Vieilledent</span>, A. Verhegghen, J. Gallego, H.-J. Stibig.** 2018. Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. _Remote Sensing_. **10**(4): 544.
 \[doi:[10.3390/rs10040544](https://doi.org/10.3390/rs10040544)\].
