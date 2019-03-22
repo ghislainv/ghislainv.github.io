@@ -20,7 +20,7 @@ xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. La
 
 xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
 
-xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, M. Nourtier, and F. Achard**. It's not only poverty: uncontrolled global trade and bad governance are responsible for rampant deforestation in Western Madagascar. in prep. 
+xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, M. Pedrono, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, M. Nourtier, and F. Achard**. It's not only poverty: uncontrolled global trade and bad governance are responsible for rampant deforestation in Western Madagascar. in prep.
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
@@ -68,7 +68,7 @@ Study featured in:
 
 #### 2017
 
-29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013. 
+29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013.
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1088/1748-9326/aa6082" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -88,7 +88,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### 2016
 
-25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. **11**(10): e0162697. 
+25\. **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.** 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (_Gorilla beringei graueri_) population justifies critically endangered status. _PLoS ONE_. **11**(10): e0162697.
 \[doi:[10.1371/journal.pone.0162697](https://doi.org/10.1371/journal.pone.0162697)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2016-PLoSOne.pdf)
 [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
@@ -125,7 +125,7 @@ This article was the Editor's Choice paper for the issue **104**(3) of the _Jour
 
 This article has been selected for a _Journal of Ecology_ virtual issue on "Plants in a changing world: global change and plant ecology". Published 24 April 2017. [Browse Virtual Issue](http://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/(ISSN)1365-2745.globalchangevirtualissue).
 
-Article featured in: 
+Article featured in:
 [The Conversation](https://t.co/pMXLUUrV0I),
 [Le Figaro](/images/media/Figaro-16-02-2016.png),
 [Radio Classique](http://www.radioclassique.fr/player/progaction/initPlayer/podcast/3-minutes-pour-la-planete-2016-02-16-06-48-50.html),
@@ -335,8 +335,12 @@ individual-tree modelling in Papua New Guinea. in _Native forest individual-tree
 
 #### Others
 
-**Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.**. 2017. How does war affect gorillas? in _Science Journal for Kids_, L. Hall (Associate Editor).
+**Strona G., Z. Szantoi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. 2018. Oil palms and primates can hardly co-exist in Africa. _The Science Breaker_. \[doi: [10.25250/thescbr.brk167](https://doi.org/10.25250/thescbr.brk167)\].
+[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-TheScienceBreaker.pdf)
+[link](https://www.thesciencebreaker.com/breaks/earth-space/oil-palms-and-primates-can-hardly-co-exist-in-africa)
+
+**Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall**. 2017. How does war affect gorillas? in _Science Journal for Kids_, L. Hall (Associate Editor).
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2017-ScienceJournalForKids.pdf)
 
-**<span style="text-decoration: underline;">Vieilledent G.</span>**. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in _The Conversation_, J. Gallé (Associate Editor). [link](https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281)
-
+**<span style="text-decoration: underline;">Vieilledent G.</span>**. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in _The Conversation_, J. Gallé (Associate Editor).
+[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2016-TheConversation.pdf) [link](https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281)
