@@ -93,7 +93,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" class="altmetric-embed"></div>
 
-Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
+Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](/publications/Plumptre2016-IUCN-RedList.pdf).
 
 Study featured in:
 [RFI](http://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation),
@@ -189,7 +189,7 @@ R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/V
 KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2013.06.007" class="altmetric-embed"></div>
 
-Results of the study were used to update the IUCN conservation status of _Adansonia grandidieri_ [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/30388/0).
+Results of the study were used to update the IUCN conservation status of _Adansonia grandidieri_ [![redlist](/images/logos/logo-iucn.png "redlist")](/publications/Ravaomanalina2016-IUCN-RedList.pdf).
 
 This article featured in the *Scientific American* post ['Climate Change Could Wipe Out Amazing Baobab Trees in Madagascar'](http://blogs.scientificamerican.com/extinction-countdown/2013/07/19/climate-change-baobab-madagascar/).
 
@@ -310,7 +310,7 @@ iii. **Joint Research Centre (European Commission).** 2017. Science for the AU-E
 ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: underline;">Vieilledent G.</span>, Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.** 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. \[doi:
 [10.19121/2015.Report.DMX3094100000](https://doi.org/10.19121/2015.Report.DMX3094100000)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
-Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](http://www.iucnredlist.org/details/full/39995/0).
+Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](/publications/Plumptre2016-IUCN-RedList.pdf).
 
 Study featured in:
 [RFI](http://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation),
