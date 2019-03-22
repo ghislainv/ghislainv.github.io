@@ -339,7 +339,10 @@ individual-tree modelling in Papua New Guinea. in _Native forest individual-tree
 [link](https://www.thesciencebreaker.com/breaks/earth-space/oil-palms-and-primates-can-hardly-co-exist-in-africa)
 
 **Plumptre A. J., S. Nixon, D. Kujirakwinja, <span style="text-decoration: underline;">G. Vieilledent</span>, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall**. 2017. How does war affect gorillas? in _Science Journal for Kids_, L. Hall (Associate Editor).
-[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2017-ScienceJournalForKids.pdf)
+[English](/publications/Plumptre2017-ScienceJournalForKids.pdf)
+[French](/publications/Plumptre2017-ScienceJournalForKids-French.pdf)
+[Spanish](/publications/Plumptre2017-ScienceJournalForKids-Spanish.pdf)
+[link](https://www.sciencejournalforkids.org/search-articles/how-does-war-affect-gorillas)
 
 **<span style="text-decoration: underline;">Vieilledent G.</span>**. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in _The Conversation_, J. Gallé (Associate Editor).
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2016-TheConversation.pdf) [link](https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281)
