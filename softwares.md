@@ -22,7 +22,7 @@ permalink: /softwares/
 
 #### Link
 
-`hSDM` website: [http://hSDM.sf.net](http://hSDM.sf.net "hSDM website").
+`hSDM` website: <https://ecology.ghislainv.fr/hSDM>.
 
 ## Contribution to `MCMCpack`
 
@@ -90,4 +90,4 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### Link
 
-Last versions of the R package and of the Capsis module are available on the `twoe` website: [http://twoe.sf.net](http://twoe.sf.net "twoe website").
+`twoe` website: <https://ecology.ghislainv.fr/twoe>.
