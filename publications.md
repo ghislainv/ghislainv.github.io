@@ -61,6 +61,8 @@ Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.p
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
 
 Study featured in:
+[Reader's Digest](https://www.rd.com/culture/places-to-visit-before-they-disappear),
+[Le Monde](https://www.lemonde.fr/afrique/article/2020/01/21/a-madagascar-60-millions-d-arbres-pour-reboiser-la-grande-ile-et-quelques-questions_6026744_3212.html)
 [Cirad press release](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar),
 [Cirad news](https://www.cirad.fr/actualites/toutes-les-actualites/articles/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite),
 [Presidency of Madagascar](/images/media/Foret_Andry_Rajoelina.pdf),
@@ -129,7 +131,7 @@ This article was the Editor's Choice paper for the issue **104**(3) of the _Jour
 
 This article has been selected for a _Journal of Ecology_ virtual issue on "Plants in a changing world: global change and plant ecology". Published 24 April 2017. [Browse Virtual Issue](http://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/(ISSN)1365-2745.globalchangevirtualissue).
 
-Article featured in:
+Study featured in:
 [The Conversation](https://t.co/pMXLUUrV0I),
 [Le Figaro](/images/media/Figaro-16-02-2016.png),
 [Radio Classique](http://www.radioclassique.fr/player/progaction/initPlayer/podcast/3-minutes-pour-la-planete-2016-02-16-06-48-50.html),
@@ -257,7 +259,7 @@ R.** 2011. Growth strategies of tropical tree species: disentangling
 light and size effects. *PLoS ONE*. **6**(9): e25330. \[doi:[10.1371/journal.pone.0025330](https://doi.org/10.1371/journal.pone.0025330)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Ruger2011-PlosONE.pdf)
 / Supplementary materials
-[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://bioscenemada.net/FileTransfer/Ruger2011-PlosONE-SM.pdf)
+[![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Ruger2011-PlosONE-SM.pdf)
 
 5\. **Albert C. H., Grassein F., Schurr F. M., <span
 style="text-decoration: underline;">Vieilledent G.</span> and Violle
