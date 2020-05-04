@@ -62,7 +62,7 @@ Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.p
 
 Study featured in:
 [Reader's Digest](https://www.rd.com/culture/places-to-visit-before-they-disappear),
-[Le Monde](https://www.lemonde.fr/afrique/article/2020/01/21/a-madagascar-60-millions-d-arbres-pour-reboiser-la-grande-ile-et-quelques-questions_6026744_3212.html)
+[Le Monde](https://www.lemonde.fr/afrique/article/2020/01/21/a-madagascar-60-millions-d-arbres-pour-reboiser-la-grande-ile-et-quelques-questions_6026744_3212.html),
 [Cirad press release](https://www.cirad.fr/en/news/all-news-items/press-releases/2018/deforestation-in-madagascar),
 [Cirad news](https://www.cirad.fr/actualites/toutes-les-actualites/articles/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite),
 [Presidency of Madagascar](/images/media/Foret_Andry_Rajoelina.pdf),
