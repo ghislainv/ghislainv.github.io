@@ -23,11 +23,11 @@ xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grina
 
 xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
 
-#### 2019
+#### 2020
 
-35\. **Grinand C., <span style="text-decoration: underline;">Vieilledent G.</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. in press.
+35\. **Grinand C., <span style="text-decoration: underline;">Vieilledent G.</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. 1-14.
 \[doi:[10.1002/ldr.3526](https://doi.org/10.1002/ldr.3526)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2019-LDD.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2020-LDD.pdf)
 
 #### 2018
 
