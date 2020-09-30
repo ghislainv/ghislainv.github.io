@@ -13,20 +13,13 @@ Researcher profile:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-#### In preparation
-
-xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, W. F. Laurance, S. Peedell, and F. Achard**. The fate of tropical forests associated to the demographic explosion in Africa. in prep.
-
-xx\. **<span style="text-decoration: underline;">Vieilledent G.</span>, and F. Achard**. Including spatial-autocorrelation in deforestation model to obtain realistic deforestation projections at national or continental scales. in prep.
-
-xx\. **Authier M., G. Dorémus, H. Falchetto, V. Ridoux, and <span style="text-decoration: underline;">G. Vieilledent</span>**. Estimating marine mammal occupancy with single-visit surveys. _Marine Mammal Science_. in review.
-
 #### 2020
 
 36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard**. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
 [bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
 
 35\. **Grinand C., <span style="text-decoration: underline;">Vieilledent G.</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. **31**(13): 1699-1712.
 \[doi:[10.1002/ldr.3526](https://doi.org/10.1002/ldr.3526)\].
