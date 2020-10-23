@@ -15,6 +15,8 @@ Researcher profile:
 
 #### 2020
 
+37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum**. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. in press.
+
 36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard**. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
 [bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104).
