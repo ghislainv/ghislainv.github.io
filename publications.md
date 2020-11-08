@@ -15,21 +15,26 @@ Researcher profile:
 
 #### 2020
 
-37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum**. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. in press.
+38\. **Vancutsem C. and F. Achard and J.-F. Pekel and <span style="text-decoration: underline;">G. Vieilledent</span> and S. Carboni and D. Simonetti and J. Gallego and L. Aragao and R. Nasi.** 2020. Long-term (1990-2019) monitoring of tropical moist forests dynamics.
+\[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774)\].
+[bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774).
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2020-bioRxiv.pdf)
 
-36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard**. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
+37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum.** 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. in press.
+
+36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
 [bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
 
-35\. **Grinand C., <span style="text-decoration: underline;">Vieilledent G.</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. **31**(13): 1699-1712.
+35\. **Grinand C., <span style="text-decoration: underline;">G. Vieilledent</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. 2020. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. **31**(13): 1699-1712.
 \[doi:[10.1002/ldr.3526](https://doi.org/10.1002/ldr.3526)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Grinand2020-LDD.pdf)
 
 #### 2018
 
-34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard**. New formula and conversion factor to compute basic wood density of tree species using a global wood technology database. _American Journal of Botany_. **105**(10): 1-9.
+34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard.** 2018. New formula and conversion factor to compute basic wood density of tree species using a global wood technology database. _American Journal of Botany_. **105**(10): 1-9.
 \[doi:[10.1002/ajb2.1175](https://doi.org/10.1002/ajb2.1175)\].
 [bioRxiv: 274068](https://doi.org/10.1101/274068).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018a-AJB.pdf)
