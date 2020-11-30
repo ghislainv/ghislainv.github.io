@@ -19,6 +19,8 @@ Researcher profile:
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774)\].
 [bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2020-bioRxiv.pdf)
+/
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2020-bioRxiv-SM.pdf)
 
 37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum.** 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. in press.
 
