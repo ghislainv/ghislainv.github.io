@@ -13,6 +13,12 @@ Researcher profile:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+#### 2021
+
+39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. ForestAtRisk: A Python package for modelling and forecasting deforestation in the tropics.
+\[doi:[10.21105/joss.02903](https://doi.org/10.21105/joss.02903)\]. _Journal of Open Source Software (JOSS)_. in review.
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://raw.githubusercontent.com/openjournals/joss-papers/joss.02903/joss.02903/10.21105.joss.02903.pdf)
+
 #### 2020
 
 38\. **Vancutsem C. and F. Achard and J.-F. Pekel and <span style="text-decoration: underline;">G. Vieilledent</span> and S. Carboni and D. Simonetti and J. Gallego and L. Aragao and R. Nasi.** 2020. Long-term (1990-2019) monitoring of tropical moist forests dynamics.
@@ -46,7 +52,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018a-AJB-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1002/ajb2.1175" class="altmetric-embed"></div>
 
-33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences PNAS_. **115**(35): 8811-8816.
+33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences (PNAS)_. **115**(35): 8811-8816.
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf)
 /
