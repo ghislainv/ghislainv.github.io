@@ -15,7 +15,7 @@ Researcher profile:
 
 #### 2021
 
-39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. ForestAtRisk: A Python package for modelling and forecasting deforestation in the tropics.
+39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. forestatrisk: a Python package for modelling and forecasting deforestation in the tropics.
 \[doi:[10.21105/joss.XXXXX](https://doi.org/10.21105/joss.XXXXX)\]. _Journal of Open Source Software (JOSS)_. in review.
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://raw.githubusercontent.com/openjournals/joss-papers/joss.02903/joss.02975/10.21105.joss.02975.pdf)
 
