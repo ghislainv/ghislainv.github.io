@@ -9,9 +9,9 @@ permalink: /
 
 **Institute**:
 
-[![logo-Cirad](/images/logos/logo-Cirad.png "Cirad")](https://www.cirad.fr/)
-[![logo-AMAP](/images/logos/logo-AMAP.png "AMAP")](http://amap.cirad.fr/)
+<a href="https://www.cirad.fr/en/"><img alt="Cirad" src="images/logos/logo-Cirad.png" height="70"></a>
+<a href="https://amap.cirad.fr"><img alt="AMAP" src="images/Logo_AMAP.jpg" height="70"></a>
 
-**Cirad**, [UMR AMAP](http://amap.cirad.fr/), F-34398 Montpellier, FRANCE
+**Cirad**, [UMR AMAP](https://amap.cirad.fr/), F-34398 Montpellier, FRANCE
 
 ghislain.vieilledent(at)cirad.fr
