@@ -9,6 +9,7 @@ permalink: /
 
 **Institute**:
 
+<a href="https://www.cirad.fr/en/"><img alt="RF" src="images/Logo_RF.jpg" height="90"></a>
 <a href="https://www.cirad.fr/en/"><img alt="Cirad" src="images/logos/logo-Cirad.png" height="70"></a>
 <a href="https://amap.cirad.fr"><img alt="AMAP" src="images/logos/Logo_AMAP.jpg" height="70"></a>
 
