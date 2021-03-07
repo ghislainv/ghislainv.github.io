@@ -15,19 +15,19 @@ Researcher profile:
 
 #### 2021
 
-39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
+39\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, R. Nasi.** 2021. Long-term (1990–2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
+\[doi:[10.1126/sciadv.abe1603](https://doi.org/10.1126/sciadv.abe1603)\].
+[bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774).
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2021-ScienceAdvances.pdf)
+/
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2021-ScienceAdvances-SM.pdf)
+
+38\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
 \[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></div>
 
 #### 2020
-
-38\. **Vancutsem C. and F. Achard and J.-F. Pekel and <span style="text-decoration: underline;">G. Vieilledent</span> and S. Carboni and D. Simonetti and J. Gallego and L. Aragao and R. Nasi.** 2020. Long-term (1990-2019) monitoring of tropical moist forests dynamics.
-\[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774)\].
-[bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774).
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2020-bioRxiv.pdf)
-/
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2020-bioRxiv-SM.pdf)
 
 37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum.** 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. in press.
 \[doi:[10.1111/1365-2664.13803](https://doi.org/10.1111/1365-2664.13803)\].
