@@ -15,12 +15,13 @@ Researcher profile:
 
 #### 2021
 
-39\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, R. Nasi.** 2021. Long-term (1990–2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
+39\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
 \[doi:[10.1126/sciadv.abe1603](https://doi.org/10.1126/sciadv.abe1603)\].
-[bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.09.17.295774).
+bioRxiv: [229104](https://doi.org/10.1101/2020.09.17.295774).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2021-ScienceAdvances.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2021-ScienceAdvances-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1126/sciadv.abe1603" class="altmetric-embed"></div>
 
 38\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
 \[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
@@ -35,7 +36,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
-[bioRxiv: 2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104).
+bioRxiv: [229104](https://doi.org/10.1101/2020.07.30.229104).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
 
@@ -47,7 +48,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 34\. **<span style="text-decoration: underline;">Vieilledent G.</span>, F. J. Fischer, J. Chave, D. Guibal, P. Langbour and J. Gérard.** 2018. New formula and conversion factor to compute basic wood density of tree species using a global wood technology database. _American Journal of Botany_. **105**(10): 1-9.
 \[doi:[10.1002/ajb2.1175](https://doi.org/10.1002/ajb2.1175)\].
-[bioRxiv: 274068](https://doi.org/10.1101/274068).
+bioRxiv: [274068](https://doi.org/10.1101/274068).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018a-AJB.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018a-AJB-SM.pdf)
@@ -66,7 +67,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 31\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.** 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. _Biological Conservation_. **222**: 189-197.
 \[doi:[10.1016/j.biocon.2018.04.008](https://doi.org/10.1016/j.biocon.2018.04.008)\].
-[bioRxiv: 147827](https://doi.org/10.1101/147827).
+bioRxiv: [147827](https://doi.org/10.1101/147827).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
