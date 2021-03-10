@@ -15,18 +15,18 @@ Researcher profile:
 
 #### 2021
 
-39\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
+39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
+\[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></div>
+
+38\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
 \[doi:[10.1126/sciadv.abe1603](https://doi.org/10.1126/sciadv.abe1603)\].
 bioRxiv: [229104](https://doi.org/10.1101/2020.09.17.295774).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2021-ScienceAdvances.pdf)
 /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2021-ScienceAdvances-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1126/sciadv.abe1603" class="altmetric-embed"></div>
-
-38\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
-\[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></div>
 
 #### 2020
 
