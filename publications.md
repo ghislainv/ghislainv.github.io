@@ -15,6 +15,10 @@ Researcher profile:
 
 #### 2021
 
+40\. **Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance Araucaria Forest resilience. _Perspectives in Ecology and Conservation_.
+\[doi:[10.1016/j.pecon.2021.03.002](https://doi.org/10.1016/j.pecon.2021.03.002)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021-PECON.pdf)
+
 39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
 \[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
