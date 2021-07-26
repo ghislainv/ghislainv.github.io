@@ -22,7 +22,7 @@ Researcher profile:
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Rounsevell2021-OneEarth.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.oneear.2021.06.003" class="altmetric-embed"></div>
 
-40\. **Muniz Tagliari M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance Araucaria Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
+40\. **Muniz Tagliari M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
 \[doi:[10.1016/j.pecon.2021.03.002](https://doi.org/10.1016/j.pecon.2021.03.002)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021-PECON.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.pecon.2021.03.002" class="altmetric-embed"></div>
