@@ -22,6 +22,7 @@ Researcher profile:
 42\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_.
 \[doi:[10.1007/s10531-021-02270-z](https://doi.org/10.1007/s10531-021-02270-z)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021b-BiodiversityandConservation.pdf)
+/
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021b-BiodiversityandConservation-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1007/s10531-021-02270-z" class="altmetric-embed"></div>
 
