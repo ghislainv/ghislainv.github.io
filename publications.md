@@ -15,16 +15,24 @@ Researcher profile:
 
 #### 2021
 
-<!-- 42\. **Muniz Tagliari M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_. Accepted with minor revision. -->
+<!-- 44\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2021. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _Nature Communications_. -->
+
+<!-- 43\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_. --> 
+
+42\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_.
+\[doi:[10.1007/s10531-021-02270-z](https://doi.org/10.1007/s10531-021-02270-z)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021b-BiodiversityandConservation.pdf)
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021b-BiodiversityandConservation-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1007/s10531-021-02270-z" class="altmetric-embed"></div>
 
 41\. **Rounsevell M. D., A. Arneth, C. Brown, W. W. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, <span style="text-decoration: underline;">G. Vieilledent</span>, B. A. Wintle, and Y.-J. Shin.** 2021. Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making. _One Earth_. **4**(7): 967-985.
 \[doi:[10.1016/j.oneear.2021.06.003](https://doi.org/10.1016/j.oneear.2021.06.003)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Rounsevell2021-OneEarth.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.oneear.2021.06.003" class="altmetric-embed"></div>
 
-40\. **Muniz Tagliari M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
+40\. **Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
 \[doi:[10.1016/j.pecon.2021.03.002](https://doi.org/10.1016/j.pecon.2021.03.002)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021-PECON.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021a-PECON.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.pecon.2021.03.002" class="altmetric-embed"></div>
 
 39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
