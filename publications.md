@@ -99,9 +99,8 @@ bioRxiv: [147827](https://doi.org/10.1101/147827).
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf)
 /
 Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation-update-2017.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed">
 ![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper") [Highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000434745900020)
-</div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
 
 Study featured in:
 [Reader's Digest](https://www.rd.com/culture/places-to-visit-before-they-disappear),
@@ -192,9 +191,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 22\. **Kunstler G., D. Falster, D. Coomes, F. Hui, R. Kooyman, D. Laughlin, L. Poorter, M. Vanderwel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. J. Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen, S. Gourlet-Fleury, M. Hanewinkel, B. Hérault, J. Kattge, H. Kurokawa, Y. Onoda, J. Peñuelas, H. Poorter, M. Uriarte, S. Richardson, P. Ruiz-Benito, I-F. Sun, G. Ståhl, N. Swenson, J. Thompson, B. Westerlund, C. Wirth, M. Zavala , H. Zeng, J. Zimmerman, N. Zimmermann, and M. Westoby.** 2016. Plant functional traits have globally consistent effects on competition. _Nature_. **529**: 204--207. \[doi:[10.1038/nature16476](https://doi.org/10.1038/nature16476)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2016-Nature.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Kunstler2016-Nature-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" class="altmetric-embed">
 ![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper") [Highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000368015700035)
-</div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" class="altmetric-embed"></div>
 
 #### 2015
 
@@ -215,9 +213,8 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Chave2014-GCB.pdf) /
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](/publications/Chave2014-GCB-SM.pdf) /
 Pantropical allometry <a href="http://chave.ups-tlse.fr/pantropical_allometry.htm"><img src="/images/logos/logo-internet.png" height="16" alt="internet" title="internet"></a>
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed">
 ![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper") [Highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000342168500015)
-</div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 18\. **Laurans M., B. Hérault, <span style="text-decoration: underline;">G. Vieilledent</span>, and G. Vincent.** 2014. Vertical stratification reduces competition for light in dense tropical forests. *Forest Ecology and Management*. **329**: 79--88.
 \[doi:[10.1016/j.foreco.2014.05.059](https://doi.org/10.1016/j.foreco.2014.05.059)\].
@@ -304,9 +301,8 @@ in trait-based plant ecology? *Perspectives in Plant Ecology, Evolution and Syst
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES.pdf)
 / Supplementary materials
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.ppees.2011.04.003" class="altmetric-embed">
 ![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper") [Highly cited paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000296000300007)
-</div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.ppees.2011.04.003" class="altmetric-embed"></div>
 
 4\. **Kunstler G., Albert C. H., Courbaud B., Lavergne S., Thuiller W., <span style="text-decoration: underline;">Vieilledent G.</span>, Zimmermann N. E., and Coomes D. A.** 2011. Effects of competition on tree radial-growth vary in importance but not in intensity along climatic gradients. *Journal of Ecology*. **99**(1): 300--312. \[doi:[10.1111/j.1365-2745.2010.01751.x](https://doi.org/10.1111/j.1365-2745.2010.01751.x)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2011-JoE.pdf)
