@@ -17,13 +17,13 @@ Researcher profile:
 
 <!-- 44\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2021. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _Nature Communications_. -->
 
-43\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_.
+43\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_. **27**(23): 6071--6085.
 \[doi:[10.1111/gcb.15859](https://doi.org/10.1111/gcb.15859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021c-GCB.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021c-GCB-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.15859" class="altmetric-embed"></div>
 
-42\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_.
+42\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_. **30**(12): 3665--3684.
 \[doi:[10.1007/s10531-021-02270-z](https://doi.org/10.1007/s10531-021-02270-z)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021b-BiodiversityandConservation.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021b-BiodiversityandConservation-SM.pdf)
