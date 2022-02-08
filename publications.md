@@ -319,7 +319,7 @@ R script [![R](/images/logos/logo-R.png "R script")](/publications/Vieilledent20
 
 #### Books or book chapters
 
-iv. **Birnbaum P., Hequet V., Girardi J., Vandrot H., Mangeard T., Ibanez T., Blanchard E., Pouteau R., Blanchard G., Justeau-Allaire D., <span style="text-decoration: underline;">Vieilledent G.</span>, and Cassan J.-J.** 2021. Atlas des forêts de la province Nord. Editions province Nord, Kohné, Nouvelle-Calédonie, XXXp. ISBN 13: 978-2-919510-30-6.
+iv. **Birnbaum P., Hequet V., Girardi J., Vandrot H., Mangeard T., Ibanez T., Blanchard E., Pouteau R., Blanchard G., Justeau-Allaire D., <span style="text-decoration: underline;">Vieilledent G.</span>, and Cassan J.-J.** 2021. Atlas de la forêt, Province Nord, Nouvelle-Calédonie. Editions province Nord, Koohnê, Nouvelle-Calédonie, 188p. ISBN 13: 978-2-919510-30-6.
 
 iii. **Joint Research Centre (European Commission).** 2017. Science for the AU-EU partnership. Building knowledge for sustainable development. ISBN 13: 978-92-79-69509-4. \[doi: [10.2760/73805](http://doi.org/10.2760/73805)\]. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC107753/africamainreportonline.pdf)
 
