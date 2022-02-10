@@ -21,6 +21,7 @@ Researcher profile:
 \[doi:[10.1016/j.rse.2022.112917](https://doi.org/10.1016/j.rse.2022.112917)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Araza2022-RSE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Araza2022-RSE-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.rse.2022.112917" class="altmetric-embed"></div>
 
 #### 2021
 
