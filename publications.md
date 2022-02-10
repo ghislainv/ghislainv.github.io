@@ -13,9 +13,16 @@ Researcher profile:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-#### 2021
+#### 2022
 
-<!-- 44\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2021. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _Nature Communications_. -->
+<!-- 45\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2021. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _Nature Communications_. -->
+
+44\. **Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, <span style="text-decoration: underline;">G. Vieilledent</span>, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas** 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. _Remote Sensing of Environment_. **272**:112917.
+\[doi:[10.1016/j.rse.2022.112917](https://doi.org/10.1016/j.rse.2022.112917)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Araza2022-RSE.pdf),
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Araza2022-RSE-SM.pdf)
+
+#### 2021
 
 43\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_. **27**(23): 6071--6085.
 \[doi:[10.1111/gcb.15859](https://doi.org/10.1111/gcb.15859)\].
