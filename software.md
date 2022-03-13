@@ -10,7 +10,7 @@ permalink: /software/
   <img src="/images/software/Agrandidieri.jpg" alt="Adansonia grandidieri"/>
 </div>
 
-`hSDM` is an R package for hierarchical Bayesian species distribution models. It includes functions to fit mixture models (site-occupancy, N-mixture, ZIB and ZIP models) accounting for imperfect detection, excess of zeros in the observations and spatial autocorrelation (through an intrinsic CAR process). The functions uses an adaptive Metropolis within Gibbs algorithm written in C code. This makes parameter inference faster than with softwares commonly used to fit such models (such as JAGS, WinBUGS or OpenBUGS) and allows analyzing very large data-sets (typically with more than tens of thousands grid cells).
+`hSDM` is an R package for hierarchical Bayesian species distribution models. It includes functions to fit mixture models (site-occupancy, N-mixture, ZIB and ZIP models) accounting for imperfect detection, excess of zeros in the observations and spatial autocorrelation (through an intrinsic CAR process). The functions uses an adaptive Metropolis within Gibbs algorithm written in C code. This makes parameter inference faster than with software commonly used to fit such models (such as JAGS, WinBUGS or OpenBUGS) and allows analyzing very large data-sets (typically with more than tens of thousands grid cells).
 
 #### Related publications
 
@@ -26,7 +26,7 @@ permalink: /software/
 
 ## Contribution to `MCMCpack`
 
-![MCMCpack](/images/softwares/MCMCpack.jpg)
+![MCMCpack](/images/software/MCMCpack.jpg)
 
 [`MCMCpack`](http://mcmcpack.wustl.edu/ "MCMCpack at wustl") (Markov chain Monte Carlo Package) is an R package which contains functions to perform Bayesian inference using posterior simulation for a number of statistical models. Most simulation is done in compiled C++ written with the [`Scythe`](http://scythe.wustl.edu/) Statistical Library Version 1.0.2. Authors: Andrew D. Martin, Kevin M. Quinn, and Jong Hee Park.
 
@@ -44,8 +44,8 @@ Last version of `MCMCpack` is available on the Comprehensive R Archive Network a
 
 ## `phcfM` R package
 
-<div id="img_softwares">
-  <img src="/images/softwares/deforestation.jpg" alt="deforestation"/>
+<div id="img_software">
+  <img src="/images/software/deforestation.jpg" alt="deforestation"/>
 </div>
 
 `phcfM` is an R package for modelling anthropogenic deforestation. It was initially developed to obtain REDD+ baseline scenarios of deforestation for the _programme holistique de conservation des forêts à Madagascar_ (from which the package was named after). It includes two main functions:
@@ -77,7 +77,7 @@ Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements"
 
 ## `twoe` (2e) software:
 
-![twoe](/images/softwares/twoe.png)
+![twoe](/images/software/twoe.png)
 
 `twoe` (2e) is a software which aims first, at estimating the demographic parameters of tropical tree species from permanent forest plot data (through an R package) and second, at simulating forest dynamics (through a [Capsis](http://capsis.cirad.fr/) module). Authors: Ghislain Vieilledent, François de Coligny.
 
