@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Softwares
-permalink: /softwares/
+title: Software
+permalink: /software/
 ---
 
 ## `hSDM` R package
 
-<div id="img_softwares">
-  <img src="/images/softwares/Agrandidieri.jpg" alt="Adansonia grandidieri"/>
+<div id="img_software">
+  <img src="/images/software/Agrandidieri.jpg" alt="Adansonia grandidieri"/>
 </div>
 
 `hSDM` is an R package for hierarchical Bayesian species distribution models. It includes functions to fit mixture models (site-occupancy, N-mixture, ZIB and ZIP models) accounting for imperfect detection, excess of zeros in the observations and spatial autocorrelation (through an intrinsic CAR process). The functions uses an adaptive Metropolis within Gibbs algorithm written in C code. This makes parameter inference faster than with softwares commonly used to fit such models (such as JAGS, WinBUGS or OpenBUGS) and allows analyzing very large data-sets (typically with more than tens of thousands grid cells).
