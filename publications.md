@@ -15,20 +15,21 @@ Researcher profile:
 
 #### Preprints
 
-**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _bioRxiv_.
+**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century.
+_bioRxiv_.
 \[doi:[10.1101/2022.03.22.485306](https://doi.org/10.1101/2022.03.22.485306)\].
-[![manuscript in pdf](images/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf)
-Supplementary Information [![SI](images/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485306/DC1/embed/media-1.pdf)
+[![manuscript in pdf](images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf),
+Supplementary Information [![SI](images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485306/DC1/embed/media-1.pdf)
 
 **Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and <span style="text-decoration: underline;">Vieilledent G.</span>.** Rethinking the role of intraspecific variability in species coexistence.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.16.484259](https://doi.org/10.1101/2022.03.16.484259)\].
-[![manuscript in pdf](images/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf)
-Supplementary Information [![SI](images/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
+[![manuscript in pdf](images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf),
+Supplementary Information [![SI](images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
 
 **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
+_bioRxiv_.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
-bioRxiv: [229104](https://doi.org/10.1101/2020.07.30.229104).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
 
@@ -37,7 +38,7 @@ bioRxiv: [229104](https://doi.org/10.1101/2020.07.30.229104).
 44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. in press.
 \[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Justeau-Allaire2022-MEE.pdf),
-Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Justeau-Allaire2022-MEE-SM.pdf)
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Justeau-Allaire2022-MEE-SM.zip)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/2041-210X.13859" class="altmetric-embed"></div>
 
 43\. **Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, <span style="text-decoration: underline;">G. Vieilledent</span>, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas.** 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. _Remote Sensing of Environment_. **272**:112917.
@@ -354,7 +355,7 @@ ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: unde
 i\. **Fox J. C., <span style="text-decoration: underline;">G. Vieilledent</span> and R. J. Keenan**. 2011. Native forest
 individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://aciar.gov.au/files/node/14125/native_forest_management_in_papua_new_guinea_adva_17895.pdf)
 
-#### Others
+#### Popular science articles
 
 **Strona G., Z. Szantoi, and <span style="text-decoration: underline;">G. Vieilledent</span>**. 2018. Oil palms and primates can hardly co-exist in Africa. _The Science Breaker_. \[doi: [10.25250/thescbr.brk167](https://doi.org/10.25250/thescbr.brk167)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-TheScienceBreaker.pdf)
