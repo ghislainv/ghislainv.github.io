@@ -18,14 +18,14 @@ Researcher profile:
 **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.22.485306](https://doi.org/10.1101/2022.03.22.485306)\].
-[![manuscript in pdf](images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf),
-Supplementary Information [![SI](images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485306/DC1/embed/media-1.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf),
+Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485306/DC1/embed/media-1.pdf)
 
 **Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and <span style="text-decoration: underline;">Vieilledent G.</span>.** Rethinking the role of intraspecific variability in species coexistence.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.16.484259](https://doi.org/10.1101/2022.03.16.484259)\].
-[![manuscript in pdf](images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf),
-Supplementary Information [![SI](images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf),
+Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
 
 **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 _bioRxiv_.
