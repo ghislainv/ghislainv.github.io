@@ -13,13 +13,34 @@ Researcher profile:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+#### Preprints
+
+**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _bioRxiv_.
+\[doi:[10.1101/2022.03.22.485306](https://doi.org/10.1101/2022.03.22.485306)\].
+[![manuscript in pdf](images/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf)
+Supplementary Information [![SI](images/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485306/DC1/embed/media-1.pdf)
+
+**Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and <span style="text-decoration: underline;">Vieilledent G.</span>.** Rethinking the role of intraspecific variability in species coexistence.
+_bioRxiv_.
+\[doi:[10.1101/2022.03.16.484259](https://doi.org/10.1101/2022.03.16.484259)\].
+[![manuscript in pdf](images/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf)
+Supplementary Information [![SI](images/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
+
+**<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
+\[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
+bioRxiv: [229104](https://doi.org/10.1101/2020.07.30.229104).
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
+
 #### 2022
 
-<!-- 45\. **<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century. _PNAS_. -->
+44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. in press.
+\[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Justeau-Allaire2022-MEE.pdf),
+Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Justeau-Allaire2022-MEE-SM.pdf)
+<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/2041-210X.13859" class="altmetric-embed"></div>
 
-45\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. in press.
-
-44\. **Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, <span style="text-decoration: underline;">G. Vieilledent</span>, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas.** 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. _Remote Sensing of Environment_. **272**:112917.
+43\. **Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, <span style="text-decoration: underline;">G. Vieilledent</span>, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas.** 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. _Remote Sensing of Environment_. **272**:112917.
 \[doi:[10.1016/j.rse.2022.112917](https://doi.org/10.1016/j.rse.2022.112917)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Araza2022-RSE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Araza2022-RSE-SM.pdf)
@@ -27,34 +48,34 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### 2021
 
-43\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_. **27**(23): 6071--6085.
+42\. **Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and <span style="text-decoration: underline;">G. Vieilledent</span>.** 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. _Global Change Biology_. **27**(23): 6071--6085.
 \[doi:[10.1111/gcb.15859](https://doi.org/10.1111/gcb.15859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021c-GCB.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021c-GCB-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.15859" class="altmetric-embed"></div>
 
-42\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_. **30**(12): 3665--3684.
+41\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_. **30**(12): 3665--3684.
 \[doi:[10.1007/s10531-021-02270-z](https://doi.org/10.1007/s10531-021-02270-z)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021b-BiodiversityandConservation.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021b-BiodiversityandConservation-SM.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1007/s10531-021-02270-z" class="altmetric-embed"></div>
 
-41\. **Rounsevell M. D., A. Arneth, C. Brown, W. W. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, <span style="text-decoration: underline;">G. Vieilledent</span>, B. A. Wintle, and Y.-J. Shin.** 2021. Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making. _One Earth_. **4**(7): 967-985.
+40\. **Rounsevell M. D., A. Arneth, C. Brown, W. W. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, <span style="text-decoration: underline;">G. Vieilledent</span>, B. A. Wintle, and Y.-J. Shin.** 2021. Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making. _One Earth_. **4**(7): 967-985.
 \[doi:[10.1016/j.oneear.2021.06.003](https://doi.org/10.1016/j.oneear.2021.06.003)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Rounsevell2021-OneEarth.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.oneear.2021.06.003" class="altmetric-embed"></div>
 
-40\. **Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
+39\. **Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
 \[doi:[10.1016/j.pecon.2021.03.002](https://doi.org/10.1016/j.pecon.2021.03.002)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021a-PECON.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.pecon.2021.03.002" class="altmetric-embed"></div>
 
-39\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
+38\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
 \[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
 <div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></div>
 
-38\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, and R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
+37\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, and R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
 \[doi:[10.1126/sciadv.abe1603](https://doi.org/10.1126/sciadv.abe1603)\].
 bioRxiv: [229104](https://doi.org/10.1101/2020.09.17.295774).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2021-ScienceAdvances.pdf),
@@ -63,15 +84,9 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 
 #### 2020
 
-37\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum.** 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. **58**(4): 744--754. 
+36\. **Justeau-Allaire D. , <span style="text-decoration: underline;">G. Vieilledent</span>, N. Rinck, Ph. Vismara, X. Lorca, and Ph. Birnbaum.** 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. _Journal of Applied Ecology_. **58**(4): 744--754. 
 \[doi:[10.1111/1365-2664.13803](https://doi.org/10.1111/1365-2664.13803)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Justeau-Allaire2020-JAE.pdf)
-
-36\. **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
-\[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
-bioRxiv: [229104](https://doi.org/10.1101/2020.07.30.229104).
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
 
 35\. **Grinand C., <span style="text-decoration: underline;">G. Vieilledent</span>, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux**. 2020. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. _Land Degradation and Development_. **31**(13): 1699--1712.
 \[doi:[10.1002/ldr.3526](https://doi.org/10.1002/ldr.3526)\].
