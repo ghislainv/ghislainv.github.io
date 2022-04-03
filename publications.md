@@ -39,13 +39,13 @@ _bioRxiv_.
 \[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Justeau-Allaire2022-MEE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Justeau-Allaire2022-MEE-SM.zip)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/2041-210X.13859" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/2041-210X.13859" class="altmetric-embed"></span>
 
 43\. **Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, <span style="text-decoration: underline;">G. Vieilledent</span>, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas.** 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. _Remote Sensing of Environment_. **272**:112917.
 \[doi:[10.1016/j.rse.2022.112917](https://doi.org/10.1016/j.rse.2022.112917)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Araza2022-RSE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Araza2022-RSE-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.rse.2022.112917" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.rse.2022.112917" class="altmetric-embed"></span>
 
 #### 2021
 
@@ -53,35 +53,35 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 \[doi:[10.1111/gcb.15859](https://doi.org/10.1111/gcb.15859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021c-GCB.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021c-GCB-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.15859" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.15859" class="altmetric-embed"></span>
 
 41\. **Tagliari M. M., <span style="text-decoration: underline;">G. Vieilledent</span>, J. Alves, T. C. L. Silveira, and N. Peroni.** 2021. Relict populations of _Araucaria angustifolia_ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. _Biodiversity and Conservation_. **30**(12): 3665--3684.
 \[doi:[10.1007/s10531-021-02270-z](https://doi.org/10.1007/s10531-021-02270-z)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021b-BiodiversityandConservation.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Tagliari2021b-BiodiversityandConservation-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1007/s10531-021-02270-z" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1007/s10531-021-02270-z" class="altmetric-embed"></span>
 
 40\. **Rounsevell M. D., A. Arneth, C. Brown, W. W. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, <span style="text-decoration: underline;">G. Vieilledent</span>, B. A. Wintle, and Y.-J. Shin.** 2021. Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making. _One Earth_. **4**(7): 967-985.
 \[doi:[10.1016/j.oneear.2021.06.003](https://doi.org/10.1016/j.oneear.2021.06.003)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Rounsevell2021-OneEarth.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.oneear.2021.06.003" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.oneear.2021.06.003" class="altmetric-embed"></span>
 
 39\. **Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, <span style="text-decoration: underline;">G. Vieilledent</span>, and N. Peroni.** 2021. Collaborative management as a way to enhance _Araucaria_ Forest resilience. _Perspectives in Ecology and Conservation_. **19**(2): 131-142.
 \[doi:[10.1016/j.pecon.2021.03.002](https://doi.org/10.1016/j.pecon.2021.03.002)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Tagliari2021a-PECON.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.pecon.2021.03.002" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.pecon.2021.03.002" class="altmetric-embed"></span>
 
 38\. **<span style="text-decoration: underline;">Vieilledent G.</span>** 2021. `forestatrisk`: a Python package for modelling and forecasting deforestation in the tropics. _Journal of Open Source Software_. **6**(59): 2975.
 \[doi:[10.21105/joss.02975](https://doi.org/10.21105/joss.02975)\]. 
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2021-JOSS.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.21105/joss.02975" class="altmetric-embed"></span>
 
 37\. **Vancutsem C., F. Achard, J.-F. Pekel, <span style="text-decoration: underline;">G. Vieilledent</span>, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, and R. Nasi.** 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. _Science Advances_. **7**(10): eabe1603.
 \[doi:[10.1126/sciadv.abe1603](https://doi.org/10.1126/sciadv.abe1603)\].
 bioRxiv: [229104](https://doi.org/10.1101/2020.09.17.295774).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vancutsem2021-ScienceAdvances.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vancutsem2021-ScienceAdvances-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1126/sciadv.abe1603" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1126/sciadv.abe1603" class="altmetric-embed"></span>
 
 #### 2020
 
@@ -100,13 +100,13 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 bioRxiv: [274068](https://doi.org/10.1101/274068).
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018a-AJB.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018a-AJB-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1002/ajb2.1175" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1002/ajb2.1175" class="altmetric-embed"></span>
 
 33\. **Strona G., S. D. Stringer, <span style="text-decoration: underline;">G. Vieilledent</span>, Z. Szantoi, J. Garcia-Ulloa, and S. A. Wich.** 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. _Proceedings of the National Academy of Sciences (PNAS)_. **115**(35): 8811--8816.
 \[doi:[10.1073/pnas.1804775115](https://doi.org/10.1073/pnas.1804775115)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Strona2018-PNAS.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Strona2018-PNAS-SM.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1073/pnas.1804775115" class="altmetric-embed"></span>
 
 32\. **Ho Tong Minh D., E. Ndikumana, <span style="text-decoration: underline;">G. Vieilledent</span>, D. McKey, and N. Baghdadi.** 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. _Remote Sensing of Environment_. **213**: 206--214.
 \[doi:[10.1016/j.rse.2018.04.056](https://doi.org/10.1016/j.rse.2018.04.056)\].
@@ -119,7 +119,7 @@ bioRxiv: [147827](https://doi.org/10.1101/147827).
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2018-BiologicalConservation-SM.pdf),
 Updated results for the year 2017 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2018-BiologicalConservation-update-2017.pdf),
 Highly cited paper [![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper")](https://www.webofscience.com/wos/woscc/full-record/WOS:000434745900020)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2018.04.008" class="altmetric-embed"></span>
 
 Study featured in:
 [Reader's Digest](https://www.rd.com/culture/places-to-visit-before-they-disappear),
@@ -138,7 +138,7 @@ Study featured in:
 29\. **Dezécache C., E. Faure, V. Gond, J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. _Environmental Research Letters_. **12**(3): 034013.
 \[doi:[10.1088/1748-9326/aa6082](https://doi.org/10.1088/1748-9326/aa6082)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Dezecache2017-ERL.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1088/1748-9326/aa6082" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1088/1748-9326/aa6082" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 28\. **Dezécache C., J.-M. Salles, <span style="text-decoration: underline;">G. Vieilledent</span>, and B. Hérault.** 2017. Moving forward socio-economically focused models of deforestation. _Global Change Biology_. **23**(9): 3484--3500.
 \[doi:[10.1111/gcb.13611](https://doi.org/10.1111/gcb.13611)\].
@@ -159,7 +159,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 \[doi:[10.1371/journal.pone.0162697](https://doi.org/10.1371/journal.pone.0162697)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Plumptre2016-PLoSOne.pdf),
 [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1371/journal.pone.0162697" class="altmetric-embed"></span>
 
 Results of the study were used to update the IUCN conservation status of the Grauer's gorilla [![redlist](/images/logos/logo-iucn.png "redlist")](/publications/Plumptre2016-IUCN-RedList.pdf).
 
@@ -186,7 +186,7 @@ Study featured in:
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2016-JoE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Vieilledent2016-JoE-SM.pdf),
 Dryad repository including the national forest carbon map at 250m for Madagascar <a href="https://doi.org/10.5061/dryad.9ph68"><img src="/images/logos/logo-Dryad.png" height="16" alt="Dryad" title="Dryad"></a>
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/1365-2745.12548" class="altmetric-embed"></span>
 
 This article was the Editor's Choice paper for the issue **104**(3) of the _Journal of Ecology_: [Editor's Choice 104:3](https://jecologyblog.wordpress.com/2016/05/06/editors-choice-1043/).
 
@@ -211,7 +211,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2016-Nature.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Kunstler2016-Nature-SM.pdf),
 Highly cited paper [![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper")](https://www.webofscience.com/wos/woscc/full-record/WOS:000368015700035)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1038/nature16476" class="altmetric-embed"></span>
 
 #### 2015
 
@@ -233,7 +233,7 @@ Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements"
 Supplementary materials [![supplements](/images/logos/logo-pdf.png "supplements")](/publications/Chave2014-GCB-SM.pdf),
 Pantropical allometry <a href="http://chave.ups-tlse.fr/pantropical_allometry.htm"><img src="/images/logos/logo-internet.png" height="16" alt="internet" title="internet"></a>,
 Highly cited paper [![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper")](https://www.webofscience.com/wos/woscc/full-record/WOS:000342168500015)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1111/gcb.12629" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 18\. **Laurans M., B. Hérault, <span style="text-decoration: underline;">G. Vieilledent</span>, and G. Vincent.** 2014. Vertical stratification reduces competition for light in dense tropical forests. *Forest Ecology and Management*. **329**: 79--88.
 \[doi:[10.1016/j.foreco.2014.05.059](https://doi.org/10.1016/j.foreco.2014.05.059)\].
@@ -256,7 +256,7 @@ KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2013a-BiologicalConservation.pdf),
 R-GRASS script [![R](/images/logos/logo-R.png "R-GRASS script")](/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R) <a href="https://ghislainv.github.io/publications/Vieilledent2013-BiologicalConservation-R-GRASS-script.R"><img src="/images/logos/logo-GRASS.png" height="16" alt="GRASS GIS" title="GRASS GIS"></a>,
 KMZ for Google Earth [![GoogleEarth](/images/logos/logo-GoogleEarth.png "KMZ for Google Earth")](/publications/Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2013.06.007" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.biocon.2013.06.007" class="altmetric-embed"></span>
 
 Results of the study were used to update the IUCN conservation status of _Adansonia grandidieri_ [![redlist](/images/logos/logo-iucn.png "redlist")](/publications/Ravaomanalina2016-IUCN-RedList.pdf).
 
@@ -317,7 +317,7 @@ in trait-based plant ecology? *Perspectives in Plant Ecology, Evolution and Syst
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES.pdf), 
 Supplementary materials [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Albert2011-PPEES-SM.pdf), 
 Highly cited paper [![highly cited paper](/images/logos/logo_highly_cited_paper.png "highly cited paper")](https://www.webofscience.com/wos/woscc/full-record/WOS:000296000300007)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.ppees.2011.04.003" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.ppees.2011.04.003" class="altmetric-embed"></span>
 
 4\. **Kunstler G., Albert C. H., Courbaud B., Lavergne S., Thuiller W., <span style="text-decoration: underline;">Vieilledent G.</span>, Zimmermann N. E., and Coomes D. A.** 2011. Effects of competition on tree radial-growth vary in importance but not in intensity along climatic gradients. *Journal of Ecology*. **99**(1): 300--312. \[doi:[10.1111/j.1365-2745.2010.01751.x](https://doi.org/10.1111/j.1365-2745.2010.01751.x)\].
 [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Kunstler2011-JoE.pdf), 
