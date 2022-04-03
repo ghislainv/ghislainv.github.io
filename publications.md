@@ -15,7 +15,7 @@ Researcher profile:
 
 #### Preprints
 
-**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21^st^ century.
+**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21$^{st}$ century.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.22.485306](https://doi.org/10.1101/2022.03.22.485306)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf),
