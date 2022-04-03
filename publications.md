@@ -31,7 +31,7 @@ Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary infor
 _bioRxiv_.
 \[doi:[10.1101/2020.07.30.229104](https://doi.org/10.1101/2020.07.30.229104)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
-<div data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></div>
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></span>
 
 #### 2022
 
