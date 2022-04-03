@@ -15,7 +15,7 @@ Researcher profile:
 
 #### Preprints
 
-**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21<sup>st</sup> century.
+**<span style="text-decoration: underline;">Vieilledent G.</span>, C. Vancutsem, and F. Achard.** 2022. Forest refuge areas and carbon emissions from tropical deforestation in the 21^st^ century.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.22.485306](https://doi.org/10.1101/2022.03.22.485306)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v1.full.pdf),
@@ -353,7 +353,7 @@ ii\. **Plumptre A.J., Nixon S., Critchlow R., <span style="text-decoration: unde
 [10.19121/2015.Report.DMX3094100000](https://doi.org/10.19121/2015.Report.DMX3094100000)\]. Report in [english](https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf) and [french](https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf). [![github](/images/logos/logo-github.png "github repository")](https://github.com/ghislainv/gorillas)
 
 i\. **Fox J. C., <span style="text-decoration: underline;">G. Vieilledent</span> and R. J. Keenan**. 2011. Native forest
-individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](http://aciar.gov.au/files/node/14125/native_forest_management_in_papua_new_guinea_adva_17895.pdf)
+individual-tree modelling in Papua New Guinea. in _Native forest individual-tree modelling in Papua New Guinea_ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. [![pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Fox2011a-PapuaNewGuinea.pdf)
 
 #### Popular science articles
 
