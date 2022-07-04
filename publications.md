@@ -35,7 +35,7 @@ _bioRxiv_.
 
 #### 2022
 
-44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. in press.
+44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. **13**(7): 1412-1420.
 \[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Justeau-Allaire2022-MEE.pdf),
 Supplementary materials [![supplements](/images/logos/logo-zip.png "supplements")](/publications/Justeau-Allaire2022-MEE-SM.zip)
