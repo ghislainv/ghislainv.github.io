@@ -21,11 +21,21 @@ _bioRxiv_.
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.22.485306v2.full.pdf),
 Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/07/23/2022.03.22.485306/DC1/embed/media-1.pdf)
 
+**Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, <span style="text-decoration: underline;">G. Vieilledent</span>** 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests.
+\[doi:[10.22541/au.166029509.96486640/v1](https://doi.org/10.22541/au.166029509.96486640/v1)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)
+
+**Girard-Tercieux C., <span style="text-decoration: underline;">G. Vieilledent</span>, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.** 2022. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure.
+_bioRxiv_.
+\[doi:[10.1101/2022.08.06.503032](https://doi.org/10.1101/2022.08.06.503032)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.08.06.503032v1.full.pdf),
+Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/08/06/2022.08.06.503032/DC1/embed/media-1.pdf)
+
 **Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and <span style="text-decoration: underline;">Vieilledent G.</span>.** 2022. Rethinking the role of intraspecific variability in species coexistence.
 _bioRxiv_.
 \[doi:[10.1101/2022.03.16.484259](https://doi.org/10.1101/2022.03.16.484259)\].
-[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v1.full.pdf),
-Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/03/18/2022.03.16.484259/DC1/embed/media-1.pdf)
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.biorxiv.org/content/10.1101/2022.03.16.484259v2.full.pdf),
+Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/07/28/2022.03.16.484259/DC1/embed/media-1.pdf)
 
 **<span style="text-decoration: underline;">Vieilledent G.</span>, M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.** 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar.
 _bioRxiv_.
@@ -34,6 +44,13 @@ _bioRxiv_.
 <span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></span>
 
 #### 2022
+
+<!--
+45\.**Ibanez T., W. J. Platt, P. J. Bellingham, <span style="text-decoration: underline;">G. Vieilledent</span>, J. Franklin, P. H. Martin, C. Menkes, D. R. Pérez Salicrup, J. Russell-Smith, G. Keppel.** 2022. Altered cyclone–fire interactions are changing ecosystems.
+_Trends in Plant Science_.
+\[doi:[XXXX](https://doi.org/XXXXX)\].
+[![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Ibanez2022-TIPS.pdf)
+-->
 
 44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. **13**(7): 1412-1420.
 \[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
