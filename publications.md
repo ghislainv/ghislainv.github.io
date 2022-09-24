@@ -22,7 +22,7 @@ _bioRxiv_.
 Supplementary Information [![SI](/images/logos/logo-zip.png "supplementary information")](https://www.biorxiv.org/content/biorxiv/early/2022/07/23/2022.03.22.485306/DC1/embed/media-1.pdf)
 
 **Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, <span style="text-decoration: underline;">G. Vieilledent</span>.** 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests.
-_Authorea_
+_Authorea_.
 \[doi:[10.22541/au.166029509.96486640/v1](https://doi.org/10.22541/au.166029509.96486640/v1)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)
 
