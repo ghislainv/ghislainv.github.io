@@ -44,6 +44,20 @@ _bioRxiv_.
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Vieilledent2020-bioRxiv.pdf)
 <span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1101/2020.07.30.229104" class="altmetric-embed"></span>
 
+<!--
+#### In preparation
+
+**Clément J., F. Gosselin, P. Couteron, <span style="text-decoration: underline;">G. Vieilledent</span>.**
+2022.
+`jSDM`: an R package to fit joint species distribution models.
+_Methods in Ecology and Evolution_
+
+**Blanchard G., N. Barbier, <span style="text-decoration: underline;">G. Vieilledent</span>, T. Ibanez, V. Hequet, S. McCoy, P. Birnbaum**
+2020.
+Lidar-derived canopy structure is a better predictor of diversity, function and microclimate than distance to forest edge.
+_Journal of Ecology_
+-->
+
 #### 2022
 
 <!--
