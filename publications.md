@@ -60,7 +60,7 @@ _Journal of Ecology_
 
 #### 2022
 
-45\.**Ibanez T., W. J. Platt, P. J. Bellingham, <span style="text-decoration: underline;">G. Vieilledent</span>, J. Franklin, P. H. Martin, C. Menkes, D. R. Pérez-Salicrup, J. Russell-Smith, G. Keppel.** 2022. Altered cyclone–fire interactions are changing ecosystems.
+45\. **Ibanez T., W. J. Platt, P. J. Bellingham, <span style="text-decoration: underline;">G. Vieilledent</span>, J. Franklin, P. H. Martin, C. Menkes, D. R. Pérez-Salicrup, J. Russell-Smith, G. Keppel.** 2022. Altered cyclone–fire interactions are changing ecosystems.
 _Trends in Plant Science_.
 \[doi:[10.1016/j.tplants.2022.08.005](https://doi.org/10.1016/j.tplants.2022.08.005)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Ibanez2022-TRPLSC.pdf)
