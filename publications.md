@@ -64,6 +64,7 @@ _Journal of Ecology_
 _Trends in Plant Science_.
 \[doi:[10.1016/j.tplants.2022.08.005](https://doi.org/10.1016/j.tplants.2022.08.005)\].
 [![manuscript in pdf](/images/logos/logo-pdf.png "manuscript in pdf")](/publications/Ibanez2022-TRPLSC.pdf)
+<span data-badge-popover="right" data-badge-type="4" data-doi="https://doi.org/10.1016/j.tplants.2022.08.005" class="altmetric-embed"></span>
 
 44\. **Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, <span style="text-decoration: underline;">G. Vieilledent</span>, and Ph. Birnbaum.** 2022. Fragmented Landscape Generator (`flsgen`): a neutral landscape generator with control of landscape structure and fragmentation indices. _Methods in Ecology and Evolution_. **13**(7): 1412-1420.
 \[doi:[10.1111/2041-210X.13859](https://doi.org/10.1111/2041-210X.13859)\].
