@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2023-01-14 Sat 21:20 -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ecology.ghislainv.fr &#x2013; Software</title>
+<meta name="description" content="Software at ecology.ghislainv.fr" />
+<meta name="generator" content="Org Mode" />
+</head>
+<body>
+<div id="preamble" class="status">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1/new.min.css">
+<link rel="stylesheet" href="resources/style/mycss.css">
+<script src="https://kit.fontawesome.com/c7f88d2b28.js" crossorigin="anonymous"></script>
+<header>
+<h1>ecology.ghislainv.fr</h1>
+<nav id="main">
+    <a href="index.html">About</a> /
+    <a href="research.html">Research</a> /
+    <a href="people.html">People</a> /
+    <a href="software.html">Software</a> /
+    <a href="publications.html">Publications</a> /
+    <a href="cv.html">CV</a>
+</nav>
+</header>
+</div>
+<div id="content" class="content">
+
+<figure id="org557e685">
+<img src="images/software/software-banner.png" alt="software-banner" id="banner">
+
+</figure>
+
+<div id="outline-container-software" class="outline-2">
+<h2 id="software">Software</h2>
+<div class="outline-text-2" id="text-software">
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org0a4fd36">R packages</a>
+<ul>
+<li><a href="#org0d142c7">jSDM</a></li>
+<li><a href="#orgdfe1f41">hSDM</a></li>
+<li><a href="#orgf9c9e25">gecevar</a></li>
+<li><a href="#org341c0c7">MCMCpack (contribution to)</a></li>
+<li><a href="#orga9765c6">twoe</a></li>
+</ul>
+</li>
+<li><a href="#orgd64bf5c">Python packages</a>
+<ul>
+<li><a href="#org5de4d60">forestatrisk</a></li>
+<li><a href="#org4f70a50">pywdpa</a></li>
+<li><a href="#org8a5c65a">riskmapjnr</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0a4fd36" class="outline-3">
+<h3 id="org0a4fd36">R packages</h3>
+<div class="outline-text-3" id="text-org0a4fd36">
+</div>
+<div id="outline-container-org0d142c7" class="outline-4">
+<h4 id="org0d142c7">jSDM</h4>
+<div class="outline-text-4" id="text-org0d142c7">
+<p>
+<kbd>jSDM</kbd> is an R package for fitting joint species distribution models
+(JSDMs) in a hierarchical Bayesian framework. The Gibbs sampler is
+written in C++ using Rcpp, Armadillo, and GSL to maximize computation
+efficiency. <a href="https://ecology.ghislainv.fr/jSDM">https://ecology.ghislainv.fr/jSDM</a>.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgdfe1f41" class="outline-4">
+<h4 id="orgdfe1f41">hSDM</h4>
+<div class="outline-text-4" id="text-orgdfe1f41">
+<p>
+<kbd>hSDM</kbd> is an R package for fitting hierarchical Bayesian species
+distribution models (HSDMs). It includes functions to fit mixture
+models (site-occupancy, N-mixture, ZIB, and ZIP models) accounting for
+imperfect detection, excess of zeros in the observations, and spatial
+autocorrelation (through an intrinsic CAR process). Functions uses an
+adaptive Metropolis within Gibbs algorithm written in C code. This
+makes parameter inference faster than with software commonly used to
+fit such models (such as JAGS) and allows analyzing very large
+data-sets (typically with more than tens of thousands grid
+cells). <a href="https://ecology.ghislainv.fr/hSDM">https://ecology.ghislainv.fr/hSDM</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9c9e25" class="outline-4">
+<h4 id="orgf9c9e25">gecevar</h4>
+<div class="outline-text-4" id="text-orgf9c9e25">
+<p>
+<kbd>gecevar</kbd> provides a set of climatic and environmental data for a given
+area of interest (eg. country scale) that can be used for ecological
+analyses. Data come from a variety of sources (eg. Chelsa,
+OpenStreetMap, TropicalMoistForest, SRTMv4.1, SoilGrids). Climatic and
+environmental data are available as multiband raster files at a
+resolution and in the coordinate reference system provided by the
+user. <a href="https://ecology.ghislainv.fr/gecevar">https://ecology.ghislainv.fr/gecevar</a>.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org341c0c7" class="outline-4">
+<h4 id="org341c0c7">MCMCpack (contribution to)</h4>
+<div class="outline-text-4" id="text-org341c0c7">
+<p>
+<kbd>MCMCpack</kbd> (Markov chain Monte Carlo Package) is an R package which
+includes functions to perform Bayesian inference using posterior
+simulation for a number of statistical models. Most simulation is done
+in compiled C++ written with the <a href="https://scythe.lsa.umich.edu/"><kbd>Scythe</kbd></a> statistical library. I have
+contributed to <kbd>MCMCpack</kbd> with the development of functions for
+generalized linear mixed models (glmm): <kbd>MCMChregress()</kbd> for Gaussian
+models, <kbd>MCMChlogit()</kbd> for Bernoulli models (logit link function), and
+<kbd>MCMChpoisson()</kbd> for Poisson models (log link
+function). <a href="https://cran.r-project.org/package=MCMCpack">https://cran.r-project.org/package=MCMCpack</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9765c6" class="outline-4">
+<h4 id="orga9765c6">twoe</h4>
+<div class="outline-text-4" id="text-orga9765c6">
+<p>
+<kbd>twoe</kbd> (2e) is a software which aims first at estimating the
+demographic parameters of tropical tree species from permanent forest
+plot data (through an R package), and second at simulating forest
+dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a href="https://twoe.sourceforge.net">https://twoe.sourceforge.net</a>.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd64bf5c" class="outline-3">
+<h3 id="orgd64bf5c">Python packages</h3>
+<div class="outline-text-3" id="text-orgd64bf5c">
+</div>
+<div id="outline-container-org5de4d60" class="outline-4">
+<h4 id="org5de4d60">forestatrisk</h4>
+<div class="outline-text-4" id="text-org5de4d60">
+<p>
+The <kbd>forestatrisk</kbd> Python package can be used to model the tropical
+deforestation spatially, predict the spatial risk of deforestation,
+and forecast the future forest cover in the tropics. It provides
+functions to estimate the spatial probability of deforestation as a
+function of various spatial explanatory variables. Spatial explanatory
+variables can be derived from topography (altitude, slope, and
+aspect), accessibility (distance to roads, towns, and forest edge),
+deforestation history (distance to previous deforestation), or land
+conservation status (eg. protected area) for
+example. <a href="https://ecology.ghislainv.fr/forestatrisk">https://ecology.ghislainv.fr/forestatrisk</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f70a50" class="outline-4">
+<h4 id="org4f70a50">pywdpa</h4>
+<div class="outline-text-4" id="text-org4f70a50">
+<p>
+The <kbd>pywdpa</kbd> Python package is an interface to the World Database on
+Protected Areas (WDPA) hosted on the Protected Planet website at
+<a href="https://www.protectedplanet.net">https://www.protectedplanet.net</a>. The <kbd>pywdpa</kbd> package provides
+functions to download shapefiles of protected areas (PA) for any
+countries with an iso3 code using the Protected Planet API at
+<a href="https://api.protectedplanet.net">https://api.protectedplanet.net</a>. The <kbd>pywdpa</kbd> package translates some
+functions of the R package <kbd>worldpa</kbd>
+(<a href="https://github.com/FRBCesab/worldpa">https://github.com/FRBCesab/worldpa</a>) in the Python
+language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislainv.fr/pywdpa</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8a5c65a" class="outline-4">
+<h4 id="org8a5c65a">riskmapjnr</h4>
+<div class="outline-text-4" id="text-org8a5c65a">
+<p>
+The <kbd>riskmapjnr</kbd> Python package can be used to obtain maps of the
+spatial risk of deforestation and forest degradation following the
+methodology developed in the context of the Jurisdictional and Nested
+REDD+ (JNR) and using only a forest cover change map as
+input. <a href="https://ecology.ghislainv.fr/riskmapjnr">https://ecology.ghislainv.fr/riskmapjnr</a>.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<footer>
+  <hr>
+  <a href="index.html">About</a> /
+  <a href="research.html">Research</a> /
+  <a href="people.html">People</a> /
+  <a href="software.html">Software</a> /
+  <a href="publications.html">Publications</a> /
+  <a href="cv.html">CV</a>
+  <br>
+  <span class="license">
+    Content is available under
+    <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+      CC-BY-SA 4.0</a> |
+  </span>
+  <span class="generated">
+    Created with <a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2) on <a href="https://www.gnu.org">GNU</a>/<a href="https://www.kernel.org/">Linux</a>
+    <br/></span>
+  <span class="copyright">
+    &copy; Ghislain Vieilledent 2022 | <a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv"><i class="fa-brands fa-github"></i></a> <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv"><i class="fa-brands fa-mastodon"></i></a>
+  </span>
+</footer>
+</div>
+</body>
+</html>
