@@ -1,0 +1,203 @@
+#+title: ecology.ghislainv.fr -- Publications
+#+description: Publications at ecology.ghislainv.fr
+#+setupfile: setup.org
+
+#+macro: doi @@html:doi:<a href="https://doi.org/$1" target="_blank">$1</a>@@
+#+macro: pdf @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>@@
+#+macro: pdf_url @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>@@
+#+macro: supp @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a>@@
+#+macro: supp_url @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a>@@
+#+macro: Rscript @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-R.png" alt="logo-R.png"></a>@@
+#+macro: iucn @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-iucn.png" alt="logo-iucn.png"></a>@@
+#+macro: wos @@html:<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:$1" target="_blank"><img id=logo-link src="images/logos/logo_highly_cited_paper.png" alt="logo_highly_cited_paper.png"></a>@@
+#+macro: kmz @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-GoogleEarth.png" alt="logo-GoogleEarth.png"></a>@@
+#+macro: github @@html:<a href="https://github.com/ghislainv/$1" target="_blank"><img id=logo-link src="images/logos/logo-github.png" alt="logo-github.png"></a>@@
+#+macro: dryad @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-dryad.png" alt="logo-dryad.png"></a>@@
+
+* Publications
+
+Researcher profile: [[https://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr][GoogleScholar]], [[https://publons.com/researcher/1336046/ghislain-vieilledent/][Publons]], [[https://orcid.org/0000-0002-1685-4997][ORCID]], [[https://www.researchgate.net/profile/Ghislain_Vieilledent][ResearchGate]], [[https://agritrop.cirad.fr/view/auteurcirad/556.date.html][Agritrop]]
+
+*** In preparation                                               :noexport:
+
+**Clément J., F. Gosselin, P. Couteron, and G. Vieilledent.** 2023. =jSDM=: an R package to fit joint species distribution models. /Methods in Ecology and Evolution/.
+
+**Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.** 2023. Lidar-derived canopy structure is a better predictor of diversity, function and microclimate than distance to forest edge. /Journal of Ecology/.
+
+**Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.** 2023. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/.
+
+**Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.** 2023. Forest and tree species distribution on the ultramafic substrate of New Caledonia. /Botany Letters/.
+
+**Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** Exploring intraspecific wood density variation with the Global Wood Density Database v2. /Global Change Biology/.
+
+**Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** A global map of wood density. /Nature Plant/.
+
+**Bourgoin C., Ceccherini G., Girardello M., Vancutsem C., Avitabile V., Beck P.S.A, Beuchle R., Blanc L., Duveiller G., Migliavacca M., Vieilledent G., 8, Cescatti A., Achard F.** Recovery of tropical moist forests after degradation and deforestation. /Nature/.
+
+*** Preprints
+
+*Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2022. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v2.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/07/23/2022.03.22.485306/DC1/embed/media-1.pdf)}}}
+
+*Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}}
+
+*Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.* 2022. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. /bioRxiv/: [[doi:10.1101/2022.08.06.503032][503032]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.08.06.503032v1.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/08/06/2022.08.06.503032/DC1/embed/media-1.pdf)}}}
+
+*Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2022. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.16.484259v2.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/07/28/2022.03.16.484259/DC1/embed/media-1.pdf)}}}
+
+*Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}}
+
+*** 2022
+     
+[45]. *Ibanez T., W. J. Platt, P. J. Bellingham, G. Vieilledent, J. Franklin, P. H. Martin, C. Menkes, D. R. Pérez-Salicrup, J. Russell-Smith, and G. Keppel.* 2022. Altered cyclone--fire interactions are changing ecosystems. /Trends in Plant Science/. *27* (12): 1218--1230. {{{doi(10.1016/j.tplants.2022.08.005)}}}. {{{pdf(Ibanez2022-TRPLSC.pdf)}}}
+
+[44]. *Justeau-Allaire D., G. Blanchard, T. Ibanez, X. Lorca, G. Vieilledent, and P. Birnbaum.* 2022. Fragmented Landscape Generator (=flsgen=): a neutral landscape generator with control of landscape structure and fragmentation indices. /Methods in Ecology and Evolution/. *13* (7): 1412-1420. {{{doi(10.1111/2041-210X.13859)}}}. {{{pdf(Justeau-Allaire2022-MEE.pdf)}}}, Supplementary materials {{{supp(Justeau-Allaire2022-MEE-SM.zip)}}}
+
+[43]. *Araza A., S. de Bruin, M. Herold, S. Quegan, N. Labriere, P. Rodriguez-Veiga, V. Avitabile, M. Santoro, E. T.A. Mitchard, C. M. Ryan, O. L. Phillips, S. Willcock, H. Verbeeck, J. Carreiras, L. Hein, M.-J. Schelhaas, A. M. Pacheco-Pascagaza, P. da Conceição Bispo, G. Vaglio Laurin, G. Vieilledent, F. Slik, A. Wijaya, S. L. Lewis, A. Morel, J. Liang, H. Sukhdeo, D. Schepaschenko, J. Cavlovic, H. Gilani, and R. Lucas.* 2022. A comprehensive framework for assessing the accuracy and uncertainty of global above-ground biomass maps. /Remote Sensing of Environment/. *272*: 112917. {{{doi(10.1016/j.rse.2022.112917)}}}. {{{pdf(Araza2022-RSE.pdf)}}}, Supplementary materials {{{supp(Araza2022-RSE-SM.pdf)}}}
+
+*** 2021
+
+[42]. *Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and G. Vieilledent.* 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. /Global Change Biology/. *27* (23): 6071--6085. {{{doi(10.1111/gcb.15859)}}}. {{{pdf(Tagliari2021c-GCB.pdf)}}}, Supplementary materials {{{supp(Tagliari2021c-GCB-SM.pdf)}}}
+
+[41]. *Tagliari M. M., G. Vieilledent, J. Alves, T. C. L. Silveira, and N. Peroni.* 2021. Relict populations of /Araucaria angustifolia/ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. /Biodiversity and Conservation/. *30* (12): 3665--3684. {{{doi(10.1007/s10531-021-02270-z)}}}. {{{pdf(Tagliari2021b-BiodiversityandConservation.pdf)}}}, Supplementary materials {{{supp(Tagliari2021b-BiodiversityandConservation-SM.pdf)}}}
+
+[40]. *Rounsevell M. D., A. Arneth, C. Brown, W. W. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B. A. Wintle, and Y.-J. Shin.* 2021. Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making. /One Earth/. *4* (7): 967-985. {{{doi(10.1016/j.oneear.2021.06.003)}}}. {{{pdf(Rounsevell2021-OneEarth.pdf)}}}
+
+[39]. *Tagliari M. M., C. Levis, B. M. Flores, G. D. Blanco, C. T. Freitas, J. A. Bogoni, G. Vieilledent, and N. Peroni.* 2021. Collaborative management as a way to enhance /Araucaria/ forest resilience. /Perspectives in Ecology and Conservation/. *19* (2): 131-142. {{{doi(10.1016/j.pecon.2021.03.002)}}}. {{{pdf(Tagliari2021a-PECON.pdf)}}}
+
+[38]. *Vieilledent G.* 2021. =forestatrisk=: a Python package for modelling and forecasting deforestation in the tropics. /Journal of Open Source Software/. *6* (59): 2975. {{{doi(10.21105/joss.02975)}}}. {{{pdf(Vieilledent2021-JOSS.pdf)}}}
+
+[37]. *Vancutsem C., F. Achard, J.-F. Pekel, G. Vieilledent, S. Carboni, D. Simonetti, J. Gallego, L. E. O. C. Aragão, and R. Nasi.* 2021. Long-term (1990--2019) monitoring of forest cover changes in the humid tropics. /Science Advances/. *7* (10): eabe1603. {{{doi(10.1126/sciadv.abe1603)}}}. /bioRxiv/: [[doi:10.1101/2020.09.17.295774][229104]]. {{{pdf(Vancutsem2021-ScienceAdvances.pdf)}}}, Supplementary materials {{{supp(Vancutsem2021-ScienceAdvances-SM.pdf)}}}
+
+*** 2020
+
+[36]. *Justeau-Allaire D. , G. Vieilledent, N. Rinck, P. Vismara, X. Lorca, and P. Birnbaum.* 2020. Constrained optimization of landscape indices in conservation planning to support ecological restoration in New Caledonia. /Journal of Applied Ecology/. *58* (4): 744--754. {{{doi(10.1111/1365-2664.13803)}}}. {{{pdf(Justeau-Allaire2020-JAE.pdf)}}}
+
+[35]. *Grinand C., G. Vieilledent, T. Razafimbelo, J.-R. Rakotoarijaona, M. Nourtier, and M. Bernoux*. 2020. Landscape‐scale spatial modelling of deforestation, land degradation and regeneration using machine learning tools. /Land Degradation and Development/. *31* (13): 1699--1712. {{{doi(10.1002/ldr.3526)}}}. {{{pdf(Grinand2020-LDD.pdf)}}}
+
+*** 2018
+
+[34]. *Vieilledent G., F. J. Fischer, J. Chave, D. Guibal, P. Langbour, and J. Gérard.* 2018. New formula and conversion factor to compute basic wood density of tree species using a global wood technology database. /American Journal of Botany/. *105* (10): 1--9. {{{doi(10.1002/ajb2.1175)}}}. /bioRxiv/: [[doi:10.1101/274068][274068]]. {{{pdf(Vieilledent2018a-AJB.pdf)}}}, Supplementary materials {{{supp(Vieilledent2018a-AJB-SM.pdf)}}}
+
+[33]. *Strona G., S. D. Stringer, G. Vieilledent, Z. Szantoi, J. Garcia-Ulloa, and S. A. Wich.* 2018. Small room for compromise between oil palm cultivation and primate conservation in Africa. /Proceedings of the National Academy of Sciences (PNAS)/. *115* (35): 8811--8816. {{{doi(10.1073/pnas.1804775115)}}}. {{{pdf(Strona2018-PNAS.pdf)}}}, Supplementary materials {{{supp(Strona2018-PNAS-SM.pdf)}}}
+
+[32]. *Ho Tong Minh D., E. Ndikumana, G. Vieilledent, D. McKey, and N. Baghdadi.* 2018. Potential value of combining ALOS PALSAR and Landsat-derived tree cover data for forest biomass retrieval in Madagascar. /Remote Sensing of Environment/. *213*: 206--214. {{{doi(10.1016/j.rse.2018.04.056)}}}. {{{pdf(HoTongMinh2018-RSE.pdf)}}}
+
+[31]. *Vieilledent G., C. Grinand, F. A. Rakotomalala, R. Ranaivosoa, J.-R. Rakotoarijaona, T. F. Allnutt, and F. Achard.* 2018. Combining global tree cover loss data with historical national forest-cover maps to look at six decades of deforestation and forest fragmentation in Madagascar. /Biological Conservation/. *222*: 189--197. {{{doi(10.1016/j.biocon.2018.04.008)}}}. /bioRxiv/: [[doi:10.1101/147827][147827]]. {{{pdf(Vieilledent2018-BiologicalConservation.pdf)}}}, Supplementary materials {{{supp(Vieilledent2018-BiologicalConservation-SM.pdf)}}}, Updated results for the year 2017 {{{pdf(Vieilledent2018-BiologicalConservation-update-2017.pdf)}}}, Highly cited paper {{{wos(000434745900020)}}}
+
+Study featured in: [[https://www.rd.com/culture/places-to-visit-before-they-disappear][Reader's Digest]], [[https://www.lemonde.fr/afrique/article/2020/01/21/a-madagascar-60-millions-d-arbres-pour-reboiser-la-grande-ile-et-quelques-questions_6026744_3212.html][Le Monde]], [[https://www.cirad.fr/les-actualites-du-cirad/actualites/2019/science/deforestation-a-madagascar-concilier-developpement-et-biodiversite][Cirad news]], [[file:images/media/Foret_Andry_Rajoelina.pdf][Presidency of Madagascar]], [[https://ur-forets-societes.cirad.fr/actualites/le-president-malgache-cite-une-publication-du-cirad-pour-le-lancement-d-un-plan-de-conservation-et-de-restauration-des-forets][UPR Forêts et Sociétés news]]
+
+[30]. *Langner A., J. Miettinen, M. Kukkonen, Ch. Vancutsem, D. Simonetti, G. Vieilledent, A. Verhegghen, J. Gallego, and H.-J. Stibig.* 2018. Towards operational monitoring of forest canopy disturbance in evergreen rain forests: a test case in continental Southeast Asia. /Remote Sensing/. *10* (4): 544. {{{doi(10.3390/rs10040544)}}}. {{{pdf(Langner2018-RemoteSensing.pdf)}}}
+
+*** 2017
+
+[29]. *Dezécache C., E. Faure, V. Gond, J.-M. Salles, G. Vieilledent, and B. Hérault.* 2017. Gold-rush in a forested El Dorado: deforestation leakages and the need for regional cooperation. /Environmental Research Letters/. *12* (3): 034013. {{{doi(10.1088/1748-9326/aa6082)}}}. {{{pdf(Dezecache2017-ERL.pdf)}}}
+
+[28]. *Dezécache C., J.-M. Salles, G. Vieilledent, and B. Hérault.* 2017. Moving forward socio-economically focused models of deforestation. /Global Change Biology/. *23* (9): 3484--3500. {{{doi(10.1111/gcb.13611)}}}. {{{pdf(Dezecache2017-GCB.pdf)}}}, Supplementary materials {{{supp(Dezecache2017-GCB-SM.pdf)}}}
+
+[27]. *El Hajj M., N. Baghdadi, I. Fayad, G. Vieilledent, J.-S. Bailly, and D. Ho Tong Minh*. 2017. Interest of integrating spaceborne LiDAR data to improve the estimation of biomass in high biomass forested areas. /Remote Sensing/. *9* (3): 213. {{{doi(10.3390/rs9030213)}}}. {{{pdf(ElHajj2017-RemoteSensing.pdf)}}}
+
+[26]. *Grinand C., G. Le Maire, G. Vieilledent, H. Razakamanarivo, T. Razafimbelo, and M. Bernoux.* 2017. Estimating temporal changes in soil carbon stocks at the ecoregional scale in Madagascar using remote-sensing. /International Journal of Applied Earth Observation and Geoinformation/. *54*: 1--14. {{{doi(10.1016/j.jag.2016.09.002)}}}. {{{pdf(Grinand2017-JAG.pdf)}}}
+
+*** 2016
+
+[25]. *Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall.* 2016. Catastrophic decline of world's largest primate: 80% loss of Grauer's gorilla (/Gorilla beringei graueri/) population justifies critically endangered status. /PLoS ONE/. *11* (10): e0162697. {{{doi(10.1371/journal.pone.0162697)}}}. {{{pdf(Plumptre2016-PLoSOne.pdf)}}}, {{{github(gorillas)}}}
+
+Results of the study were used to update the IUCN conservation status of the Grauer's gorilla {{{iucn(Plumptre2016-IUCN-RedList.pdf)}}}.
+
+Study featured in: [[https://www.rfi.fr/emission/20160515-2-rdc-grauer-gorilles-grauer-espece-menacee-preservation][RFI]], [[https://alert-conservation.org/issues-research-highlights/2016/4/13/the-worlds-largest-primate-is-on-the-verge-of-extinction][Alert Conservation]], [[https://www.sciencesetavenir.fr/animaux/grands-mammiferes/20160406.OBS7990/le-plus-grand-gorille-est-en-danger-critique-d-extinction.html][Sciences et Avenir]], [[https://ici.radio-canada.ca/ohdio/premiere/emissions/les-samedis-du-monde/episodes/362875/9-avril-2016/4][Radio Canada audio]], [[https://www.mediaterre.org/actu,20160405150138,9.html][Médiaterre]], [[https://sciencepost.fr/2016/04/gorille-de-grauer-plus-proches-cousins-de-lhomme-danger-critique-dextinction/][Science Post]], [[https://web.archive.org/web/20160614035728/https://www.nationalgeographic.fr:80/27193-nos-smartphones-auront-ils-la-peau-du-gorille-de-grauer/][Magazine Goodplanet Info]], [[https://www.globalmagazine.info/bistrot-des-sciences/2016/04/05/le-gorille-de-grauer-menace-dextinction-1459859481][Global Magazine]], [[https://news.mongabay.com/2016/04/new-report-finds-the-worlds-largest-ape-is-critically-endangered/][Mongabay]], [[https://www.lemonde.fr/planete/article/2016/09/04/la-biodiversite-mondiale-disparait-a-grande-vitesse_4992382_3244.html][Le Monde]], [[https://voices.nationalgeographic.com/2016/09/04/grauers-gorilla-at-extremely-high-risk-of-extinction-in-the-wild/][National Geographic Voices]], [[https://www.theguardian.com/environment/2016/sep/04/eastern-gorilla-critically-endangered-illegal-hunting-iucn-red-list][The Gardian]], [[https://www.sciencejournalforkids.org/articles/how-does-war-affect-gorillas][Science Journal for Kids]].
+
+[24]. *Vieilledent G., O. Gardi, C. Grinand, C. Burren, M. Andriamanjato, C. Camara, C. J. Gardner, L. Glass, A. Rasolohery, H. Rakoto Ratsimba, V. Gond, and J.-R. Rakotoarijaona*. 2016. Bioclimatic envelope models predict a decrease in tropical forest carbon stocks with climate change in Madagascar. /Journal of Ecology/. *104*: 703--715. {{{doi(10.1111/1365-2745.12548)}}}. {{{pdf(Vieilledent2016-JoE.pdf)}}}, Supplementary materials {{{supp(Vieilledent2016-JoE-SM.pdf)}}}, Dryad repository including the national forest carbon map at 250m for Madagascar {{{dryad(https://doi.org/10.5061/dryad.9ph68)}}}
+
+This article was the Editor's Choice paper for the issue *104* (3) of the /Journal of Ecology/: [[https://jecologyblog.wordpress.com/2016/05/06/editors-choice-1043/][Editor's Choice 104:3]].
+
+This article has been selected for a /Journal of Ecology/ virtual issue on "Plants in a changing world: global change and plant ecology". Published 24 April 2017.  [[https://besjournals.onlinelibrary.wiley.com/hub/issue/10.1111/(ISSN)1365-2745.globalchangevirtualissue][Browse Virtual Issue]].
+
+Study featured in: [[https://t.co/pMXLUUrV0I][The Conversation]], [[file:images/media/Figaro-16-02-2016.png][Le Figaro]], [[https://www.radioclassique.fr/player/progaction/initPlayer/podcast/3-minutes-pour-la-planete-2016-02-16-06-48-50.html][Radio Classique]], [[https://www.lepoint.fr/environnement/le-rechauffement-climatique-risque-d-empecher-les-forets-tropicales-de-stocker-le-carbone-12-02-2016-2017587_1927.php#xtor=RSS-221][Le Point]], [[https://www.francetvinfo.fr/monde/environnement/le-rechauffement-climatique-risque-d-empecher-les-forets-tropicales-de-stocker-le-carbone_1312341.html#xtor=AL-54-%5Barticle%5D][FranceTV info]], [[https://www.emol.com/noticias/Tecnologia/2016/02/12/788109/Estudio-asegura-que-cambio-climatico-amenaza-la-absorcion-de-CO2-por-bosques-tropicales.html][El Mercurio]], [[file:images/media/MidiLibre-16-02-2016.png][Midi-Libre]], [[https://agritrop.cirad.fr/585383/1/ID585383.pdf][Cirad activity report 2015]].
+
+[23]. *Labrière N., B. Locatelli, G. Vieilledent, S. Kharisma, V. Gond, I. Basuki, and Y. Laumonier.* 2016. Spatial congruence between carbon and biodiversity in a Bornean forest landscape. /Global Ecology and Conservation/. *6*: 105--120. {{{doi(10.1016/j.gecco.2016.01.005)}}}. {{{pdf(Labriere2016-GEC.pdf)}}}, Supplementary materials {{{supp(Labriere2016-GEC-SM.docx)}}}
+
+[22]. *Kunstler G., D. Falster, D. Coomes, F. Hui, R. Kooyman, D. Laughlin, L. Poorter, M. Vanderwel, G. Vieilledent, S. J. Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen, S. Gourlet-Fleury, M. Hanewinkel, B. Hérault, J. Kattge, H. Kurokawa, Y. Onoda, J. Peñuelas, H. Poorter, M. Uriarte, S. Richardson, P. Ruiz-Benito, I-F. Sun, G. Ståhl, N. Swenson, J. Thompson, B. Westerlund, C. Wirth, M. Zavala , H. Zeng, J. Zimmerman, N. Zimmermann, and M. Westoby.* 2016. Plant functional traits have globally consistent effects on competition. /Nature/. *529*: 204--207. {{{doi(10.1038/nature16476)}}}. {{{pdf(Kunstler2016-Nature.pdf)}}}, Supplementary materials {{{supp(Kunstler2016-Nature-SM.pdf)}}}, Highly cited paper {{{wos(000368015700035)}}}
+
+*** 2015
+    
+[21]. *Labrière N., Y. Laumonier, B. Locatelli, G. Vieilledent, and M. Comptour.* 2015. Ecosystem Services and Biodiversity in a Rapidly Transforming Landscape in Northern Borneo. /PLoS ONE/. *10* (10): e0140423. {{{doi(10.1371/journal.pone.0140423)}}}. {{{pdf(Labriere2015-PLoSONE.pdf)}}}, Supplementary materials {{{supp(Labriere2015-PLoSONE-SM.zip)}}}
+
+[20]. *Courbaud B., V. Lafond, G. Lagarrigues, G. Vieilledent, T. Cordonnier, F. Jabot, and F. De Coligny.* 2015. Applying ecological model evaludation: Lessons learned with the forest dynamics model Samsara2. /Ecological Modelling/. *314*: 1--14. {{{doi(10.1016/j.ecolmodel.2015.06.039)}}}. {{{pdf(Courbaud2015-EM.pdf)}}}, Supplementary materials {{{supp(Courbaud2015-EM-SM.zip)}}}
+
+*** 2014
+  
+[19]. *Chave J., Réjou-Méchain M., Búrquez A., Chidumayo E., Colgan M. S., Delitti W. B.C., Duque A., Eid T., Fearnside P. M., Goodman R. C., Henry M., Martínez-Yrízar A., Mugasha W. A., Muller-Landau H. C., Mencuccini M., Nelson B. W., Ngomanda A., Nogueira E. M., Ortiz-Malavassi E., Pélissier R., Ploton P., Ryan C. M., Saldarriaga J. G, and Vieilledent G.* 2014. Improved allometric models to estimate the aboveground biomass of tropical trees. /Global Change Biology/. *20* (10): 3177--3190. {{{doi(10.1111/gcb.12629)}}}. {{{pdf(Chave2014-GCB.pdf)}}}, Supplementary materials {{{supp(Chave2014-GCB-SM.pdf)}}}, [[https://chave.ups-tlse.fr/pantropical_allometry.htm][Pantropical allometry]] , Highly cited paper {{{wos(000342168500015)}}}
+
+[18]. *Laurans M., B. Hérault, G. Vieilledent, and G. Vincent.* 2014. Vertical stratification reduces competition for light in dense tropical forests. /Forest Ecology and Management/. *329*: 79--88. {{{doi(10.1016/j.foreco.2014.05.059)}}}. {{{pdf(Laurans2014-FEM.pdf)}}}, Supplementary materials {{{supp(Laurans2014-FEM-SM.zip)}}}
+
+*** 2013
+  
+[17]. *Grinand C., F. Rakotomalala, V. Gond, R. Vaudry, M. Bernoux, and G. Vieilledent.* 2013. Estimating deforestation in tropical humid and dry forests in Madagascar from 2000 to 2010 using multi-date Landsat satellite images and the Random Forests classifier. /Remote Sensing of Environment/. *139*:68--80. {{{doi(10.1016/j.rse.2013.07.008)}}}. {{{pdf(Grinand2013-RSE.pdf)}}}, KMZ for Google Earth {{{kmz(Grinand2013-RSE.kmz)}}}
+
+[16]. *Henry M., A. Bombelli, C. Trotta, A. Alessandrini, L. Birigazzi, G. Sola, G. Vieilledent, P. Santenoise, F. Longuetaud, R. Valentini, N. Picard, and L. Saint-André.* 2013. GlobAllomeTree: International platform for tree allometric equations to support volume, biomass and carbon assessment. /iForest - Biogeosciences and Forestry./ *6* (1): 326. {{{doi(10.3832/ifor0901-006)}}}. {{{pdf(Henry2013-iForest.pdf)}}}
+
+[15]. *Vieilledent G., C. Cornu, A. Cuní Sanchez, J.-M. Leong Pock-Tsy, and P. Danthu.* 2013. Vulnerability of baobab species to climate change and effectiveness of the protected area network in Madagascar: towards new conservation priorities. /Biological Conservation/. *166*: 11--22. {{{doi(10.1016/j.biocon.2013.06.007)}}}. {{{pdf(Vieilledent2013a-BiologicalConservation.pdf)}}}, R-GRASS script {{{Rscript(Vieilledent2013-BiologicalConservation-R-GRASS-script.R)}}} , KMZ for Google Earth {{{kmz(Vieilledent2013-BiologicalConservation-KMZ-GoogleEarth.zip)}}}
+
+Results of the study were used to update the IUCN conservation status of /Adansonia grandidieri/ {{{iucn(Ravaomanalina2016-IUCN-RedList.pdf)}}}.
+
+This article featured in the /Scientific American/ post [[https://blogs.scientificamerican.com/extinction-countdown/2013/07/19/climate-change-baobab-madagascar/]['Climate Change Could Wipe Out Amazing Baobab Trees in Madagascar']].
+
+It featured also in the /Conservation Corridor/ post [[https://conservationcorridor.org/digests/2014/03/protected-area-networks-enough-conserve-biodiversity/]['Are protected area networks enough to conserve biodiversity?']].
+
+[14]. *Vieilledent G., C. Grinand, and R. Vaudry.* 2013. Forecasting deforestation and carbon emissions in tropical developing countries facing demographic expansion: a case study in Madagascar. /Ecology and Evolution/. *3*: 1702--1716. {{{doi(10.1002/ece3.550)}}}. {{{pdf(Vieilledent2013-EcologyAndEvolution.pdf)}}}, Supplementary materials {{{supp(Vieilledent2013-EcologyAndEvolution-SM.pdf)}}}
+
+*** 2012
+
+[13]. *Razakamanarivo R. H., Razakavololona A., Razafindrakoto M.-A., Vieilledent G., and Albrecht A.* 2012. Below-ground biomass production and allometric relationships of Eucalyptus coppice plantation in the central highlands of Madagascar. /Biomass and Bioenergy/. *45*: 1--10. {{{doi(10.1016/j.biombioe.2011.01.020)}}}. {{{pdf(Razakamanarivo2012-BiomassAndBioenergy.pdf)}}}
+
+[12]. *Kunstler G., Lavergne S., Courbaud B., Thuiller W., Vieilledent G., Zimmermann N. E., Kattge J., and Coomes D. A.* 2012. Competitive interactions between forest trees are driven by species trait hierarchy, not phylogenetic or functional similarity: implications for forest community assembly. /Ecology Letters/. *15* (8): 831--840. {{{doi(10.1111/j.1461-0248.2012.01803.x)}}}. {{{pdf(Kunstler2012-EcologyLetters.pdf)}}}, Supplementary materials {{{supp(Kunstler2012-EcologyLetters-SM.zip)}}}
+
+[11]. *Vieilledent G., Vaudry R., Andriamanohisoa S. F. D., Rakotonarivo O. S., Randrianasolo H. Z., Razafindrabe H. N., Bidaud Rakotoarivony C., Ebeling J., and Rasamoelina M.* 2012. A universal approach to estimate biomass and carbon stock in tropical forests using generic allometric models. /Ecological Applications/. *22* (2): 572--583. {{{doi(10.1890/11-0039.1)}}}. {{{pdf(Vieilledent2012-EcologicalApplications.pdf)}}}, Supplementary materials {{{supp(Vieilledent2012-EcologicalApplications-SM.zip)}}}, R script {{{Rscript(Vieilledent2012-EcologicalApplications-Rscript.zip)}}}
+
+[10]. *Asner G. P., Mascaro J., Muller-Landau H. C., Vieilledent G., Vaudry R., Rasamoelina M., Hall J., and van Breugel M.* 2012. A universal airborne LiDAR approach for tropical forest carbon mapping. /Oecologia/. *168* (4): 1147--1160. {{{doi(10.1007/s00442-011-2165-z)}}}. {{{pdf(Asner2012a-Oecologia.pdf)}}}, Supplementary materials {{{supp(Asner2012a-Oecologia-SM.pdf)}}}
+
+[9]. *Asner G. P., Clark J. K., Mascaro J., Vaudry R., Chadwick K. D., Vieilledent G., Rasamoelina M., Balaji A., Kennedy-Bowdoin T., Maatoug L., Colgan M. S., and Knapp D. E.* 2012. Human and environmental controls over aboveground carbon storage in Madagascar. /Carbon Balance and Management/. *7*: 2. {{{doi(10.1186/1750-0680-7-2)}}}. {{{pdf(Asner2012-CBM.pdf)}}}, Supplementary materials {{{supp(Asner2012-CBM-SM.pdf)}}}
+
+[8]. *Courbaud B., Vieilledent G., and Kunstler G.* 2012. Intra-specific variability and the competition-colonisation trade-off: coexistence, abundance and stability patterns. /Theoretical Ecology/. *5* (1): 61--71. {{{doi(10.1007/s12080-010-0095-8)}}}. {{{pdf(Courbaud2012-TheoreticalEcology.pdf)}}}
+
+*** 2011
+
+[7]. *Fox J. C., Vieilledent G., Yosi C. K., Pokana J. N., and Keenan R. J.* 2011. Aboveground forest carbon dynamics in Papua New Guinea; isolating the influence of selective-harvesting and El Niño. /Ecosystems/. *14* (8): 1276--1288. {{{doi(10.1007/s10021-011-9480-4)}}}. {{{pdf(Fox2011-Ecosystems.pdf)}}}
+
+[6]. *Rüger N., Berger U., Hubbell S. P., Vieilledent G., and Condit R.* 2011. Growth strategies of tropical tree species: disentangling light and size effects. /PLoS ONE/. *6* (9): e25330. {{{doi(10.1371/journal.pone.0025330)}}}. {{{pdf(Ruger2011-PlosONE.pdf)}}}, Supplementary materials {{{supp(Ruger2011-PlosONE-SM.pdf)}}}
+
+[5]. *Albert C. H., Grassein F., Schurr F. M., Vieilledent G., and Violle C.* 2011. When and how should intraspecific variability be considered in trait-based plant ecology? /Perspectives in Plant Ecology, Evolution and Systematics/. *13* (3): 217--225. {{{doi(10.1016/j.ppees.2011.04.003)}}}. {{{pdf(Albert2011-PPEES.pdf)}}}, Supplementary materials {{{supp(Albert2011-PPEES-SM.pdf)}}}, Highly cited paper {{{wos(000296000300007)}}}
+
+[4]. *Kunstler G., Albert C. H., Courbaud B., Lavergne S., Thuiller W., Vieilledent G., Zimmermann N. E., and Coomes D. A.* 2011. Effects of competition on tree radial-growth vary in importance but not in intensity along climatic gradients. /Journal of Ecology/. *99* (1): 300--312. {{{doi(10.1111/j.1365-2745.2010.01751.x)}}}. {{{pdf(Kunstler2011-JoE.pdf)}}}, Supplementary materials {{{supp(Kunstler2010-JoE-SM.pdf)}}}
+
+*** 2010
+
+[3]. *Vieilledent G., Courbaud B., Kunstler G., Dhôte J.-F., and Clark J. S.* 2010. Individual variability in tree allometries determines light resource allocation in forest ecosystems: a hierarchical Bayesian approach. /Oecologia/. *163* (3): 759--773. {{{doi(10.1007/s00442-010-1581-9)}}}. {{{pdf(Vieilledent2010b-Oecologia.pdf)}}}, Supplementary materials {{{supp(Vieilledent2010b-Oecologia-SM.pdf)}}}
+
+[2]. *Vieilledent G., Courbaud B., Kunstler G., and Dhôte J.-F.* 2010. Mortality of silver Fir and Norway Spruce in the Western Alps -- A semi-parametric approach combining size-dependent and growth-dependent mortality. /Annals of Forest Science/. *67* (3): 305. {{{doi(10.1051/forest/2009112)}}}. {{{pdf(Vieilledent2010a-AFS.pdf)}}}
+
+*** 2009
+
+[1]. *Vieilledent G., Courbaud B., Kunstler G., Dhôte J.-F., and Clark J. S.* 2009. Biases in the estimation of size dependent mortality models: advantages of a semi-parametric approach. /Canadian Journal of Forest Research/. *39* (8): 1430--1443. {{{doi(10.1139/X09-047)}}}. {{{pdf(Vieilledent2009-CJoFR.pdf)}}}, R script {{{github(U-shape-tree-mortality-DBH)}}}
+
+[0]. *Vieilledent G.* 2009. Structuring uncertainty and variability of ecological processes in forest dynamics models -- Application to silver Fir and Norway Spruce coexistence. PhD Thesis. Cemagref--AgroParisTech. 259 p. oai:[[https://pastel.archives-ouvertes.fr/pastel-00005391][pastel.archives-ouvertes.fr:pastel-00005391]]. {{{pdf(MS-PhDThesis-GVieilledent.pdf)}}}
+
+*** Books or book chapters
+     
+[iv]. *Birnbaum P., Hequet V., Girardi J., Vandrot H., Mangeard T., Ibanez T., Blanchard E., Pouteau R., Blanchard G., Justeau-Allaire D., Vieilledent G., and Cassan J.-J.* 2021. Atlas de la forêt, Province Nord, Nouvelle-Calédonie. Editions province Nord, Koohnê, Nouvelle-Calédonie, 188 p. ISBN 13: 978-2-919510-30-6.
+
+[iii]. *Joint Research Centre (European Commission).* 2017. Science for the AU-EU partnership. Building knowledge for sustainable development. ISBN 13: 978-92-79-86961-7. {{{doi(10.2760/360029)}}}. {{{pdf_url(https://op.europa.eu/o/opportal-service/download-handler?identifier=62cde83f-72a2-11e8-9483-01aa75ed71a1&format=pdf&language=en&productionSystem=cellar&part=)}}}
+
+[ii]. *Plumptre A.J., Nixon S., Critchlow R., Vieilledent G., Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.* 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7.  {{{doi(10.19121/2015.Report.DMX3094100000)}}}.  Report in [[https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf][English]] and [[https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf][French]]. {{{github(gorillas)}}}
+
+[i]. *Fox J. C., G. Vieilledent and R. J. Keenan*. 2011. Native forest individual-tree modelling in Papua New Guinea. in /Native forest individual-tree modelling in Papua New Guinea/ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. {{{pdf(Fox2011a-PapuaNewGuinea.pdf)}}}
+
+*** Popular science articles
+
+[c]. *Strona G., Z. Szantoi, and G. Vieilledent*. 2018. Oil palms and primates can hardly co-exist in Africa. /The Science Breaker/. {{{doi(10.25250/thescbr.brk167)}}}. {{{pdf(Strona2018-TheScienceBreaker.pdf)}}}, [[https://www.thesciencebreaker.com/breaks/earth-space/oil-palms-and-primates-can-hardly-co-exist-in-africa][link]]
+
+[b]. *Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall*. 2017. How does war affect gorillas? in /Science Journal for Kids/, L. Hall (Associate Editor). [[file:publications/Plumptre2017-ScienceJournalForKids.pdf][English]], [[file:publications/Plumptre2017-ScienceJournalForKids-French.pdf][French]], [[file:publications/Plumptre2017-ScienceJournalForKids-Spanish.pdf][Spanish]], [[https://www.sciencejournalforkids.org/search-articles/how-does-war-affect-gorillas][link]]
+
+[a]. *Vieilledent G.*. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in /The Conversation/, J. Gallé (Associate Editor). {{{pdf(Vieilledent2016-TheConversation.pdf)}}}, [[https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281][link]]
+
+# End

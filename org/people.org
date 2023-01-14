@@ -1,0 +1,18 @@
+#+title: ecology.ghislainv.fr -- People
+#+description: People at ecology.ghislainv.fr
+#+setupfile: setup.org
+
+#+ATTR_HTML: :id banner :alt banner
+[[file:images/banner.jpg]]
+
+* People
+
+** Students
+
+*** PhD students
+
+*** Master students
+
+** Post-docs
+
+** Collaborators

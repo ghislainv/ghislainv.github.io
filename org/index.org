@@ -1,0 +1,36 @@
+#+title: ecology.ghislainv.fr -- About
+#+description: ecology.ghislainv.fr: ecology and applied statistics
+#+setupfile: setup.org
+
+#+ATTR_HTML: :id banner :alt banner
+[[file:images/banner.jpg]]
+
+* About
+
+*Objectives*: community ecology, population dynamics and conservation
+biology.
+
+*Tools*: statistics (tests, factorial analysis, maximum likelihood,
+Bayesian inference) and informatics (R, GRASS GIS, Python, Java, C++,
+Bash).
+
+*Institute*:
+
+#+begin_export html
+<a href="https://www.cirad.fr/en/"><img alt="RF" src="images/logos/Logo_RF.jpg" height="90"></a>
+<a href="https://www.cirad.fr/en/"><img alt="Cirad" src="images/logos/logo-Cirad.png" height="70"></a>
+<a href="https://amap.cirad.fr"><img alt="AMAP" src="images/logos/Logo_AMAP.jpg" height="70"></a>
+#+end_export
+
+# #+ATTR_HTML: :alt RF :height 90
+# [[https://www.cirad.fr/en/][file:images/logos/Logo_RF.jpg]]
+# #+ATTR_HTML: :alt Cirad :height 70
+# [[https://www.cirad.fr/en/][file:images/logos/logo-Cirad.png]]
+# #+ATTR_HTML: :alt AMAP :height 70
+# [[https://amap.cirad.fr][file:images/logos/Logo_AMAP.jpg]]
+
+*Cirad*, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE
+
+ghislain.vieilledent(at)cirad.fr
+
+# End
