@@ -2,14 +2,15 @@
 #+description: Software at ecology.ghislainv.fr
 #+setupfile: setup.org
 
-#+ATTR_HTML: :id banner :alt software-banner
-[[file:images/software/software-banner.png]]
+# #+ATTR_HTML: :id banner :alt software-banner
+# [[file:images/software/software-banner.png]]
 
 * Software
 :PROPERTIES:
 :CUSTOM_ID: software
 :END:
 
+@@html:<h4 id=title-software>Software ToC</h4@@
 #+TOC: headlines 2 :target #software
 
 ** R packages
