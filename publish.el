@@ -105,7 +105,7 @@
 	 :base-directory ,mywebsite-base-directory
 	 :base-extension "ico\\|html\\|css\\|scss\\|woff2\\|jpg\\|gif\\|png\\|txt\\|pdf\\|zip\\|kmz\\|R\\|docx"
 	 :recursive t
-	 :include ("CNAME" ".nojekyll")
+	 :include ("CNAME" ".nojekyll" "keybase.txt")
 	 :publishing-directory ,mywebsite-publish-directory
 	 :publishing-function org-publish-attachment)
 	("mywebsite" :components ("pages" "blog" "static"))))
