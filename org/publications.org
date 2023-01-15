@@ -15,8 +15,18 @@
 #+macro: dryad @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-dryad.png" alt="logo-dryad.png"></a>@@
 
 * Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
 
-Researcher profile: [[https://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr][GoogleScholar]], [[https://publons.com/researcher/1336046/ghislain-vieilledent/][Publons]], [[https://orcid.org/0000-0002-1685-4997][ORCID]], [[https://www.researchgate.net/profile/Ghislain_Vieilledent][ResearchGate]], [[https://agritrop.cirad.fr/view/auteurcirad/556.date.html][Agritrop]]
+@@html:<h4 id=title-toc>Publications ToC</h4@@
+#+TOC: headlines 1 :target #publications
+
+** Researcher profile
+
+[[https://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr][GoogleScholar]] / [[https://publons.com/researcher/1336046/ghislain-vieilledent/][Publons]] /  [[https://orcid.org/0000-0002-1685-4997][ORCID]] /  [[https://www.researchgate.net/profile/Ghislain_Vieilledent][ResearchGate]] / [[https://agritrop.cirad.fr/view/auteurcirad/556.date.html][Agritrop]]
+
+** Articles
 
 *** In preparation                                               :noexport:
 
@@ -182,7 +192,7 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 
 [0]. *Vieilledent G.* 2009. Structuring uncertainty and variability of ecological processes in forest dynamics models -- Application to silver Fir and Norway Spruce coexistence. PhD Thesis. Cemagref--AgroParisTech. 259 p. oai:[[https://pastel.archives-ouvertes.fr/pastel-00005391][pastel.archives-ouvertes.fr:pastel-00005391]]. {{{pdf(MS-PhDThesis-GVieilledent.pdf)}}}
 
-*** Books or book chapters
+** Books or book chapters
      
 [iv]. *Birnbaum P., Hequet V., Girardi J., Vandrot H., Mangeard T., Ibanez T., Blanchard E., Pouteau R., Blanchard G., Justeau-Allaire D., Vieilledent G., and Cassan J.-J.* 2021. Atlas de la forêt, Province Nord, Nouvelle-Calédonie. Editions province Nord, Koohnê, Nouvelle-Calédonie, 188 p. ISBN 13: 978-2-919510-30-6.
 
@@ -192,7 +202,7 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 
 [i]. *Fox J. C., G. Vieilledent and R. J. Keenan*. 2011. Native forest individual-tree modelling in Papua New Guinea. in /Native forest individual-tree modelling in Papua New Guinea/ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. {{{pdf(Fox2011a-PapuaNewGuinea.pdf)}}}
 
-*** Popular science articles
+** Popular science articles
 
 [c]. *Strona G., Z. Szantoi, and G. Vieilledent*. 2018. Oil palms and primates can hardly co-exist in Africa. /The Science Breaker/. {{{doi(10.25250/thescbr.brk167)}}}. {{{pdf(Strona2018-TheScienceBreaker.pdf)}}}, [[https://www.thesciencebreaker.com/breaks/earth-space/oil-palms-and-primates-can-hardly-co-exist-in-africa][link]]
 

@@ -10,6 +10,7 @@
 :CUSTOM_ID: research
 :END:
 
+@@html:<h4 id=title-toc>Research ToC</h4@@
 #+TOC: headlines 2 :target #research
 
 ** Research topics
