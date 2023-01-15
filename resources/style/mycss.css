@@ -19,7 +19,6 @@
 }
 
 body {
-    width: 50%;
     max-width: 750px;
 }
 
@@ -43,20 +42,21 @@ footer a {
 }
 
 /* Table of contents */
-#title-software, #title-research {
+#title-toc {
     position: fixed;
-    top: 8.6em;
+    top: 25%;
     left: calc(25% + 750px);
+    font-size: 1.1rem;
 }
-#text-software, #text-research {
+
+#text-software,
+#text-publications,
+#text-research {
     position: fixed;
-    top: 12em;
+    top: calc(25% + 1.2rem);
     left: calc(25% + 750px);
     line-height: 1;
-    font-size: 1.03rem;
-}
-#text-software a, #text-research a {
-    text-decoration: none;
+    font-size: 0.9rem;
 }
 
 #logo-link {
