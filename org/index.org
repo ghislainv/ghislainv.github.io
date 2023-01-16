@@ -1,5 +1,5 @@
 #+title: ecology.ghislainv.fr -- About
-#+description: ecology.ghislainv.fr: forest ecology and statistics
+#+description: Ghislain Vieilledent -- Forest ecology and statistics
 #+setupfile: setup.org
 
 #+ATTR_HTML: :id banner :alt banner

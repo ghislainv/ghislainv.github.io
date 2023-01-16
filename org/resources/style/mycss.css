@@ -12,7 +12,7 @@
 	--nc-lk-1: #185FAF;
 	--nc-lk-2: #0e3969;
 	--nc-lk-tx: #FFFFFF;
-	--nc-ac-1: #79FFE1;
+	--nc-ac-1: #FFFF00;
 	--nc-ac-tx: #0C4047;
 	---tx-3: #666666;
 	---tx-4: #999999;
@@ -43,20 +43,33 @@ footer a {
 
 /* Table of contents */
 #title-toc {
-    position: fixed;
-    top: 25%;
-    left: calc(25% + 750px);
-    font-size: 1.1rem;
+    display: none;
 }
 
 #text-software,
 #text-publications,
 #text-research {
-    position: fixed;
-    top: calc(25% + 1.2rem);
-    left: calc(25% + 750px);
     line-height: 1;
     font-size: 0.9rem;
+}
+
+@media screen and (width > 1000px) {
+    #title-toc {
+	display: inline;
+	position: fixed;
+	top: calc(10.6rem + 8px);
+	left: calc((100% + 750px) / 2 + 2rem);
+	font-size: 1.1rem;
+    }
+    #text-software,
+    #text-publications,
+    #text-research {
+	position: fixed;
+	top: calc(10.6rem + 8px + 1.2rem);
+	left: calc((100% + 750px) / 2 + 2rem);
+	line-height: 1;
+	font-size: 0.9rem;
+    }
 }
 
 #logo-link {
