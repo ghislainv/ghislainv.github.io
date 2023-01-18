@@ -16,10 +16,11 @@
 	--nc-ac-tx: #0C4047;
 	---tx-3: #666666;
 	---tx-4: #999999;
+	--body-max-width: 755px;
 }
 
 body {
-    max-width: 750px;
+    max-width: var(--body-max-width);
 }
 
 a {
@@ -59,7 +60,7 @@ footer a {
 	display: inline;
 	position: fixed;
 	top: calc(10.6rem + 8px);
-	left: calc((100% + 750px) / 2 + 2rem);
+	left: calc((100% + var(--body-max-width)) / 2 + 2rem);
 	font-size: 1.1rem;
     }
     
@@ -69,7 +70,7 @@ footer a {
     #text-research {
 	position: fixed;
 	top: calc(10.6rem + 8px + 1.5rem);
-	left: calc((100% + 750px) / 2 + 2rem);
+	left: calc((100% + var(--body-max-width)) / 2 + 2rem);
 	line-height: 1;
 	font-size: 0.9rem;
     }
