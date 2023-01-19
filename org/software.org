@@ -13,6 +13,10 @@
 @@html:<h4 id=title-toc>Software ToC</h4@@
 #+TOC: headlines 2 :target #software
 
+** Code repositories
+
+A complete list of code repositories is available on [[https://github.com/ghislainv][GitHub]].
+
 ** R packages
 
 *** jSDM

@@ -167,7 +167,7 @@ METRADICA: Mechanistic traits to predict shifts in tree species abundance and di
 INTRACO: Role of intraspecific variability in tree species coexistence in tropical forest.
 
 - 2021-2023 (24 months).
-- Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several other invited researchers.
+- Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several invited researchers.
 - Grant: CESAB (FRB, France) and sDiv (Germany), [[https://www.fondationbiodiversite.fr/en/calls/joint-call-cesab-sdiv-synergy-coexistence-and-stability-high-diversity-communities/][Synergy Call 2019]].
 - Funding: 4 workshops (~40,000 euros).
 - Coordination: Ghislain Vieilledent (Cirad, UMR AMAP), Isabelle Maréchaux (INRAE, UMR AMAP).
@@ -188,10 +188,20 @@ RELIQUES: Effect of forest fragmentation on biodiversity in ultramafic forests o
 BIOSCENEMADA: Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar.
 
 - 2014--2019 (60 months).
-- Partners: Cirad, UMR AMAP (France), WCS and REBIOMA (Madagascar), ETC Terra (France), Office National pour l'Environnement (Madagascar).
+- Partners: Office National pour l'Environnement (Madagascar), WCS and REBIOMA (Madagascar), ETC Terra (France), Cirad, UMR AMAP (France).
 - Grant: FRB--FFEM (France), [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/modelisation-scenarios/bioscenemada/][AAP-SCEN-2013-I]].
 - Total cost: 265,000 euros. Funding: 140,000 euros.
 - Coordination: Ghislain Vieilledent (Cirad, UMR AMAP).
 - Website: [[https://bioscenemada.cirad.fr]].
+
+*** AT REDD+ MADA
+
+AT REDD+ MADA: Technical assistance for implementing REDD+ in Madagascar.
+
+- 2012--2013 (24 months).
+- Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France).
+- Grant: AFD (France).
+- Funding: 290,210 euros.
+- Coordination: Julia Randimbisoa (Helvetas).
 
 # End
