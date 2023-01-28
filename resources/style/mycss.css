@@ -2,21 +2,21 @@
 /* https://github.com/xz/new.css/blob/master/new.css */
 
 :root {
-	--nc-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	--nc-font-mono: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
-	--nc-tx-1: #000000;
-	--nc-tx-2: #1A1A1A;
-	--nc-bg-1: #FFFFFF;
-	--nc-bg-2: #F6F8FA;
-	--nc-bg-3: #E5E7EB;
-	--nc-lk-1: #185FAF;
-	--nc-lk-2: #0e3969;
-	--nc-lk-tx: #FFFFFF;
-	--nc-ac-1: #FFFF00;
-	--nc-ac-tx: #0C4047;
-	---tx-3: #666666;
-	---tx-4: #999999;
-	--body-max-width: 755px;
+    --nc-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --nc-font-mono: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
+    --nc-tx-1: #000000;
+    --nc-tx-2: #1A1A1A;
+    --nc-bg-1: #FFFFFF;
+    --nc-bg-2: #F6F8FA;
+    --nc-bg-3: #E5E7EB;
+    --nc-lk-1: #185FAF;
+    --nc-lk-2: #0e3969;
+    --nc-lk-tx: #FFFFFF;
+    --nc-ac-1: #FFFF00;
+    --nc-ac-tx: #0C4047;
+    ---tx-3: #666666;
+    ---tx-4: #999999;
+    --body-max-width: 755px;
 }
 
 body {
@@ -47,6 +47,7 @@ footer a {
     display: none;
 }
 
+#text-cv,
 #text-people,
 #text-software,
 #text-publications,
@@ -63,7 +64,8 @@ footer a {
 	left: calc((100% + var(--body-max-width)) / 2 + 2rem);
 	font-size: 1.1rem;
     }
-    
+
+    #text-cv,
     #text-people,
     #text-software,
     #text-publications,
@@ -81,12 +83,16 @@ footer a {
 }
 
 #ID_picture {
-  float: left;
-  width: 90px;
-  height: 90px;
-  margin-right: 10px;
-  margin-bottom: 0px;
-  border-radius: 5px;
+    float: left;
+    width: 90px;
+    height: 90px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+}
+
+h6 {
+    color: var(---tx-3);
 }
 
 /* End */
