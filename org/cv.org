@@ -3,8 +3,12 @@
 #+setupfile: setup.org
 
 * Curriculum vit\aelig
+:PROPERTIES:
+:CUSTOM_ID: cv
+:END:
 
-Download CV as pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.
+@@html:<h4 id=title-toc>CV ToC</h4@@
+#+TOC: headlines 1 :target #cv
 
 ** Professional experiences
    :PROPERTIES:
@@ -95,3 +99,7 @@ management and protection of Mediterranean habitats.
 *1996 -- 1999:* [[https://www.lycee-clemenceau-nantes.fr/][Lycée Georges Clémenceau in Nantes]] Student in
 preparatory classes BCPST. (1997--1999) /Baccalauréat S, option
 Maths/. (1996--1997)
+
+** Download
+
+Download CV as pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.

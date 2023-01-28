@@ -1,5 +1,5 @@
 #+language:    en
-#+options:     author:nil H:3 num:nil title:nil toc:nil ^:{} ':t *:t
+#+options:     author:nil H:6 num:nil title:nil toc:nil ^:{} ':t *:t
 #+property:    header-args :eval no-export
 #+export_select_tags: export
 #+export_exclude_tags: noexport
