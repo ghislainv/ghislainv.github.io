@@ -30,7 +30,7 @@ increasing scientific knowledge on forest ecosystems, our objective is
 to improve forest management and enhance forest ecosystem services
 (wood production, biodiversity, carbon sequestration, etc.).
 
-***** Competition between species
+**** Competition between species
      :PROPERTIES:
      :CUSTOM_ID: competition-between-species
      :END:
@@ -42,7 +42,7 @@ of each species regarding competition for resources in the community
 basing our studies on species traits, demography and
 phylogeny. Selected references: [[https://doi.org/10.1007/s00442-010-1581-9][3]], [[https://doi.org/10.1111/j.1365-2745.2010.01751.x][4]], [[https://doi.org/10.1111/j.1461-0248.2012.01803.x][12]], [[https://doi.org/10.1038/nature16476][22]].
 
-***** Intraspecific variability
+**** Intraspecific variability
      :PROPERTIES:
      :CUSTOM_ID: intraspecific-variability
      :END:
@@ -56,7 +56,7 @@ functioning. In our research group, we work at quantifying
 intraspecific variability and we study its effect on species
 competition. Selected references: [[https://doi.org/10.1007/s00442-010-1581-9][3]], [[https://doi.org/10.1016/j.ppees.2011.04.003][5]], [[https://doi.org/10.1007/s12080-010-0095-8][8]].
 
-***** Rare species
+**** Rare species
      :PROPERTIES:
      :CUSTOM_ID: rare-species
      :END:
@@ -88,7 +88,7 @@ two main threats to biodiversity. Through our research group, we try
 to provide tools for conservation planning with the aim of reducing
 tropical deforestation and adapting to climate-change.
 
-***** Avoiding deforestation
+**** Deforestation, carbon emissions, and biodiversity loss
      :PROPERTIES:
      :CUSTOM_ID: avoiding-deforestation
      :END:
@@ -105,7 +105,7 @@ in tropical forests and identifying the social and environmental
 causes of deforestation to improve conservation planning. Selected
 references: [[https://sourceforge.net/projects/phcfm/files/][phcfM]], [[https://doi.org/10.1186/1750-0680-7-2][9]], [[https://doi.org/10.1890/11-0039.1][11]], [[https://doi.org/10.1002/ece3.550][14]].
 
-***** Adaptation to climate change
+**** Species vulnerability to climate change
      :PROPERTIES:
      :CUSTOM_ID: adaptation-to-climate-change
      :END:
@@ -140,15 +140,15 @@ opportunities to provide new answers to scientific questions in
 ecology.
 
 To do so, we are particularly focused on the development of
-hierarchical Bayesian models. Statistical methods and tools we propose
-are frequently compiled in packages available for R statistical
-software. We developed various methods and tools for modelling
-anthropogenic deforestation (phcfM), species distribution (hSDM) and
-tropical forest dynamics (twoe). We also contributed to the
-development of functions for parameter inference in a hierarchical
-Bayesian framework that have been included in packages with broad
-applications (MCMCpack). Selected references: [[https://ecology.ghislainv.fr/hSDM][hSDM]], [[https://twoe.sourceforge.net][twoe]], [[https://sourceforge.net/projects/phcfm/files/][phcfM]], [[https://doi.org/10.1139/X09-047][1]],
-[[https://doi.org/10.1002/ece3.550][14]].
+hierarchical Bayesian models. We try to make the statistical methods
+and functions we develop available in R or Python packages. We
+developed various methods and tools for modelling anthropogenic
+deforestation (forestatrisk, phcfM), species distribution (jSDM,
+hSDM), and tropical forest dynamics (twoe). We have also contributed
+to the development of functions for parameter inference in a
+hierarchical Bayesian framework that have been included in packages
+with broad applications (MCMCpack). Selected references: [[https://ecology.ghislainv.fr/hSDM][hSDM]], [[https://twoe.sourceforge.net][twoe]],
+[[https://sourceforge.net/projects/phcfm/files/][phcfM]], [[https://doi.org/10.1139/X09-047][1]], [[https://doi.org/10.1002/ece3.550][14]].
 
 
 ** Research projects
