@@ -95,4 +95,14 @@ h5 {
     color: var(---tx-3);
 }
 
+#navbar {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#navpage {
+    display:inline-block; 
+    margin-right: 0.8rem;
+}
+
 /* End */
