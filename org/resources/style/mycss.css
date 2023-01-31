@@ -28,6 +28,7 @@ a {
 }
 
 footer {
+    font-size: 0.9rem;
     text-align: center;
     color: var(---tx-4);
 }
@@ -96,13 +97,13 @@ h5 {
 }
 
 #navbar {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: bold;
 }
 
 #navpage {
     display:inline-block; 
-    margin-right: 0.8rem;
+    margin-right: 0.4rem;
 }
 
 /* End */

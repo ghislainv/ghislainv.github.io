@@ -2,7 +2,7 @@
 #+description: Curriculum vitae at ghislainv.ghislainv.fr
 #+setupfile: setup.org
 
-* Curriculum vit\aelig
+* Short curriculum vit\aelig
 :PROPERTIES:
 :CUSTOM_ID: cv
 :END:
@@ -15,91 +15,48 @@
    :CUSTOM_ID: professional-experiences
    :END:
    
-*March 2009 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Scientific researcher/. Study of
-tropical ecosystem functioning (mainly).
+*January 2019 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Scientific
+researcher/. Tropical forest ecology.
 
 *September 2015 -- September 2018:* [[https://joint-research-centre.ec.europa.eu/index_en][JRC]]. /Seconded National Expert/.
 Detached to the Joint Research Center of the European Commission
 (Ispra, Italy). Modelling and forecasting deforestation in the
 tropics.
 
-*December 2009 -- September 2012:* [[https://ur-forets-societes.cirad.fr][Cirad]]. /Scientific researcher/.
-Expatriation in Madagascar.
+*December 2009 -- September 2012:* [[https://www.cirad.fr][Cirad]], [[https://www.forets-biodiv.org/][dP Forêts et
+biodiversité]]. /Scientific researcher/. Expat in Madagascar.
 
-*November 2005 -- February 2009:* Cemagref de Grenoble (now [[https://www.lessem.fr/dynamics/][INRAE]])-
-[[https://www.agroparistech.fr/][AgroParisTech]]. /PhD Student/. Structuring uncertainty and variability
-in allometric and demographic functions used in forest dynamics models
-to understand coexistence mechanisms of Silver Fir and Norway Spruce
-in mountain forests -- A hierarchical Bayes analysis of ecological
-data.
-
-*May 2005 -- October 2005:* [[https://fredon.fr/occitanie/][FREDEC-Midi-Pyrénées]]. /In charge of studies
-on field crop cereals/. Regional Federation for Plant
-Protection. Study of the relation between agricultural practices and
-apparition of diseases on field crops cereals. Development of
-statistical methods, diseases survey on field and redaction of
-technical advices journals.
-
-*December 2004 -- April 2005:* CLAPE-LR. /In charge of environmental
-studies/. NGOs Federation for the Environmental Protection of the
-Languedoc-Roussillon (France). Drawing up impacts studies linked to
-quarries activities. Communication on the theme of environmental
-protection.
-
-*August 2004 -- November 2004:* [[https://lozere.chambre-agriculture.fr/][Chambre d'Agriculture de la Lozère (CA
-48)]]. /In charge of studies on pasture management/. Macro-economical
-synthesis. In charge of the application of the Common Agricultural
-Policy. Design of an experimental protocol on grazing pasture and
-pasture management.
-
-*March 2004 -- August 2004:* [[https://www6.versailles-grignon.inrae.fr/sadapt/L-UMR-SADAPT][National Institute of Agricultural
-Research (INRA-SAD)]] Study of grazing and biodiversity interactions, in
-relation with forestry and breeding activities, in the moorlands and
-wetlands of a mountain area (Monts du Somail, Hérault, France).
-
-*January 2003 -- March 2003:* [[https://www.fdc76.com/][Fédération Départementale des Chasseurs
-de Seine-Maritime (FDC 76)]] Statistical classification of hunting areas
-for the French National Association of Hunters in order to realize
-conservation plans to protect respective flora and fauna.
-
-*September 2002 -- December 2002:* [[https://www.ademe.fr/][ADEME]] Development of a complete data
-base and GIS describing organic material layers and their possible
-utilizations in Brittany (France).
-
-*October 2001 -- April 2002:* [[https://www.mountain.org/][The Mountain Institute (TMI)]] Creation of
-an information meta-system used for the monitoring and evaluation of
-development projects undertaken by the NGO The Mountain Institute in
-The White Cordillera (Peru). Development of ecological, social and
-political indicators.
-
-*July 2001 -- September 2001:* Cemagref de Nogent-sur-Vernisson (now
-[[https://www6.val-de-loire.inrae.fr/efno][INRAE]]) Statistical modelling of temperate forests resistance to
-tempests in the Cemagref investigation center at Nogent-sur-Vernisson
-(France) using physical and management factors in non-linear mixed
-effects models.
+*March 2009 -- December 2018:* [[https://www.cirad.fr][Cirad]], [[https://ur-forets-societes.cirad.fr][UR Forêts et
+Sociétés]]. /Scientific researcher/. Tropical forest ecology.
 
 ** Background
    :PROPERTIES:
    :CUSTOM_ID: background
    :END:
+
+*November 2005 -- February 2009:* Cemagref de Grenoble (now [[https://www.lessem.fr/dynamics/][INRAE]]) --
+[[https://www.agroparistech.fr/][AgroParisTech]]. /PhD/. Structuring uncertainty and variability
+in allometric and demographic functions used in forest dynamics models
+to identify coexistence mechanisms of tree species in mountain forests
+of the Alps.
    
 *2003 -- 2004:* [[https://www.mnhn.fr/][National Museum of Natural History (MNHN)]] -- [[https://www.agroparistech.fr/][INA-PG]] --
-[[https://www.sigu7.jussieu.fr/][Paris VII]] Master "Environment: Natural areas, Technics and Societies".
-Study of Society/Nature relationships. Option Conservatory Management
-and Sustainable Development.
+[[https://www.sigu7.jussieu.fr/][Paris VII]]. /Master/. Master "Environment: natural areas, technics and
+societies". Study of the relationship between societies and
+nature. Conservation and sustainable development.
 
-*2000 -- 2003:* [[https://www.institut-agro-rennes-angers.fr/][Ecole Nationale Supérieure Agronomique de Rennes (ENSAR)]]
-/Diploma of Engineer in Agronomy/. Specialization in Environmental
-Engineering. Option Quantitative Ecology.
+*2000 -- 2003:* [[https://www.institut-agro-rennes-angers.fr/][Ecole Nationale Supérieure Agronomique de Rennes
+(ENSAR)]]. /Diploma of Engineer in Agronomy/. Environmental management
+and quantitative ecology.
 
 *January -- June 2001:* [[https://www.uco.es/etsiam/][Escuela Técnica Superior de Ingenieros
-Agronomos y Montes en Córdoba (ETSIAM), Spain]] Sylviculture, forestry
-management and protection of Mediterranean habitats.
+Agronomos y Montes en Córdoba (ETSIAM), Spain]]. Forestry and
+conservation of Mediterranean habitats.
 
-*1996 -- 1999:* [[https://www.lycee-clemenceau-nantes.fr/][Lycée Georges Clémenceau in Nantes]] Student in
-preparatory classes BCPST. (1997--1999) /Baccalauréat S, option
-Maths/. (1996--1997)
+*1996 -- 1999:* [[https://www.lycee-clemenceau-nantes.fr/][Lycée Georges Clémenceau in Nantes]]. Student in
+preparatory classes BCPST (biology and mathematics). (1997--1999)
+/Baccalauréat S, option in mathematics/. (1996--1997)
 
-** Download
+** Download CV
 
-Download CV as pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.
+Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.
