@@ -69,7 +69,7 @@
 
 *** 2021
 
-[42]. *Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and G. Vieilledent.* 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. /Global Change Biology/. *27* (23): 6071--6085. {{{doi(10.1111/gcb.15859)}}}. {{{pdf(Tagliari2021c-GCB.pdf)}}}, Supplementary materials {{{supp(Tagliari2021c-GCB-SM.pdf)}}} {{{altm(10.1111/gcb.15859)}}}. {{{pdf(Tagliari2021c-GCB.pdf)}}}
+[42]. *Tagliari M. M., P. Danthu, J.-M. Leong Pock Tsy, C. Cornu, J. Lenoir, V. Carvalho-Rocha, and G. Vieilledent.* 2021. Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar. /Global Change Biology/. *27* (23): 6071--6085. {{{doi(10.1111/gcb.15859)}}}. {{{pdf(Tagliari2021c-GCB.pdf)}}}, Supplementary materials {{{supp(Tagliari2021c-GCB-SM.pdf)}}} {{{altm(10.1111/gcb.15859)}}}
 
 [41]. *Tagliari M. M., G. Vieilledent, J. Alves, T. C. L. Silveira, and N. Peroni.* 2021. Relict populations of /Araucaria angustifolia/ will be isolated, poorly protected, and unconnected under climate and land-use change in Brazil. /Biodiversity and Conservation/. *30* (12): 3665--3684. {{{doi(10.1007/s10531-021-02270-z)}}}. {{{pdf(Tagliari2021b-BiodiversityandConservation.pdf)}}}, Supplementary materials {{{supp(Tagliari2021b-BiodiversityandConservation-SM.pdf)}}} {{{altm(10.1007/s10531-021-02270-z)}}}
 
