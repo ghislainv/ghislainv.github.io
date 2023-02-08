@@ -3,12 +3,14 @@
 #+setupfile: setup.org
 #+html_head_extra: <link type='application/rss+xml' href='https://ecology.ghislainv.fr/news.xml' title='RSS feed for ecology.ghislainv.fr'>
 
-* Story on Madagascar's baobabs by the National Geographic 
+@@html:<h1>News</h1>@@
+
+*** Story on Madagascar's baobabs
 :PROPERTIES:
 :ID:       2293c1e4-0b53-4be6-85b9-973dbb84d569
 :PUBDATE:  2023-02-08 mer. 17:43
 :END:
 
 *Feb. 8, 2023*\\
-Our [[https://doi.org/10.1111/gcb.15859][article]] about the vulnerability of Madagascar's baobabs to climate change was cited in a [[https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change][story]] on the National Geographic website.
+Our [[https://doi.org/10.1111/gcb.15859][article]] about the vulnerability of Madagascar's baobabs to climate change has been cited in a [[https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change][story]] on the National Geographic website.
 
