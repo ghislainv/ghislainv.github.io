@@ -14,27 +14,30 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Wed, 08 Feb 2023 16:56:56 +0000</pubDate>
-  <lastBuildDate>Wed, 08 Feb 2023 16:56:56 +0000</lastBuildDate>
+  <pubDate>Wed, 08 Feb 2023 17:16:59 +0000</pubDate>
+  <lastBuildDate>Wed, 08 Feb 2023 17:16:59 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
-  <webMaster>runner@fv-az842-51 (nil)</webMaster>
+  <webMaster>runner@fv-az507-830 (nil)</webMaster>
   <image>
     <url>https://orgmode.org/img/org-mode-unicorn-logo.png</url>
     <title>ecology.ghislainv.fr -- News</title>
     <link>https://ecology.ghislainv.fr/</link>
   </image>
 
+  <p>
+    <h1>News</h1>
+  </p>
 
   <item>
-    <title>Story on Madagascar's baobabs by the National Geographic</title>
-    <link>https://ecology.ghislainv.fr/news.html#org7405160</link>
-    <author>runner@fv-az842-51 (nil)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#org7405160</guid>
+    <title>Story on Madagascar's baobabs</title>
+    <link>https://ecology.ghislainv.fr/news.html#org8eb6584</link>
+    <author>runner@fv-az507-830 (nil)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#org8eb6584</guid>
     <pubDate>Wed, 08 Feb 2023 17:43:00 +0000</pubDate>
 
     <description><![CDATA[<p>
     <b>Feb. 8, 2023</b><br>
-    Our <a href="https://doi.org/10.1111/gcb.15859">article</a> about the vulnerability of Madagascar's baobabs to climate change was cited in a <a href="https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change">story</a> on the National Geographic website.
+    Our <a href="https://doi.org/10.1111/gcb.15859">article</a> about the vulnerability of Madagascar's baobabs to climate change has been cited in a <a href="https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change">story</a> on the National Geographic website.
     </p>
     ]]></description>
   </item>
