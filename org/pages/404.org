@@ -1,5 +1,5 @@
 Sorry, we can't find that page that you're looking for. You can try
 again by going [[./index.html][back to the homepage]].
 
-#+html_attr: :width 400 :alt "image404"
+#+attr_html: :width 300 :alt image404 :style display:block;margin:auto;
 [[file:https://octodex.github.com/images/constructocat2.jpg]]

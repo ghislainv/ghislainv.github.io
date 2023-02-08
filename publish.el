@@ -16,7 +16,7 @@
 
 ;; Install dependencies
 (defvar my-package-list)
-(setq my-package-list '(htmlize))
+(setq my-package-list '(htmlize ox-rss))
 (dolist (i-package my-package-list)
   (unless (package-installed-p i-package)
     (package-install i-package)))
@@ -94,14 +94,19 @@
 	("blog"
 	 :base-directory ,(concat mywebsite-base-directory "blog/")
 	 :base-extension "org"
-	 :publishing-directory ,(concat mywebsite-publish-directory "news/")
+	 :exclude "setup.org"
+	 :publishing-directory ,mywebsite-publish-directory
 	 :publishing-function org-html-publish-to-html
-	 :auto-sitemap t
-	 :recursive t
-	 :sitemap-title "News"
-	 :sitemap-filename "index.org"
-	 :sitemap-sort-files anti-chronologically
-	 :sitemap-style list
+	 )
+	("blog-rss"
+	 :base-directory ,(concat mywebsite-base-directory "blog/")
+	 :base-extension "org"
+	 :exclude ".*"
+	 :include ("news.org")
+	 :html-link-home "https://ecology.ghislainv.fr/"
+	 :html-link-use-abs-url t
+	 :publishing-directory ,mywebsite-publish-directory
+	 :publishing-function org-rss-publish-to-rss
 	 )
 	("static"
 	 :base-directory ,mywebsite-base-directory
@@ -110,7 +115,7 @@
 	 :include ("CNAME" ".nojekyll" "keybase.txt")
 	 :publishing-directory ,mywebsite-publish-directory
 	 :publishing-function org-publish-attachment)
-	("mywebsite" :components ("pages" "blog" "static"))))
+	("mywebsite" :components ("pages" "blog" "blog-rss" "static"))))
 
 ;; Uncomment to force full site regeneration
 (org-publish "mywebsite" t)
