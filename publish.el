@@ -85,7 +85,7 @@
 
 (setq org-publish-project-alist
       `(("pages"
-	 :base-directory ,mywebsite-base-directory
+	 :base-directory ,(concat mywebsite-base-directory "pages/")
 	 :base-extension "org"
 	 :exclude "setup.org"
 	 :publishing-directory ,mywebsite-publish-directory
@@ -94,12 +94,14 @@
 	("blog"
 	 :base-directory ,(concat mywebsite-base-directory "blog/")
 	 :base-extension "org"
-	 :publishing-directory ,(concat mywebsite-publish-directory "blog/")
+	 :publishing-directory ,(concat mywebsite-publish-directory "news/")
 	 :publishing-function org-html-publish-to-html
 	 :auto-sitemap t
-	 :sitemap-title "Blog Posts"
+	 :recursive t
+	 :sitemap-title "News"
 	 :sitemap-filename "index.org"
 	 :sitemap-sort-files anti-chronologically
+	 :sitemap-style list
 	 )
 	("static"
 	 :base-directory ,mywebsite-base-directory

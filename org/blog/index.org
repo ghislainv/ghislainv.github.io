@@ -1,3 +1,3 @@
-#+TITLE: Blog Posts
+#+TITLE: News
 
 - [[file:research.org][ecology.ghislainv.fr -- Research]]
