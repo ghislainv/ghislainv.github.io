@@ -14,12 +14,12 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Wed, 08 Feb 2023 17:16:59 +0000</pubDate>
-  <lastBuildDate>Wed, 08 Feb 2023 17:16:59 +0000</lastBuildDate>
+  <pubDate>Thu, 09 Feb 2023 09:29:38 +0000</pubDate>
+  <lastBuildDate>Thu, 09 Feb 2023 09:29:38 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
-  <webMaster>runner@fv-az507-830 (nil)</webMaster>
+  <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
-    <url>https://orgmode.org/img/org-mode-unicorn-logo.png</url>
+    <url>https://ecology.ghislainv.fr/favicon.ico</url>
     <title>ecology.ghislainv.fr -- News</title>
     <link>https://ecology.ghislainv.fr/</link>
   </image>
@@ -30,14 +30,56 @@
 
   <item>
     <title>Story on Madagascar's baobabs</title>
-    <link>https://ecology.ghislainv.fr/news.html#org8eb6584</link>
-    <author>runner@fv-az507-830 (nil)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#org8eb6584</guid>
-    <pubDate>Wed, 08 Feb 2023 17:43:00 +0000</pubDate>
-
+    <link>https://ecology.ghislainv.fr/news.html#orgfff5865</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#orgfff5865</guid>
+    <pubDate>Thu, 09 Feb 2023 10:08:00 +0000</pubDate>
+    <category><![CDATA[media]]></category>
     <description><![CDATA[<p>
     <b>Feb. 8, 2023</b><br>
     Our <a href="https://doi.org/10.1111/gcb.15859">article</a> about the vulnerability of Madagascar's baobabs to climate change has been cited in a <a href="https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change">story</a> on the National Geographic website.
+    </p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>Camille Girard-Tercieux PhD defense</title>
+    <link>https://ecology.ghislainv.fr/news.html#orgd176c03</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#orgd176c03</guid>
+    <pubDate>Thu, 09 Feb 2023 10:07:00 +0000</pubDate>
+    <category><![CDATA[students]]></category>
+    <description><![CDATA[<p>
+    <b>Dec. 16, 2022</b><br>
+    Congratulations to Camille who has brilliantly defended her PhD thesis at the University of Montpellier. Thanks to Aude Valade, Sean McMahon, and Björn Reineking for having accepted to be part of the jury. 
+    </p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>Mission to New Caledonia</title>
+    <link>https://ecology.ghislainv.fr/news.html#org2c65992</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#org2c65992</guid>
+    <pubDate>Thu, 09 Feb 2023 10:06:00 +0000</pubDate>
+    <category><![CDATA[fieldwork]]></category>
+    <description><![CDATA[<p>
+    <b>Oct. 11, 2022 -- Nov. 28, 2022</b><br>
+    Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
+    </p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>INTRACO workshop at Cesab</title>
+    <link>https://ecology.ghislainv.fr/news.html#orgc6c40cb</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#orgc6c40cb</guid>
+    <pubDate>Thu, 09 Feb 2023 10:05:00 +0000</pubDate>
+    <category><![CDATA[workshops]]></category>
+    <description><![CDATA[<p>
+    <b>Sep. 19-23, 2022</b><br>
+    INTRACO workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
     </p>
     ]]></description>
   </item>
