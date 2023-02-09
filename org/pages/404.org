@@ -1,5 +1,9 @@
+#+title: ecology.ghislainv.fr -- Error 404
+#+description: Error 404 at ecology.ghislainv.fr
+#+setupfile: setup.org
+
 Sorry, we can't find that page that you're looking for. You can try
 again by going [[./index.html][back to the homepage]].
 
-#+attr_html: :width 300 :alt image404 :style display:block;margin:auto;
-[[file:https://octodex.github.com/images/constructocat2.jpg]]
+#+attr_html: :alt image404 :style max-width:100%;display:block;margin:auto;border-radius:10px;
+[[file:images/logos/404.jpg]]

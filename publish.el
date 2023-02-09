@@ -95,6 +95,7 @@
 	 :base-directory ,(concat mywebsite-base-directory "blog/")
 	 :base-extension "org"
 	 :exclude "setup.org"
+	 :with-tags nil
 	 :publishing-directory ,mywebsite-publish-directory
 	 :publishing-function org-html-publish-to-html
 	 )
@@ -103,6 +104,9 @@
 	 :base-extension "org"
 	 :exclude ".*"
 	 :include ("news.org")
+	 :rss-image-url "https://ecology.ghislainv.fr/favicon.ico"
+	 :rss-extension "xml"
+	 :rss-feed-url "https://ecology.ghislainv.fr/news.xml"
 	 :html-link-home "https://ecology.ghislainv.fr/"
 	 :html-link-use-abs-url t
 	 :publishing-directory ,mywebsite-publish-directory
