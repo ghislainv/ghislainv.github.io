@@ -7,6 +7,15 @@
 
 @@html:<h1>News</h1>@@
 
+* Release of riskmapjnr v1.2
+:PROPERTIES:
+:ID:       2e429f94-1dd9-4985-9e7a-0e21a69ee737
+:PUBDATE:  2023-02-11 sam. 08:34
+:END:
+
+*Feb. 11, 2023*\\
+Version 1.2 of the [[https://ecology.ghislainv.fr/riskmapjnr][=riskmapjnr=]] Python package has been released. The package allows obtaining maps of the deforestation risk for any jurisdiction following the methodology defined in the first version of the [[https://verra.org/wp-content/uploads/2021/04/DRAFT_JNR_Risk_Mapping_Tool_15APR2021.pdf][JNR Risk Mapping Tool]].
+
 * Story on Madagascar's baobabs                                       :media:
 :PROPERTIES:
 :ID:       0572c2dd-788a-4020-a31c-6fb24469f718
