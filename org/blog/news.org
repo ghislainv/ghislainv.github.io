@@ -3,9 +3,18 @@
 #+author: Ghislain Vieilledent
 #+email: ghislain.vieilledent@cirad.fr
 #+setupfile: setup.org
-#+html_head_extra: <link type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
+#+html_head_extra: <link rel="alternative" type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
 
 @@html:<h1>News</h1>@@
+
+* Institutional video portrait by Cirad
+:PROPERTIES:
+:ID:       9bcf9999-3dd7-4988-8bd9-d1e3bb688ec0
+:PUBDATE:  2023-02-20 lun. 11:55
+:END:
+
+*Feb. 20, 2023*\\
+Cirad has produced a short [[https://www.youtube.com/watch?v=GjXfAs31018][video]] to present some of my work on tropical forests. This video is part of a series of [[https://www.youtube.com/@LeCIRAD/search?query=portrait][portraits]] of people working at Cirad to illustrate the diversity of people and professions at the institute.
 
 * Release of riskmapjnr v1.2
 :PROPERTIES:

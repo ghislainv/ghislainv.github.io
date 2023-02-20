@@ -89,7 +89,7 @@
 	 :base-extension "org"
 	 :exclude "setup.org"
 	 :publishing-directory ,mywebsite-publish-directory
-	 :publishing-function org-html-publish-to-html
+	 :publishing-function (org-html-publish-to-html)
 	 )
 	("blog"
 	 :base-directory ,(concat mywebsite-base-directory "blog/")
@@ -97,7 +97,7 @@
 	 :exclude "setup.org"
 	 :with-tags nil
 	 :publishing-directory ,mywebsite-publish-directory
-	 :publishing-function org-html-publish-to-html
+	 :publishing-function (org-html-publish-to-html)
 	 )
 	("blog-rss"
 	 :base-directory ,(concat mywebsite-base-directory "blog/")
@@ -110,7 +110,7 @@
 	 :html-link-home "https://ecology.ghislainv.fr/"
 	 :html-link-use-abs-url t
 	 :publishing-directory ,mywebsite-publish-directory
-	 :publishing-function org-rss-publish-to-rss
+	 :publishing-function (org-rss-publish-to-rss)
 	 )
 	("static"
 	 :base-directory ,mywebsite-base-directory
@@ -118,7 +118,7 @@
 	 :recursive t
 	 :include ("CNAME" ".nojekyll" "keybase.txt")
 	 :publishing-directory ,mywebsite-publish-directory
-	 :publishing-function org-publish-attachment)
+	 :publishing-function (org-publish-attachment))
 	("mywebsite" :components ("pages" "blog" "blog-rss" "static"))))
 
 ;; Uncomment to force full site regeneration
