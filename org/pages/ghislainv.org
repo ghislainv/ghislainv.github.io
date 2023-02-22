@@ -1,22 +1,21 @@
-#+title: ecology.ghislainv.fr -- CV
-#+description: Curriculum vitae at ghislainv.ghislainv.fr
+#+title: ecology.ghislainv.fr -- ghislainv
+#+description: Ghislain Vieilledent short presentation
 #+setupfile: setup.org
 
-* Short curriculum vit\aelig
+* Ghislain Vieilledent
 :PROPERTIES:
 :CUSTOM_ID: cv
 :END:
 
-@@html:<h4 id=title-toc>CV ToC</h4@@
-#+TOC: headlines 1 :target #cv
+@@html:<h4 id=title-toc>Page ToC</h4@@
+#+TOC: headlines 2 :target #cv
 
-** Professional experiences
-   :PROPERTIES:
-   :CUSTOM_ID: professional-experiences
-   :END:
+** Curriculum vit\aelig
+
+*** Professional experiences
    
-*January 2019 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Scientific
-researcher/. Tropical forest ecology.
+*January 2019 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Research
+scientist/. Tropical forest ecology.
 
 *September 2015 -- September 2018:* [[https://joint-research-centre.ec.europa.eu/index_en][JRC]]. /Seconded National Expert/.
 Detached to the Joint Research Center of the European Commission
@@ -24,15 +23,15 @@ Detached to the Joint Research Center of the European Commission
 tropics.
 
 *December 2009 -- September 2012:* [[https://www.cirad.fr][Cirad]], [[https://www.forets-biodiv.org/][dP Forêts et
-biodiversité]]. /Scientific researcher/. Expat in Madagascar.
+biodiversité]]. /Research scientist/. Expat in Madagascar.
 
 *March 2009 -- December 2018:* [[https://www.cirad.fr][Cirad]], [[https://ur-forets-societes.cirad.fr][UR Forêts et
-Sociétés]]. /Scientific researcher/. Tropical forest ecology.
+Sociétés]]. /Research scientist/. Tropical forest ecology.
 
-** Background
-   :PROPERTIES:
-   :CUSTOM_ID: background
-   :END:
+*** Background
+:PROPERTIES:
+:CUSTOM_ID: background
+:END:
 
 *November 2005 -- February 2009:* Cemagref de Grenoble (now [[https://www.lessem.fr/dynamics/][INRAE]]) --
 [[https://www.agroparistech.fr/][AgroParisTech]]. /PhD/. Structuring uncertainty and variability
@@ -53,10 +52,17 @@ and quantitative ecology.
 Agronomos y Montes en Córdoba (ETSIAM), Spain]]. Forestry and
 conservation of Mediterranean habitats.
 
-*1996 -- 1999:* [[https://www.lycee-clemenceau-nantes.fr/][Lycée Georges Clémenceau in Nantes]]. Student in
-preparatory classes BCPST (biology and mathematics). (1997--1999)
-/Baccalauréat S, option in mathematics/. (1996--1997)
+*1996 -- 1999:* [[https://www.lycee-clemenceau-nantes.fr/][Lycée Georges Clémenceau in Nantes]]. 1997--1999:
+Student in preparatory classes BCPST (biology and
+mathematics). 1996--1997: /Baccalauréat S with a major in
+mathematics/.
 
-** Download CV
+*** Download CV
 
 Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.
+
+** Contact
+
+Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F--34398 Montpellier, FRANCE\\
+ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
+You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
