@@ -7,7 +7,7 @@
 
 @@html:<h1>News</h1>@@
 
-* Video portrait by Cirad
+* Video portrait by Cirad                                             :media:
 :PROPERTIES:
 :ID:       9bcf9999-3dd7-4988-8bd9-d1e3bb688ec0
 :PUBDATE:  2023-02-20 lun. 11:55
@@ -16,7 +16,7 @@
 *Feb. 20, 2023*\\
 Cirad has produced a short [[https://www.youtube.com/watch?v=GjXfAs31018][video]] to present some of my work on tropical forests. This video is part of a series of [[https://www.youtube.com/@LeCIRAD/search?query=portrait][portraits]] of people working at Cirad to illustrate the diversity of people and professions at the institute.
 
-* Release of riskmapjnr v1.2
+* Release of riskmapjnr v1.2                                       :software:
 :PROPERTIES:
 :ID:       2e429f94-1dd9-4985-9e7a-0e21a69ee737
 :PUBDATE:  2023-02-11 sam. 08:34
