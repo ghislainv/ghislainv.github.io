@@ -59,7 +59,7 @@ mathematics/.
 
 *** Download CV
 
-Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent.pdf][French]] and English.
+Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent_fr.pdf][French]] and English.
 
 ** Contact
 
