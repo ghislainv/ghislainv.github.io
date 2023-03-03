@@ -11,6 +11,7 @@
 :PROPERTIES:
 :ID:       9bcf9999-3dd7-4988-8bd9-d1e3bb688ec0
 :PUBDATE:  2023-02-20 lun. 11:55
+:CUSTOM_ID: video-portrait-by-cirad
 :END:
 
 *Feb. 20, 2023*\\
@@ -20,6 +21,7 @@ Cirad has produced a short [[https://www.youtube.com/watch?v=GjXfAs31018][video]
 :PROPERTIES:
 :ID:       2e429f94-1dd9-4985-9e7a-0e21a69ee737
 :PUBDATE:  2023-02-11 sam. 08:34
+:CUSTOM_ID: release-of-riskmapjnr-v1.2
 :END:
 
 *Feb. 11, 2023*\\
@@ -29,6 +31,7 @@ Version 1.2 of the [[https://ecology.ghislainv.fr/riskmapjnr][=riskmapjnr=]] Pyt
 :PROPERTIES:
 :ID:       0572c2dd-788a-4020-a31c-6fb24469f718
 :PUBDATE:  2023-02-09 jeu. 10:08
+:CUSTOM_ID: story-on-madagascar-s-baobabs-natgeo
 :END:
 
 *Feb. 8, 2023*\\
@@ -38,6 +41,7 @@ Our [[https://doi.org/10.1111/gcb.15859][article]] about the vulnerability of Ma
 :PROPERTIES:
 :ID:       1d3b8bff-ef58-4361-9b77-6ba7d2a407dd
 :PUBDATE:  2023-02-09 jeu. 10:07
+:CUSTOM_ID: camille-girard-tercieux-php-defense
 :END:
 
 *Dec. 16, 2022*\\
@@ -47,6 +51,7 @@ Congratulations to Camille who has brilliantly defended her PhD thesis at the Un
 :PROPERTIES:
 :ID:       dbed4f6d-7780-42a1-9554-3f297a8c9860
 :PUBDATE:  2023-02-09 jeu. 10:06
+:CUSTOM_ID: mission-to-new-caledonia-nov2022
 :END:
 
 *Oct. 11, 2022 -- Nov. 28, 2022*\\
@@ -56,6 +61,7 @@ Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The
 :PROPERTIES:
 :ID:       0f2fd6a2-567f-4a86-8b8c-663149c36291
 :PUBDATE:  2023-02-09 jeu. 10:05
+:CUSTOM_ID: intraco-workshop-at-cesab-sep2022
 :END:
 
 *Sep. 19-23, 2022*\\
