@@ -16,9 +16,9 @@
 ** Research topics
 
 *** Community ecology
-   :PROPERTIES:
-   :CUSTOM_ID: community-ecology
-   :END:
+:PROPERTIES:
+:CUSTOM_ID: community-ecology
+:END:
 In ecology, a community is an assemblage of populations of two or more
 different species occupying the same geographical area. Community
 ecology encompasses the study of the interactions between species in
@@ -31,9 +31,9 @@ to improve forest management and enhance forest ecosystem services
 (wood production, biodiversity, carbon sequestration, etc.).
 
 **** Competition between species
-     :PROPERTIES:
-     :CUSTOM_ID: competition-between-species
-     :END:
+:PROPERTIES:
+:CUSTOM_ID: competition-between-species
+:END:
 Species can compete with each other for finite resources (e.g. water,
 nutrients or sunlight). Competition is considered to be an important
 mechanism determining population size, biomass and species richness in
@@ -43,9 +43,9 @@ basing our studies on species traits, demography and
 phylogeny. Selected references: [[https://doi.org/10.1007/s00442-010-1581-9][3]], [[https://doi.org/10.1111/j.1365-2745.2010.01751.x][4]], [[https://doi.org/10.1111/j.1461-0248.2012.01803.x][12]], [[https://doi.org/10.1038/nature16476][22]].
 
 **** Intraspecific variability
-     :PROPERTIES:
-     :CUSTOM_ID: intraspecific-variability
-     :END:
+:PROPERTIES:
+:CUSTOM_ID: intraspecific-variability
+:END:
 Intraspecific variability is the overall variability of biological
 characteristics (functional traits, life-history characteristics)
 expressed by individuals within a species. Observed intraspecific
@@ -57,9 +57,9 @@ intraspecific variability and we study its effect on species
 competition. Selected references: [[https://doi.org/10.1007/s00442-010-1581-9][3]], [[https://doi.org/10.1016/j.ppees.2011.04.003][5]], [[https://doi.org/10.1007/s12080-010-0095-8][8]].
 
 **** Rare species
-     :PROPERTIES:
-     :CUSTOM_ID: rare-species
-     :END:
+:PROPERTIES:
+:CUSTOM_ID: rare-species
+:END:
 A rare species is a group of organisms that are very uncommon or
 scarce in a community. In tropical forests, where the number of
 species may be greater than 100 per hectare, many species are rare and
@@ -77,9 +77,9 @@ from the few observations for each species.  Selected references:
 [[https://twoe.sourceforge.net][twoe]], [[https://doi.org/10.1371/journal.pone.0025330][6]], [[https://doi.org/10.1016/j.foreco.2014.05.059][18]].
 
 *** Conservation biology
-   :PROPERTIES:
-   :CUSTOM_ID: conservation-biology
-   :END:
+:PROPERTIES:
+:CUSTOM_ID: conservation-biology
+:END:
 Conservation biology is the scientific study of the nature and status
 of Earth's biodiversity with the aim of protecting species, their
 habitats, and ecosystems from excessive rates of extinction and the
@@ -89,9 +89,9 @@ to provide tools for conservation planning with the aim of reducing
 tropical deforestation and adapting to climate-change.
 
 **** Deforestation, carbon emissions, and biodiversity loss
-     :PROPERTIES:
-     :CUSTOM_ID: avoiding-deforestation
-     :END:
+:PROPERTIES:
+:CUSTOM_ID: avoiding-deforestation
+:END:
 Tropical deforestation is responsible for a major decline in
 biodiversity, for a considerable proportion (6-17%) of global carbon
 dioxide emissions that affect climate change and is the first step
@@ -106,9 +106,9 @@ causes of deforestation to improve conservation planning. Selected
 references: [[https://sourceforge.net/projects/phcfm/files/][phcfM]], [[https://doi.org/10.1186/1750-0680-7-2][9]], [[https://doi.org/10.1890/11-0039.1][11]], [[https://doi.org/10.1002/ece3.550][14]].
 
 **** Species vulnerability to climate change
-     :PROPERTIES:
-     :CUSTOM_ID: adaptation-to-climate-change
-     :END:
+:PROPERTIES:
+:CUSTOM_ID: adaptation-to-climate-change
+:END:
 Biodiversity is affected by current anthropogenic climate change.
 Although throughout Earth's history the climate has always changed
 with ecosystems and species coming and going, current rapid climate
@@ -125,9 +125,9 @@ increasing the effectiveness of present protected area
 networks. Selected references: [[https://ecology.ghislainv.fr/hSDM][hSDM]], [[https://doi.org/10.1016/j.biocon.2013.06.007][15]], [[https://doi.org/10.1111/1365-2745.12548][24]].
 
 *** Statistics applied to ecology
-   :PROPERTIES:
-   :CUSTOM_ID: statistics-applied-to-ecology
-   :END:
+:PROPERTIES:
+:CUSTOM_ID: statistics-applied-to-ecology
+:END:
 Statistical models can be used to draw inferences about the ecological
 process or population under study. Inference is a vital element of
 scientific advance, since it provides a way to draw conclusions from
@@ -152,8 +152,14 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 
 
 ** Research projects
+:PROPERTIES:
+:CUSTOM_ID: research-projects
+:END:
 
 *** METRADICA
+:PROPERTIES:
+:CUSTOM_ID: metradica
+:END:
 
 METRADICA: Mechanistic traits to predict shifts in tree species abundance and distribution with climate change in the Amazonian forest.
 
@@ -164,6 +170,9 @@ METRADICA: Mechanistic traits to predict shifts in tree species abundance and di
 - Coordination: Clément Stahl (INRAE, UMR Ecofog), Ghislain Vieilledent (Cirad, UMR AMAP).
 
 *** INTRACO
+:PROPERTIES:
+:CUSTOM_ID: intraco
+:END:
 
 INTRACO: Role of intraspecific variability in tree species coexistence in tropical forest.
 
@@ -175,6 +184,9 @@ INTRACO: Role of intraspecific variability in tree species coexistence in tropic
 - Website: webpage at [[https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/][CESAB]], webpage at [[https://www.idiv.de/en/working-groups/joint-cesab-sdiv-call.html][sDiv]].
 
 *** RELIQUES
+:PROPERTIES:
+:CUSTOM_ID: reliques
+:END:
 
 RELIQUES: Effect of forest fragmentation on biodiversity in ultramafic forests of New-Caledonia.
 
@@ -185,6 +197,9 @@ RELIQUES: Effect of forest fragmentation on biodiversity in ultramafic forests o
 - Coordination: Philippe Birnbaum (Cirad, UMR AMAP) and Nicolas Barbier (IRD, UMR AMAP).
 
 *** BIOSCENEMADA
+:PROPERTIES:
+:CUSTOM_ID: bioscenemada
+:END:
 
 BIOSCENEMADA: Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar.
 
@@ -196,6 +211,9 @@ BIOSCENEMADA: Biodiversity scenarios under the effect of climate change and futu
 - Website: [[https://bioscenemada.cirad.fr]].
 
 *** AT REDD+ MADA
+:PROPERTIES:
+:CUSTOM_ID: at-redd-mada
+:END:
 
 AT REDD+ MADA: Technical assistance for implementing REDD+ in Madagascar.
 

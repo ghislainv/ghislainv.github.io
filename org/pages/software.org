@@ -14,12 +14,21 @@
 #+TOC: headlines 2 :target #software
 
 ** Code repositories
+:PROPERTIES:
+:CUSTOM_ID: code-repositories
+:END:
 
 A complete list of code repositories is available on [[https://github.com/ghislainv][GitHub]].
 
 ** R packages
+:PROPERTIES:
+:CUSTOM_ID: r-packages
+:END:
 
 *** jSDM
+:PROPERTIES:
+:CUSTOM_ID: jsdm
+:END:
 
 =jSDM= is an R package for fitting joint species distribution models
 (JSDMs) in a hierarchical Bayesian framework. The Gibbs sampler is
@@ -28,6 +37,9 @@ efficiency. [[https://ecology.ghislainv.fr/jSDM]].
 
 
 *** hSDM
+:PROPERTIES:
+:CUSTOM_ID: hsdm
+:END:
 
 =hSDM= is an R package for fitting hierarchical Bayesian species
 distribution models (HSDMs). It includes functions to fit mixture
@@ -41,6 +53,9 @@ data-sets (typically with more than tens of thousands grid
 cells). [[https://ecology.ghislainv.fr/hSDM]].
 
 *** gecevar
+:PROPERTIES:
+:CUSTOM_ID: gecevar
+:END:
 
 =gecevar= provides a set of climatic and environmental data for a given
 area of interest (eg. country scale) that can be used for ecological
@@ -52,6 +67,9 @@ user. [[https://ecology.ghislainv.fr/gecevar]].
 
 
 *** MCMCpack (contribution to)
+:PROPERTIES:
+:CUSTOM_ID: mcmcpack
+:END:
    
 =MCMCpack= (Markov chain Monte Carlo Package) is an R package which
 includes functions to perform Bayesian inference using posterior
@@ -64,6 +82,9 @@ models, =MCMChlogit()= for Bernoulli models (logit link function), and
 function). [[https://cran.r-project.org/package=MCMCpack]].
 
 *** phcfM                                                        :noexport:
+:PROPERTIES:
+:CUSTOM_ID: phcfm
+:END:
   
 =phcfM= is an R package for modelling anthropogenic deforestation. It
 was initially developed to obtain REDD+ baseline scenarios of
@@ -88,15 +109,24 @@ for the demographic and deforestation models.
 =phcfM= website: https://sourceforge.net/projects/phcfm/files/.
 
 *** twoe
-   
+:PROPERTIES:
+:CUSTOM_ID: twoe
+:END:
+
 =twoe= (2e) is a software which aims first at estimating the
 demographic parameters of tropical tree species from permanent forest
 plot data (through an R package), and second at simulating forest
 dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe.sourceforge.net]].
 
 ** Python packages
+:PROPERTIES:
+:CUSTOM_ID: python-packages
+:END:
 
 *** forestatrisk
+:PROPERTIES:
+:CUSTOM_ID: forestatrisk
+:END:
 
 The =forestatrisk= Python package can be used to model the tropical
 deforestation spatially, predict the spatial risk of deforestation,
@@ -110,6 +140,9 @@ conservation status (eg. protected area) for
 example. https://ecology.ghislainv.fr/forestatrisk.
 
 *** pywdpa
+:PROPERTIES:
+:CUSTOM_ID: pywdpa
+:END:
 
 The =pywdpa= Python package is an interface to the World Database on
 Protected Areas (WDPA) hosted on the Protected Planet website at
@@ -122,6 +155,9 @@ functions of the R package =worldpa=
 language. https://ecology.ghislainv.fr/pywdpa.
 
 *** riskmapjnr
+:PROPERTIES:
+:CUSTOM_ID: riskmapjnr
+:END:
 
 The =riskmapjnr= Python package can be used to obtain maps of the
 spatial risk of deforestation and forest degradation following the

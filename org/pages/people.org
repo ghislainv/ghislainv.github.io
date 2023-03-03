@@ -11,10 +11,16 @@
 #+TOC: headlines 1 :target #people
 
 ** Principal investigator
+:PROPERTIES:
+:CUSTOM_ID: principal-investigator
+:END:
 
 [[file:ghislainv.org][*Ghislain Vieilledent*]], Cirad UMR AMAP, research scientist, /tropical forest ecology/.
 
 ** Post-docs
+:PROPERTIES:
+:CUSTOM_ID: post-docs
+:END:
 
 *Benjamin Deneu*, planned in 2023, Co-supervisors: Pierre Bonnet and Alexis Joly, INRIA, /Comparing convolutional neural network (CNN) and joint species distribution models (JSDM) for modelling ecological communities/, Current position: Post-doc in progress.
 
@@ -25,6 +31,9 @@
 *Dimitri Justeau-Allaire* (collaboration), 2021, Supervisor: Philippe Birnbaum, Institut Agronomique Calédonien, /New tools to generate fragmented landscapes and compute landscape connectivity/, Current position: Researcher at IRD, UMR AMAP.
 
 ** PhD students
+:PROPERTIES:
+:CUSTOM_ID: phd-students
+:END:
 
 *Jeanne Clément*, planned in 2023, Co-supervisor: Pierre Couteron, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Prédire la vulnérabilité des espèces d'arbres au changement climatique en forêt Guyanaise via l'utilisation de modèles joints de distribution des espèces/, Following the PhD thesis: PhD thesis in progress.
 
@@ -41,6 +50,9 @@
 *Nicolas Labrière* (collaboration), 2015, Supervisors: Yves Laumonier and Bruno Locatelli, AgroParisTech, Ecole doctorale ABIES, Thèse de doctorat, Sciences de l'environnement, /Services écosystémiques et biodiversité dans les paysages forestiers du nord de Bornéo/, Following the PhD thesis: Post-doctoral researcher, Unité EDB, University of Paul Sabatier, Toulouse, France.
 
 ** Master students
+:PROPERTIES:
+:CUSTOM_ID: master-students
+:END:
 
 *Pierre Guillaumont*, 2022, M2, Université de Montpellier, Statistique et Science des Données. Parcours Management de l'Information et de la Décision, /Classification des communautés d'arbres en Nouvelle-Calédonie à l'aide de modèle joint de distribution des espèces et développement du package “gecevar” pour l'obtention de variables climatiques et environnementales/, Following the internship: Developer, UMR AMAP, Montpellier, France.
 
@@ -71,5 +83,8 @@
 *Cindy Gidoin*, 2010, M2, Co-supervisor: Sylvie Gourlet-Fleury, Université Montpellier 2 Sciences et techniques, Fonctionnement des écosystèmes aquatiques et terrestres, naturels et anthropisés, /Effets de la composition spécifique, de l'intensité des perturbations et des conditions environnementales sur l'accroissement en biomasse aérienne en forêt tropicale humide/, Following the internship: Post-doctoral researcher, University of Zurich, Switzerland.
 
 ** Collaborators
+:PROPERTIES:
+:CUSTOM_ID: collaborators
+:END:
 
 A list of my collaborators is available on [[https://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr][Google Scholar]] and on the [[file:publications.html][publication]] page.

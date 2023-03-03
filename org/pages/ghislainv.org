@@ -11,9 +11,15 @@
 #+TOC: headlines 2 :target #cv
 
 ** Curriculum vit\aelig
+:PROPERTIES:
+:CUSTOM_ID: curriculum-vitae
+:END:
 
 *** Professional experiences
-   
+:PROPERTIES:
+:CUSTOM_ID: professional-experiences
+:END:
+
 *January 2019 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Research
 scientist/. Tropical forest ecology.
 
@@ -58,10 +64,16 @@ mathematics). 1996--1997: /Baccalauréat S with a major in
 mathematics/.
 
 *** Download CV
+:PROPERTIES:
+:CUSTOM_ID: download-cv
+:END:
 
 Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent_fr.pdf][French]] and English.
 
 ** Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
 
 Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F--34398 Montpellier, FRANCE\\
 ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\

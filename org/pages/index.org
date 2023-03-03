@@ -6,6 +6,9 @@
 [[file:images/banner.jpg]]
 
 * About
+:PROPERTIES:
+:CUSTOM_ID: about
+:END:
 
 #+attr_html: :id ID_picture
 [[file:images/identity/gv_id_gnupg.jpg]]
@@ -13,17 +16,26 @@
 👋 Hi, my name is Ghislain Vieilledent. I am an ecologist at [[https://www.cirad.fr][Cirad]], a French research center working with developing countries to tackle environmental and development issues. I am a member of the [[https://amap.cirad.fr][UMR AMAP]] joint research unit based in [[https://en.wikipedia.org/wiki/Montpellier][Montpellier]] (South of France). I have a [[file:ghislainv.html#background][background]] in biology and mathematics. My [[file:research.html][research]] focuses mainly on [[https://en.wikipedia.org/wiki/Tropical_forest][tropical forests]]. More particularly, I try to understand better the role of tropical forests in the global [[https://en.wikipedia.org/wiki/Carbon_cycle][carbon cycle]] and the impact of [[https://en.wikipedia.org/wiki/Climate_change][climate change]] and [[https://en.wikipedia.org/wiki/Deforestation][land-use change]] on tropical forest [[https://en.wikipedia.org/wiki/Biodiversity][biodiversity]]. I publish scientific [[file:publications.html][papers]] in [[https://en.wikipedia.org/wiki/Community_(ecology)][community ecology]], [[https://en.wikipedia.org/wiki/Conservation_biology][conservation biology]], and [[https://en.wikipedia.org/wiki/Statistics#Applications][applied statistics]]. For my research, I analyse data that are collected in the tropics. I also develop [[https://en.wikipedia.org/wiki/Theoretical_ecology][theoretical models]] to test new hypothesis in ecology. I use various statistical and computer tools to do so (including [[https://www.r-project.org/][R]] and [[https://www.python.org/][Python]]). My field work takes place mainly in Madagascar (where I have lived for three years), French Guiana, and New Caledonia. I spend most of my time writing [[file:software.html][code]] and [[file:publications.html][papers]] with [[https://www.gnu.org/software/emacs/][Emacs]], and supervising Master and PhD [[file:people.html][students]]. Major part of my research is done in collaboration with my [[file:people.html][students]] or [[file:people.html][fellow researchers]]. This website aims at presenting a broad view of these research activities.
 
 ** Group                                                          :noexport:
+:PROPERTIES:
+:CUSTOM_ID: group
+:END:
 
 =M-x ecology= is the website of our group of [[file:people.html][people]] working in [[https://en.wikipedia.org/wiki/Ecology][ecology]]. We are part of the [[https://amap.cirad.fr][UMR AMAP]] joint research unit based in [[https://en.wikipedia.org/wiki/Montpellier][Montpellier]] (South of France). Our [[file:research.html][research]] focuses mainly on [[https://en.wikipedia.org/wiki/Tropical_forest][tropical forests]]. More particularly, we try to understand better the role of tropical forests in the global [[https://en.wikipedia.org/wiki/Carbon_cycle][carbon cycle]] and the impact of [[https://en.wikipedia.org/wiki/Climate_change][climate change]] and [[https://en.wikipedia.org/wiki/Deforestation][land-use change]] on tropical forest [[https://en.wikipedia.org/wiki/Biodiversity][biodiversity]]. We publish scientific [[file:publications.html][papers]] in [[https://en.wikipedia.org/wiki/Community_(ecology)][community ecology]], [[https://en.wikipedia.org/wiki/Conservation_biology][conservation biology]], and [[https://en.wikipedia.org/wiki/Statistics#Applications][applied statistics]]. For our research, we analyse data that are collected in the tropics. Our field work takes place mainly in Madagascar, French Guiana, and New Caledonia but we also participate to synthesis works at the pantropical scale. We also develop [[https://en.wikipedia.org/wiki/Theoretical_ecology][theoretical models]] to test new hypothesis in ecology. We use various statistical and computer tools to do so (including [[https://www.r-project.org/][R]] and [[https://www.python.org/][Python]]). This website aims at presenting our group and a broad view of our research activities.
 
 ** Name                                                           :noexport:
+:PROPERTIES:
+:CUSTOM_ID: name
+:END:
 
 =M-x= is the keychord used in [[https://www.gnu.org/software/emacs/][Emacs]] to execute a command (it means press and release the =<Alt>= key -- previously known as the =<Meta>= key -- and the =x= key at the same time, followed by the command name). =M-x ecology= can thus be interpreted as a call for ecology. [[https://www.gnu.org/software/emacs/][Emacs]] is a fantastic free software to write code and scientific papers and interact with R and Python to analyse data or run models. The name =M-x ecology= has also been chosen to underline that our work is at the interface between ecology, statistics, and informatics.
 
 ** Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
 
 Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
-[[mailto:ghislain.vieilledent@cirad.fr][ghislain.vieilledent@cirad.fr]]\\
+ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
 You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
 
 #+attr_html: :alt RF :height 90 :style float:left;
