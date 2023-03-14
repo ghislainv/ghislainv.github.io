@@ -15,7 +15,7 @@
 
 ** Research topics
 :PROPERTIES:
-:CUSTOM_ID: research-topics
+:CUSTOM_ID: topics
 :END:
 
 *** Community ecology
@@ -156,7 +156,7 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 
 ** Research projects
 :PROPERTIES:
-:CUSTOM_ID: research-projects
+:CUSTOM_ID: projects
 :END:
 
 *** METRADICA
