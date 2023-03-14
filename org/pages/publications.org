@@ -69,9 +69,14 @@
 
 *Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.* 2022. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. /bioRxiv/: [[doi:10.1101/2022.08.06.503032][503032]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.08.06.503032v1.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/08/06/2022.08.06.503032/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.08.06.503032)}}}
 
-*Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2022. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.16.484259v2.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/07/28/2022.03.16.484259/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.16.484259)}}}
-
 *Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
+
+*** 2023
+:PROPERTIES:
+:CUSTOM_ID: yr2023
+:END:
+
+[46]. *Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /Ecology and Evolution/. *13* (3): e9860. {{{doi(10.1002/ece3.9860)}}}. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf(Girard-Tercieux2023-Ecology-and-Evolution.pdf)}}}, Supplementary materials {{{supp(Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf)}}} {{{altm(10.1002/ece3.9860)}}}
 
 *** 2022
 :PROPERTIES:
