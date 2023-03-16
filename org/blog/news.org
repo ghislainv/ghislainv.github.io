@@ -1,16 +1,39 @@
 #+title: ecology.ghislainv.fr -- News
 #+description: Ghislain Vieilledent -- Forest ecology and statistics
-#+author: Ghislain Vieilledent
-#+email: ghislain.vieilledent@cirad.fr
 #+setupfile: setup.org
 #+html_head_extra: <link rel="alternate" type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
 
 @@html:<h1>News</h1>@@
 
+* Metradica workshop in Montpellier                       :project:workshops:
+:PROPERTIES:
+:ID:       7af355cf-fe3a-4091-9247-e7a37480351e
+:CUSTOM_ID: metradica-workshop-montpellier
+:PUBDATE:  2023-03-10 Fri 15:05
+:END:
+
+*Mar. 10, 2023*\\
+We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023 for the [[file:research.html#metradica][METRADICA]] project. We had 12 participants in total along the week. We advanced the work on the different tasks of the project and discussed the first results obtained by Marion, Jeanne, and Salman since the beginning of their PhD and postdoc within the project.
+
+* Camille's first article on intraspecific variability     :article:students:
+:PROPERTIES:
+:ID:       963c802e-8f6e-4b6b-ad84-2e33476446aa
+:PUBDATE:  2023-03-09 Thu 14:36
+:CUSTOM_ID: camille-article-intraspecific-variability
+:END:
+
+*Mar. 9, 2023*\\
+The first [[https://doi.org/10.1002/ece3.9860][article]] of Camille's PhD has been accepted for publication in /Ecology and Evolution/. Congratulations Camille! I think this article is important to understand better the nature of intraspecific variability and improve our understanding of the coexistence of a large number of species competing for the same resources (the "biodiversity paradox") in hyper-diverse communities, such as tropical forests. In the article, we show that a large part of the intraspecific variability observed in trees can be associated with an incomplete characterization of the environment. We show that the large intraspecific variability observed in data does not imply species niche overlap and that individuals of the same species have more similar performances than individuals from different species in a given environment. These results have important implications for elucidating the biodiversity paradox. Community models achieving coexistence of a large number of species commonly rely on low-dimensional perfect trade-offs or neutral processes, which does not correspond to our naturalistic knowledge of species and habitats. We thus defend the idea of a multidimensional niche /à la/ Hutchinson to explain species coexistence. Each species is different and outperforms the others in a given environment, which varies in space and time in a high number of dimensions, thus allowing the coexistence of a large number of species.
+
+#+caption: *Apparent species niche overlap when considering a low dimensional environment.*
+[[file:images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg]]
+
+*Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /Ecology and Evolution/. *13* (3): e9860. {{{doi(10.1002/ece3.9860)}}}. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf(Girard-Tercieux2023-Ecology-and-Evolution.pdf)}}}, Supplementary materials {{{supp(Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf)}}} {{{altm(10.1002/ece3.9860)}}}
+
 * Video portrait by Cirad                                             :media:
 :PROPERTIES:
 :ID:       9bcf9999-3dd7-4988-8bd9-d1e3bb688ec0
-:PUBDATE:  2023-02-20 lun. 11:55
+:PUBDATE:  2023-02-20 Mon 11:55
 :CUSTOM_ID: video-portrait-by-cirad
 :END:
 
@@ -20,7 +43,7 @@ Cirad has produced a short [[https://www.youtube.com/watch?v=GjXfAs31018][video]
 * Release of riskmapjnr v1.2                                       :software:
 :PROPERTIES:
 :ID:       2e429f94-1dd9-4985-9e7a-0e21a69ee737
-:PUBDATE:  2023-02-11 sam. 08:34
+:PUBDATE:  2023-02-11 Sat 08:34
 :CUSTOM_ID: release-of-riskmapjnr-v1.2
 :END:
 
@@ -30,7 +53,7 @@ Version 1.2 of the [[https://ecology.ghislainv.fr/riskmapjnr][=riskmapjnr=]] Pyt
 * Story on Madagascar's baobabs                                       :media:
 :PROPERTIES:
 :ID:       0572c2dd-788a-4020-a31c-6fb24469f718
-:PUBDATE:  2023-02-09 jeu. 10:08
+:PUBDATE:  2023-02-09 Thu 10:08
 :CUSTOM_ID: story-on-madagascar-s-baobabs-natgeo
 :END:
 
@@ -40,17 +63,17 @@ Our [[https://doi.org/10.1111/gcb.15859][article]] about the vulnerability of Ma
 * Camille Girard-Tercieux PhD defense                              :students:
 :PROPERTIES:
 :ID:       1d3b8bff-ef58-4361-9b77-6ba7d2a407dd
-:PUBDATE:  2023-02-09 jeu. 10:07
+:PUBDATE:  2023-02-09 Thu 10:07
 :CUSTOM_ID: camille-girard-tercieux-php-defense
 :END:
 
 *Dec. 16, 2022*\\
 Congratulations to Camille who has brilliantly defended her PhD thesis at the University of Montpellier. Thanks to Aude Valade, Sean McMahon, and Björn Reineking for having accepted to be part of the jury. 
 
-* Mission to New Caledonia                                            :fieldwork:
+* Mission to New Caledonia                                        :fieldwork:
 :PROPERTIES:
 :ID:       dbed4f6d-7780-42a1-9554-3f297a8c9860
-:PUBDATE:  2023-02-09 jeu. 10:06
+:PUBDATE:  2023-02-09 Thu 10:06
 :CUSTOM_ID: mission-to-new-caledonia-nov2022
 :END:
 
@@ -60,7 +83,7 @@ Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The
 * INTRACO workshop at Cesab                                       :workshops:
 :PROPERTIES:
 :ID:       0f2fd6a2-567f-4a86-8b8c-663149c36291
-:PUBDATE:  2023-02-09 jeu. 10:05
+:PUBDATE:  2023-02-09 Thu 10:05
 :CUSTOM_ID: intraco-workshop-at-cesab-sep2022
 :END:
 

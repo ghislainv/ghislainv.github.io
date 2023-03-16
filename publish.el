@@ -21,6 +21,11 @@
   (unless (package-installed-p i-package)
     (package-install i-package)))
 
+;; System locale to use for formatting time values.
+(setq system-time-locale "C")         ; Make sure that the weekdays in the
+                                      ; time stamps of your Org mode files and
+                                      ; in the agenda appear in English.
+
 ;; Load the publishing system
 (require 'ox-publish)
 

@@ -1,5 +1,20 @@
 #+language:    en
+#+author: Ghislain Vieilledent
+#+email: ghislain.vieilledent@cirad.fr
 #+options:     author:t email:t H:6 num:nil title:nil toc:nil ^:{} ':t *:t
 #+property:    header-args :eval no-export
 #+export_select_tags: export
 #+export_exclude_tags: noexport
+
+#+macro: doi @@html:doi:<a href="https://doi.org/$1" target="_blank">$1</a>@@
+#+macro: pdf @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>@@
+#+macro: pdf_url @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>@@
+#+macro: supp @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a>@@
+#+macro: supp_url @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a>@@
+#+macro: Rscript @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-R.png" alt="logo-R.png"></a>@@
+#+macro: iucn @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-iucn.png" alt="logo-iucn.png"></a>@@
+#+macro: wos @@html:<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:$1" target="_blank"><img id=logo-link src="images/logos/logo_highly_cited_paper.png" alt="logo_highly_cited_paper.png"></a>@@
+#+macro: kmz @@html:<a href="publications/$1" target="_blank"><img id=logo-link src="images/logos/logo-GoogleEarth.png" alt="logo-GoogleEarth.png"></a>@@
+#+macro: github @@html:<a href="https://github.com/ghislainv/$1" target="_blank"><img id=logo-link src="images/logos/logo-github.png" alt="logo-github.png"></a>@@
+#+macro: dryad @@html:<a href="$1" target="_blank"><img id=logo-link src="images/logos/logo-dryad.png" alt="logo-dryad.png"></a>@@
+#+macro: altm @@html:<span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="$1" class="altmetric-embed"></span>@@
