@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Fri, 17 Mar 2023 10:32:59 +0000</pubDate>
-  <lastBuildDate>Fri, 17 Mar 2023 10:32:59 +0000</lastBuildDate>
+  <pubDate>Fri, 17 Mar 2023 15:11:57 +0000</pubDate>
+  <lastBuildDate>Fri, 17 Mar 2023 15:11:57 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -57,7 +57,7 @@
     </p>
 
 
-    <figure id="org6dfe0fa">
+    <figure id="org6e92139">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="max-width:var(--body-max-width);">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
