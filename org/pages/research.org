@@ -22,6 +22,8 @@
 :PROPERTIES:
 :CUSTOM_ID: community-ecology
 :END:
+
+#+name: bioscenemada
 In ecology, a community is an assemblage of populations of two or more
 different species occupying the same geographical area. Community
 ecology encompasses the study of the interactions between species in
@@ -159,71 +161,60 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :CUSTOM_ID: projects
 :END:
 
-*** METRADICA
+*** Project coordination
 :PROPERTIES:
-:CUSTOM_ID: metradica
+:CUSTOM_ID: project-coordination
 :END:
 
-METRADICA: Mechanistic traits to predict shifts in tree species abundance and distribution with climate change in the Amazonian forest.
+#+attr_html: :id metradica
+*2020 -- 2023* [[https://www.labex-ceba.fr/projets-strategiques/][*METRADICA*]], Mechanistic traits to predict shifts in tree species abundance and distribution with climate change in the Amazonian forest. *Labex CEBA*, Projets stratégiques, 200,000 \euro, 48 months. Partners: UMR AMAP (France), UMR Ecofog (French Guiana), UPR Forêts et Sociétés (France), UMR Silva (France). Coordination: Clément Stahl (INRAE, UMR Ecofog), Ghislain Vieilledent (Cirad, UMR AMAP).
 
-- 2020--2023 (48 months).
-- Partners: UMR AMAP (France), UMR Ecofog (French Guiana), UPR Forêts et Sociétés (France), UMR Silva (France).
-- Grant: LabEx CEBA (French Guiana), [[https://www.labex-ceba.fr/projets-strategiques/][Strategic Projects 2020-2023]].
-- Funding: 200,000 euros.
-- Coordination: Clément Stahl (INRAE, UMR Ecofog), Ghislain Vieilledent (Cirad, UMR AMAP).
+#+attr_html: :id intraco
+*2021 -- 2023* [[https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/][*INTRACO*]], Role of intraspecific variability in tree species coexistence in tropical forest. [[https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/][*FRB-Cesab*]] (France) -- [[https://www.idiv.de/en/working-groups/intraco.html][*sDiv*]] (Germany), [[https://www.fondationbiodiversite.fr/en/calls/joint-call-cesab-sdiv-synergy-coexistence-and-stability-high-diversity-communities/][Synergy Call 2019]], 4 workshops (\sim40,000 \euro), 24 months. Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several invited researchers. Coordination: Ghislain Vieilledent (Cirad, UMR AMAP), Isabelle Maréchaux (INRAE, UMR AMAP).
 
-*** INTRACO
+#+attr_html: :id bioscenemada
+*2014 -- 2019* [[https://bioscenemada.cirad.fr][*BIOSCENEMADA*]], Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar. *FRB -- FFEM*, [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/modelisation-scenarios/bioscenemada/][AAP-SCEN-2013-I]], 265,000 \euro, 60 months. Partners: Cirad, UMR AMAP (France), WCS and REBIOMA (Madagascar), ETC Terra (France), Office National pour l'Environnement (Madagascar). Coordination: Ghislain Vieilledent (Cirad, UMR AMAP).
+
+*** In charge of work-packages
 :PROPERTIES:
-:CUSTOM_ID: intraco
+:CUSTOM_ID: projects
 :END:
 
-INTRACO: Role of intraspecific variability in tree species coexistence in tropical forest.
+#+attr_html: :id reliques
+*2019 -- 2022* [[https://cnrt.nc/reliques][*RELIQUES*]], Effect of forest fragmentation on biodiversity in New-Caledonia. *CNRT*, 251,380 \euro, 36 months. Partners: Cirad, UMR AMAP (France), IRD, UMR AMAP (France), IRD, UMR IMBE (France). Coordination: Philippe Birnbaum (Cirad, UMR AMAP).
 
-- 2021-2023 (24 months).
-- Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several invited researchers.
-- Grant: CESAB (FRB, France) and sDiv (Germany), [[https://www.fondationbiodiversite.fr/en/calls/joint-call-cesab-sdiv-synergy-coexistence-and-stability-high-diversity-communities/][Synergy Call 2019]].
-- Funding: 4 workshops (~40,000 euros).
-- Coordination: Ghislain Vieilledent (Cirad, UMR AMAP), Isabelle Maréchaux (INRAE, UMR AMAP).
-- Website: webpage at [[https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/][CESAB]], webpage at [[https://www.idiv.de/en/working-groups/joint-cesab-sdiv-call.html][sDiv]].
-
-*** RELIQUES
+*** Participation in projects
 :PROPERTIES:
-:CUSTOM_ID: reliques
+:CUSTOM_ID: participation-projects
 :END:
 
-RELIQUES: Effect of forest fragmentation on biodiversity in ultramafic forests of New-Caledonia.
+#+attr_html: :id edene
+*2023 -- 2026* [[https://sites.google.com/view/edene][*EDENE*]], Ecological Dynamics behind species Extinctions in Novel Ecosystems. *ANR*, 302,165 \euro. Coordination: Robin Pouteau (IRD, UMR AMAP).
 
-- 2019--2022 (36 months).
-- Partners: Cirad, IRD, UMR AMAP (France).
-- Grant: CNRT Nickel et son environnement (Nouméa, NC), [[https://cnrt.nc/reliques/][CNRT-BIO-AAP-PS2017-4E.CB]].
-- Total cost: 546,749 euros. Funding: 251,600 euros.
-- Coordination: Philippe Birnbaum (Cirad, UMR AMAP) and Nicolas Barbier (IRD, UMR AMAP).
+#+attr_html: :id alt
+*2022 -- 2025* *ALT*, Amazonian Landscapes in Transition. *ANR*, 659,799 \euro. Coordination: Jérôme Chave (CNRS, Université de Toulouse).
 
-*** BIOSCENEMADA
+#+attr_html: :id guarden
+*2022 -- 2025* *GUARDEN*, safeGUARDing biodivErsity aNd critical ecosystem services across sectors and scales. *Union Européenne*, Horizon Europe, 4.5M \euro. Coordination: Pierre Bonnet (Cirad, UMR AMAP).
+
+#+attr_html: :id gambas
+*2019 -- 2023* *GAMBAS*, Generating Advances in Modeling Biodiversity And ecosystem Services (GAMBAS): statistical improvements and ecological relevance of joint species distribution models. *ANR*, 569,033 \euro. Coordination: Frédéric Mortier (Cirad, UPR Forêts et Sociétés).
+
+*** Consultancy works
 :PROPERTIES:
-:CUSTOM_ID: bioscenemada
+:CUSTOM_ID: consultancy-works
 :END:
 
-BIOSCENEMADA: Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar.
+# *2023* Validation de l'utilisation de cartes globales de déforestation en Nouvelle-Calédonie sur la période 2000--2010--2020 par photo-interprétation, *Oeil*, 12,000 \euro.
 
-- 2014--2019 (60 months).
-- Partners: Cirad, UMR AMAP (France), WCS and REBIOMA (Madagascar), ETC Terra (France), Office National pour l'Environnement (Madagascar).
-- Grant: FRB--FFEM (France), [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/modelisation-scenarios/bioscenemada/][AAP-SCEN-2013-I]].
-- Total cost: 265,000 euros. Funding: 140,000 euros.
-- Coordination: Ghislain Vieilledent (Cirad, UMR AMAP).
-- Website: [[https://bioscenemada.cirad.fr]].
+*2022* Developing the *riskmapjnr* Python package for obtaining map of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro.
 
-*** AT REDD+ MADA
-:PROPERTIES:
-:CUSTOM_ID: at-redd-mada
-:END:
+*2012 -- 2013* Technical assistance to Office National pour l'Environnement for implementing REDD+ in Madagascar. *AFD*, 290,210 \euro, 24 months. Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France). Coordination: Julia Randimbisoa (Helvetas).
 
-AT REDD+ MADA: Technical assistance for implementing REDD+ in Madagascar.
+*2012* Forest inventories and development of height-diameter allometric equations for Madagascar dry forests. *WWF*, 3500 \euro.
 
-- 2012--2013 (24 months).
-- Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France).
-- Grant: AFD (France).
-- Funding: 290,210 euros.
-- Coordination: Julia Randimbisoa (Helvetas).
+*2011 -- 2012* Modelling deforestation (intensity and location of the deforestation) in Madagascar. *GoodPlanet*, 9000 \euro.
+
+*2010 -- 2011* Developing biomass allometric equations for Madagascar forests. *WWF -- GoodPlanet*, 8750 \euro.
 
 # End
