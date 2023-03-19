@@ -8,8 +8,8 @@
 * Metradica workshop in Montpellier                       :project:workshops:
 :PROPERTIES:
 :ID:       7af355cf-fe3a-4091-9247-e7a37480351e
-:CUSTOM_ID: metradica-workshop-montpellier
 :PUBDATE:  2023-03-10 Fri 15:05
+:CUSTOM_ID: metradica-workshop-montpellier
 :END:
 
 *Mar. 10, 2023*\\
@@ -25,7 +25,7 @@ We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023
 *Mar. 9, 2023*\\
 The first [[https://doi.org/10.1002/ece3.9860][article]] of Camille's PhD has been accepted for publication in /Ecology and Evolution/. Congratulations Camille! I think this article is important to understand better the nature of intraspecific variability and improve our understanding of the coexistence of a large number of species competing for the same resources (the "biodiversity paradox") in hyper-diverse communities, such as tropical forests. In the article, we show that a large part of the intraspecific variability observed in trees can be associated with an incomplete characterization of the environment. We show that the large intraspecific variability observed in data does not imply species niche overlap and that individuals of the same species have more similar performances than individuals from different species in a given environment. These results have important implications for elucidating the biodiversity paradox. Community models achieving coexistence of a large number of species commonly rely on low-dimensional perfect trade-offs or neutral processes, which does not correspond to our naturalistic knowledge of species and habitats. We thus defend the idea of a multidimensional niche /à la/ Hutchinson to explain species coexistence. Each species is different and outperforms the others in a given environment, which varies in space and time in a high number of dimensions, thus allowing the coexistence of a large number of species.
 
-#+attr_html: :style max-width:var(--body-max-width);
+#+attr_html: :style display:block;margin:auto;max-width:80%;
 #+caption: *Apparent species niche overlap when considering a low dimensional environment.*
 [[file:images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg]]
 
@@ -39,7 +39,7 @@ The first [[https://doi.org/10.1002/ece3.9860][article]] of Camille's PhD has be
 :END:
 
 *Feb. 20, 2023*\\
-Cirad has produced a short [[https://www.youtube.com/watch?v=GjXfAs31018][video]] to present some of my work on tropical forests. This video is part of a series of [[https://www.youtube.com/@LeCIRAD/search?query=portrait][portraits]] of people working at Cirad to illustrate the diversity of people and professions at the institute.
+Cirad has produced a short [[https://www.youtube.com/watch?v=4kxdB6Jd4Nw][video]] to present some of my work on tropical forests. This video is part of a series of [[https://www.youtube.com/@LeCIRAD/search?query=portrait][portraits]] of people working at Cirad to illustrate the diversity of people and professions at the institute.
 
 * Release of riskmapjnr v1.2                                       :software:
 :PROPERTIES:

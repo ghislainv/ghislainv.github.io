@@ -43,6 +43,6 @@ You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link
 #+attr_html: :alt Cirad :height 70 :style float:left;
 [[https://www.cirad.fr/en/][file:images/logos/logo-Cirad.png]]
 #+attr_html: :alt AMAP :height 70
-[[https://amap.cirad.fr][file:images/logos/Logo_AMAP.jpg]]
+[[https://amap.cirad.fr][file:images/logos/Logo_AMAP.jpg]]\\
 
 # End
