@@ -38,11 +38,17 @@ Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
 ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
 You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
 
-#+attr_html: :alt RF :height 90 :style float:left;
-[[https://www.cirad.fr/en/][file:images/logos/Logo_RF.jpg]]
-#+attr_html: :alt Cirad :height 70 :style float:left;
-[[https://www.cirad.fr/en/][file:images/logos/logo-Cirad.png]]
-#+attr_html: :alt AMAP :height 70
-[[https://amap.cirad.fr][file:images/logos/Logo_AMAP.jpg]]\\
+#+begin_export html
+<a href="https://www.cirad.fr/en/" alt="RF" height="90"><img src="images/logos/Logo_RF.jpg" alt="RF" height="90"></a>
+<a href="https://www.cirad.fr/en/" alt="Cirad" height="70"><img src="images/logos/logo-Cirad.png" alt="Cirad" height="70"></a>
+<a href="https://amap.cirad.fr" alt="AMAP" height="70"><img src="images/logos/Logo_AMAP.jpg" alt="AMAP" height="70"></a>
+#+end_export
+
+# #+attr_html: :alt RF :height 90 :style float:left;
+# [[https://www.cirad.fr/en/][file:images/logos/Logo_RF.jpg]]
+# #+attr_html: :alt Cirad :height 70 :style float:left;
+# [[https://www.cirad.fr/en/][file:images/logos/logo-Cirad.png]]
+# #+attr_html: :alt AMAP :height 70
+# [[https://amap.cirad.fr][file:images/logos/Logo_AMAP.jpg]]
 
 # End
