@@ -207,7 +207,7 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 
 # *2023* Validation de l'utilisation de cartes globales de déforestation en Nouvelle-Calédonie sur la période 2000--2010--2020 par photo-interprétation, *Oeil*, 12,000 \euro.
 
-*2022* Developing the *riskmapjnr* Python package for obtaining map of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro.
+*2022* Developing the *riskmapjnr* Python package for obtaining maps of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro.
 
 *2012 -- 2013* Technical assistance to Office National pour l'Environnement for implementing REDD+ in Madagascar. *AFD*, 290,210 \euro, 24 months. Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France). Coordination: Julia Randimbisoa (Helvetas).
 

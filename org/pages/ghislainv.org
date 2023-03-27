@@ -68,7 +68,7 @@ mathematics/.
 :CUSTOM_ID: download-cv
 :END:
 
-Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent_fr.pdf][French]] and English.
+Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent_en.pdf][English]] and [[https://github.com/ghislainv/cv/raw/master/cv_ghislain_vieilledent_fr.pdf][French]].
 
 ** Contact
 :PROPERTIES:

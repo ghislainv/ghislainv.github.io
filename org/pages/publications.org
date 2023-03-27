@@ -48,8 +48,6 @@
 
 **Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.** 2023. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/.
 
-**Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.** 2023. Forest and tree species distribution on the ultramafic substrate of New Caledonia. /Botany Letters/.
-
 **Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** Exploring intraspecific wood density variation with the Global Wood Density Database v2. /Global Change Biology/.
 
 **Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** A global map of wood density. /Nature Plant/.
@@ -75,6 +73,8 @@
 :PROPERTIES:
 :CUSTOM_ID: yr2023
 :END:
+
+[47]. *Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
 
 [46]. *Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /Ecology and Evolution/. *13* (3): e9860. {{{doi(10.1002/ece3.9860)}}}. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf(Girard-Tercieux2023-Ecology-and-Evolution.pdf)}}}, Supplementary materials {{{supp(Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf)}}} {{{altm(10.1002/ece3.9860)}}}
 
