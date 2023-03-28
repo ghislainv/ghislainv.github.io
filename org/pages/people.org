@@ -15,7 +15,7 @@
 :CUSTOM_ID: principal-investigator
 :END:
 
-[[file:ghislainv.org][*Ghislain Vieilledent*]], Cirad UMR AMAP, research scientist, /tropical forest ecology/.
+[[file:ghislainv.html][*Ghislain Vieilledent*]], Cirad UMR AMAP, research scientist, /tropical forest ecology/.
 
 ** Post-docs
 :PROPERTIES:
