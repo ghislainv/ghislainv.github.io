@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Fri, 31 Mar 2023 16:46:11 +0000</pubDate>
-  <lastBuildDate>Fri, 31 Mar 2023 16:46:11 +0000</lastBuildDate>
+  <pubDate>Fri, 31 Mar 2023 16:53:05 +0000</pubDate>
+  <lastBuildDate>Fri, 31 Mar 2023 16:53:05 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -29,7 +29,7 @@
   </p>
 
   <item>
-    <title>Tree species occurrences on ultramafic soils in New Caledonia</title>
+    <title>Tree species on ultramafic soils in New Caledonia</title>
     <link>https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</link>
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
     <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</guid>
@@ -41,7 +41,7 @@
     </p>
 
 
-    <figure id="org7267e4b">
+    <figure id="org2afa698">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -82,7 +82,7 @@
     </p>
 
 
-    <figure id="orgb6db6a0">
+    <figure id="orgead8241">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
