@@ -5,6 +5,22 @@
 
 @@html:<h1>News</h1>@@
 
+* Tree species occurrences on ultramafic soils in New Caledonia     :article:
+:PROPERTIES:
+:CUSTOM_ID: article-tree-occurrences-new-caledonia
+:ID:       fc82945b-4e28-4c82-976c-d872300bfffb
+:PUBDATE:  2023-03-31 Fri 18:36
+:END:
+
+*Mar. 31, 2023*\\
+Philippe Birnbaum and Thomas Ibanez from UMR AMAP have compiled an impressive data-set of 169,376 tree occurrences in New Caledonia. Trees from this data-set belong to 1176 species, 93 families, and 285 genera. Occurrences were retrieved from the New Caledonian Plant Inventory and Permanent Plot Network ([[https://niamoto.nc/peuplement/][NC-PIPPN]]), the Herbarium of New Caledonia database ([[http://publish.plantnet-project.org/project/nou][NOU]]), [[https://www.gbif.org][GBIF]], and other additional datasets. Among these species, 303 species (28%) were found preferentially (>90% of their occurrences) on ultramafic soils, and 62 species were found exclusively on this type of soils. Ultramafic soils, which cover 33% of New Caledonia, exhibit low concentration of nutrients (N, P, and K), and high concentration of magnesium (Mg) causing calcium (Ca) deficiency (low Ca/Mg ratio) or Mg toxicity. They also often exhibit high concentration of potentially phytotoxic elements such as nickel (Ni), manganese (Mn), or chromium (Cr), and are generally low in water-holding capacity. Evolution have thus selected tree species with unique adaptative strategies to grow and survive in this constrained environment. According to the results of the article, 91% of the tree species found on ultramafic soils are endemic to New Caledonia. Interestingly, tree communities on ultramafic soils in New Caledonia were found to be different depending on the location of the ultramafic areas, suggesting that other environmental factors than soil filter species and determine species assemblage. Tree species found preferentially on ultramafic soils are potentially threatened by mining activities, for the extraction of nickel in particular. In the article, authors underline the fact that the protected area network should be extended to cover more of the ultramafic areas in New Caledonia.
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.*
+[[file:images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png]]
+
+*Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
+
 * Metradica workshop in Montpellier                       :project:workshops:
 :PROPERTIES:
 :ID:       7af355cf-fe3a-4091-9247-e7a37480351e
