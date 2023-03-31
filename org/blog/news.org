@@ -5,7 +5,7 @@
 
 @@html:<h1>News</h1>@@
 
-* Tree species occurrences on ultramafic soils in New Caledonia     :article:
+* Tree species on ultramafic soils in New Caledonia                 :article:
 :PROPERTIES:
 :CUSTOM_ID: article-tree-occurrences-new-caledonia
 :ID:       fc82945b-4e28-4c82-976c-d872300bfffb
