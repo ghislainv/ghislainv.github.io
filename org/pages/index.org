@@ -1,4 +1,4 @@
-s#+title: ecology.ghislainv.fr -- About
+#+title: ecology.ghislainv.fr -- About
 #+description: Ghislain Vieilledent -- Forest ecology and statistics
 #+setupfile: setup.org
 
