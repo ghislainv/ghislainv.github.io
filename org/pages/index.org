@@ -1,4 +1,4 @@
-#+title: ecology.ghislainv.fr -- About
+s#+title: ecology.ghislainv.fr -- About
 #+description: Ghislain Vieilledent -- Forest ecology and statistics
 #+setupfile: setup.org
 
@@ -36,7 +36,7 @@
 
 Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
 ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
-You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
+You can also find me on @@html:<a class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a rel="me" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
 
 #+begin_export html
 <a href="https://www.cirad.fr/en/" alt="RF" height="90"><img src="images/logos/Logo_RF.jpg" alt="RF" height="90"></a>
