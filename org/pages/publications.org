@@ -42,19 +42,17 @@
 :CUSTOM_ID: in-prep
 :END:
 
-**Clément J., F. Gosselin, P. Couteron, and G. Vieilledent.** 2023. =jSDM=: an R package to fit joint species distribution models. /Methods in Ecology and Evolution/.
+*Clément J., F. Gosselin, P. Couteron, and G. Vieilledent.* 2023. =jSDM=: an R package to fit joint species distribution models. /Methods in Ecology and Evolution/.
 
-**Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.** 2023. Lidar-derived canopy structure is a better predictor of diversity, function and microclimate than distance to forest edge. /Journal of Ecology/.
+*Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.* 2023. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/.
 
-**Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.** 2023. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/.
+*Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* Exploring intraspecific wood density variation with the Global Wood Density Database v2. /Global Change Biology/.
 
-**Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** Exploring intraspecific wood density variation with the Global Wood Density Database v2. /Global Change Biology/.
+*Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* A global map of wood density. /Nature Plant/.
 
-**Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.** A global map of wood density. /Nature Plant/.
+*Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent,A. Cescatti, F. Achard.* Recovery of tropical moist forests after degradation and deforestation. /Nature/.
 
-**Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent,A. Cescatti, F. Achard.** Recovery of tropical moist forests after degradation and deforestation. /Nature/.
-
-**Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.** Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
+*Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
 
 *** Preprints
 :PROPERTIES:
@@ -73,6 +71,8 @@
 :PROPERTIES:
 :CUSTOM_ID: yr2023
 :END:
+
+[48]. *Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.* 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. /Journal of Ecology/. {{{doi(10.1111/1365-2745.14105)}}}. {{{pdf(Blanchard2023-JoE.pdf)}}}, Supplementary materials {{{supp(Blanchard2023-JoE-SM.pdf)}}} {{{altm(10.1111/1365-2745.14105)}}}
 
 [47]. *Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
 
