@@ -5,11 +5,41 @@
 
 @@html:<h1>News</h1>@@
 
+* PhD position within the ANR EDENE project                        :position:
+:PROPERTIES:
+:ID:       bdbb5f1b-af50-4830-b90e-457e5e4649ad
+:CUSTOM_ID: phd-position-edene-project
+:PUBDATE:  2023-05-10 Wed 18:48
+:END:
+
+*May 10, 2023*\\
+We have opened a PhD position within the ANR [[https://sites.google.com/view/edene][EDENE]] project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31^{st} of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the [[https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337][AMAP website]].
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;border-radius:10px;
+#+caption: *The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau.*
+[[file:images/blog/Dombeya.jpg]]
+
+* Canopy structure modulates edge effect in forests                 :article:
+:PROPERTIES:
+:ID:       7231ef85-77b4-4f69-9303-499251388eae
+:PUBDATE:  2023-05-09 Tue 10:46
+:CUSTOM_ID: article-canopy-structure-edge-effect-new-caledonia
+:END:
+
+*May 09, 2023*\\
+Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m^{2} located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 [[https://www.onsetcomp.com/products/data-loggers/u23-001a][HOBO]] data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km^{2} including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.*
+[[file:images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png]]
+
+*Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.* 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. /Journal of Ecology/. {{{doi(10.1111/1365-2745.14105)}}}. {{{pdf(Blanchard2023-JoE.pdf)}}}, Supplementary materials {{{supp(Blanchard2023-JoE-SM.pdf)}}} {{{altm(10.1111/1365-2745.14105)}}}
+
 * Tree species on ultramafic soils in New Caledonia                 :article:
 :PROPERTIES:
-:CUSTOM_ID: article-tree-occurrences-new-caledonia
 :ID:       fc82945b-4e28-4c82-976c-d872300bfffb
 :PUBDATE:  2023-03-31 Fri 18:36
+:CUSTOM_ID: article-tree-occurrences-new-caledonia
 :END:
 
 *Mar. 31, 2023*\\
@@ -90,8 +120,8 @@ Congratulations to Camille who has brilliantly defended her PhD thesis at the Un
 * Mission to New Caledonia                                        :fieldwork:
 :PROPERTIES:
 :ID:       dbed4f6d-7780-42a1-9554-3f297a8c9860
-:PUBDATE:  2023-02-09 Thu 10:06
 :CUSTOM_ID: mission-to-new-caledonia-nov2022
+:PUBDATE:  2023-02-09 Thu 10:06
 :END:
 
 *Oct. 11, 2022 -- Nov. 28, 2022*\\
@@ -100,8 +130,8 @@ Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The
 * INTRACO workshop at Cesab                                       :workshops:
 :PROPERTIES:
 :ID:       0f2fd6a2-567f-4a86-8b8c-663149c36291
-:PUBDATE:  2023-02-09 Thu 10:05
 :CUSTOM_ID: intraco-workshop-at-cesab-sep2022
+:PUBDATE:  2023-02-09 Thu 10:05
 :END:
 
 *Sep. 19-23, 2022*\\
