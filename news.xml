@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Sun, 30 Apr 2023 17:24:09 +0000</pubDate>
-  <lastBuildDate>Sun, 30 Apr 2023 17:24:09 +0000</lastBuildDate>
+  <pubDate>Wed, 10 May 2023 16:54:43 +0000</pubDate>
+  <lastBuildDate>Wed, 10 May 2023 16:54:43 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -27,6 +27,52 @@
   <p>
     <h1>News</h1>
   </p>
+
+  <item>
+    <title>PhD position within the ANR EDENE project</title>
+    <link>https://ecology.ghislainv.fr/news.html#phd-position-edene-project</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#phd-position-edene-project</guid>
+    <pubDate>Wed, 10 May 2023 18:48:00 +0000</pubDate>
+    <category><![CDATA[position]]></category>
+    <description><![CDATA[<p>
+    <b>May 10, 2023</b><br>
+    We have opened a PhD position within the ANR <a href="https://sites.google.com/view/edene">EDENE</a> project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31<sup>st</sup> of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the <a href="https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337">AMAP website</a>.
+    </p>
+
+
+    <figure id="org084e1e4">
+    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" style="display:block;margin:auto;max-width:80%;border-radius:10px;">
+
+    <figcaption><span class="figure-number">Figure 1: </span><b>The Réunion endemic tree <i>Dombeya ficulnea</i> (foreground) in a dense thicket of the alien small tree <i>Psidium cattleyanum</i> (background). Photo by Robin Pouteau.</b></figcaption>
+    </figure>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>Canopy structure modulates edge effect in forests</title>
+    <link>https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</guid>
+    <pubDate>Tue, 09 May 2023 10:46:00 +0000</pubDate>
+    <category><![CDATA[article]]></category>
+    <description><![CDATA[<p>
+    <b>May 09, 2023</b><br>
+    Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m<sup>2</sup> located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 <a href="https://www.onsetcomp.com/products/data-loggers/u23-001a">HOBO</a> data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km<sup>2</sup> including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
+    </p>
+
+
+    <figure id="org0d4ebe0">
+    <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
+
+    <figcaption><span class="figure-number">Figure 2: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+    </figure>
+
+    <p>
+    <b>Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.</b> 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. <i>Journal of Ecology</i>. doi:<a href="https://doi.org/10.1111/1365-2745.14105" target="_blank">10.1111/1365-2745.14105</a>. <a href="publications/Blanchard2023-JoE.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Blanchard2023-JoE-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1111/1365-2745.14105" class="altmetric-embed"></span>
+    </p>
+    ]]></description>
+  </item>
 
   <item>
     <title>Tree species on ultramafic soils in New Caledonia</title>
@@ -41,10 +87,10 @@
     </p>
 
 
-    <figure id="org1660daa">
+    <figure id="orgbd199cc">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 1: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 3: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
     </figure>
 
     <p>
@@ -82,10 +128,10 @@
     </p>
 
 
-    <figure id="org118e075">
+    <figure id="org4d42d1c">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 2: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 4: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
     </figure>
 
     <p>
