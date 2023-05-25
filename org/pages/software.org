@@ -40,12 +40,16 @@ efficiency. [[https://ecology.ghislainv.fr/jSDM]].
 :PROPERTIES:
 :CUSTOM_ID: hsdm
 :END:
+# [[https://github.com/ghislainv/hSDM/actions/workflows/check-standard.yaml][https://github.com/ghislainv/hSDM/workflows/R-CMD-check/badge.svg]]
+# [[https:/cran.r-project.org/package=hSDM][https://www.r-pkg.org/badges/version/hSDM]]
+# [[https://doi.org/10.5281/zenodo.594920][https://zenodo.org/badge/DOI/10.5281/zenodo.594920.svg]]
+# [[https:/cran.r-project.org/package=hSDM][https://cranlogs.r-pkg.org/badges/grand-total/hSDM]]
 
 =hSDM= is an R package for fitting hierarchical Bayesian species
 distribution models (HSDMs). It includes functions to fit mixture
 models (site-occupancy, N-mixture, ZIB, and ZIP models) accounting for
 imperfect detection, excess of zeros in the observations, and spatial
-autocorrelation (through an intrinsic CAR process). Functions uses an
+autocorrelation (through an intrinsic CAR process). Functions use an
 adaptive Metropolis within Gibbs algorithm written in C code. This
 makes parameter inference faster than with software commonly used to
 fit such models (such as JAGS) and allows analyzing very large

@@ -59,7 +59,7 @@
 :CUSTOM_ID: preprints
 :END:
 
-*Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2022. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v2.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/07/23/2022.03.22.485306/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.22.485306)}}}
+*Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2023. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v3.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2023/05/12/2022.03.22.485306/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.22.485306)}}}
 
 *Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
 
