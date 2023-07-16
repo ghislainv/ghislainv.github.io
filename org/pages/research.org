@@ -177,7 +177,7 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 
 *** In charge of work-packages
 :PROPERTIES:
-:CUSTOM_ID: projects
+:CUSTOM_ID: project-wp
 :END:
 
 #+attr_html: :id reliques

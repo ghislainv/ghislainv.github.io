@@ -5,6 +5,38 @@
 
 @@html:<h1>News</h1>@@
 
+* Collecting soil samples in French Guiana                        :fieldwork:
+:PROPERTIES:
+:ID:       ca007d25-639e-4b15-b077-8135f71d4f1b
+:CUSTOM_ID: soil-samples-metradica
+:PUBDATE:  2023-07-13 Thu 18:00
+:END:
+
+*July 13, 2023*
+#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :title Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana.
+[[file:images/blog/Soil_samples_metradica.jpg]]
+
+For the [[file:research.html#projects][METRADICA]] project, Vincent Freycon and I did a field mission in French Guiana to collect tropical forest soil samples. We spent some days in the forest at /Montagne de Kaw/, /Montagne Tortue/, /Piste de Saint-Elie/, and [[https://paracou.cirad.fr][/Paracou/]]. Several people helped us dig soil pits and collect samples including Pierre-André Wagner, Clément Stahl, Benoît Burban, Jocelyn Cazal, Michel Baisie, and Olivier Brunaux. We have learnt a lot from Vincent who shared his knowledge and long experience studying tropical soils. Samples will be sent to the [[https://us-analyses.cirad.fr/][Cirad soil laboratory]] to measure soil particule size distribution (clay, silt, and sand contents), and soil water retention (in particular, the field capacity and the permanent wilting point). These measurements will be added to a regional soil database that will be used to derive maps of soil texture and plant water availability for French Guiana. This work will be performed by Salman who is doing his post-doc within the METRADICA project. More accurate information on soils should help us understand better the distribution of tree species in French Guiana and anticipate species range shifts under climate change.
+
+#+html: <br style="clear:both;" />
+
+* INTRACO workshop at Cesab #5                                     :workshop:
+:PROPERTIES:
+:ID:       819da751-ac3f-4c21-a62b-a3e720a2eeae
+:CUSTOM_ID: intraco-workshop-at-cesab-june2023
+:PUBDATE:  2023-06-23 Fri 09:00
+:END:
+
+*June 23, 2023*
+#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :title Coexisting tree species in a New Caledonian tropical forest.
+[[file:images/blog/Intraco.jpg]]
+
+We organized the 5th [[file:research.html#projects][INTRACO]] workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this paper do not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+
+#+html: <br style="clear:both;" />
+
 * PhD position within the ANR EDENE project                        :position:
 :PROPERTIES:
 :ID:       bdbb5f1b-af50-4830-b90e-457e5e4649ad
@@ -12,12 +44,14 @@
 :PUBDATE:  2023-05-10 Wed 18:48
 :END:
 
-*May 10, 2023*\\
+*May 10, 2023*
+#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :title The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau.
+[[file:images/blog/Dombeya.jpg]]
+
 We have opened a PhD position within the ANR [[https://sites.google.com/view/edene][EDENE]] project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31^{st} of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the [[https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337][AMAP website]].
 
-#+attr_html: :style display:block;margin:auto;max-width:80%;border-radius:10px;
-#+caption: *The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau.*
-[[file:images/blog/Dombeya.jpg]]
+#+html: <br style="clear:both;" />
 
 * Canopy structure modulates edge effect in forests                 :article:
 :PROPERTIES:
@@ -125,9 +159,9 @@ Congratulations to Camille who has brilliantly defended her PhD thesis at the Un
 :END:
 
 *Oct. 11, 2022 -- Nov. 28, 2022*\\
-Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
+Mission to New-Caledonia for the end of the [[file:research.html#projects][RELIQUES]] project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
 
-* INTRACO workshop at Cesab                                       :workshops:
+* INTRACO workshop at Cesab #4                                    :workshop:
 :PROPERTIES:
 :ID:       0f2fd6a2-567f-4a86-8b8c-663149c36291
 :CUSTOM_ID: intraco-workshop-at-cesab-sep2022
@@ -135,4 +169,4 @@ Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The
 :END:
 
 *Sep. 19-23, 2022*\\
-INTRACO workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
+[[file:research.html#projects][INTRACO]] workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
