@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Thu, 25 May 2023 15:41:14 +0000</pubDate>
-  <lastBuildDate>Thu, 25 May 2023 15:41:14 +0000</lastBuildDate>
+  <pubDate>Sun, 16 Jul 2023 19:25:21 +0000</pubDate>
+  <lastBuildDate>Sun, 16 Jul 2023 19:25:21 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -29,6 +29,54 @@
   </p>
 
   <item>
+    <title>Collecting soil samples in French Guiana</title>
+    <link>https://ecology.ghislainv.fr/news.html#soil-samples-metradica</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#soil-samples-metradica</guid>
+    <pubDate>Thu, 13 Jul 2023 18:00:00 +0000</pubDate>
+    <category><![CDATA[fieldwork]]></category>
+    <description><![CDATA[<p>
+    <b>July 13, 2023</b>
+    </p>
+
+    <figure id="orga2f476e">
+    <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+
+    </figure>
+
+    <p>
+    For the <a href="research.html#projects">METRADICA</a> project, Vincent Freycon and I did a field mission in French Guiana to collect tropical forest soil samples. We spent some days in the forest at <i>Montagne de Kaw</i>, <i>Montagne Tortue</i>, <i>Piste de Saint-Elie</i>, and <a href="https://paracou.cirad.fr"><i>Paracou</i></a>. Several people helped us dig soil pits and collect samples including Pierre-André Wagner, Clément Stahl, Benoît Burban, Jocelyn Cazal, Michel Baisie, and Olivier Brunaux. We have learnt a lot from Vincent who shared his knowledge and long experience studying tropical soils. Samples will be sent to the <a href="https://us-analyses.cirad.fr/">Cirad soil laboratory</a> to measure soil particule size distribution (clay, silt, and sand contents), and soil water retention (in particular, the field capacity and the permanent wilting point). These measurements will be added to a regional soil database that will be used to derive maps of soil texture and plant water availability for French Guiana. This work will be performed by Salman who is doing his post-doc within the METRADICA project. More accurate information on soils should help us understand better the distribution of tree species in French Guiana and anticipate species range shifts under climate change.
+    </p>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
+
+  <item>
+    <title>INTRACO workshop at Cesab #5</title>
+    <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</guid>
+    <pubDate>Fri, 23 Jun 2023 09:00:00 +0000</pubDate>
+    <category><![CDATA[workshop]]></category>
+    <description><![CDATA[<p>
+    <b>June 23, 2023</b>
+    </p>
+
+    <figure id="org2aadb3d">
+    <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+
+    </figure>
+
+    <p>
+    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this paper do not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+    </p>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
+
+  <item>
     <title>PhD position within the ANR EDENE project</title>
     <link>https://ecology.ghislainv.fr/news.html#phd-position-edene-project</link>
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
@@ -36,16 +84,19 @@
     <pubDate>Wed, 10 May 2023 18:48:00 +0000</pubDate>
     <category><![CDATA[position]]></category>
     <description><![CDATA[<p>
-    <b>May 10, 2023</b><br>
+    <b>May 10, 2023</b>
+    </p>
+
+    <figure id="org23f43c2">
+    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+
+    </figure>
+
+    <p>
     We have opened a PhD position within the ANR <a href="https://sites.google.com/view/edene">EDENE</a> project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31<sup>st</sup> of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the <a href="https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337">AMAP website</a>.
     </p>
 
-
-    <figure id="org17480bf">
-    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" style="display:block;margin:auto;max-width:80%;border-radius:10px;">
-
-    <figcaption><span class="figure-number">Figure 1: </span><b>The Réunion endemic tree <i>Dombeya ficulnea</i> (foreground) in a dense thicket of the alien small tree <i>Psidium cattleyanum</i> (background). Photo by Robin Pouteau.</b></figcaption>
-    </figure>
+    <br style="clear:both;" />
     ]]></description>
   </item>
 
@@ -62,10 +113,10 @@
     </p>
 
 
-    <figure id="org110ca5b">
+    <figure id="orgf34d3ce">
     <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 2: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 1: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
     </figure>
 
     <p>
@@ -87,10 +138,10 @@
     </p>
 
 
-    <figure id="orge7dff4c">
+    <figure id="org9ccfceb">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 3: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 2: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
     </figure>
 
     <p>
@@ -128,10 +179,10 @@
     </p>
 
 
-    <figure id="org4bec1aa">
+    <figure id="orgea6bdd4">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 4: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 3: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
     </figure>
 
     <p>
@@ -205,21 +256,21 @@
     <category><![CDATA[fieldwork]]></category>
     <description><![CDATA[<p>
     <b>Oct. 11, 2022 -- Nov. 28, 2022</b><br>
-    Mission to New-Caledonia for the end of the RELIQUES project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
+    Mission to New-Caledonia for the end of the <a href="research.html#projects">RELIQUES</a> project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
     </p>
     ]]></description>
   </item>
 
   <item>
-    <title>INTRACO workshop at Cesab</title>
+    <title>INTRACO workshop at Cesab #4</title>
     <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</link>
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
     <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</guid>
     <pubDate>Thu, 09 Feb 2023 10:05:00 +0000</pubDate>
-    <category><![CDATA[workshops]]></category>
+    <category><![CDATA[workshop]]></category>
     <description><![CDATA[<p>
     <b>Sep. 19-23, 2022</b><br>
-    INTRACO workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
+    <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
     </p>
     ]]></description>
   </item>
