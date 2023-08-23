@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Fri, 21 Jul 2023 09:08:38 +0000</pubDate>
-  <lastBuildDate>Fri, 21 Jul 2023 09:08:38 +0000</lastBuildDate>
+  <pubDate>Wed, 23 Aug 2023 16:09:32 +0000</pubDate>
+  <lastBuildDate>Wed, 23 Aug 2023 16:09:32 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,7 +39,7 @@
     <b>July 13, 2023</b>
     </p>
 
-    <figure id="org1b221f7">
+    <figure id="org808f25e">
     <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
@@ -63,13 +63,13 @@
     <b>June 23, 2023</b>
     </p>
 
-    <figure id="orgdc47868">
+    <figure id="orgaf2ef1b">
     <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
 
     <p>
-    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model do not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
     </p>
 
     <br style="clear:both;" />
@@ -87,7 +87,7 @@
     <b>May 10, 2023</b>
     </p>
 
-    <figure id="org802f8e9">
+    <figure id="orgc47e043">
     <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
@@ -113,7 +113,7 @@
     </p>
 
 
-    <figure id="orgcacce2f">
+    <figure id="orgcffe747">
     <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -138,7 +138,7 @@
     </p>
 
 
-    <figure id="org6baf8cd">
+    <figure id="orgfe87661">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -179,7 +179,7 @@
     </p>
 
 
-    <figure id="org1e81c1d">
+    <figure id="org72e7000">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
