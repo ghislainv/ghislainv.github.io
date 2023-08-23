@@ -72,9 +72,9 @@
 :CUSTOM_ID: yr2023
 :END:
 
-[48]. *Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.* 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. /Journal of Ecology/. *111* (7): 1411--1427 {{{doi(10.1111/1365-2745.14105)}}}. {{{pdf(Blanchard2023-JoE.pdf)}}}, Supplementary materials {{{supp(Blanchard2023-JoE-SM.pdf)}}} {{{altm(10.1111/1365-2745.14105)}}}
+[48]. *Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.* 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. /Journal of Ecology/. *111* (7): 1411--1427. {{{doi(10.1111/1365-2745.14105)}}}. {{{pdf(Blanchard2023-JoE.pdf)}}}, Supplementary materials {{{supp(Blanchard2023-JoE-SM.pdf)}}} {{{altm(10.1111/1365-2745.14105)}}}
 
-[47]. *Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. *170* (3): 333--337 {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
+[47]. *Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. *170* (3): 333--337. {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
 
 [46]. *Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.* 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. /Ecology and Evolution/. *13* (3): e9860. {{{doi(10.1002/ece3.9860)}}}. /bioRxiv/: [[doi:10.1101/2022.03.16.484259][484259]]. {{{pdf(Girard-Tercieux2023-Ecology-and-Evolution.pdf)}}}, Supplementary materials {{{supp(Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf)}}} {{{altm(10.1002/ece3.9860)}}}
 
