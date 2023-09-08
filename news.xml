@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Wed, 23 Aug 2023 16:22:25 +0000</pubDate>
-  <lastBuildDate>Wed, 23 Aug 2023 16:22:25 +0000</lastBuildDate>
+  <pubDate>Fri, 08 Sep 2023 16:39:21 +0000</pubDate>
+  <lastBuildDate>Fri, 08 Sep 2023 16:39:21 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,7 +39,7 @@
     <b>July 13, 2023</b>
     </p>
 
-    <figure id="orgdbb0937">
+    <figure id="org84c0c25">
     <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
@@ -63,7 +63,7 @@
     <b>June 23, 2023</b>
     </p>
 
-    <figure id="orgb32576d">
+    <figure id="org5db8cb1">
     <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
@@ -87,7 +87,7 @@
     <b>May 10, 2023</b>
     </p>
 
-    <figure id="org0aa79a2">
+    <figure id="orgcf1c60f">
     <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
 
     </figure>
@@ -113,7 +113,7 @@
     </p>
 
 
-    <figure id="org687760c">
+    <figure id="org0d52f37">
     <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -138,7 +138,7 @@
     </p>
 
 
-    <figure id="orgfef5da5">
+    <figure id="org6da5222">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -179,7 +179,7 @@
     </p>
 
 
-    <figure id="org201e568">
+    <figure id="org2ee15b2">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
