@@ -119,7 +119,7 @@
 	 )
 	("static"
 	 :base-directory ,mywebsite-base-directory
-	 :base-extension "ico\\|html\\|css\\|scss\\|woff2\\|jpg\\|gif\\|png\\|txt\\|pdf\\|zip\\|kmz\\|R\\|docx"
+	 :base-extension "ico\\|html\\|css\\|scss\\|woff2\\|jpg\\|gif\\|png\\|txt\\|pdf\\|zip\\|kmz\\|R\\|docx\\|svg"
 	 :recursive t
 	 :include ("CNAME" ".nojekyll" "keybase.txt")
 	 :publishing-directory ,mywebsite-publish-directory
