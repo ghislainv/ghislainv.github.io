@@ -1,9 +1,37 @@
 #+title: ecology.ghislainv.fr -- News
 #+description: Ghislain Vieilledent -- Forest ecology and statistics
 #+setupfile: setup.org
+#+tags: article(a) fieldwork(f) media(m) position(p) project(j) student(s) software(t) workshop(w)
 #+html_head_extra: <link rel="alternate" type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
 
-@@html:<h1>News</h1>@@
+@@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
+
+* Last INTRACO workshop at sDiv #6                                 :workshop:
+:PROPERTIES:
+:ID:       834126ca-02dc-4e82-ad7d-32111f873350
+:CUSTOM_ID: intraco-workshop-at-sdiv-sept2023
+:PUBDATE:  2023-09-29 Fri 09:00
+:END:
+
+*September 29, 2023*
+#+attr_html: :class blog_thumbnail :style margin-bottom:20px;
+#+attr_html: :title Group photo at sDiv in Leipzig in September 2023.
+[[file:images/blog/Intraco-group-photo-Leipzig-2023.jpg]]
+
+The last [[file:research.html#projects][INTRACO]] workshop took place at sDiv in Leipzig from September 26 to 29, 2023. We discussed the review of Camille's second paper on including random unstructured intraspecific variability in community dynamics models. We also started interpreting the results comparing intraspecific vs. interspecific correlations in growth and fecundity for different forest types.
+
+#+html: <br style="clear:both;" />
+
+* Article on tropical forests in /Le Figaro/                          :media:
+:PROPERTIES:
+:ID:       f3369ebb-d642-40e8-bc14-231410d66847
+:CUSTOM_ID: article-tropical-forests-le-figaro
+:PUBDATE:  2023-08-28 Mon 09:00
+:END:
+
+*August 28, 2023*
+
+The [[file:images/blog/article_figaro_forets_tropicales_20230826.pdf][article]] in Le Figaro (the second-largest national newspaper in France), presents the results of two scientific studies. The first study published in [[https://doi.org/10.1126/sciadv.adg9175][/Science Advances/]] shows that the productivity of tropical reforestation in Central America will decline sharply and continuously by -11% per degree of warming above 29°C of mean annual temperature. As a result, following high-emission pathways could reduce the effectiveness of reforestation as a climate action tool. The second study published in [[https://doi.org/10.1038/s41586-023-06391-z][/Nature/]] suggests that a tipping point in metabolic function in tropical forests could occur with 3.9 \pm 0.5°C of additional warming. Authors used a value of 46.7°C for $T_{crit}$, the temperature at which irreversible damage to the photosynthetic machinery occurs. The +4.0°C estimate is within the "worst-case scenario" (RCP 8.5) of climate change predictions for tropical forests. Massive tree deaths in tropical forests could therefore be avoided if we mitigate global warming by not following RCP 8.5.
 
 * Collecting soil samples in French Guiana                        :fieldwork:
 :PROPERTIES:
@@ -13,7 +41,7 @@
 :END:
 
 *July 13, 2023*
-#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :class blog_thumbnail
 #+attr_html: :title Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana.
 [[file:images/blog/Soil_samples_metradica.jpg]]
 
@@ -29,11 +57,11 @@ For the [[file:research.html#projects][METRADICA]] project, Vincent Freycon and 
 :END:
 
 *June 23, 2023*
-#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :class blog_thumbnail
 #+attr_html: :title Coexisting tree species in a New Caledonian tropical forest.
 [[file:images/blog/Intraco.jpg]]
 
-We organized the 5th [[file:research.html#projects][INTRACO]] workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+We organized the 5th [[file:research.html#projects][INTRACO]] workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forests to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
 
 #+html: <br style="clear:both;" />
 
@@ -45,7 +73,7 @@ We organized the 5th [[file:research.html#projects][INTRACO]] workshop at Cesab 
 :END:
 
 *May 10, 2023*
-#+attr_html: :style float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;
+#+attr_html: :class blog_thumbnail
 #+attr_html: :title The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau.
 [[file:images/blog/Dombeya.jpg]]
 
@@ -85,7 +113,7 @@ Philippe Birnbaum and Thomas Ibanez from UMR AMAP have compiled an impressive da
 
 *Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.* 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. /Botany Letters/. {{{doi(10.1080/23818107.2023.2181216)}}}. {{{pdf(Birnbaum2023-BotanyLetters.pdf)}}} {{{altm(10.1080/23818107.2023.2181216)}}}
 
-* Metradica workshop in Montpellier                       :project:workshops:
+* Metradica workshop in Montpellier                       :project:workshop:
 :PROPERTIES:
 :ID:       7af355cf-fe3a-4091-9247-e7a37480351e
 :PUBDATE:  2023-03-10 Fri 15:05
@@ -95,7 +123,7 @@ Philippe Birnbaum and Thomas Ibanez from UMR AMAP have compiled an impressive da
 *Mar. 10, 2023*\\
 We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023 for the [[file:research.html#metradica][METRADICA]] project. We had 12 participants in total along the week. We advanced the work on the different tasks of the project and discussed the first results obtained by Marion, Jeanne, and Salman since the beginning of their PhD and postdoc within the project.
 
-* Camille's first article on intraspecific variability     :article:students:
+* Camille's first article on intraspecific variability     :article:student:
 :PROPERTIES:
 :ID:       963c802e-8f6e-4b6b-ad84-2e33476446aa
 :PUBDATE:  2023-03-09 Thu 14:36
@@ -141,7 +169,7 @@ Version 1.2 of the [[https://ecology.ghislainv.fr/riskmapjnr][=riskmapjnr=]] Pyt
 *Feb. 8, 2023*\\
 Our [[https://doi.org/10.1111/gcb.15859][article]] about the vulnerability of Madagascar's baobabs to climate change has been cited in a [[https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change][story]] on the National Geographic website.
 
-* Camille Girard-Tercieux PhD defense                              :students:
+* Camille Girard-Tercieux PhD defense                              :student:
 :PROPERTIES:
 :ID:       1d3b8bff-ef58-4361-9b77-6ba7d2a407dd
 :PUBDATE:  2023-02-09 Thu 10:07

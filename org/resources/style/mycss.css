@@ -92,6 +92,13 @@ footer a {
     border-radius: 5px;
 }
 
+img.blog_thumbnail {
+    float: left;
+    margin: 0px 10px 0px 0px;
+    width: 220px;
+    border-radius: 5px;
+}
+
 h5 {
     color: var(---tx-3);
 }

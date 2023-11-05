@@ -50,9 +50,13 @@
 
 *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* A global map of wood density. /Nature Plant/.
 
-*Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent,A. Cescatti, F. Achard.* Recovery of tropical moist forests after degradation and deforestation. /Nature/.
+*Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent, A. Cescatti, and F. Achard.* Recovery of tropical moist forests after degradation and deforestation. /Nature/.
 
-*Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
+*Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, and C. Stahl.* Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
+
+*Yang H., S. Wang, R. Son, H. Lee, V. Benson, W. Zhang, Y. Zhang, Y. Zhang, J. Kattge, D. Schepaschenko, Z. Karaszewski, S. Krzysztof, A. Moreno-Martínez, C. Nabais, P. Birnbaum, G. Vieilledent, U. Weber, and N. Carvalhais*. Global patterns of tree wood density.
+
+*Neugarten R., R. Rasolofoson, C. Barrett, G. Vieilledent, and A. Rodewald* The effect of a political crisis on performance of community- and state-managed forests in Madagascar. /Nature Communications/.
 
 *** Preprints
 :PROPERTIES:

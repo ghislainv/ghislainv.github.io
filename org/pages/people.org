@@ -35,9 +35,11 @@
 :CUSTOM_ID: phd-students
 :END:
 
-[[https://jeanneclement.github.io/][*Jeanne Clément*]], planned in 2023, Co-supervisor: Pierre Couteron, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Prédire la vulnérabilité des espèces d'arbres au changement climatique en forêt Guyanaise via l'utilisation de modèles joints de distribution des espèces/, Following the PhD thesis: PhD thesis in progress.
+*Margaux Rojat* (collaboration), planned in 2026, Supervisors: Robin Pouteau and Raphaël Pélissier, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Interactions biotiques entre les plantes exotiques envahissantes et les arbres menacés endémiques des Mascareignes/, Following the PhD thesis: PhD thesis in progress.
 
-[[https://fr.linkedin.com/in/camille-girard-tercieux][*Camille Girard-Tercieux*]], 2022, Co-supervisors: Raphaël Pélissier and Isabelle Maréchaux, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Rôle de la variabilité intra-spécifique dans la coexistence des espèces en forêt tropicale/, Following the PhD thesis: Currently unemployed.
+[[https://jeanneclement.github.io/][*Jeanne Clément*]], 2023, Co-supervisor: Pierre Couteron, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Prédire la vulnérabilité des espèces d'arbres au changement climatique en forêt Guyanaise via l'utilisation de modèles joints de distribution des espèces/, Following the PhD thesis: Mathematics teacher.
+
+[[https://fr.linkedin.com/in/camille-girard-tercieux][*Camille Girard-Tercieux*]], 2022, Co-supervisors: Raphaël Pélissier and Isabelle Maréchaux, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Rôle de la variabilité intra-spécifique dans la coexistence des espèces en forêt tropicale/, Following the PhD thesis: Ecology and agronomy teacher.
 
 [[https://www.researchgate.net/profile/Mario-M-Tagliari][*Mario M. Tagliari*]], 2021, Co-supervisor: Nivaldo Peroni, Université Fédérale de Santa Catarina (UFSC), Florianopolis, Brésil, PhD in ecology, Ecologia geral, etnoecologia e conservação, /Distribuição futura da Araucaria angustifolia: aspectos etnoecológicos e populacionais na dinâmica espaço-temporal na paisagem cultural da Floresta Ombrófila Mista/, Following the PhD thesis: Professor na Faculdade Municipal de Meio Ambiente (FAMA), Clevelândia, Paraná, Brésil.
 
