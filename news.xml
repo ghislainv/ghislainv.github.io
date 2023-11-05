@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Sat, 09 Sep 2023 08:07:03 +0000</pubDate>
-  <lastBuildDate>Sat, 09 Sep 2023 08:07:03 +0000</lastBuildDate>
+  <pubDate>Sun, 05 Nov 2023 16:36:51 +0000</pubDate>
+  <lastBuildDate>Sun, 05 Nov 2023 16:36:51 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -25,8 +25,49 @@
   </image>
 
   <p>
-    <h1>News</h1>
+    <h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>
   </p>
+
+  <item>
+    <title>Last INTRACO workshop at sDiv #6</title>
+    <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</guid>
+    <pubDate>Fri, 29 Sep 2023 09:00:00 +0000</pubDate>
+    <category><![CDATA[workshop]]></category>
+    <description><![CDATA[<p>
+    <b>September 29, 2023</b>
+    </p>
+
+    <figure id="org924b76d">
+    <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
+
+    </figure>
+
+    <p>
+    The last <a href="research.html#projects">INTRACO</a> workshop took place at sDiv in Leipzig from September 26 to 29, 2023. We discussed the review of Camille's second paper on including random unstructured intraspecific variability in community dynamics models. We also started interpreting the results comparing intraspecific vs. interspecific correlations in growth and fecundity for different forest types.
+    </p>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
+
+  <item>
+    <title>Article on tropical forests in /Le Figaro/</title>
+    <link>https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</guid>
+    <pubDate>Mon, 28 Aug 2023 09:00:00 +0000</pubDate>
+    <category><![CDATA[media]]></category>
+    <description><![CDATA[<p>
+    <b>August 28, 2023</b>
+    </p>
+
+    <p>
+    The <a href="images/blog/article_figaro_forets_tropicales_20230826.pdf">article</a> in Le Figaro (the second-largest national newspaper in France), presents the results of two scientific studies. The first study published in <a href="https://doi.org/10.1126/sciadv.adg9175"><i>Science Advances</i></a> shows that the productivity of tropical reforestation in Central America will decline sharply and continuously by -11% per degree of warming above 29°C of mean annual temperature. As a result, following high-emission pathways could reduce the effectiveness of reforestation as a climate action tool. The second study published in <a href="https://doi.org/10.1038/s41586-023-06391-z"><i>Nature</i></a> suggests that a tipping point in metabolic function in tropical forests could occur with 3.9 &plusmn; 0.5°C of additional warming. Authors used a value of 46.7°C for \(T_{crit}\), the temperature at which irreversible damage to the photosynthetic machinery occurs. The +4.0°C estimate is within the "worst-case scenario" (RCP 8.5) of climate change predictions for tropical forests. Massive tree deaths in tropical forests could therefore be avoided if we mitigate global warming by not following RCP 8.5.
+    </p>
+    ]]></description>
+  </item>
 
   <item>
     <title>Collecting soil samples in French Guiana</title>
@@ -39,8 +80,8 @@
     <b>July 13, 2023</b>
     </p>
 
-    <figure id="orge168865">
-    <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+    <figure id="orgc3daead">
+    <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
     </figure>
 
@@ -63,13 +104,13 @@
     <b>June 23, 2023</b>
     </p>
 
-    <figure id="org9b4eb89">
-    <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+    <figure id="org575d143">
+    <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
     </figure>
 
     <p>
-    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forest to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forests to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
     </p>
 
     <br style="clear:both;" />
@@ -87,8 +128,8 @@
     <b>May 10, 2023</b>
     </p>
 
-    <figure id="org7974a05">
-    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." style="float:left;margin:0px 10px 0px 0px;width:320px;border-radius:10px;">
+    <figure id="orgbc51499">
+    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
     </figure>
 
@@ -113,7 +154,7 @@
     </p>
 
 
-    <figure id="org79abb8f">
+    <figure id="org9941f2b">
     <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -138,7 +179,7 @@
     </p>
 
 
-    <figure id="org90882de">
+    <figure id="org4b3a4fd">
     <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -157,7 +198,7 @@
     <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#metradica-workshop-montpellier</guid>
     <pubDate>Fri, 10 Mar 2023 15:05:00 +0000</pubDate>
     <category><![CDATA[project]]></category>
-    <category><![CDATA[workshops]]></category>
+    <category><![CDATA[workshop]]></category>
     <description><![CDATA[<p>
     <b>Mar. 10, 2023</b><br>
     We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023 for the <a href="research.html#metradica">METRADICA</a> project. We had 12 participants in total along the week. We advanced the work on the different tasks of the project and discussed the first results obtained by Marion, Jeanne, and Salman since the beginning of their PhD and postdoc within the project.
@@ -172,14 +213,14 @@
     <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-article-intraspecific-variability</guid>
     <pubDate>Thu, 09 Mar 2023 14:36:00 +0000</pubDate>
     <category><![CDATA[article]]></category>
-    <category><![CDATA[students]]></category>
+    <category><![CDATA[student]]></category>
     <description><![CDATA[<p>
     <b>Mar. 9, 2023</b><br>
     The first <a href="https://doi.org/10.1002/ece3.9860">article</a> of Camille's PhD has been accepted for publication in <i>Ecology and Evolution</i>. Congratulations Camille! I think this article is important to understand better the nature of intraspecific variability and improve our understanding of the coexistence of a large number of species competing for the same resources (the "biodiversity paradox") in hyper-diverse communities, such as tropical forests. In the article, we show that a large part of the intraspecific variability observed in trees can be associated with an incomplete characterization of the environment. We show that the large intraspecific variability observed in data does not imply species niche overlap and that individuals of the same species have more similar performances than individuals from different species in a given environment. These results have important implications for elucidating the biodiversity paradox. Community models achieving coexistence of a large number of species commonly rely on low-dimensional perfect trade-offs or neutral processes, which does not correspond to our naturalistic knowledge of species and habitats. We thus defend the idea of a multidimensional niche <i>à la</i> Hutchinson to explain species coexistence. Each species is different and outperforms the others in a given environment, which varies in space and time in a high number of dimensions, thus allowing the coexistence of a large number of species.
     </p>
 
 
-    <figure id="org3271524">
+    <figure id="org138f07c">
     <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
@@ -239,7 +280,7 @@
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
     <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-girard-tercieux-php-defense</guid>
     <pubDate>Thu, 09 Feb 2023 10:07:00 +0000</pubDate>
-    <category><![CDATA[students]]></category>
+    <category><![CDATA[student]]></category>
     <description><![CDATA[<p>
     <b>Dec. 16, 2022</b><br>
     Congratulations to Camille who has brilliantly defended her PhD thesis at the University of Montpellier. Thanks to Aude Valade, Sean McMahon, and Björn Reineking for having accepted to be part of the jury. 
