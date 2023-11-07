@@ -94,7 +94,7 @@ footer a {
 
 img.blog_thumbnail {
     float: left;
-    margin: 0px 10px 0px 0px;
+    margin: 5px 10px 0px 0px;
     width: 220px;
     border-radius: 5px;
 }
