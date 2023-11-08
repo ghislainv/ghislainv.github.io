@@ -87,8 +87,7 @@ footer a {
     float: left;
     width: 100px;
     height: 100px;
-    margin-right: 10px;
-    margin-bottom: 0px;
+    margin: 7.5px 10px 0px 0px;
     border-radius: 5px;
 }
 
