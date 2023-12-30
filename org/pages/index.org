@@ -34,14 +34,16 @@
 :CUSTOM_ID: contact
 :END:
 
-Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
+(1) Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
+(2) Institut Agronomique néo-Calédonien (IAC), Nouméa, NEW CALEDONIA\\
 ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
 You can also find me on @@html:<a class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a rel="me" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
 
 #+begin_export html
-<a href="https://www.cirad.fr/en/" alt="RF" height="90"><img src="images/logos/Logo_RF.jpg" alt="RF" height="90"></a>
-<a href="https://www.cirad.fr/en/" alt="Cirad" height="70"><img src="images/logos/logo-Cirad.png" alt="Cirad" height="70"></a>
-<a href="https://amap.cirad.fr" alt="AMAP" height="70"><img src="images/logos/Logo_AMAP.jpg" alt="AMAP" height="70"></a>
+<a href="https://www.cirad.fr/en/"><img src="images/logos/Logo_RF.jpg" alt="logo RF" height="90"></a>
+<a href="https://www.cirad.fr/en/"><img src="images/logos/logo-Cirad.png" alt="logo Cirad" height="70"></a>
+<a href="https://amap.cirad.fr/"><img src="images/logos/Logo_AMAP.jpg" alt="logo AMAP" height="70"></a>
+<a href="https://www.iac.nc/"><img src="images/logos/Logo_IAC.png" alt="logo IAC" height="70"></a>
 #+end_export
 
 # #+attr_html: :alt RF :height 90 :style float:left;

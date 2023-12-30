@@ -35,7 +35,7 @@
 :CUSTOM_ID: phd-students
 :END:
 
-*Margaux Rojat* (collaboration), planned in 2026, Supervisors: Robin Pouteau and Raphaël Pélissier, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Interactions biotiques entre les plantes exotiques envahissantes et les arbres menacés endémiques des Mascareignes/, Following the PhD thesis: PhD thesis in progress.
+[[https://sites.google.com/view/edene/blog?authuser=0#h.u3j0kna10p6d][*Margaux Rojat*]] (collaboration), planned in 2026, Supervisors: Robin Pouteau and Raphaël Pélissier, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Interactions biotiques entre les plantes exotiques envahissantes et les arbres menacés endémiques des Mascareignes/, Following the PhD thesis: PhD thesis in progress.
 
 [[https://jeanneclement.github.io/][*Jeanne Clément*]], 2023, Co-supervisor: Pierre Couteron, Université de Montpellier, Ecole doctorale GAIA, Thèse de doctorat, filière EERGP (Ecologie, Evolution, Ressources Génétiques, Paléontologie), /Prédire la vulnérabilité des espèces d'arbres au changement climatique en forêt Guyanaise via l'utilisation de modèles joints de distribution des espèces/, Following the PhD thesis: Mathematics teacher.
 
