@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Sat, 30 Dec 2023 06:26:15 +0000</pubDate>
-  <lastBuildDate>Sat, 30 Dec 2023 06:26:15 +0000</lastBuildDate>
+  <pubDate>Thu, 11 Jan 2024 22:06:53 +0000</pubDate>
+  <lastBuildDate>Thu, 11 Jan 2024 22:06:53 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -29,291 +29,349 @@
   </p>
 
   <item>
-    <title>Last INTRACO workshop at sDiv #6</title>
-    <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</link>
+    <title>New article by Camille on using variance for representing intraspecific variability</title>
+    <link>https://ecology.ghislainv.fr/news.html#camille-article-beyond-variance</link>
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</guid>
-    <pubDate>Fri, 29 Sep 2023 09:00:00 +0000</pubDate>
-    <category><![CDATA[workshop]]></category>
-    <description><![CDATA[<p>
-    <b>September 29, 2023</b>
-    </p>
-
-    <figure id="orgd3ebbb8">
-    <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
-
-    </figure>
-
-    <p>
-    The last <a href="research.html#projects">INTRACO</a> workshop took place at sDiv in Leipzig from September 26 to 29, 2023. We discussed the review of Camille's second paper on including random unstructured intraspecific variability in community dynamics models. We also started interpreting the results comparing intraspecific vs. interspecific correlations in growth and fecundity for different forest types.
-    </p>
-
-    <br style="clear:both;" />
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Article on tropical forests in /Le Figaro/</title>
-    <link>https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</guid>
-    <pubDate>Mon, 28 Aug 2023 09:00:00 +0000</pubDate>
-    <category><![CDATA[media]]></category>
-    <description><![CDATA[<p>
-    <b>August 28, 2023</b>
-    </p>
-
-    <p>
-    The <a href="images/blog/article_figaro_forets_tropicales_20230826.pdf">article</a> in Le Figaro (the second-largest national newspaper in France), presents the results of two scientific studies. The first study published in <a href="https://doi.org/10.1126/sciadv.adg9175"><i>Science Advances</i></a> shows that the productivity of tropical reforestation in Central America will decline sharply and continuously by -11% per degree of warming above 29°C of mean annual temperature. As a result, following high-emission pathways could reduce the effectiveness of reforestation as a climate action tool. The second study published in <a href="https://doi.org/10.1038/s41586-023-06391-z"><i>Nature</i></a> suggests that a tipping point in metabolic function in tropical forests could occur with 3.9 &plusmn; 0.5°C of additional warming. Authors used a value of 46.7°C for \(T_{crit}\), the temperature at which irreversible damage to the photosynthetic machinery occurs. The +4.0°C estimate is within the "worst-case scenario" (RCP 8.5) of climate change predictions for tropical forests. Massive tree deaths in tropical forests could therefore be avoided if we mitigate global warming by not following RCP 8.5.
-    </p>
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Collecting soil samples in French Guiana</title>
-    <link>https://ecology.ghislainv.fr/news.html#soil-samples-metradica</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#soil-samples-metradica</guid>
-    <pubDate>Thu, 13 Jul 2023 18:00:00 +0000</pubDate>
-    <category><![CDATA[fieldwork]]></category>
-    <description><![CDATA[<p>
-    <b>July 13, 2023</b>
-    </p>
-
-    <figure id="org20fa8e5">
-    <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
-
-    </figure>
-
-    <p>
-    For the <a href="research.html#projects">METRADICA</a> project, Vincent Freycon and I did a field mission in French Guiana to collect tropical forest soil samples. We spent some days in the forest at <i>Montagne de Kaw</i>, <i>Montagne Tortue</i>, <i>Piste de Saint-Elie</i>, and <a href="https://paracou.cirad.fr"><i>Paracou</i></a>. Several people helped us dig soil pits and collect samples including Pierre-André Wagner, Clément Stahl, Benoît Burban, Jocelyn Cazal, Michel Baisie, and Olivier Brunaux. We have learnt a lot from Vincent who shared his knowledge and long experience studying tropical soils. Samples will be sent to the <a href="https://us-analyses.cirad.fr/">Cirad soil laboratory</a> to measure soil particule size distribution (clay, silt, and sand contents), and soil water retention (in particular, the field capacity and the permanent wilting point). These measurements will be added to a regional soil database that will be used to derive maps of soil texture and plant water availability for French Guiana. This work will be performed by Salman who is doing his post-doc within the METRADICA project. More accurate information on soils should help us understand better the distribution of tree species in French Guiana and anticipate species range shifts under climate change.
-    </p>
-
-    <br style="clear:both;" />
-    ]]></description>
-  </item>
-
-  <item>
-    <title>INTRACO workshop at Cesab #5</title>
-    <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</guid>
-    <pubDate>Fri, 23 Jun 2023 09:00:00 +0000</pubDate>
-    <category><![CDATA[workshop]]></category>
-    <description><![CDATA[<p>
-    <b>June 23, 2023</b>
-    </p>
-
-    <figure id="org60feb6a">
-    <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
-
-    </figure>
-
-    <p>
-    We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forests to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
-    </p>
-
-    <br style="clear:both;" />
-    ]]></description>
-  </item>
-
-  <item>
-    <title>PhD position within the ANR EDENE project</title>
-    <link>https://ecology.ghislainv.fr/news.html#phd-position-edene-project</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#phd-position-edene-project</guid>
-    <pubDate>Wed, 10 May 2023 18:48:00 +0000</pubDate>
-    <category><![CDATA[position]]></category>
-    <description><![CDATA[<p>
-    <b>May 10, 2023</b>
-    </p>
-
-    <figure id="orgd1ed454">
-    <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
-
-    </figure>
-
-    <p>
-    We have opened a PhD position within the ANR <a href="https://sites.google.com/view/edene">EDENE</a> project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31<sup>st</sup> of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the <a href="https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337">AMAP website</a>.
-    </p>
-
-    <br style="clear:both;" />
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Canopy structure modulates edge effect in forests</title>
-    <link>https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</guid>
-    <pubDate>Tue, 09 May 2023 10:46:00 +0000</pubDate>
-    <category><![CDATA[article]]></category>
-    <description><![CDATA[<p>
-    <b>May 09, 2023</b><br>
-    Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m<sup>2</sup> located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 <a href="https://www.onsetcomp.com/products/data-loggers/u23-001a">HOBO</a> data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km<sup>2</sup> including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
-    </p>
-
-
-    <figure id="org6e28d0a">
-    <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
-
-    <figcaption><span class="figure-number">Figure 1: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
-    </figure>
-
-    <p>
-    <b>Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.</b> 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. <i>Journal of Ecology</i>. doi:<a href="https://doi.org/10.1111/1365-2745.14105" target="_blank">10.1111/1365-2745.14105</a>. <a href="publications/Blanchard2023-JoE.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Blanchard2023-JoE-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1111/1365-2745.14105" class="altmetric-embed"></span>
-    </p>
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Tree species on ultramafic soils in New Caledonia</title>
-    <link>https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</guid>
-    <pubDate>Fri, 31 Mar 2023 18:36:00 +0000</pubDate>
-    <category><![CDATA[article]]></category>
-    <description><![CDATA[<p>
-    <b>Mar. 31, 2023</b><br>
-    Philippe Birnbaum and Thomas Ibanez from UMR AMAP have compiled an impressive dataset of 169,376 tree occurrences in New Caledonia. The trees in this dataset belong to 1176 species, 93 families, and 285 genera. Occurrences were retrieved from the New Caledonian Plant Inventory and Permanent Plot Network (<a href="https://niamoto.nc/peuplement/">NC-PIPPN</a>), the Herbarium of New Caledonia database (<a href="http://publish.plantnet-project.org/project/nou">NOU</a>), <a href="https://www.gbif.org">GBIF</a>, and other additional datasets. Among these species, 303 species (28%) were found preferentially (&gt; 90% of their occurrences) on ultramafic soils, and 62 species were found exclusively on this soil type. Ultramafic soils, which cover 33% of New Caledonia, have low nutrient concentrations (N, P, and K) and high magnesium concentrations (Mg) leading to calcium (Ca) deficiency (low Ca/Mg ratio) or Mg toxicity. They also often have high concentrations of potentially phytotoxic elements such as nickel (Ni), manganese (Mn), or chromium (Cr), and generally have low water-holding capacity. Evolution has therefore selected tree species with unique adaptative strategies to grow and survive in this constrained environment. According to the results of the article, 91% of the tree species found on ultramafic soils are endemic to New Caledonia. Interestingly, tree communities on ultramafic soils in New Caledonia were found to vary depending on the location of ultramafic areas, suggesting that environmental factors other than soil filter species and determine species composition. Tree species that prefer ultramafic soils are potentially threatened by mining activities, particularly nickel mining. In the article, the authors emphasize that the protected area network should be expanded to cover more ultramafic areas in New Caledonia.
-    </p>
-
-
-    <figure id="orge8aebba">
-    <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
-
-    <figcaption><span class="figure-number">Figure 2: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
-    </figure>
-
-    <p>
-    <b>Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.</b> 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. <i>Botany Letters</i>. doi:<a href="https://doi.org/10.1080/23818107.2023.2181216" target="_blank">10.1080/23818107.2023.2181216</a>. <a href="publications/Birnbaum2023-BotanyLetters.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1080/23818107.2023.2181216" class="altmetric-embed"></span>
-    </p>
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Metradica workshop in Montpellier</title>
-    <link>https://ecology.ghislainv.fr/news.html#metradica-workshop-montpellier</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#metradica-workshop-montpellier</guid>
-    <pubDate>Fri, 10 Mar 2023 15:05:00 +0000</pubDate>
-    <category><![CDATA[project]]></category>
-    <category><![CDATA[workshop]]></category>
-    <description><![CDATA[<p>
-    <b>Mar. 10, 2023</b><br>
-    We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023 for the <a href="research.html#metradica">METRADICA</a> project. We had 12 participants in total along the week. We advanced the work on the different tasks of the project and discussed the first results obtained by Marion, Jeanne, and Salman since the beginning of their PhD and postdoc within the project.
-    </p>
-    ]]></description>
-  </item>
-
-  <item>
-    <title>Camille's first article on intraspecific variability</title>
-    <link>https://ecology.ghislainv.fr/news.html#camille-article-intraspecific-variability</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-article-intraspecific-variability</guid>
-    <pubDate>Thu, 09 Mar 2023 14:36:00 +0000</pubDate>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-article-beyond-variance</guid>
+    <pubDate>Thu, 11 Jan 2024 14:00:00 +0000</pubDate>
     <category><![CDATA[article]]></category>
     <category><![CDATA[student]]></category>
     <description><![CDATA[<p>
-    <b>Mar. 9, 2023</b><br>
-    The first <a href="https://doi.org/10.1002/ece3.9860">article</a> of Camille's PhD has been accepted for publication in <i>Ecology and Evolution</i>. Congratulations Camille! I think this article is important to understand better the nature of intraspecific variability and improve our understanding of the coexistence of a large number of species competing for the same resources (the "biodiversity paradox") in hyper-diverse communities, such as tropical forests. In the article, we show that a large part of the intraspecific variability observed in trees can be associated with an incomplete characterization of the environment. We show that the large intraspecific variability observed in data does not imply species niche overlap and that individuals of the same species have more similar performances than individuals from different species in a given environment. These results have important implications for elucidating the biodiversity paradox. Community models achieving coexistence of a large number of species commonly rely on low-dimensional perfect trade-offs or neutral processes, which does not correspond to our naturalistic knowledge of species and habitats. We thus defend the idea of a multidimensional niche <i>à la</i> Hutchinson to explain species coexistence. Each species is different and outperforms the others in a given environment, which varies in space and time in a high number of dimensions, thus allowing the coexistence of a large number of species.
+    <b>Jan. 11, 2024</b><br>
+    The second <a href="https://doi.org/10.1101/2022.08.06.503032">article</a> of Camille's PhD has been <a href="https://doi.org/10.24072/pci.ecology.100466">recommended</a> by Matthieu Barbier for <a href="https://ecology.peercommunityin.org/">PCI Ecology</a> based on reviews by Simon Blanchet and Bart Haegeman. This article has the following title<sup>*</sup> "Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure". In nature, a high proportion of intraspecific variability can emerge from unmeasured environmental variables varying in space and time, as shown in the <a href="https://doi.org/10.1101/2022.03.16.484259">first article of Camille's PhD</a>. In this second article, we show that when individual performance are determined by a varying multidimensional environment (15 variables in our case), the fact of representing intraspecific variability with a variance around species means, when several dimensions of the environment are not observed, leads to incorrect simulations of community dynamics in term of number of coexisting species and community composition. When a variance is used to represent intraspecific variability, conspecific individuals (i.e. individuals from the same species) have different performance in the same environment. On the contrary, when observed intraspecific variability emerges from a variable environment in multiple dimensions, this does not imply that conspecific individuals are intrinsically different. In this case, conspecific individuals have identical performance in the same environment. This difference between random and structured intraspecific variability has large consequences on community dynamics in community models. When individual variability is random, community dynamics is stochastic, leading to an ecological drift and the extinction of many species. On the contrary, when intraspecific variability is the results of the variation of the environment in multiple dimensions, each species is able to outperform the other at some sites with particular environmental conditions, thus allowing the coexistence of a high number of species. This important distinction and the results of our study have been very well summarized in Matthieu Barbier's <a href="https://doi.org/https://doi.org/10.24072/pci.ecology.100466">recommendation</a> untitled "Two paradigms for intraspecific variability".
+    </p>
+
+    <p>
+    * The title refers to the article by <a href="https://doi.org/10.1016/j.tree.2011.11.014">Violle et al. 2012</a> "The return of the variance: intraspecific variability in community ecology".
     </p>
 
 
-    <figure id="orgedb156f">
-    <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
+    <figure id="org0c4a3fb">
+    <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 3: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 1: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
     </figure>
 
     <p>
-    <b>Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.</b> 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. <i>Ecology and Evolution</i>. <b>13</b> (3): e9860. doi:<a href="https://doi.org/10.1002/ece3.9860" target="_blank">10.1002/ece3.9860</a>. <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2022.03.16.484259">484259</a>. <a href="publications/Girard-Tercieux2023-Ecology-and-Evolution.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1002/ece3.9860" class="altmetric-embed"></span>
+    <b>Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.</b> 2024. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. <i>Peer Community in Ecology</i>. doi:<a href="https://doi.org/10.1101/2022.08.06.503032" target="_blank">10.1101/2022.08.06.503032</a>. <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2022.08.06.503032">503032</a>. <a href="publications/Girard-Tercieux2024-PCJournal.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>
     </p>
-    ]]></description>
-  </item>
 
-  <item>
-    <title>Video portrait by Cirad</title>
-    <link>https://ecology.ghislainv.fr/news.html#video-portrait-by-cirad</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#video-portrait-by-cirad</guid>
-    <pubDate>Mon, 20 Feb 2023 11:55:00 +0000</pubDate>
-    <category><![CDATA[media]]></category>
-    <description><![CDATA[<p>
-    <b>Feb. 20, 2023</b><br>
-    Cirad has produced a short <a href="https://www.youtube.com/watch?v=4kxdB6Jd4Nw">video</a> to present some of my work on tropical forests. This video is part of a series of <a href="https://www.youtube.com/@LeCIRAD/search?query=portrait">portraits</a> of people working at Cirad to illustrate the diversity of people and professions at the institute.
+    <p>
+    <b>Barbier, M.</b> 2024. Two paradigms for intraspecific variability. <i>Peer Community in Ecology</i>, 100466. doi:<a href="https://doi.org/10.24072/pci.ecology.100466" target="_blank">10.24072/pci.ecology.100466</a>.
     </p>
     ]]></description>
-  </item>
+</item>
 
-  <item>
-    <title>Release of riskmapjnr v1.2</title>
-    <link>https://ecology.ghislainv.fr/news.html#release-of-riskmapjnr-v1.2</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#release-of-riskmapjnr-v1.2</guid>
-    <pubDate>Sat, 11 Feb 2023 08:34:00 +0000</pubDate>
-    <category><![CDATA[software]]></category>
-    <description><![CDATA[<p>
-    <b>Feb. 11, 2023</b><br>
-    Version 1.2 of the <a href="https://ecology.ghislainv.fr/riskmapjnr"><kbd>riskmapjnr</kbd></a> Python package has been released. The package allows obtaining maps of the deforestation risk for any jurisdiction following the methodology defined in the first version of the <a href="https://verra.org/wp-content/uploads/2021/04/DRAFT_JNR_Risk_Mapping_Tool_15APR2021.pdf">JNR Risk Mapping Tool</a>.
-    </p>
-    ]]></description>
-  </item>
+<item>
+  <title>Moving to New Caledonia</title>
+  <link>https://ecology.ghislainv.fr/news.html#moving-to-new-caledonia</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#moving-to-new-caledonia</guid>
+  <pubDate>Thu, 07 Dec 2023 09:00:00 +0000</pubDate>
+  <category><![CDATA[fieldwork]]></category>
+  <description><![CDATA[<p>
+  <b>Dec. 07, 2023</b>
+  </p>
 
-  <item>
-    <title>Story on Madagascar's baobabs</title>
-    <link>https://ecology.ghislainv.fr/news.html#story-on-madagascar-s-baobabs-natgeo</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#story-on-madagascar-s-baobabs-natgeo</guid>
-    <pubDate>Thu, 09 Feb 2023 10:08:00 +0000</pubDate>
-    <category><![CDATA[media]]></category>
-    <description><![CDATA[<p>
-    <b>Feb. 8, 2023</b><br>
-    Our <a href="https://doi.org/10.1111/gcb.15859">article</a> about the vulnerability of Madagascar's baobabs to climate change has been cited in a <a href="https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change">story</a> on the National Geographic website.
-    </p>
-    ]]></description>
-  </item>
+  <figure id="orgd658b64">
+  <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail" style="margin-bottom:20px;">
 
-  <item>
-    <title>Camille Girard-Tercieux PhD defense</title>
-    <link>https://ecology.ghislainv.fr/news.html#camille-girard-tercieux-php-defense</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-girard-tercieux-php-defense</guid>
-    <pubDate>Thu, 09 Feb 2023 10:07:00 +0000</pubDate>
-    <category><![CDATA[student]]></category>
-    <description><![CDATA[<p>
-    <b>Dec. 16, 2022</b><br>
-    Congratulations to Camille who has brilliantly defended her PhD thesis at the University of Montpellier. Thanks to Aude Valade, Sean McMahon, and Björn Reineking for having accepted to be part of the jury. 
-    </p>
-    ]]></description>
-  </item>
+  </figure>
 
-  <item>
-    <title>Mission to New Caledonia</title>
-    <link>https://ecology.ghislainv.fr/news.html#mission-to-new-caledonia-nov2022</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#mission-to-new-caledonia-nov2022</guid>
-    <pubDate>Thu, 09 Feb 2023 10:06:00 +0000</pubDate>
-    <category><![CDATA[fieldwork]]></category>
-    <description><![CDATA[<p>
-    <b>Oct. 11, 2022 -- Nov. 28, 2022</b><br>
-    Mission to New-Caledonia for the end of the <a href="research.html#projects">RELIQUES</a> project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
-    </p>
-    ]]></description>
-  </item>
+  <p>
+  I am moving with the family to <a href="https://en.wikipedia.org/wiki/New_Caledonia">New Caledonia</a> for at least one year to study the functioning of tropical forest ecosystems there. I will be based at the <a href="https://www.ird.fr/nouvelle-caledonie/presentation">IRD research center in Noumea</a>. During my stay, I will be affiliated to Cirad in the <a href="https://amap.cirad.fr/en/index.php">UMR AMAP</a> (my current institution and lab) but also to the <a href="https://www.iac.nc/">IAC</a> (Institut Agronomique néo-Calédonien), the Cirad historical partner in New Caledonia. I will collaborate with colleagues from IAC and UMR AMAP based at IRD, and in particular with <a href="https://www.researchgate.net/profile/Thomas-Ibanez">Thomas Ibanez</a> who is also coming to perform ecological research in New Caledonia for several years. With Thomas, we plan to develop a network of permanent forest plots in the Melanesian islands (New Caledonia, Bismark archipelago, Solomon islands, Vanuatu, Fiji). We will also develop a forest monitoring system in New Caledonia using forest inventories, LiDAR data, and satellite images to identify changes in tropical forest cover and carbon stocks. Other research activities will include mapping tree communities and soil properties at the scale of New Caledonia to help decision on forest and biodiversity conservation. 
+  </p>
 
-  <item>
-    <title>INTRACO workshop at Cesab #4</title>
-    <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</link>
-    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
-    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</guid>
-    <pubDate>Thu, 09 Feb 2023 10:05:00 +0000</pubDate>
-    <category><![CDATA[workshop]]></category>
-    <description><![CDATA[<p>
-    <b>Sep. 19-23, 2022</b><br>
-    <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
-    </p>
-    ]]></description>
-  </item>
+  <br style="clear:both;" />
+  ]]></description>
+</item>
+
+<item>
+  <title>Last INTRACO workshop at sDiv #6</title>
+  <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-sdiv-sept2023</guid>
+  <pubDate>Fri, 29 Sep 2023 09:00:00 +0000</pubDate>
+  <category><![CDATA[workshop]]></category>
+  <description><![CDATA[<p>
+  <b>Sep. 29, 2023</b>
+  </p>
+
+  <figure id="org899a0b9">
+  <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
+
+  </figure>
+
+  <p>
+  The last <a href="research.html#projects">INTRACO</a> workshop took place at sDiv in Leipzig from September 26 to 29, 2023. We discussed the review of Camille's second paper on including random unstructured intraspecific variability in community dynamics models. We also started interpreting the results comparing intraspecific vs. interspecific correlations in growth and fecundity for different forest types.
+  </p>
+
+  <br style="clear:both;" />
+  ]]></description>
+</item>
+
+<item>
+  <title>Article on tropical forests in /Le Figaro/</title>
+  <link>https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tropical-forests-le-figaro</guid>
+  <pubDate>Mon, 28 Aug 2023 09:00:00 +0000</pubDate>
+  <category><![CDATA[media]]></category>
+  <description><![CDATA[<p>
+  <b>Aug. 28, 2023</b>
+  </p>
+
+  <p>
+  The <a href="images/blog/article_figaro_forets_tropicales_20230826.pdf">article</a> in Le Figaro (the second-largest national newspaper in France), presents the results of two scientific studies. The first study published in <a href="https://doi.org/10.1126/sciadv.adg9175"><i>Science Advances</i></a> shows that the productivity of tropical reforestation in Central America will decline sharply and continuously by -11% per degree of warming above 29°C of mean annual temperature. As a result, following high-emission pathways could reduce the effectiveness of reforestation as a climate action tool. The second study published in <a href="https://doi.org/10.1038/s41586-023-06391-z"><i>Nature</i></a> suggests that a tipping point in metabolic function in tropical forests could occur with 3.9 &plusmn; 0.5°C of additional warming. Authors used a value of 46.7°C for \(T_{crit}\), the temperature at which irreversible damage to the photosynthetic machinery occurs. The +4.0°C estimate is within the "worst-case scenario" (RCP 8.5) of climate change predictions for tropical forests. Massive tree deaths in tropical forests could therefore be avoided if we mitigate global warming by not following RCP 8.5.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Collecting soil samples in French Guiana</title>
+  <link>https://ecology.ghislainv.fr/news.html#soil-samples-metradica</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#soil-samples-metradica</guid>
+  <pubDate>Thu, 13 Jul 2023 18:00:00 +0000</pubDate>
+  <category><![CDATA[fieldwork]]></category>
+  <description><![CDATA[<p>
+  <b>Jul. 13, 2023</b>
+  </p>
+
+  <figure id="org98ef876">
+  <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
+
+  </figure>
+
+  <p>
+  For the <a href="research.html#projects">METRADICA</a> project, Vincent Freycon and I did a field mission in French Guiana to collect tropical forest soil samples. We spent some days in the forest at <i>Montagne de Kaw</i>, <i>Montagne Tortue</i>, <i>Piste de Saint-Elie</i>, and <a href="https://paracou.cirad.fr"><i>Paracou</i></a>. Several people helped us dig soil pits and collect samples including Pierre-André Wagner, Clément Stahl, Benoît Burban, Jocelyn Cazal, Michel Baisie, and Olivier Brunaux. We have learnt a lot from Vincent who shared his knowledge and long experience studying tropical soils. Samples will be sent to the <a href="https://us-analyses.cirad.fr/">Cirad soil laboratory</a> to measure soil particule size distribution (clay, silt, and sand contents), and soil water retention (in particular, the field capacity and the permanent wilting point). These measurements will be added to a regional soil database that will be used to derive maps of soil texture and plant water availability for French Guiana. This work will be performed by Salman who is doing his post-doc within the METRADICA project. More accurate information on soils should help us understand better the distribution of tree species in French Guiana and anticipate species range shifts under climate change.
+  </p>
+
+  <br style="clear:both;" />
+  ]]></description>
+</item>
+
+<item>
+  <title>INTRACO workshop at Cesab #5</title>
+  <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-june2023</guid>
+  <pubDate>Fri, 23 Jun 2023 09:00:00 +0000</pubDate>
+  <category><![CDATA[workshop]]></category>
+  <description><![CDATA[<p>
+  <b>Jun. 23, 2023</b>
+  </p>
+
+  <figure id="orgfe4ce3a">
+  <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
+
+  </figure>
+
+  <p>
+  We organized the 5th <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. Claire, Isabelle, Benoît, Jim, Georges, and I were able to attend in person while Nadja participated remotely. We worked on two papers. The first one uses a theoretical model to illustrate a simple mechanism allowing the coexistence of a large number of competing species. In particular, this model does not rely on tight low-dimensional trade-offs to make species coexist. We discussed ways to improve the narrative of the paper and make it more accessible to a broad audience and worked on a synthetic figure. The second paper includes data analysis in boreal, temperate, and tropical forests to see if this mechanism is ubiquitous in nature. We thus spent some days analysing forest inventory data and comparing results between forest types.
+  </p>
+
+  <br style="clear:both;" />
+  ]]></description>
+</item>
+
+<item>
+  <title>PhD position within the ANR EDENE project</title>
+  <link>https://ecology.ghislainv.fr/news.html#phd-position-edene-project</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#phd-position-edene-project</guid>
+  <pubDate>Wed, 10 May 2023 18:48:00 +0000</pubDate>
+  <category><![CDATA[position]]></category>
+  <description><![CDATA[<p>
+  <b>May 10, 2023</b>
+  </p>
+
+  <figure id="orgde1524d">
+  <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
+
+  </figure>
+
+  <p>
+  We have opened a PhD position within the ANR <a href="https://sites.google.com/view/edene">EDENE</a> project. The research work will be focused on biotic interactions between alien plant species and threatened tree species in the Mascarene Islands (Indian ocean). Forest plot inventories and community models (Joint Species Distribution Models) will be used to try to infer interactions between species. The PhD is fully funded for three years and should not start after the 31<sup>st</sup> of July 2023. The PhD student will be based in the Reunion Island and will work under the supervision of Robin Pouteau. Details are available on the <a href="https://amap.cirad.fr/fr/detail_offre_accueil.php?id_offre=337">AMAP website</a>.
+  </p>
+
+  <br style="clear:both;" />
+  ]]></description>
+</item>
+
+<item>
+  <title>Canopy structure modulates edge effect in forests</title>
+  <link>https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-canopy-structure-edge-effect-new-caledonia</guid>
+  <pubDate>Tue, 09 May 2023 10:46:00 +0000</pubDate>
+  <category><![CDATA[article]]></category>
+  <description><![CDATA[<p>
+  <b>May 09, 2023</b><br>
+  Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m<sup>2</sup> located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 <a href="https://www.onsetcomp.com/products/data-loggers/u23-001a">HOBO</a> data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km<sup>2</sup> including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
+  </p>
+
+
+  <figure id="org3d4fafa">
+  <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
+
+  <figcaption><span class="figure-number">Figure 2: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+  </figure>
+
+  <p>
+  <b>Blanchard G., N. Barbier, G. Vieilledent, T. Ibanez, V. Hequet, S. McCoy, and P. Birnbaum.</b> 2023. UAV-­Lidar reveals that canopy structure mediates the influence of edge effects on forest diversity, function and microclimate. <i>Journal of Ecology</i>. doi:<a href="https://doi.org/10.1111/1365-2745.14105" target="_blank">10.1111/1365-2745.14105</a>. <a href="publications/Blanchard2023-JoE.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Blanchard2023-JoE-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1111/1365-2745.14105" class="altmetric-embed"></span>
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Tree species on ultramafic soils in New Caledonia</title>
+  <link>https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-tree-occurrences-new-caledonia</guid>
+  <pubDate>Fri, 31 Mar 2023 18:36:00 +0000</pubDate>
+  <category><![CDATA[article]]></category>
+  <description><![CDATA[<p>
+  <b>Mar. 31, 2023</b><br>
+  Philippe Birnbaum and Thomas Ibanez from UMR AMAP have compiled an impressive dataset of 169,376 tree occurrences in New Caledonia. The trees in this dataset belong to 1176 species, 93 families, and 285 genera. Occurrences were retrieved from the New Caledonian Plant Inventory and Permanent Plot Network (<a href="https://niamoto.nc/peuplement/">NC-PIPPN</a>), the Herbarium of New Caledonia database (<a href="http://publish.plantnet-project.org/project/nou">NOU</a>), <a href="https://www.gbif.org">GBIF</a>, and other additional datasets. Among these species, 303 species (28%) were found preferentially (&gt; 90% of their occurrences) on ultramafic soils, and 62 species were found exclusively on this soil type. Ultramafic soils, which cover 33% of New Caledonia, have low nutrient concentrations (N, P, and K) and high magnesium concentrations (Mg) leading to calcium (Ca) deficiency (low Ca/Mg ratio) or Mg toxicity. They also often have high concentrations of potentially phytotoxic elements such as nickel (Ni), manganese (Mn), or chromium (Cr), and generally have low water-holding capacity. Evolution has therefore selected tree species with unique adaptative strategies to grow and survive in this constrained environment. According to the results of the article, 91% of the tree species found on ultramafic soils are endemic to New Caledonia. Interestingly, tree communities on ultramafic soils in New Caledonia were found to vary depending on the location of ultramafic areas, suggesting that environmental factors other than soil filter species and determine species composition. Tree species that prefer ultramafic soils are potentially threatened by mining activities, particularly nickel mining. In the article, the authors emphasize that the protected area network should be expanded to cover more ultramafic areas in New Caledonia.
+  </p>
+
+
+  <figure id="orge2514eb">
+  <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
+
+  <figcaption><span class="figure-number">Figure 3: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+  </figure>
+
+  <p>
+  <b>Birnbaum P., T. Ibanez, G. Blanchard, D. Justeau-Allaire, V. Hequet, N. Eltabet, G. Vieilledent, N. Barbier, R.  Barrière, and D. Bruy.</b> 2023. Forest and tree species distribution on the ultramafic substrates of New Caledonia. <i>Botany Letters</i>. doi:<a href="https://doi.org/10.1080/23818107.2023.2181216" target="_blank">10.1080/23818107.2023.2181216</a>. <a href="publications/Birnbaum2023-BotanyLetters.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1080/23818107.2023.2181216" class="altmetric-embed"></span>
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Metradica workshop in Montpellier</title>
+  <link>https://ecology.ghislainv.fr/news.html#metradica-workshop-montpellier</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#metradica-workshop-montpellier</guid>
+  <pubDate>Fri, 10 Mar 2023 15:05:00 +0000</pubDate>
+  <category><![CDATA[project]]></category>
+  <category><![CDATA[workshop]]></category>
+  <description><![CDATA[<p>
+  <b>Mar. 10, 2023</b><br>
+  We have organized a five-day workshop at AMAP in Montpellier on 6-10 March, 2023 for the <a href="research.html#metradica">METRADICA</a> project. We had 12 participants in total along the week. We advanced the work on the different tasks of the project and discussed the first results obtained by Marion, Jeanne, and Salman since the beginning of their PhD and postdoc within the project.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Camille's first article on rethinking the nature of intraspecific variability</title>
+  <link>https://ecology.ghislainv.fr/news.html#camille-article-intraspecific-variability</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-article-intraspecific-variability</guid>
+  <pubDate>Thu, 09 Mar 2023 14:36:00 +0000</pubDate>
+  <category><![CDATA[article]]></category>
+  <category><![CDATA[student]]></category>
+  <description><![CDATA[<p>
+  <b>Mar. 9, 2023</b><br>
+  The first <a href="https://doi.org/10.1002/ece3.9860">article</a> of Camille's PhD has been accepted for publication in <i>Ecology and Evolution</i>. Congratulations Camille! I think this article is important to understand better the nature of intraspecific variability and improve our understanding of the coexistence of a large number of species competing for the same resources (the "biodiversity paradox") in hyper-diverse communities, such as tropical forests. In the article, we show that a large part of the intraspecific variability observed in trees can be associated with an incomplete characterization of the environment. We show that the large intraspecific variability observed in data does not imply species niche overlap and that individuals of the same species have more similar performances than individuals from different species in a given environment. These results have important implications for elucidating the biodiversity paradox. Community models achieving coexistence of a large number of species commonly rely on low-dimensional perfect trade-offs or neutral processes, which does not correspond to our naturalistic knowledge of species and habitats. We thus defend the idea of a multidimensional niche <i>à la</i> Hutchinson to explain species coexistence. Each species is different and outperforms the others in a given environment, which varies in space and time in a high number of dimensions, thus allowing the coexistence of a large number of species.
+  </p>
+
+
+  <figure id="org1d5e6a1">
+  <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
+
+  <figcaption><span class="figure-number">Figure 4: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+  </figure>
+
+  <p>
+  <b>Girard-Tercieux C., I. Maréchaux, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, J. Guillemot, G. Kunstler, G. le Maire, R. Pélissier, N. Rüger, and G. Vieilledent.</b> 2023. Rethinking the nature of intraspecific variability and its consequences on species coexistence. <i>Ecology and Evolution</i>. <b>13</b> (3): e9860. doi:<a href="https://doi.org/10.1002/ece3.9860" target="_blank">10.1002/ece3.9860</a>. <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2022.03.16.484259">484259</a>. <a href="publications/Girard-Tercieux2023-Ecology-and-Evolution.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Girard-Tercieux2023-Ecology-and-Evolution-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1002/ece3.9860" class="altmetric-embed"></span>
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Video portrait by Cirad</title>
+  <link>https://ecology.ghislainv.fr/news.html#video-portrait-by-cirad</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#video-portrait-by-cirad</guid>
+  <pubDate>Mon, 20 Feb 2023 11:55:00 +0000</pubDate>
+  <category><![CDATA[media]]></category>
+  <description><![CDATA[<p>
+  <b>Feb. 20, 2023</b><br>
+  Cirad has produced a short <a href="https://www.youtube.com/watch?v=4kxdB6Jd4Nw">video</a> to present some of my work on tropical forests. This video is part of a series of <a href="https://www.youtube.com/@LeCIRAD/search?query=portrait">portraits</a> of people working at Cirad to illustrate the diversity of people and professions at the institute.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Release of riskmapjnr v1.2</title>
+  <link>https://ecology.ghislainv.fr/news.html#release-of-riskmapjnr-v1.2</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#release-of-riskmapjnr-v1.2</guid>
+  <pubDate>Sat, 11 Feb 2023 08:34:00 +0000</pubDate>
+  <category><![CDATA[software]]></category>
+  <description><![CDATA[<p>
+  <b>Feb. 11, 2023</b><br>
+  Version 1.2 of the <a href="https://ecology.ghislainv.fr/riskmapjnr"><kbd>riskmapjnr</kbd></a> Python package has been released. The package allows obtaining maps of the deforestation risk for any jurisdiction following the methodology defined in the first version of the <a href="https://verra.org/wp-content/uploads/2021/04/DRAFT_JNR_Risk_Mapping_Tool_15APR2021.pdf">JNR Risk Mapping Tool</a>.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Story on Madagascar's baobabs</title>
+  <link>https://ecology.ghislainv.fr/news.html#story-on-madagascar-s-baobabs-natgeo</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#story-on-madagascar-s-baobabs-natgeo</guid>
+  <pubDate>Thu, 09 Feb 2023 10:08:00 +0000</pubDate>
+  <category><![CDATA[media]]></category>
+  <description><![CDATA[<p>
+  <b>Feb. 8, 2023</b><br>
+  Our <a href="https://doi.org/10.1111/gcb.15859">article</a> about the vulnerability of Madagascar's baobabs to climate change has been cited in a <a href="https://www.nationalgeographic.com/environment/article/madagascar-baobab-trees-deforestation-climate-change">story</a> on the National Geographic website.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Camille Girard-Tercieux PhD defense</title>
+  <link>https://ecology.ghislainv.fr/news.html#camille-girard-tercieux-php-defense</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#camille-girard-tercieux-php-defense</guid>
+  <pubDate>Thu, 09 Feb 2023 10:07:00 +0000</pubDate>
+  <category><![CDATA[student]]></category>
+  <description><![CDATA[<p>
+  <b>Dec. 16, 2022</b><br>
+  Congratulations to Camille who has brilliantly defended her PhD thesis at the University of Montpellier. Thanks to Aude Valade, Sean McMahon, and Björn Reineking for having accepted to be part of the jury. 
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>Mission to New Caledonia</title>
+  <link>https://ecology.ghislainv.fr/news.html#mission-to-new-caledonia-nov2022</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#mission-to-new-caledonia-nov2022</guid>
+  <pubDate>Thu, 09 Feb 2023 10:06:00 +0000</pubDate>
+  <category><![CDATA[fieldwork]]></category>
+  <description><![CDATA[<p>
+  <b>Oct. 11, 2022 -- Nov. 28, 2022</b><br>
+  Mission to New-Caledonia for the end of the <a href="research.html#projects">RELIQUES</a> project funded by CNRT. The mission included some field work with the remeasurement of a 1-ha forest plot in the South of the island.
+  </p>
+  ]]></description>
+</item>
+
+<item>
+  <title>INTRACO workshop at Cesab #4</title>
+  <link>https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</link>
+  <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+  <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#intraco-workshop-at-cesab-sep2022</guid>
+  <pubDate>Thu, 09 Feb 2023 10:05:00 +0000</pubDate>
+  <category><![CDATA[workshop]]></category>
+  <description><![CDATA[<p>
+  <b>Sep. 19-23, 2022</b><br>
+  <a href="research.html#projects">INTRACO</a> workshop at Cesab in Montpellier. We spent the week analysing forest inventory data from boreal, temperate, and tropical regions.
+  </p>
+  ]]></description>
+</item>
 </channel>
 </rss>
