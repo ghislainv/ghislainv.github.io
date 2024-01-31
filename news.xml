@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Wed, 31 Jan 2024 04:53:21 +0000</pubDate>
-  <lastBuildDate>Wed, 31 Jan 2024 04:53:21 +0000</lastBuildDate>
+  <pubDate>Wed, 31 Jan 2024 10:01:03 +0000</pubDate>
+  <lastBuildDate>Wed, 31 Jan 2024 10:01:03 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,17 +39,17 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="org72dda89">
+    <figure id="org08ed0c3">
     <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail" style="margin-bottom:20px;">
 
     </figure>
 
     <p>
-    We spent a fantastic day collecting plant material in the <a href="https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB">Parc provincial de la Rivière Bleue</a>. I was accompanied by Arnaud Lespes from the Parc and by two of my colleagues from AMAP, David Bruy and Thomas Ibanez. <a href="https://www.researchgate.net/profile/David-Bruy">David</a> is the curator of the Herbarium of New Caledonia (<a href="https://doi.org/10.23708/HERBIER-NOUVELLE-CALEDONIE">NOU</a>) located in Nouméa. During the day, we collected some branches with flowers from a new species of genus <i>Pycnandra</i> (Sapotaceae) and a new species of Burseraceae. Since their discovery more than 20 years ago, this is the first time that flowers of these two new species have been observed and collected! This material will be used to describe the two new species and give them their scientific name. This work will be performed by <a href="https://www.researchgate.net/profile/Jerome-Munzinger">Jérôme Munzinger</a>, a colleague and taxonomist at AMAP, specialist of the flora of New Caledonia. We also collected some branches from the unique known individual of the species <i>Dutailliopsis gordonii</i> (Rutaceae) with fruits and floral buds. This material will be used for genetic analysis to confirm the pertinence of the mono-specific genus <i>Dutailliopsis</i>. <i>Post-Scriptum</i>: List of plant species present in New Caledonia can be found on the <a href="https://endemia.nc">Endemia</a> website.
+    We spent a fantastic day collecting plant material in the <a href="https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB">Parc provincial de la Rivière Bleue</a>. I was accompanied by Arnaud Lespes from the park and two of my colleagues from AMAP, David Bruy and Thomas Ibanez. <a href="https://www.researchgate.net/profile/David-Bruy">David</a> is the curator of the herbarium of New Caledonia (<a href="https://doi.org/10.23708/HERBIER-NOUVELLE-CALEDONIE">NOU</a>) in Nouméa. During the day, we collected some branches with flowers of a new species of the genus <i>Pycnandra</i> (Sapotaceae) and a new species of the family Burseraceae. This is the first time that the flowers of these two new species have been observed and collected since their discovery more than 20 years ago! On the basis of this material, the two new species will be described and given scientific names. This work is being carried out by <a href="https://www.researchgate.net/profile/Jerome-Munzinger">Jérôme Munzinger</a>, a colleague and taxonomist at AMAP, and a specialist in the flora of New Caledonia. We have also collected some branches of the only known individual of the species <i>Dutailliopsis gordonii</i> (Rutaceae) with fruits and floral buds. This material will be used for a genetic analysis to confirm the relevance of the monospecific genus <i>Dutailliopsis</i>. <i>Post-scriptum</i>: A list of plant species present in New Caledonia can be found on the <a href="https://endemia.nc">Endemia</a> website.
     </p>
 
 
-    <figure id="org8b45f92">
+    <figure id="orgde336f2">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the unique known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
@@ -77,7 +77,7 @@
     </p>
 
 
-    <figure id="org611c139">
+    <figure id="org2c9155b">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
@@ -104,7 +104,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="org2bd1b49">
+  <figure id="orgf4f5158">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -128,7 +128,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org60e7679">
+  <figure id="org54950e8">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -169,7 +169,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="orgb79621c">
+  <figure id="org804090b">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -193,7 +193,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orge617c0a">
+  <figure id="org2cbb552">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -217,7 +217,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="org19bb978">
+  <figure id="org4bfd9f1">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -243,7 +243,7 @@
   </p>
 
 
-  <figure id="org76840e1">
+  <figure id="org1d9bf26">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 3: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -268,7 +268,7 @@
   </p>
 
 
-  <figure id="org99c8f13">
+  <figure id="org29af548">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 4: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -309,7 +309,7 @@
   </p>
 
 
-  <figure id="org643888c">
+  <figure id="org4c950d5">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 5: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
