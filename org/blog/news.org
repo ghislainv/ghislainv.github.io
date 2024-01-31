@@ -6,6 +6,26 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
+* Collecting plant material in the Parc de la Rivière Bleue       :fieldwork:
+:PROPERTIES:
+:CUSTOM_ID: collect-parc-riviere-bleue
+:PUBDATE:  2024-01-29 Mon 09:00
+:ID:       966abb9d-8231-412b-91e1-5b8e53dde9fa
+:END:
+
+*Jan. 29, 2024*
+#+attr_html: :class blog_thumbnail :style margin-bottom:20px;
+#+attr_html: :title Beach and vegetation in Lifou, New Caledonia.
+[[file:images/blog/collect-parc-riviere-bleue.jpg]]
+
+We spent a fantastic day collecting plant material in the [[https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB][Parc provincial de la Rivière Bleue]]. I was accompanied by Arnaud Lespes from the Parc and by two of my colleagues from AMAP, David Bruy and Thomas Ibanez. [[https://www.researchgate.net/profile/David-Bruy][David]] is the curator of the Herbarium of New Caledonia ([[doi:10.23708/HERBIER-NOUVELLE-CALEDONIE][NOU]]) located in Nouméa. During the day, we collected some branches with flowers from a new species of genus /Pycnandra/ (Sapotaceae) and a new species of Burseraceae. Since their discovery more than 20 years ago, this is the first time that flowers of these two new species have been observed and collected! This material will be used to describe the two new species and give them their scientific name. This work will be performed by [[https://www.researchgate.net/profile/Jerome-Munzinger][Jérôme Munzinger]], a colleague and taxonomist at AMAP, specialist of the flora of New Caledonia. We also collected some branches from the unique known individual of the species /Dutailliopsis gordonii/ (Rutaceae) with fruits and floral buds. This material will be used for genetic analysis to confirm the pertinence of the mono-specific genus /Dutailliopsis/. /Post-Scriptum/: List of plant species present in New Caledonia can be found on the [[https://endemia.nc][Endemia]] website.
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Collecting plant material in Parc de la Rivière Bleue.* White flower of new species of genus /Pycnandra/, small flower of a new species of Burseraceae, and branch of the unique known individual of the species /Dutailliopsis gordonii/ with fruits and floral buds.
+[[file:images/blog/collect-parc-riviere-bleue-collage.jpg]]
+
+#+html: <br style="clear:both;" />
+
 * New article by Camille on using variance for representing intraspecific variability :article:student:
 :PROPERTIES:
 :PUBDATE:  2024-01-11 Thu 14:00
