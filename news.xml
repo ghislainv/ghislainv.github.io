@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Thu, 11 Jan 2024 22:06:53 +0000</pubDate>
-  <lastBuildDate>Thu, 11 Jan 2024 22:06:53 +0000</lastBuildDate>
+  <pubDate>Wed, 31 Jan 2024 04:53:21 +0000</pubDate>
+  <lastBuildDate>Wed, 31 Jan 2024 04:53:21 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -27,6 +27,37 @@
   <p>
     <h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>
   </p>
+
+  <item>
+    <title>Collecting plant material in the Parc de la Rivière Bleue</title>
+    <link>https://ecology.ghislainv.fr/news.html#collect-parc-riviere-bleue</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#collect-parc-riviere-bleue</guid>
+    <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
+    <category><![CDATA[fieldwork]]></category>
+    <description><![CDATA[<p>
+    <b>Jan. 29, 2024</b>
+    </p>
+
+    <figure id="org72dda89">
+    <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail" style="margin-bottom:20px;">
+
+    </figure>
+
+    <p>
+    We spent a fantastic day collecting plant material in the <a href="https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB">Parc provincial de la Rivière Bleue</a>. I was accompanied by Arnaud Lespes from the Parc and by two of my colleagues from AMAP, David Bruy and Thomas Ibanez. <a href="https://www.researchgate.net/profile/David-Bruy">David</a> is the curator of the Herbarium of New Caledonia (<a href="https://doi.org/10.23708/HERBIER-NOUVELLE-CALEDONIE">NOU</a>) located in Nouméa. During the day, we collected some branches with flowers from a new species of genus <i>Pycnandra</i> (Sapotaceae) and a new species of Burseraceae. Since their discovery more than 20 years ago, this is the first time that flowers of these two new species have been observed and collected! This material will be used to describe the two new species and give them their scientific name. This work will be performed by <a href="https://www.researchgate.net/profile/Jerome-Munzinger">Jérôme Munzinger</a>, a colleague and taxonomist at AMAP, specialist of the flora of New Caledonia. We also collected some branches from the unique known individual of the species <i>Dutailliopsis gordonii</i> (Rutaceae) with fruits and floral buds. This material will be used for genetic analysis to confirm the pertinence of the mono-specific genus <i>Dutailliopsis</i>. <i>Post-Scriptum</i>: List of plant species present in New Caledonia can be found on the <a href="https://endemia.nc">Endemia</a> website.
+    </p>
+
+
+    <figure id="org8b45f92">
+    <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
+
+    <figcaption><span class="figure-number">Figure 1: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the unique known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
+    </figure>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
 
   <item>
     <title>New article by Camille on using variance for representing intraspecific variability</title>
@@ -46,10 +77,10 @@
     </p>
 
 
-    <figure id="org0c4a3fb">
+    <figure id="org611c139">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 1: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
+    <figcaption><span class="figure-number">Figure 2: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
     </figure>
 
     <p>
@@ -73,7 +104,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="orgd658b64">
+  <figure id="org2bd1b49">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -97,7 +128,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org899a0b9">
+  <figure id="org60e7679">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -138,7 +169,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="org98ef876">
+  <figure id="orgb79621c">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -162,7 +193,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orgfe4ce3a">
+  <figure id="orge617c0a">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -186,7 +217,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="orgde1524d">
+  <figure id="org19bb978">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -212,10 +243,10 @@
   </p>
 
 
-  <figure id="org3d4fafa">
+  <figure id="org76840e1">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 2: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 3: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
   </figure>
 
   <p>
@@ -237,10 +268,10 @@
   </p>
 
 
-  <figure id="orge2514eb">
+  <figure id="org99c8f13">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 3: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 4: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
   </figure>
 
   <p>
@@ -278,10 +309,10 @@
   </p>
 
 
-  <figure id="org1d5e6a1">
+  <figure id="org643888c">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 4: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 5: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
   </figure>
 
   <p>
