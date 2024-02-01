@@ -6,7 +6,7 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
-* Collecting plant material in the Parc de la Rivière Bleue       :fieldwork:
+* Collecting plant material in the Parc de la Rivière Bleue 🌿      :fieldwork:
 :PROPERTIES:
 :CUSTOM_ID: collect-parc-riviere-bleue
 :PUBDATE:  2024-01-29 Mon 09:00
@@ -14,7 +14,7 @@
 :END:
 
 *Jan. 29, 2024*
-#+attr_html: :class blog_thumbnail :style margin-bottom:20px;
+#+attr_html: :class blog_thumbnail
 #+attr_html: :title Beach and vegetation in Lifou, New Caledonia.
 [[file:images/blog/collect-parc-riviere-bleue.jpg]]
 
@@ -34,7 +34,7 @@ We spent a fantastic day collecting plant material in the [[https://www.province
 :END:
 
 *Jan. 11, 2024*\\
-The second [[doi:10.1101/2022.08.06.503032][article]] of Camille's PhD has been [[doi:10.24072/pci.ecology.100466][recommended]] by Matthieu Barbier for [[https://ecology.peercommunityin.org/][PCI Ecology]] based on reviews by Simon Blanchet and Bart Haegeman. This article has the following title^{\star} "Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure". In nature, a high proportion of intraspecific variability can emerge from unmeasured environmental variables varying in space and time, as shown in the [[doi:10.1101/2022.03.16.484259][first article of Camille's PhD]]. In this second article, we show that when individual performance are determined by a varying multidimensional environment (15 variables in our case), the fact of representing intraspecific variability with a variance around species means, when several dimensions of the environment are not observed, leads to incorrect simulations of community dynamics in term of number of coexisting species and community composition. When a variance is used to represent intraspecific variability, conspecific individuals (i.e. individuals from the same species) have different performance in the same environment. On the contrary, when observed intraspecific variability emerges from a variable environment in multiple dimensions, this does not imply that conspecific individuals are intrinsically different. In this case, conspecific individuals have identical performance in the same environment. This difference between random and structured intraspecific variability has large consequences on community dynamics in community models. When individual variability is random, community dynamics is stochastic, leading to an ecological drift and the extinction of many species. On the contrary, when intraspecific variability is the results of the variation of the environment in multiple dimensions, each species is able to outperform the other at some sites with particular environmental conditions, thus allowing the coexistence of a high number of species. This important distinction and the results of our study have been very well summarized in Matthieu Barbier's [[doi:https://doi.org/10.24072/pci.ecology.100466][recommendation]] untitled "Two paradigms for intraspecific variability".
+The second [[doi:10.1101/2022.08.06.503032][article]] of Camille's PhD has been [[doi:10.24072/pci.ecology.100466][recommended]] by Matthieu Barbier for [[https://ecology.peercommunityin.org/][PCI Ecology]] based on reviews by Simon Blanchet and Bart Haegeman. This article has the following title^{\star} "Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure". In nature, a high proportion of intraspecific variability can emerge from unmeasured environmental variables varying in space and time, as shown in the [[doi:10.1101/2022.03.16.484259][first article of Camille's PhD]]. In this second article, we show that when individual performance are determined by a varying multidimensional environment (15 variables in our case), the fact of representing intraspecific variability with a variance around species means, when several dimensions of the environment are not observed, leads to incorrect simulations of community dynamics in term of number of coexisting species and community composition. When a variance is used to represent intraspecific variability, conspecific individuals (i.e. individuals from the same species) have different performance in the same environment. On the contrary, when observed intraspecific variability emerges from a variable environment in multiple dimensions, this does not imply that conspecific individuals are intrinsically different. In this case, conspecific individuals have identical performance in the same environment. This difference between random and structured intraspecific variability has large consequences on community dynamics in community models. When individual variability is random, community dynamics is stochastic, leading to an ecological drift and the extinction of many species. On the contrary, when intraspecific variability is the result of the variation of the environment in multiple dimensions, each species is able to outperform the other at some sites with particular environmental conditions, thus allowing the coexistence of a high number of species. This important distinction and the results of our study have been very well summarized in Matthieu Barbier's [[doi:https://doi.org/10.24072/pci.ecology.100466][recommendation]] untitled "Two paradigms for intraspecific variability".
 
 \star The title refers to the article by [[doi:10.1016/j.tree.2011.11.014][Violle et al. 2012]] "The return of the variance: intraspecific variability in community ecology".
 
@@ -46,7 +46,7 @@ The second [[doi:10.1101/2022.08.06.503032][article]] of Camille's PhD has been 
 
 *Barbier, M.* 2024. Two paradigms for intraspecific variability. /Peer Community in Ecology/, 100466. {{{doi(10.24072/pci.ecology.100466)}}}.
 
-* Moving to New Caledonia                                         :fieldwork:
+* Moving to New Caledonia 🇳🇨                                        :fieldwork:
 :PROPERTIES:
 :ID:       5ca308cd-8ec9-45b0-9817-4e7a6254ca13
 :CUSTOM_ID: moving-to-new-caledonia
@@ -54,7 +54,7 @@ The second [[doi:10.1101/2022.08.06.503032][article]] of Camille's PhD has been 
 :END:
 
 *Dec. 07, 2023*
-#+attr_html: :class blog_thumbnail :style margin-bottom:20px;
+#+attr_html: :class blog_thumbnail
 #+attr_html: :title Beach and vegetation in Lifou, New Caledonia.
 [[file:images/blog/moving-to-new-caledonia_2.jpg]]
 
@@ -89,7 +89,7 @@ The last [[file:research.html#projects][INTRACO]] workshop took place at sDiv in
 
 The [[file:images/blog/article_figaro_forets_tropicales_20230826.pdf][article]] in Le Figaro (the second-largest national newspaper in France), presents the results of two scientific studies. The first study published in [[https://doi.org/10.1126/sciadv.adg9175][/Science Advances/]] shows that the productivity of tropical reforestation in Central America will decline sharply and continuously by -11% per degree of warming above 29°C of mean annual temperature. As a result, following high-emission pathways could reduce the effectiveness of reforestation as a climate action tool. The second study published in [[https://doi.org/10.1038/s41586-023-06391-z][/Nature/]] suggests that a tipping point in metabolic function in tropical forests could occur with 3.9 \pm 0.5°C of additional warming. Authors used a value of 46.7°C for $T_{crit}$, the temperature at which irreversible damage to the photosynthetic machinery occurs. The +4.0°C estimate is within the "worst-case scenario" (RCP 8.5) of climate change predictions for tropical forests. Massive tree deaths in tropical forests could therefore be avoided if we mitigate global warming by not following RCP 8.5.
 
-* Collecting soil samples in French Guiana                        :fieldwork:
+* Collecting soil samples in French Guiana 🌎                       :fieldwork:
 :PROPERTIES:
 :ID:       ca007d25-639e-4b15-b077-8135f71d4f1b
 :CUSTOM_ID: soil-samples-metradica
