@@ -56,6 +56,8 @@
 :CUSTOM_ID: master-students
 :END:
 
+*Coline Cavagnet*, 2024, M2, Co-supervisor: Thomas Ibanez, Université de Montpellier, Master Biologie, Ecologie et Evolution (B2E), parcours BioGET (Biodiversité végétale et Gestion des Écosystèmes Tropicaux), /Environmental effects on diversity-productivity relationships in New Caledonian forests/.
+
 [[https://fr.linkedin.com/in/pierre-guillaumont-6a27b7230?trk=people-guest_people_search-card][*Pierre Guillaumont*]], 2022, M2, Université de Montpellier, Statistique et Science des Données. Parcours Management de l'Information et de la Décision, /Classification des communautés d'arbres en Nouvelle-Calédonie à l'aide de modèle joint de distribution des espèces et développement du package “gecevar” pour l'obtention de variables climatiques et environnementales/, Following the internship: Developer, UMR AMAP, Montpellier, France.
 
 [[https://guyane.ofb.fr][*Corentin Knoploch*]], 2019, M2, Co-supervisor: Clovis Grinand, Université Aix-Marseille, Biodiversité, Ecologie et Evolution (BEE), /The importance of deforestation and climate change in shaping lemurs' distributions and identifying their areas of climatic refuges/, Following the internship: VSC, Office Français de la Biodiversité, Kourou, Guyane française.
