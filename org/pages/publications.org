@@ -44,8 +44,6 @@
 
 *Clément J., F. Gosselin, P. Couteron, and G. Vieilledent.* 2023. =jSDM=: an R package to fit joint species distribution models. /Methods in Ecology and Evolution/.
 
-*Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.* 2023. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/.
-
 *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* Exploring intraspecific wood density variation with the Global Wood Density Database v2. /Global Change Biology/.
 
 *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* A global map of wood density. /Nature Plant/.
@@ -67,9 +65,17 @@
 
 *Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
 
-*Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.* 2022. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. /bioRxiv/: [[doi:10.1101/2022.08.06.503032][503032]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.08.06.503032v1.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2022/08/06/2022.08.06.503032/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.08.06.503032)}}}
-
 *Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
+
+*** 2024
+:PROPERTIES:
+:CUSTOM_ID: yr2024
+:END:
+
+[50]. *Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.* 2024. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. /Peer Community Journal/. /bioRxiv/: [[doi:10.1101/2022.08.06.503032][503032]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.08.06.503032v5.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2024/01/14/2022.08.06.503032/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.08.06.503032)}}}
+
+[49]. *Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.* 2024. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/. *39*, 24. {{{doi(10.1007/s10980-024-01840-0)}}}. {{{pdf(Justeau-Allaire2024-LandscapeEcology.pdf)}}} {{{altm(10.1007/s10980-024-01840-0)}}}
+
 
 *** 2023
 :PROPERTIES:
