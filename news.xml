@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Tue, 13 Feb 2024 04:41:50 +0000</pubDate>
-  <lastBuildDate>Tue, 13 Feb 2024 04:41:50 +0000</lastBuildDate>
+  <pubDate>Fri, 01 Mar 2024 04:58:36 +0000</pubDate>
+  <lastBuildDate>Fri, 01 Mar 2024 04:58:36 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -29,6 +29,56 @@
   </p>
 
   <item>
+    <title>Reconnaissance mission in the Parc de la Rivière Bleue</title>
+    <link>https://ecology.ghislainv.fr/news.html#reconnaissance-mission-parc-riviere-bleue</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#reconnaissance-mission-parc-riviere-bleue</guid>
+    <pubDate>Tue, 20 Feb 2024 09:00:00 +0000</pubDate>
+    <category><![CDATA[fieldwork]]></category>
+    <description><![CDATA[<p>
+    <b>Feb. 20, 2024</b>
+    </p>
+
+    <figure id="org683c855">
+    <img src="images/blog/reconnaissance-mission-parc-riviere-bleue.jpg" alt="reconnaissance-mission-parc-riviere-bleue.jpg" title="Nathan, Thomas, Jean-Marc, and Coline." class="blog_thumbnail">
+
+    </figure>
+
+    <p>
+    With Nathan, Thomas, and Coline, we went to the <a href="https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB">Parc provincial de la Rivière Bleue</a> to look for suitable sites for the establishment of three 1 ha permanent forest inventory plots. We met with Jean-Marc Mériot, the director of the park. The plots must be accessible, relatively flat to facilitate the delimitation of a 100 x 100 m square area, and representative of the forest types found in the park. In addition, the forest should not show marks of anthropogenic disturbances (recent logging, hiking trails). Trees with a diameter at breast height (DBH) \(\geq\) 10 cm are positioned on the map, measured for DBH and height, and identified to the species level. The measurement of the diameter at breast height and the condition of the trees (recruit, living or dead trees) will be repeated over time (hopefully every two years). Data from the permanent forest plots will be used to study various ecological processes, including tree species demography, natural forest dynamics, species response to climate change, and forest carbon fluxes.
+    </p>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
+
+
+  <item>
+    <title>Accounting for intra-patch connectivity in landscape fragmentation indices</title>
+    <link>https://ecology.ghislainv.fr/news.html#article-intra-patch-connecitvity</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#article-intra-patch-connecitvity</guid>
+    <pubDate>Sun, 11 Feb 2024 09:00:00 +0000</pubDate>
+    <category><![CDATA[article]]></category>
+    <description><![CDATA[<p>
+    <b>Feb. 11, 2024</b><br>
+    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#org5b341d0">1</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+    </p>
+
+
+    <figure id="org5b341d0">
+    <img src="images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" alt="Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" style="display:block;margin:auto;max-width:80%;">
+
+    <figcaption><span class="figure-number">Figure 1: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
+    </figure>
+
+    <p>
+    <b>Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.</b> 2024. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. <i>Landscape Ecology</i>. <b>39</b>, 24. doi:<a href="https://doi.org/10.1007/s10980-024-01840-0" target="_blank">10.1007/s10980-024-01840-0</a>. <a href="publications/Justeau-Allaire2024-LandscapeEcology.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.1007/s10980-024-01840-0" class="altmetric-embed"></span>
+    </p>
+    ]]></description>
+  </item>
+
+  <item>
     <title>Collecting plant material in the Parc de la Rivière Bleue 🌿</title>
     <link>https://ecology.ghislainv.fr/news.html#collect-parc-riviere-bleue</link>
     <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
@@ -39,8 +89,8 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="org5575326">
-    <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
+    <figure id="orgd49e638">
+    <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David." class="blog_thumbnail">
 
     </figure>
 
@@ -49,10 +99,10 @@
     </p>
 
 
-    <figure id="org67b1416">
+    <figure id="orgee3d1c8">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 1: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
+    <figcaption><span class="figure-number">Figure 2: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
     </figure>
 
     <br style="clear:both;" />
@@ -77,10 +127,10 @@
     </p>
 
 
-    <figure id="orga6a0282">
+    <figure id="org8016577">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 2: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
+    <figcaption><span class="figure-number">Figure 3: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
     </figure>
 
     <p>
@@ -104,7 +154,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="org72e7f35">
+  <figure id="orgec38376">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
 
   </figure>
@@ -128,7 +178,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org3cbd1ef">
+  <figure id="orga469c47">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -169,7 +219,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="org3b75678">
+  <figure id="orgd260f1c">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -193,7 +243,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orgd1790f5">
+  <figure id="orgc6d4a36">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -217,7 +267,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="org936509e">
+  <figure id="orge929f52">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -239,14 +289,14 @@
   <category><![CDATA[article]]></category>
   <description><![CDATA[<p>
   <b>May 09, 2023</b><br>
-  Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m<sup>2</sup> located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 <a href="https://www.onsetcomp.com/products/data-loggers/u23-001a">HOBO</a> data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km<sup>2</sup> including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
+  <a href="https://www.researchgate.net/profile/Gregoire-Blanchard">Grégoire Blanchard</a>, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m<sup>2</sup> located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 <a href="https://www.onsetcomp.com/products/data-loggers/u23-001a">HOBO</a> data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km<sup>2</sup> including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
   </p>
 
 
-  <figure id="org210c7d5">
+  <figure id="org3790b1b">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 3: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 4: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
   </figure>
 
   <p>
@@ -268,10 +318,10 @@
   </p>
 
 
-  <figure id="orge386e9d">
+  <figure id="org3b149ba">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 4: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 5: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
   </figure>
 
   <p>
@@ -309,10 +359,10 @@
   </p>
 
 
-  <figure id="org167cffa">
+  <figure id="org608cd08">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 5: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 6: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
   </figure>
 
   <p>
