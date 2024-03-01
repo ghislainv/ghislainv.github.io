@@ -6,6 +6,40 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
+* Reconnaissance mission in the Parc de la Rivière Bleue         :fieldwork:
+:PROPERTIES:
+:CUSTOM_ID: reconnaissance-mission-parc-riviere-bleue
+:PUBDATE:  2024-02-20 Tue 09:00
+:ID:       148f0692-53ac-4465-aa22-34ae12c0c2a9
+:END:
+
+*Feb. 20, 2024*
+#+attr_html: :class blog_thumbnail
+#+attr_html: :title Nathan, Thomas, Jean-Marc, and Coline.
+[[file:images/blog/reconnaissance-mission-parc-riviere-bleue.jpg]]
+
+With Nathan, Thomas, and Coline, we went to the [[https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB][Parc provincial de la Rivière Bleue]] to look for suitable sites for the establishment of three 1 ha permanent forest inventory plots. We met with Jean-Marc Mériot, the director of the park. The plots must be accessible, relatively flat to facilitate the delimitation of a 100 x 100 m square area, and representative of the forest types found in the park. In addition, the forest should not show marks of anthropogenic disturbances (recent logging, hiking trails). Trees with a diameter at breast height (DBH) $\geq$ 10 cm are positioned on the map, measured for DBH and height, and identified to the species level. The measurement of the diameter at breast height and the condition of the trees (recruit, living or dead trees) will be repeated over time (hopefully every two years). Data from the permanent forest plots will be used to study various ecological processes, including tree species demography, natural forest dynamics, species response to climate change, and forest carbon fluxes.
+
+#+html: <br style="clear:both;" />
+
+
+* Accounting for intra-patch connectivity in landscape fragmentation indices :article:
+:PROPERTIES:
+:CUSTOM_ID: article-intra-patch-connecitvity
+:PUBDATE:  2024-02-11 Sun 09:00
+:ID:       3024305a-cba2-4357-8516-8fd0471cbb0a
+:END:
+
+*Feb. 11, 2024*\\
+[[https://dimitri-justeau.github.io/][Dimitri Justeau-Allaire]], IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches $p$ of landscape are usually described by their area $A_{p}$ (in m^{2}) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. [[fig:patch-connectivity]]). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as $\text{CWA}_{p} = C_{p} \times A_{p}$, with $C_{p}$ the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity $C$, such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area $A$ in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package [[https://github.com/dimitri-justeau/intra][~intra~]] provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+
+#+name: fig:patch-connectivity
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Two landscapes containing a single patch of equal size and different shapes.*
+[[file:images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png]]
+
+*Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.* 2024. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/. *39*, 24. {{{doi(10.1007/s10980-024-01840-0)}}}. {{{pdf(Justeau-Allaire2024-LandscapeEcology.pdf)}}} {{{altm(10.1007/s10980-024-01840-0)}}}
+
 * Collecting plant material in the Parc de la Rivière Bleue 🌿      :fieldwork:
 :PROPERTIES:
 :CUSTOM_ID: collect-parc-riviere-bleue
@@ -15,7 +49,7 @@
 
 *Jan. 29, 2024*
 #+attr_html: :class blog_thumbnail
-#+attr_html: :title Beach and vegetation in Lifou, New Caledonia.
+#+attr_html: :title Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David.
 [[file:images/blog/collect-parc-riviere-bleue.jpg]]
 
 We spent a fantastic day collecting plant material in the [[https://www.province-sud.nc/pandoreweb/app/aireProtegee/PPRB][Parc provincial de la Rivière Bleue]]. I was accompanied by Arnaud Lespes from the park and two of my colleagues from AMAP, David Bruy and Thomas Ibanez. [[https://www.researchgate.net/profile/David-Bruy][David]] is the curator of the herbarium of New Caledonia ([[doi:10.23708/HERBIER-NOUVELLE-CALEDONIE][NOU]]) in Nouméa. During the day, we collected some branches with flowers of a new species of the genus /Pycnandra/ (Sapotaceae) and a new species of the family Burseraceae. This is the first time that the flowers of these two new species have been observed and collected since their discovery more than 20 years ago! On the basis of this material, the two new species will be described and given scientific names. This work is being carried out by [[https://www.researchgate.net/profile/Jerome-Munzinger][Jérôme Munzinger]], a colleague and taxonomist at AMAP, and a specialist in the flora of New Caledonia. We have also collected some branches of the only known individual of the species /Dutailliopsis gordonii/ (Rutaceae) with fruits and floral buds. This material will be used for a genetic analysis to confirm the relevance of the monospecific genus /Dutailliopsis/. /Post-scriptum/: A list of plant species occurring in New Caledonia can be found on the [[https://endemia.nc][Endemia]] website.
@@ -145,7 +179,7 @@ We have opened a PhD position within the ANR [[https://sites.google.com/view/ede
 :END:
 
 *May 09, 2023*\\
-Grégoire Blanchard, post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m^{2} located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 [[https://www.onsetcomp.com/products/data-loggers/u23-001a][HOBO]] data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km^{2} including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
+[[https://www.researchgate.net/profile/Gregoire-Blanchard][Grégoire Blanchard]], post-doc at UMR AMAP and IAC (Institut Agronomique Néo-Calédonien), has conducted a nice study to better characterise the edge effect in New Caledonian forests. The data used for the analysis included 46 forest inventory plots of 400 m^{2} located at different distances from the forest edge, tree species functional traits (wood density, leaf area, specific leaf area, and leaf dry matter content), microclimate data (maximum vapour pressure deficit) from 46 [[https://www.onsetcomp.com/products/data-loggers/u23-001a][HOBO]] data loggers positioned within the forest plots, and UAV--Lidar derived data on canopy height and canopy gap fraction at 5 m resolution covering an area of 4 km^{2} including the forest plots. This extensive fieldwork and data collection was carried out in 2020 and 2021. The 2093 sampled trees belonged to 107 species. The results show that the microclimate, structure and composition of the forest changed rapidly with distance to the forest edge, confirming the results of previous studies. Most interestingly, however, the canopy structure explained better the microclimate and composition of the forest at the local level than the distance to the forest edge. This means that a site that is far from the distance to the forest edge, but has a low canopy height and a high canopy gap fraction can potentially have a high vapour pressure deficit that is similar or even stronger than what could be generally observed at a site close to the forest edge. Therefore, long-term forest degradation leading to long lasting changes in canopy structure can have significant impacts on microclimate and forest composition that cannot be explained by distance to the forest edge alone.
 
 #+attr_html: :style display:block;margin:auto;max-width:80%;
 #+caption: *Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.*
