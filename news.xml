@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Fri, 01 Mar 2024 04:58:36 +0000</pubDate>
-  <lastBuildDate>Fri, 01 Mar 2024 04:58:36 +0000</lastBuildDate>
+  <pubDate>Sat, 02 Mar 2024 06:07:52 +0000</pubDate>
+  <lastBuildDate>Sat, 02 Mar 2024 06:07:52 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,7 +39,7 @@
     <b>Feb. 20, 2024</b>
     </p>
 
-    <figure id="org683c855">
+    <figure id="org20956a1">
     <img src="images/blog/reconnaissance-mission-parc-riviere-bleue.jpg" alt="reconnaissance-mission-parc-riviere-bleue.jpg" title="Nathan, Thomas, Jean-Marc, and Coline." class="blog_thumbnail">
 
     </figure>
@@ -62,11 +62,11 @@
     <category><![CDATA[article]]></category>
     <description><![CDATA[<p>
     <b>Feb. 11, 2024</b><br>
-    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#org5b341d0">1</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#orgbea2a3b">1</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
     </p>
 
 
-    <figure id="org5b341d0">
+    <figure id="orgbea2a3b">
     <img src="images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" alt="Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
@@ -89,7 +89,7 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="orgd49e638">
+    <figure id="org4835994">
     <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David." class="blog_thumbnail">
 
     </figure>
@@ -99,7 +99,7 @@
     </p>
 
 
-    <figure id="orgee3d1c8">
+    <figure id="org6fbc334">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
@@ -127,7 +127,7 @@
     </p>
 
 
-    <figure id="org8016577">
+    <figure id="org9348a59">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
@@ -154,7 +154,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="orgec38376">
+  <figure id="org3cbd5a0">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
 
   </figure>
@@ -178,7 +178,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="orga469c47">
+  <figure id="org3b03199">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -219,7 +219,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="orgd260f1c">
+  <figure id="org150d4bc">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -243,7 +243,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orgc6d4a36">
+  <figure id="orge96de60">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -267,7 +267,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="orge929f52">
+  <figure id="org61a54e3">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -293,7 +293,7 @@
   </p>
 
 
-  <figure id="org3790b1b">
+  <figure id="orgb3d21a3">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 4: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -318,7 +318,7 @@
   </p>
 
 
-  <figure id="org3b149ba">
+  <figure id="org30372c4">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 5: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -359,7 +359,7 @@
   </p>
 
 
-  <figure id="org608cd08">
+  <figure id="org9d35db7">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 6: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
