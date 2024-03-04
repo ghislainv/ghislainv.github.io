@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Sat, 02 Mar 2024 06:07:52 +0000</pubDate>
-  <lastBuildDate>Sat, 02 Mar 2024 06:07:52 +0000</lastBuildDate>
+  <pubDate>Mon, 04 Mar 2024 04:20:16 +0000</pubDate>
+  <lastBuildDate>Mon, 04 Mar 2024 04:20:16 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,7 +39,7 @@
     <b>Feb. 20, 2024</b>
     </p>
 
-    <figure id="org20956a1">
+    <figure id="org0ef130f">
     <img src="images/blog/reconnaissance-mission-parc-riviere-bleue.jpg" alt="reconnaissance-mission-parc-riviere-bleue.jpg" title="Nathan, Thomas, Jean-Marc, and Coline." class="blog_thumbnail">
 
     </figure>
@@ -52,6 +52,36 @@
     ]]></description>
   </item>
 
+  <item>
+    <title>Quest to rediscover long-lost plant species in New-Caledonia</title>
+    <link>https://ecology.ghislainv.fr/news.html#rediscovering-lost-plant-species</link>
+    <author>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</author>
+    <guid isPermaLink="false">https://ecology.ghislainv.fr/news.html#rediscovering-lost-plant-species</guid>
+    <pubDate>Mon, 19 Feb 2024 09:00:00 +0000</pubDate>
+    <category><![CDATA[fieldwork]]></category>
+    <description><![CDATA[<p>
+    <b>Feb. 19, 2024</b>
+    </p>
+
+    <figure id="org6439a82">
+    <img src="images/blog/rediscovering-lost-plant-species.jpg" alt="rediscovering-lost-plant-species.jpg" title="Field mission participants in front of Port-Bouquet Bay." class="blog_thumbnail">
+
+    </figure>
+
+    <p>
+    We spent five days searching for two long-lost plant species in the vicinity of <a href="https://en.wikipedia.org/wiki/Mount_Humboldt">Mount Humboldt</a> on the east coast of New Caledonia: <i>Canarium trifoliolatum</i> (Burseraceae) and <i>Litsea imbricata</i> (Lauraceae). <i>Canarium trifoliolatum</i> was first collected in 1872 (152 years ago!) by <a href="https://en.wikipedia.org/wiki/Benjamin_Balansa">Benjamin Balensa</a> on the slopes of Mount Penari at an altitude of about 200 m and has not been seen since. <i>Litsea imbricata</i> was first collected by Balensa in 1872 on the slopes of Mount Humboldt at an altitude of about 700 m and a second time by <a href="https://en.wikipedia.org/wiki/Rudolf_Schlechter">Rudolf Schlechter</a> in 1902 at about 1000 m in the mountains above the Ngoye River, but has not been seen since. The team was led by the two botanists <a href="https://www.researchgate.net/profile/David-Bruy">David Bruy</a> from <a href="https://www.ird.fr/nouvelle-caledonie">IRD</a> and <a href="https://www.linkedin.com/in/sebastien-traclet-528765113">Sébastien Traclet</a> from the environmental non-governmental organisation <a href="https://noe.org/">Noé</a> and also included volunteers from the <a href="https://doi.org/10.1016/B978-0-12-821139-7.00171-9">New Caledonian Red List Authority</a> (RLA). This mission was part of a project entitled "In search of long-lost plants" which is funded by the <i>Inventaire national du patrimoine naturel</i> (<a href="https://fr.wikipedia.org/wiki/Inventaire_national_du_patrimoine_naturel">INPN</a>) and coordinated by <a href="https://endemia.nc/">Endemia</a> in New Caledonia. Our team was accompanied by a film crew, and a documentary film about the project is in preparation. Although we did not find both species, we did collect some interesting specimens, including a specimen of <i>Beauprea penariensis</i> (Proteaceae) at a new location, although this species was previously only known from Mount Penari. All the specimens we collected will be conserved at the herbarium of New Caledonia (<a href="https://doi.org/10.23708/HERBIER-NOUVELLE-CALEDONIE">NOU</a>) in Nouméa. Herbarium data is invaluable: specimens are used in taxonomy to describe and classify the diversity of plants, but also in ecology and biogeography to understand the distribution of plant species and communities in relation to their environment.
+    </p>
+
+
+    <figure id="orgc443f26">
+    <img src="images/blog/rediscovering-lost-plant-species-collage.jpg" alt="rediscovering-lost-plant-species-collage.jpg" style="display:block;margin:auto;max-width:80%;">
+
+    <figcaption><span class="figure-number">Figure 1: </span><b>Rediscovering long-lost plant species in New-Caledonia.</b> <i>Top-right</i>: Type specimens of <i>Litsea imbricata</i> and <i>Canarium trifoliolatum</i>. <i>Bottom-right</i>: David and the film crew in front of an individual of <a href="https://en.wikipedia.org/wiki/Parasitaxus"><i>Parasitaxus usta</i></a>, the only known parasitic gymnosperm.</figcaption>
+    </figure>
+
+    <br style="clear:both;" />
+    ]]></description>
+  </item>
 
   <item>
     <title>Accounting for intra-patch connectivity in landscape fragmentation indices</title>
@@ -62,14 +92,14 @@
     <category><![CDATA[article]]></category>
     <description><![CDATA[<p>
     <b>Feb. 11, 2024</b><br>
-    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#orgbea2a3b">1</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#org41a3b94">2</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area \(\text{CWA}\) can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute \(\text{CWA}\) using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
     </p>
 
 
-    <figure id="orgbea2a3b">
+    <figure id="org41a3b94">
     <img src="images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" alt="Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 1: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
+    <figcaption><span class="figure-number">Figure 2: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
     </figure>
 
     <p>
@@ -89,7 +119,7 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="org4835994">
+    <figure id="org5131ff3">
     <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David." class="blog_thumbnail">
 
     </figure>
@@ -99,10 +129,10 @@
     </p>
 
 
-    <figure id="org6fbc334">
+    <figure id="orge7e7cc2">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 2: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
+    <figcaption><span class="figure-number">Figure 3: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
     </figure>
 
     <br style="clear:both;" />
@@ -127,10 +157,10 @@
     </p>
 
 
-    <figure id="org9348a59">
+    <figure id="org97be654">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
-    <figcaption><span class="figure-number">Figure 3: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
+    <figcaption><span class="figure-number">Figure 4: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
     </figure>
 
     <p>
@@ -154,7 +184,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="org3cbd5a0">
+  <figure id="orgb4e7b3f">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
 
   </figure>
@@ -178,7 +208,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org3b03199">
+  <figure id="org3e0b6ec">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -219,7 +249,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="org150d4bc">
+  <figure id="orgd9b06a0">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -243,7 +273,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orge96de60">
+  <figure id="org36a0d76">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -267,7 +297,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="org61a54e3">
+  <figure id="org8cba0e7">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -293,10 +323,10 @@
   </p>
 
 
-  <figure id="orgb3d21a3">
+  <figure id="org4ccf8a6">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 4: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 5: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
   </figure>
 
   <p>
@@ -318,10 +348,10 @@
   </p>
 
 
-  <figure id="org30372c4">
+  <figure id="orga2d9328">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 5: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 6: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
   </figure>
 
   <p>
@@ -359,10 +389,10 @@
   </p>
 
 
-  <figure id="org9d35db7">
+  <figure id="orge717d68">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
-  <figcaption><span class="figure-number">Figure 6: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
+  <figcaption><span class="figure-number">Figure 7: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
   </figure>
 
   <p>
