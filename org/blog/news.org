@@ -22,6 +22,25 @@ With Nathan, Thomas, and Coline, we went to the [[https://www.province-sud.nc/pa
 
 #+html: <br style="clear:both;" />
 
+* Quest to rediscover long-lost plant species in New-Caledonia :fieldwork:
+:PROPERTIES:
+:CUSTOM_ID: rediscovering-lost-plant-species
+:PUBDATE: 2024-02-19 Mon 09:00
+:ID:       7997ad6a-17ed-4e10-b356-770f43dda373
+:END:
+
+*Feb. 19, 2024*
+#+attr_html: :class blog_thumbnail
+#+attr_html: :title Field mission participants in front of Port-Bouquet Bay.
+[[file:images/blog/rediscovering-lost-plant-species.jpg]]
+
+We spent five days searching for two long-lost plant species in the vicinity of [[https://en.wikipedia.org/wiki/Mount_Humboldt][Mount Humboldt]] on the east coast of New Caledonia: /Canarium trifoliolatum/ (Burseraceae) and /Litsea imbricata/ (Lauraceae). /Canarium trifoliolatum/ was first collected in 1872 (152 years ago!) by [[https://en.wikipedia.org/wiki/Benjamin_Balansa][Benjamin Balensa]] on the slopes of Mount Penari at an altitude of about 200 m and has not been seen since. /Litsea imbricata/ was first collected by Balensa in 1872 on the slopes of Mount Humboldt at an altitude of about 700 m and a second time by [[https://en.wikipedia.org/wiki/Rudolf_Schlechter][Rudolf Schlechter]] in 1902 at about 1000 m in the mountains above the Ngoye River, but has not been seen since. The team was led by the two botanists [[https://www.researchgate.net/profile/David-Bruy][David Bruy]] from [[https://www.ird.fr/nouvelle-caledonie][IRD]] and [[https://www.linkedin.com/in/sebastien-traclet-528765113][Sébastien Traclet]] from the environmental non-governmental organisation [[https://noe.org/][Noé]] and also included volunteers from the [[https://doi.org/10.1016/B978-0-12-821139-7.00171-9][New Caledonian Red List Authority]] (RLA). This mission was part of a project entitled "In search of long-lost plants" which is funded by the /Inventaire national du patrimoine naturel/ ([[https://fr.wikipedia.org/wiki/Inventaire_national_du_patrimoine_naturel][INPN]]) and coordinated by [[https://endemia.nc/][Endemia]] in New Caledonia. Our team was accompanied by a film crew, and a documentary film about the project is in preparation. Although we did not find both species, we did collect some interesting specimens, including a specimen of /Beauprea penariensis/ (Proteaceae) at a new location, although this species was previously only known from Mount Penari. All the specimens we collected will be conserved at the herbarium of New Caledonia ([[doi:10.23708/HERBIER-NOUVELLE-CALEDONIE][NOU]]) in Nouméa. Herbarium data is invaluable: specimens are used in taxonomy to describe and classify the diversity of plants, but also in ecology and biogeography to understand the distribution of plant species and communities in relation to their environment.
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Rediscovering long-lost plant species in New-Caledonia.* /Top-right/: Type specimens of /Litsea imbricata/ and /Canarium trifoliolatum/. /Bottom-right/: David and the film crew in front of an individual of [[https://en.wikipedia.org/wiki/Parasitaxus][/Parasitaxus usta/]], the only known parasitic gymnosperm.
+[[file:images/blog/rediscovering-lost-plant-species-collage.jpg]]
+
+#+html: <br style="clear:both;" />
 
 * Accounting for intra-patch connectivity in landscape fragmentation indices :article:
 :PROPERTIES:
@@ -31,7 +50,7 @@ With Nathan, Thomas, and Coline, we went to the [[https://www.province-sud.nc/pa
 :END:
 
 *Feb. 11, 2024*\\
-[[https://dimitri-justeau.github.io/][Dimitri Justeau-Allaire]], IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches $p$ of landscape are usually described by their area $A_{p}$ (in m^{2}) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. [[fig:patch-connectivity]]). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as $\text{CWA}_{p} = C_{p} \times A_{p}$, with $C_{p}$ the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity $C$, such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area CWA can be used to replace the patch area $A$ in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package [[https://github.com/dimitri-justeau/intra][~intra~]] provides functions to compute CWA using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+[[https://dimitri-justeau.github.io/][Dimitri Justeau-Allaire]], IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches $p$ of landscape are usually described by their area $A_{p}$ (in m^{2}) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. [[fig:patch-connectivity]]). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as $\text{CWA}_{p} = C_{p} \times A_{p}$, with $C_{p}$ the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity $C$, such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area $\text{CWA}$ can be used to replace the patch area $A$ in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package [[https://github.com/dimitri-justeau/intra][~intra~]] provides functions to compute $\text{CWA}$ using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
 
 #+name: fig:patch-connectivity
 #+attr_html: :style display:block;margin:auto;max-width:80%;
