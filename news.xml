@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Mon, 11 Mar 2024 21:16:38 +0000</pubDate>
-  <lastBuildDate>Mon, 11 Mar 2024 21:16:38 +0000</lastBuildDate>
+  <pubDate>Tue, 12 Mar 2024 21:26:20 +0000</pubDate>
+  <lastBuildDate>Tue, 12 Mar 2024 21:26:20 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -39,7 +39,7 @@
     <b>Feb. 20, 2024</b>
     </p>
 
-    <figure id="orge5f4bb9">
+    <figure id="orgaa3668e">
     <img src="images/blog/reconnaissance-mission-parc-riviere-bleue.jpg" alt="reconnaissance-mission-parc-riviere-bleue.jpg" title="Nathan, Thomas, Jean-Marc, and Coline." class="blog_thumbnail">
 
     </figure>
@@ -63,7 +63,7 @@
     <b>Feb. 19, 2024</b>
     </p>
 
-    <figure id="orgbf4dd58">
+    <figure id="org377366f">
     <img src="images/blog/rediscovering-lost-plant-species.jpg" alt="rediscovering-lost-plant-species.jpg" title="Field mission participants in front of Port-Bouquet Bay." class="blog_thumbnail">
 
     </figure>
@@ -73,7 +73,7 @@
     </p>
 
 
-    <figure id="orgf9c3552">
+    <figure id="org27bcba5">
     <img src="images/blog/rediscovering-lost-plant-species-collage.jpg" alt="rediscovering-lost-plant-species-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Rediscovering long-lost plant species in New-Caledonia.</b> <i>Top-right</i>: Type specimens of <i>Litsea imbricata</i> and <i>Canarium trifoliolatum</i>. <i>Bottom-right</i>: David and the film crew in front of an individual of <a href="https://en.wikipedia.org/wiki/Parasitaxus"><i>Parasitaxus usta</i></a>, the only known parasitic gymnosperm.</figcaption>
@@ -92,11 +92,11 @@
     <category><![CDATA[article]]></category>
     <description><![CDATA[<p>
     <b>Feb. 11, 2024</b><br>
-    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#orgab9dd60">2</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area \(\text{CWA}\) can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute \(\text{CWA}\) using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#org5a114b0">2</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area \(\text{CWA}\) can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute \(\text{CWA}\) using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
     </p>
 
 
-    <figure id="orgab9dd60">
+    <figure id="org5a114b0">
     <img src="images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" alt="Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
@@ -119,7 +119,7 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="orgaff4136">
+    <figure id="orgd4300ba">
     <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David." class="blog_thumbnail">
 
     </figure>
@@ -129,7 +129,7 @@
     </p>
 
 
-    <figure id="org82fc698">
+    <figure id="org772ce5e">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
@@ -149,7 +149,7 @@
     <category><![CDATA[student]]></category>
     <description><![CDATA[<p>
     <b>Jan. 11, 2024</b><br>
-    The second <a href="https://doi.org/10.1101/2022.08.06.503032">article</a> of Camille's PhD has been <a href="https://doi.org/10.24072/pci.ecology.100466">recommended</a> by Matthieu Barbier for <a href="https://ecology.peercommunityin.org/">PCI Ecology</a> based on reviews by Simon Blanchet and Bart Haegeman. This article has the following title<sup>*</sup> "Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure". In nature, a high proportion of intraspecific variability can emerge from unmeasured environmental variables varying in space and time, as shown in the <a href="https://doi.org/10.1101/2022.03.16.484259">first article of Camille's PhD</a>. In this second article, we show that when individual performance are determined by a varying multidimensional environment (15 variables in our case), the fact of representing intraspecific variability with a variance around species means, when several dimensions of the environment are not observed, leads to incorrect simulations of community dynamics in term of number of coexisting species and community composition. When a variance is used to represent intraspecific variability, conspecific individuals (i.e. individuals from the same species) have different performance in the same environment. On the contrary, when observed intraspecific variability emerges from a variable environment in multiple dimensions, this does not imply that conspecific individuals are intrinsically different. In this case, conspecific individuals have identical performance in the same environment. This difference between random and structured intraspecific variability has large consequences on community dynamics in community models. When individual variability is random, community dynamics is stochastic, leading to an ecological drift and the extinction of many species. On the contrary, when intraspecific variability is the result of the variation of the environment in multiple dimensions, each species is able to outperform the other at some sites with particular environmental conditions, thus allowing the coexistence of a high number of species. This important distinction and the results of our study have been very well summarized in Matthieu Barbier's <a href="https://doi.org/https://doi.org/10.24072/pci.ecology.100466">recommendation</a> untitled "Two paradigms for intraspecific variability".
+    The second <a href="https://doi.org/10.24072/pcjournal.360">article</a> of Camille's PhD has been <a href="https://doi.org/10.24072/pci.ecology.100466">recommended</a> by Matthieu Barbier for <a href="https://ecology.peercommunityin.org/">PCI Ecology</a> based on reviews by Simon Blanchet and Bart Haegeman and published in <i>PC Journal</i>, section Ecology. This article has the following title<sup>*</sup> "Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure". In nature, a high proportion of intraspecific variability can emerge from unmeasured environmental variables varying in space and time, as shown in the <a href="https://doi.org/10.1101/2022.03.16.484259">first article of Camille's PhD</a>. In this second article, we show that when individual performance are determined by a varying multidimensional environment (15 variables in our case), the fact of representing intraspecific variability with a variance around species means, when several dimensions of the environment are not observed, leads to incorrect simulations of community dynamics in term of number of coexisting species and community composition. When a variance is used to represent intraspecific variability, conspecific individuals (i.e. individuals from the same species) have different performance in the same environment. On the contrary, when observed intraspecific variability emerges from a variable environment in multiple dimensions, this does not imply that conspecific individuals are intrinsically different. In this case, conspecific individuals have identical performance in the same environment. This difference between random and structured intraspecific variability has large consequences on community dynamics in community models. When individual variability is random, community dynamics is stochastic, leading to an ecological drift and the extinction of many species. On the contrary, when intraspecific variability is the result of the variation of the environment in multiple dimensions, each species is able to outperform the other at some sites with particular environmental conditions, thus allowing the coexistence of a high number of species. This important distinction and the results of our study have been very well summarized in Matthieu Barbier's <a href="https://doi.org/https://doi.org/10.24072/pci.ecology.100466">recommendation</a> untitled "Two paradigms for intraspecific variability".
     </p>
 
     <p>
@@ -157,14 +157,14 @@
     </p>
 
 
-    <figure id="org0447e40">
+    <figure id="org1f5ce93">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 4: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
     </figure>
 
     <p>
-    <b>Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.</b> 2024. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. <i>Peer Community in Ecology</i>. doi:<a href="https://doi.org/10.1101/2022.08.06.503032" target="_blank">10.1101/2022.08.06.503032</a>. <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2022.08.06.503032">503032</a>. <a href="publications/Girard-Tercieux2024-PCJournal.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>
+    <b>Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.</b> 2024. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. <i>Peer Community Journal</i>, section Ecology. <b>4</b>:e28. doi:<a href="https://doi.org/10.24072/pcjournal.360" target="_blank">10.24072/pcjournal.360</a> <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2022.08.06.503032">503032</a>. <a href="publications/Girard-Tercieux2024-PCJournal.pdf" target="_blank"><img id=logo-link src="images/logos/logo-pdf.png" alt="logo-pdf.png"></a>, Supplementary materials <a href="publications/Girard-Tercieux2024-PCJournal-SM.pdf" target="_blank"><img id=logo-link src="images/logos/logo-zip.png" alt="logo-zip.png"></a> <span data-badge-popover="right" data-badge-type="4" data-hide-no-mentions="true" data-hide-less-than="5" data-doi="10.24072/pcjournal.360" class="altmetric-embed"></span>
     </p>
 
     <p>
@@ -184,7 +184,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="orgd53551d">
+  <figure id="org0458a7c">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
 
   </figure>
@@ -208,7 +208,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org031faa3">
+  <figure id="org3568af3">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -249,7 +249,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="orgfb3bbd8">
+  <figure id="org9b4dbf0">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -273,7 +273,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="org9b9a822">
+  <figure id="org94a979d">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -297,7 +297,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="orgae2fe13">
+  <figure id="orgcd83b14">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -323,7 +323,7 @@
   </p>
 
 
-  <figure id="org3593eff">
+  <figure id="org8bb692e">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 5: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -348,7 +348,7 @@
   </p>
 
 
-  <figure id="orga8bec0d">
+  <figure id="org6b9292c">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 6: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -389,7 +389,7 @@
   </p>
 
 
-  <figure id="orga236f98">
+  <figure id="orge0d8f4a">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 7: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
