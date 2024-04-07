@@ -52,32 +52,20 @@
 
 *Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, and C. Stahl.* Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
 
-*Yang H., S. Wang, R. Son, H. Lee, V. Benson, W. Zhang, Y. Zhang, Y. Zhang, J. Kattge, G. Boenisch, D. Schepaschenko, Z. Karaszewski, S. Krzysztof, A. Moreno-Martínez, C. Nabais, P. Birnbaum, G. Vieilledent, U. Weber, and N. Carvalhais*. Global patterns of tree wood density. /Global Change Biology/. {{{doi(10.1111/gcb.17224)}}}. {{{pdf(Yang2024-GCB.pdf)}}} {{{altm(10.1111/gcb.17224)}}}
-
-*Neugarten R., R. Rasolofoson, C. Barrett, G. Vieilledent, and A. Rodewald* The effect of a political crisis on performance of community- and state-managed forests in Madagascar. /Nature Communications/.
-
-*** Preprints
-:PROPERTIES:
-:CUSTOM_ID: preprints
-:END:
-
-*Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2023. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v3.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2023/05/12/2022.03.22.485306/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.22.485306)}}}
-
-*Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
-
-*Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
+*Khan S., I. Maréchaux, G. Vieilledent, S. Guitet, O. Brunaux, B. Ferry, F. Soulard, C. Stahl, C. Baraloto, C. Fortunel and V. Freycon* Regional soil profile data reveals the predominant role of geomorphology and geology in accurately deriving digital soil texture maps in a tropical area. /Geoderma/.
 
 *** 2024
 :PROPERTIES:
 :CUSTOM_ID: yr2024
 :END:
 
+[52]. *Neugarten R. A., R. A. Rasolofoson, C. B. Barrett, G. Vieilledent, and A. D. Rodewald* The effect of a political crisis on performance of community forests and protected areas in Madagascar. /Nature Communications/. *15*:2863. {{{doi(10.1038/s41467-024-47318-0)}}}. {{{pdf(Neugarten2024-NatureCommunications.pdf)}}}, Supplementary materials {{{supp(Neugarten2024-NatureCommunications-SM.pdf)}}} {{{altm(10.1038/s41467-024-47318-0)}}}
+
 [51]. *Yang, H., Wang, S., Son, R., Lee, H., Benson, V., Zhang, W., Zhang, Y., Zhang, Y., Kattge, J., Boenisch, G., Schepaschenko, D., Karaszewski, Z., Stereńczak, K., Moreno-­Martínez, Á., Nabais, C., Birnbaum, P., Vieilledent, G., Weber, U., and Carvalhais, N.* 2024. Global patterns of tree wood density. /Global Change Biology/. *30*:e17224. {{{doi(10.1111/gcb.17224)}}}. {{{pdf(Yang2024-GCB.pdf)}}}, Supplementary materials {{{supp(Yang2024-GCB-SM.pdf)}}} {{{altm(10.1111/gcb.17224)}}}
 
 [50]. *Girard-Tercieux C., G. Vieilledent, A. T. Clark, J. S. Clark, B. Courbaud, C. Fortunel, G. Kunstler, R. Pélissier, N. Rüger, and I. Maréchaux.* 2024. Beyond variance: simple random distributions are not a good proxy for intraspecific variability in systems with environmental structure. /Peer Community Journal/, section Ecology. *4*:e28. {{{doi(10.24072/pcjournal.360)}}} /bioRxiv/: [[doi:10.1101/2022.08.06.503032][503032]]. {{{pdf(Girard-Tercieux2024-PCJournal.pdf)}}}, Supplementary materials {{{supp(Girard-Tercieux2024-PCJournal-SM.pdf)}}} {{{altm(10.24072/pcjournal.360)}}}
 
 [49]. *Justeau-Allaire D., T. Ibanez, G. Vieilledent, X. Lorca, and P. Birnbaum.* 2024. Refining intra-patch connectivity measures in landscape fragmentation and connectivity indices. /Landscape Ecology/. *39*, 24. {{{doi(10.1007/s10980-024-01840-0)}}}. {{{pdf(Justeau-Allaire2024-LandscapeEcology.pdf)}}} {{{altm(10.1007/s10980-024-01840-0)}}}
-
 
 *** 2023
 :PROPERTIES:
@@ -264,6 +252,18 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 [1]. *Vieilledent G., Courbaud B., Kunstler G., Dhôte J.-F., and Clark J. S.* 2009. Biases in the estimation of size dependent mortality models: advantages of a semi-parametric approach. /Canadian Journal of Forest Research/. *39* (8): 1430--1443. {{{doi(10.1139/X09-047)}}}. {{{pdf(Vieilledent2009-CJoFR.pdf)}}}, R script {{{github(U-shape-tree-mortality-DBH)}}} {{{altm(10.1139/X09-047)}}}
 
 [0]. *Vieilledent G.* 2009. Structuring uncertainty and variability of ecological processes in forest dynamics models -- Application to silver Fir and Norway Spruce coexistence. PhD Thesis. Cemagref--AgroParisTech. 259 p. oai:[[https://pastel.archives-ouvertes.fr/pastel-00005391][pastel.archives-ouvertes.fr:pastel-00005391]]. {{{pdf(MS-PhDThesis-GVieilledent.pdf)}}}
+
+** Preprints
+:PROPERTIES:
+:CUSTOM_ID: preprints
+:END:
+
+*Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2023. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v3.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2023/05/12/2022.03.22.485306/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.22.485306)}}}
+
+*Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
+
+*Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
+
 
 ** Books or book chapters
 :PROPERTIES:
