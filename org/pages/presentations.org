@@ -2,7 +2,7 @@
 #+description: Presentations at ecology.ghislainv.fr
 #+setupfile: setup.org
 
-- [[file:presentations/forestatrisk-EFI-COCOBOD-June2023.pdf][forestatrisk-EFI-COCOBOD-June2023]]\\
+- [[file:presentations/forestatrisk-EFI-COCOBOD-June2023.pdf][forestatrisk-EFI-COCOBOD-June2023]]
 - [[file:presentations/gecevar-functionalities-march2023.pdf][gecevar-functionalities-March2023]]
 - [[file:presentations/metradica-agenda-march2023.pdf][METRADICA-workshop-March2023]]
 - [[file:presentations/carboforcal_nov2022.pdf][CARBOFORCAL-Nov2022]]
