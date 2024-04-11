@@ -1,0 +1,24 @@
+#+title: ecology.ghislainv.fr -- Presentations
+#+description: Presentations at ecology.ghislainv.fr
+#+setupfile: setup.org
+
+- [[file:presentations/forestatrisk-EFI-COCOBOD-June2023.pdf][forestatrisk-EFI-COCOBOD-June2023]]\\
+- [[file:presentations/gecevar-functionalities-march2023.pdf][gecevar-functionalities-March2023]]
+- [[file:presentations/metradica-agenda-march2023.pdf][METRADICA-workshop-March2023]]
+- [[file:presentations/carboforcal_nov2022.pdf][CARBOFORCAL-Nov2022]]
+- [[file:presentations/andefor_Vieilledent_2022.pdf][Annual-Deforestation-Rate-Sept2022]]
+- [[file:presentations/riskmapjnr_Vieilledent_Cirad.pdf][FAO-riskmapjnr-July2022]]
+- [[file:presentations/controverse-foret-tropicale-palmier-a-huile.pdf][Controverse-Déforestation-Palmier-à-Huile-Avr2022]]
+- [[file:presentations/JSDM-Metradica.pdf][JSDM-Metradica]]
+- [[file:presentations/Baobabs-Seasonality-Mada.pdf][Baobabs-Seasonality-Mada]]
+- [[file:presentations/Restitution_FFEM_BioSceneMada.pdf][Restitution-FFEM-BioSceneMada]]
+- [[file:presentations/jSDM-GAMBAS-June2020.pdf][jSDM-GAMBAS-June2020]]
+- [[file:presentations/Seminaire-fragmentation-RELIQUES.pdf][Seminaire-Sept2019-fragmentation-RELIQUES]]
+- [[file:presentations/ATBC2019-The-Fate-of-Tropical-Forests.pdf][ATBC2019-July2019-The-Fate-of-Tropical-Forests]]
+- [[file:presentations/ATBC2019-Deforestation-Mada.pdf][ATBC2019-July2019-Deforestation-Mada]]
+- [[file:presentations/useR2019-July2019.pdf][useR2019-July2019]]
+- [[file:presentations/AG-AMAP-June2019.pdf][AG-AMAP-Jun2019]]
+- [[file:presentations/COS-FRB-Dec2018.pdf][COS-FRB-Dec2018]]
+- [[file:presentations/USBIO-Sept2018.pdf][USBIO-Sept2018]]
+- [[file:presentations/IFORCE-Sept2018.pdf][IFORCE-Sept2018]]
+- [[file:presentations/ISEC-July2018.pdf][ISEC-Jul2018]]

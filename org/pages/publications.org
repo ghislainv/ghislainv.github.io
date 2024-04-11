@@ -59,7 +59,7 @@
 :CUSTOM_ID: yr2024
 :END:
 
-[52]. *Neugarten R. A., R. A. Rasolofoson, C. B. Barrett, G. Vieilledent, and A. D. Rodewald* The effect of a political crisis on performance of community forests and protected areas in Madagascar. /Nature Communications/. *15*:2863. {{{doi(10.1038/s41467-024-47318-0)}}}. {{{pdf(Neugarten2024-NatureCommunications.pdf)}}}, Supplementary materials {{{supp(Neugarten2024-NatureCommunications-SM.pdf)}}} {{{altm(10.1038/s41467-024-47318-0)}}}
+[52]. *Neugarten R. A., R. A. Rasolofoson, C. B. Barrett, G. Vieilledent, and A. D. Rodewald*. 2024. The effect of a political crisis on performance of community forests and protected areas in Madagascar. /Nature Communications/. *15*:2863. {{{doi(10.1038/s41467-024-47318-0)}}}. {{{pdf(Neugarten2024-NatureCommunications.pdf)}}}, Supplementary materials {{{supp(Neugarten2024-NatureCommunications-SM.pdf)}}} {{{altm(10.1038/s41467-024-47318-0)}}}
 
 [51]. *Yang, H., Wang, S., Son, R., Lee, H., Benson, V., Zhang, W., Zhang, Y., Zhang, Y., Kattge, J., Boenisch, G., Schepaschenko, D., Karaszewski, Z., Stereńczak, K., Moreno-­Martínez, Á., Nabais, C., Birnbaum, P., Vieilledent, G., Weber, U., and Carvalhais, N.* 2024. Global patterns of tree wood density. /Global Change Biology/. *30*:e17224. {{{doi(10.1111/gcb.17224)}}}. {{{pdf(Yang2024-GCB.pdf)}}}, Supplementary materials {{{supp(Yang2024-GCB-SM.pdf)}}} {{{altm(10.1111/gcb.17224)}}}
 
@@ -288,5 +288,12 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 [b]. *Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall*. 2017. How does war affect gorillas? in /Science Journal for Kids/, L. Hall (Associate Editor). [[file:publications/Plumptre2017-ScienceJournalForKids.pdf][English]], [[file:publications/Plumptre2017-ScienceJournalForKids-French.pdf][French]], [[file:publications/Plumptre2017-ScienceJournalForKids-Spanish.pdf][Spanish]], [[https://www.sciencejournalforkids.org/search-articles/how-does-war-affect-gorillas][link]]
 
 [a]. *Vieilledent G.*. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in /The Conversation/, J. Gallé (Associate Editor). {{{pdf(Vieilledent2016-TheConversation.pdf)}}}, [[https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281][link]]
+
+** Oral presentations
+:PROPERTIES:
+:CUSTOM_ID: oral-presentations
+:END:
+
+Follow this link to access the [[file:presentations.html][list of oral presentations]]. 
 
 # End
