@@ -2,6 +2,8 @@
 #+description: Presentations at ecology.ghislainv.fr
 #+setupfile: setup.org
 
+- [[file:~/Code/ghislainv.github.io/org/presentations/forestatrisk-melanobs-april2024.pdf][forestatrisk-melanobs-April2024]]
+- [[file:~/Code/ghislainv.github.io/org/presentations/melanobs-fcc-carbon-biodiversity-data-april2024.pdf][melanobs-fcc-carbon-biodiversity-data-April2024]]
 - [[file:presentations/forestatrisk-EFI-COCOBOD-June2023.pdf][forestatrisk-EFI-COCOBOD-June2023]]
 - [[file:presentations/gecevar-functionalities-march2023.pdf][gecevar-functionalities-March2023]]
 - [[file:presentations/metradica-agenda-march2023.pdf][METRADICA-workshop-March2023]]
