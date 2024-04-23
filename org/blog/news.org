@@ -1,10 +1,28 @@
 #+title: ecology.ghislainv.fr -- News
 #+description: Ghislain Vieilledent -- Forest ecology and statistics
 #+setupfile: setup.org
-#+tags: article(a) fieldwork(f) media(m) position(p) project(j) student(s) software(t) workshop(w)
+#+tags: article(a) fieldwork(f) media(m) position(p) project(j) student(s) software(t) workshop(w) noexport(n)
 #+html_head_extra: <link rel="alternate" type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
+
+* Comparing community forests and protected areas in Madagascar     :article:
+:PROPERTIES:
+:CUSTOM_ID: article-community-forests-madagascar
+:PUBDATE:  2024-04-05 Fri 09:00
+:ID:       ef6de7ea-9363-450e-beda-026c49cb2f6e
+:END:
+
+*April 05, 2024*
+
+Together with Rachel Neugarten and colleagues, we published a paper comparing the effectiveness of community forests and protected areas in Madagascar in reducing deforestation. The comparison of the two conservation approaches was done before, during, and after the political crisis that prevailed in the country in the period 2009--2014. Quasi-experimental methods (statistical matching and event study) were used to control for site differences and other confounding factors. We found that the crisis and post-crisis dynamics negatively affected the performance of both community forests and protected areas in Madagascar, but that community forests were particularly vulnerable to strong post-crisis deforestation pressure (Fig [[fig:comparing-cfm-mnp-deforestation-mada]]). Further research is needed to better understand what explains the surge in deforestation after the political crisis but some hypothesis can be put forward to explain the higher vulnerability of community forests. Deforestation for agriculture and charcoal production is a way for communities to meet their basic needs, but at the expense of biodiversity. In Madagascar, community forests do not receive continuous financial support. Given the extremely high poverty rate and food insecurity, it is understandable that more deforestation is observed in community forests in times of crisis. A more detailed presentation of the study and its conclusions is available in an [[https://communities.springernature.com/posts/shock-proofing-conservation-are-community-forests-in-madagascar-resilient-to-a-political-crisis-and-its-aftermath][article published in the Research Communities blog by Springer Nature]].
+
+#+name: fig:comparing-cfm-mnp-deforestation-mada
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Annual deforestation in community forests (CFM), protected areas (MNP), and the rest of the country*
+[[file:~/Code/ghislainv.github.io/org/images/blog/Neugarten2024-NatureComm.png]]
+
+*Neugarten R. A., R. A. Rasolofoson, C. B. Barrett, G. Vieilledent, and A. D. Rodewald*. 2024. The effect of a political crisis on performance of community forests and protected areas in Madagascar. /Nature Communications/. *15*:2863. {{{doi(10.1038/s41467-024-47318-0)}}}. {{{pdf(Neugarten2024-NatureCommunications.pdf)}}}, Supplementary materials {{{supp(Neugarten2024-NatureCommunications-SM.pdf)}}} {{{altm(10.1038/s41467-024-47318-0)}}}
 
 * Reconnaissance mission in the Parc de la Rivière Bleue         :fieldwork:
 :PROPERTIES:
