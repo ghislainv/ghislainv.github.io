@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-04-24 Wed 00:15 -->
+<!-- 2024-04-24 Wed 05:52 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ecology.ghislainv.fr &#x2013; Software</title>
@@ -54,6 +54,7 @@
 <li><a href="#forestatrisk">forestatrisk</a></li>
 <li><a href="#pywdpa">pywdpa</a></li>
 <li><a href="#riskmapjnr">riskmapjnr</a></li>
+<li><a href="#deforisk">deforisk</a></li>
 </ul>
 </li>
 </ul>
@@ -78,7 +79,7 @@ A complete list of code repositories is available on <a href="https://github.com
 <h4 id="jsdm">jSDM</h4>
 <div class="outline-text-4" id="text-jsdm">
 <p>
-<kbd>jSDM</kbd> is an R package for fitting joint species distribution models
+<code>jSDM</code> is an R package for fitting joint species distribution models
 (JSDMs) in a hierarchical Bayesian framework. The Gibbs sampler is
 written in C++ using Rcpp, Armadillo, and GSL to maximize computation
 efficiency. <a href="https://ecology.ghislainv.fr/jSDM">https://ecology.ghislainv.fr/jSDM</a>.
@@ -91,7 +92,7 @@ efficiency. <a href="https://ecology.ghislainv.fr/jSDM">https://ecology.ghislain
 <h4 id="hsdm">hSDM</h4>
 <div class="outline-text-4" id="text-hsdm">
 <p>
-<kbd>hSDM</kbd> is an R package for fitting hierarchical Bayesian species
+<code>hSDM</code> is an R package for fitting hierarchical Bayesian species
 distribution models (HSDMs). It includes functions to fit mixture
 models (site-occupancy, N-mixture, ZIB, and ZIP models) accounting for
 imperfect detection, excess of zeros in the observations, and spatial
@@ -109,7 +110,7 @@ cells). <a href="https://ecology.ghislainv.fr/hSDM">https://ecology.ghislainv.fr
 <h4 id="gecevar">gecevar</h4>
 <div class="outline-text-4" id="text-gecevar">
 <p>
-<kbd>gecevar</kbd> provides a set of climatic and environmental data for a given
+<code>gecevar</code> provides a set of climatic and environmental data for a given
 area of interest (eg. country scale) that can be used for ecological
 analyses. Data come from a variety of sources (eg. Chelsa,
 OpenStreetMap, TropicalMoistForest, SRTMv4.1, SoilGrids). Climatic and
@@ -125,14 +126,14 @@ user. <a href="https://ecology.ghislainv.fr/gecevar">https://ecology.ghislainv.f
 <h4 id="mcmcpack">MCMCpack (contribution to)</h4>
 <div class="outline-text-4" id="text-mcmcpack">
 <p>
-<kbd>MCMCpack</kbd> (Markov chain Monte Carlo Package) is an R package which
+<code>MCMCpack</code> (Markov chain Monte Carlo Package) is an R package which
 includes functions to perform Bayesian inference using posterior
 simulation for a number of statistical models. Most simulation is done
-in compiled C++ written with the <a href="https://scythe.lsa.umich.edu/"><kbd>Scythe</kbd></a> statistical library. I have
-contributed to <kbd>MCMCpack</kbd> with the development of functions for
-generalized linear mixed models (glmm): <kbd>MCMChregress()</kbd> for Gaussian
-models, <kbd>MCMChlogit()</kbd> for Bernoulli models (logit link function), and
-<kbd>MCMChpoisson()</kbd> for Poisson models (log link
+in compiled C++ written with the <a href="https://scythe.lsa.umich.edu/"><code>Scythe</code></a> statistical library. I have
+contributed to <code>MCMCpack</code> with the development of functions for
+generalized linear mixed models (glmm): <code>MCMChregress()</code> for Gaussian
+models, <code>MCMChlogit()</code> for Bernoulli models (logit link function), and
+<code>MCMChpoisson()</code> for Poisson models (log link
 function). <a href="https://cran.r-project.org/package=MCMCpack">https://cran.r-project.org/package=MCMCpack</a>.
 </p>
 </div>
@@ -142,7 +143,7 @@ function). <a href="https://cran.r-project.org/package=MCMCpack">https://cran.r-
 <h4 id="twoe">twoe</h4>
 <div class="outline-text-4" id="text-twoe">
 <p>
-<kbd>twoe</kbd> (2e) is a software which aims first at estimating the
+<code>twoe</code> (2e) is a software which aims first at estimating the
 demographic parameters of tropical tree species from permanent forest
 plot data (through an R package), and second at simulating forest
 dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a href="https://twoe.sourceforge.net">https://twoe.sourceforge.net</a>.
@@ -160,7 +161,7 @@ dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a hr
 <h4 id="forestatrisk">forestatrisk</h4>
 <div class="outline-text-4" id="text-forestatrisk">
 <p>
-The <kbd>forestatrisk</kbd> Python package can be used to model the tropical
+The <code>forestatrisk</code> Python package can be used to model the tropical
 deforestation spatially, predict the spatial risk of deforestation,
 and forecast the future forest cover in the tropics. It provides
 functions to estimate the spatial probability of deforestation as a
@@ -178,13 +179,13 @@ example. <a href="https://ecology.ghislainv.fr/forestatrisk">https://ecology.ghi
 <h4 id="pywdpa">pywdpa</h4>
 <div class="outline-text-4" id="text-pywdpa">
 <p>
-The <kbd>pywdpa</kbd> Python package is an interface to the World Database on
+The <code>pywdpa</code> Python package is an interface to the World Database on
 Protected Areas (WDPA) hosted on the Protected Planet website at
-<a href="https://www.protectedplanet.net">https://www.protectedplanet.net</a>. The <kbd>pywdpa</kbd> package provides
+<a href="https://www.protectedplanet.net">https://www.protectedplanet.net</a>. The <code>pywdpa</code> package provides
 functions to download shapefiles of protected areas (PA) for any
 countries with an iso3 code using the Protected Planet API at
-<a href="https://api.protectedplanet.net">https://api.protectedplanet.net</a>. The <kbd>pywdpa</kbd> package translates some
-functions of the R package <kbd>worldpa</kbd>
+<a href="https://api.protectedplanet.net">https://api.protectedplanet.net</a>. The <code>pywdpa</code> package translates some
+functions of the R package <code>worldpa</code>
 (<a href="https://github.com/FRBCesab/worldpa">https://github.com/FRBCesab/worldpa</a>) in the Python
 language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislainv.fr/pywdpa</a>.
 </p>
@@ -195,11 +196,20 @@ language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislain
 <h4 id="riskmapjnr">riskmapjnr</h4>
 <div class="outline-text-4" id="text-riskmapjnr">
 <p>
-The <kbd>riskmapjnr</kbd> Python package can be used to obtain maps of the
+The <code>riskmapjnr</code> Python package can be used to obtain maps of the
 spatial risk of deforestation and forest degradation following the
 methodology developed in the context of the Jurisdictional and Nested
 REDD+ (JNR) and using only a forest cover change map as
 input. <a href="https://ecology.ghislainv.fr/riskmapjnr">https://ecology.ghislainv.fr/riskmapjnr</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-deforisk" class="outline-4">
+<h4 id="deforisk">deforisk</h4>
+<div class="outline-text-4" id="text-deforisk">
+<p>
+The <code>deforisk</code> Qgis plugin (written in Python) can be used to map the deforestation risk for a country or area of interest. The plugin relies on the <code>forestatrisk</code> and <code>riskmapjnr</code> packages. Four models can be used to derive the risk maps: iCAR, GLM, Random Forest, and Moving Window models. All models are calibrated using past deforestation observations for a given period of time between 2000 and 2022. Forest cover change maps are provided by the user or derived from two global tree/forest cover change products: Global Forest Change and Tropical Moist Forests. Accuracy of the different risk maps can be compared to identify the best model and the best map. <a href="https://ecology.ghislainv.fr/deforisk">https://ecology.ghislainv.fr/deforisk</a>.
 </p>
 </div>
 </div>
@@ -229,7 +239,7 @@ input. <a href="https://ecology.ghislainv.fr/riskmapjnr">https://ecology.ghislai
   </span>
   <br>
   <span class="update">
-    Updated on 2024-04-24 Wed 00:15.
+    Updated on 2024-04-24 Wed 05:52.
   </span>
 </footer>
 </div>
