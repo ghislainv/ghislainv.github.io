@@ -30,7 +30,7 @@ A complete list of code repositories is available on [[https://github.com/ghisla
 :CUSTOM_ID: jsdm
 :END:
 
-=jSDM= is an R package for fitting joint species distribution models
+~jSDM~ is an R package for fitting joint species distribution models
 (JSDMs) in a hierarchical Bayesian framework. The Gibbs sampler is
 written in C++ using Rcpp, Armadillo, and GSL to maximize computation
 efficiency. [[https://ecology.ghislainv.fr/jSDM]].
@@ -45,7 +45,7 @@ efficiency. [[https://ecology.ghislainv.fr/jSDM]].
 # [[https://doi.org/10.5281/zenodo.594920][https://zenodo.org/badge/DOI/10.5281/zenodo.594920.svg]]
 # [[https:/cran.r-project.org/package=hSDM][https://cranlogs.r-pkg.org/badges/grand-total/hSDM]]
 
-=hSDM= is an R package for fitting hierarchical Bayesian species
+~hSDM~ is an R package for fitting hierarchical Bayesian species
 distribution models (HSDMs). It includes functions to fit mixture
 models (site-occupancy, N-mixture, ZIB, and ZIP models) accounting for
 imperfect detection, excess of zeros in the observations, and spatial
@@ -61,7 +61,7 @@ cells). [[https://ecology.ghislainv.fr/hSDM]].
 :CUSTOM_ID: gecevar
 :END:
 
-=gecevar= provides a set of climatic and environmental data for a given
+~gecevar~ provides a set of climatic and environmental data for a given
 area of interest (eg. country scale) that can be used for ecological
 analyses. Data come from a variety of sources (eg. Chelsa,
 OpenStreetMap, TropicalMoistForest, SRTMv4.1, SoilGrids). Climatic and
@@ -75,14 +75,14 @@ user. [[https://ecology.ghislainv.fr/gecevar]].
 :CUSTOM_ID: mcmcpack
 :END:
    
-=MCMCpack= (Markov chain Monte Carlo Package) is an R package which
+~MCMCpack~ (Markov chain Monte Carlo Package) is an R package which
 includes functions to perform Bayesian inference using posterior
 simulation for a number of statistical models. Most simulation is done
-in compiled C++ written with the [[https://scythe.lsa.umich.edu/][=Scythe=]] statistical library. I have
-contributed to =MCMCpack= with the development of functions for
-generalized linear mixed models (glmm): =MCMChregress()= for Gaussian
-models, =MCMChlogit()= for Bernoulli models (logit link function), and
-=MCMChpoisson()= for Poisson models (log link
+in compiled C++ written with the [[https://scythe.lsa.umich.edu/][~Scythe~]] statistical library. I have
+contributed to ~MCMCpack~ with the development of functions for
+generalized linear mixed models (glmm): ~MCMChregress()~ for Gaussian
+models, ~MCMChlogit()~ for Bernoulli models (logit link function), and
+~MCMChpoisson()~ for Poisson models (log link
 function). [[https://cran.r-project.org/package=MCMCpack]].
 
 *** phcfM                                                        :noexport:
@@ -90,34 +90,34 @@ function). [[https://cran.r-project.org/package=MCMCpack]].
 :CUSTOM_ID: phcfm
 :END:
   
-=phcfM= is an R package for modelling anthropogenic deforestation. It
+~phcfM~ is an R package for modelling anthropogenic deforestation. It
 was initially developed to obtain REDD+ baseline scenarios of
 deforestation for the /programme holistique de conservation des forêts
 à Madagascar/ (from which the package was named after). It includes
-two main functions: (i) =demography()=, to model the population growth
+two main functions: (i) ~demography()~, to model the population growth
 with time in a hierarchical Bayesian framework using population census
-data and Gaussian linear mixed models, (ii) =deforestation()=, to
+data and Gaussian linear mixed models, (ii) ~deforestation()~, to
 model the deforestation process in a hierarchical Bayesian framework
 using land-cover change data and Binomial logistic regression models
 with variable time-intervals between land-cover observations.
    
-A GRASS location (=phcfM_SM=) and two mapsets with geographical data
-layers (=PERMANENT= and =study_area_4=) are available to illustrate
-the use of the =phcfM= R package. Associated with the GRASS location, a
-directory (=./scripts=) includes the data and the R/GRASS scripts used
+A GRASS location (~phcfM_SM~) and two mapsets with geographical data
+layers (~PERMANENT~ and ~study_area_4~) are available to illustrate
+the use of the ~phcfM~ R package. Associated with the GRASS location, a
+directory (~./scripts~) includes the data and the R/GRASS scripts used
 for the demographic and deforestation models.
 
 - GRASS location: [[https://sourceforge.net/projects/phcfm/files/phcfM_SM.zip/download][phcfM_SM.zip]]
-- =./scripts=: [[https://sourceforge.net/projects/phcfm/files/scripts.zip/download][scripts.zip]]
+- ~./scripts~: [[https://sourceforge.net/projects/phcfm/files/scripts.zip/download][scripts.zip]]
      
-=phcfM= website: https://sourceforge.net/projects/phcfm/files/.
+~phcfM~ website: https://sourceforge.net/projects/phcfm/files/.
 
 *** twoe
 :PROPERTIES:
 :CUSTOM_ID: twoe
 :END:
 
-=twoe= (2e) is a software which aims first at estimating the
+~twoe~ (2e) is a software which aims first at estimating the
 demographic parameters of tropical tree species from permanent forest
 plot data (through an R package), and second at simulating forest
 dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe.sourceforge.net]].
@@ -132,7 +132,7 @@ dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe
 :CUSTOM_ID: forestatrisk
 :END:
 
-The =forestatrisk= Python package can be used to model the tropical
+The ~forestatrisk~ Python package can be used to model the tropical
 deforestation spatially, predict the spatial risk of deforestation,
 and forecast the future forest cover in the tropics. It provides
 functions to estimate the spatial probability of deforestation as a
@@ -148,13 +148,13 @@ example. https://ecology.ghislainv.fr/forestatrisk.
 :CUSTOM_ID: pywdpa
 :END:
 
-The =pywdpa= Python package is an interface to the World Database on
+The ~pywdpa~ Python package is an interface to the World Database on
 Protected Areas (WDPA) hosted on the Protected Planet website at
-https://www.protectedplanet.net. The =pywdpa= package provides
+https://www.protectedplanet.net. The ~pywdpa~ package provides
 functions to download shapefiles of protected areas (PA) for any
 countries with an iso3 code using the Protected Planet API at
-https://api.protectedplanet.net. The =pywdpa= package translates some
-functions of the R package =worldpa=
+https://api.protectedplanet.net. The ~pywdpa~ package translates some
+functions of the R package ~worldpa~
 (https://github.com/FRBCesab/worldpa) in the Python
 language. https://ecology.ghislainv.fr/pywdpa.
 
@@ -163,10 +163,17 @@ language. https://ecology.ghislainv.fr/pywdpa.
 :CUSTOM_ID: riskmapjnr
 :END:
 
-The =riskmapjnr= Python package can be used to obtain maps of the
+The ~riskmapjnr~ Python package can be used to obtain maps of the
 spatial risk of deforestation and forest degradation following the
 methodology developed in the context of the Jurisdictional and Nested
 REDD+ (JNR) and using only a forest cover change map as
 input. https://ecology.ghislainv.fr/riskmapjnr.
+
+*** deforisk
+:PROPERTIES:
+:CUSTOM_ID: deforisk
+:END:
+
+The ~deforisk~ Qgis plugin (written in Python) can be used to map the deforestation risk for a country or area of interest. The plugin relies on the ~forestatrisk~ and ~riskmapjnr~ packages. Four models can be used to derive the risk maps: iCAR, GLM, Random Forest, and Moving Window models. All models are calibrated using past deforestation observations for a given period of time between 2000 and 2022. Forest cover change maps are provided by the user or derived from two global tree/forest cover change products: Global Forest Change and Tropical Moist Forests. Accuracy of the different risk maps can be compared to identify the best model and the best map. [[https://ecology.ghislainv.fr/deforisk]].
 
 # End
