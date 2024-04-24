@@ -20,7 +20,7 @@
 
 A complete list of code repositories is available on [[https://github.com/ghislainv][GitHub]].
 
-** R packages
+** @@html:<i class="fa-brands fa-r-project"></i>@@ R packages
 :PROPERTIES:
 :CUSTOM_ID: r-packages
 :END:
@@ -122,7 +122,7 @@ demographic parameters of tropical tree species from permanent forest
 plot data (through an R package), and second at simulating forest
 dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe.sourceforge.net]].
 
-** Python packages
+** @@html:<i class="fa-brands fa-python"></i>@@ Python packages
 :PROPERTIES:
 :CUSTOM_ID: python-packages
 :END:
