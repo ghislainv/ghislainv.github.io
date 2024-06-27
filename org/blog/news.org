@@ -6,6 +6,23 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
+* Media                                                            :noexport:
+25/06/2024
+https://www.lemonde.fr/en/le-monde-africa/article/2024/06/25/in-madagascar-a-race-against-time-to-save-the-last-forests_6675645_124.html
+
+* MELANOBS workshop                                                :noexport:
+19/04/2024
+
+* Visit of the IRD deputy director to permanent plot forests       :noexport:
+23/03/2024
+
+* Installing permanent plot in NC forests                          :noexport:
+08/03/2024
+
+* Article wood density                                             :noexport:
+08/03/2024
+https://doi.org/10.1111/gcb.17224
+
 * Comparing community forests and protected areas in Madagascar     :article:
 :PROPERTIES:
 :CUSTOM_ID: article-community-forests-madagascar
