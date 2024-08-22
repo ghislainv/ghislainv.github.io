@@ -6,20 +6,68 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
+* Wellington botanical garden                                      :noexport:
+:PROPERTIES:
+:ID:       74386a04-6272-4490-9ac5-722bf6c00ccf
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
+02/08/2024
+
+* Visiting Conaf                                                   :noexport:
+:PROPERTIES:
+:ID:       4bc9445b-5698-4645-92b5-a1b63453188c
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
+28/07/2024
+
+* Deforisk workshop Colombia                                       :noexport:
+:PROPERTIES:
+:ID:       d584299b-7289-4f49-a27b-de69d71dc1a8
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
+15/07/2024
+
+* Article Nature clément                                           :noexport:
+:PROPERTIES:
+:ID:       e96ca0d4-3a31-4ada-9117-dec14c2d1cc0
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
+03/07/2024
+
 * Media                                                            :noexport:
+:PROPERTIES:
+:ID:       efa5359e-a37d-4bb1-a1ff-07fb046a6019
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
 25/06/2024
 https://www.lemonde.fr/en/le-monde-africa/article/2024/06/25/in-madagascar-a-race-against-time-to-save-the-last-forests_6675645_124.html
 
 * MELANOBS workshop                                                :noexport:
+:PROPERTIES:
+:ID:       4e72c773-63bc-48bc-a970-02ae7af6f68e
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
 19/04/2024
 
 * Visit of the IRD deputy director to permanent plot forests       :noexport:
+:PROPERTIES:
+:ID:       b4336c33-135a-4b43-996c-02b12999ec1b
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
 23/03/2024
 
 * Installing permanent plot in NC forests                          :noexport:
+:PROPERTIES:
+:ID:       49df8dc9-a611-4090-a673-2b21018d2439
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
 08/03/2024
 
 * Article wood density                                             :noexport:
+:PROPERTIES:
+:ID:       6eec30c1-1f21-49f3-8ae9-f9c1079c6501
+:PUBDATE:  2024-08-22 Thu 19:31
+:END:
 08/03/2024
 https://doi.org/10.1111/gcb.17224
 

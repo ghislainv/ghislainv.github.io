@@ -48,8 +48,6 @@
 
 *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, G. Vieilledent, R. A. Ferreira de Lima, [...], and A. Sellin.* A global map of wood density. /Nature Plant/.
 
-*Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent, A. Cescatti, and F. Achard.* Recovery of tropical moist forests after degradation and deforestation. /Nature/.
-
 *Boisseaux M., D. Krebber, B. Burban, A. Casado-Garcia, J. Cazal1, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, and C. Stahl.* Local habitat cannot be explained by leaf chemical and water-related traits in neotropical trees. /Functional Ecology/.
 
 *Khan S., I. Maréchaux, G. Vieilledent, S. Guitet, O. Brunaux, B. Ferry, F. Soulard, C. Stahl, C. Baraloto, C. Fortunel and V. Freycon* Regional soil profile data reveals the predominant role of geomorphology and geology in accurately deriving digital soil texture maps in a tropical area. /Geoderma/.
@@ -58,6 +56,8 @@
 :PROPERTIES:
 :CUSTOM_ID: yr2024
 :END:
+
+[53]. *Bourgoin C., G. Ceccherini, M. Girardello, C. Vancutsem, V. Avitabile, P.S.A. Beck, R. Beuchle, L. Blanc, G. Duveiller, M. Migliavacca, G. Vieilledent, A. Cescatti, and F. Achard.* 2024. Human degradation of tropical moist forests is greater than previously estimated. /Nature/. *631*:8021, 570--576. {{{doi(10.1038/s41586-024-07629-0)}}}. {{{pdf(Bourgoin2024-Nature.pdf)}}}, Supplementary materials {{{supp(Bourgoin2024-Nature-SM.pdf)}}} {{{altm(10.1038/s41586-024-07629-0)}}}
 
 [52]. *Neugarten R. A., R. A. Rasolofoson, C. B. Barrett, G. Vieilledent, and A. D. Rodewald*. 2024. The effect of a political crisis on performance of community forests and protected areas in Madagascar. /Nature Communications/. *15*:2863. {{{doi(10.1038/s41467-024-47318-0)}}}. {{{pdf(Neugarten2024-NatureCommunications.pdf)}}}, Supplementary materials {{{supp(Neugarten2024-NatureCommunications-SM.pdf)}}} {{{altm(10.1038/s41467-024-47318-0)}}}
 

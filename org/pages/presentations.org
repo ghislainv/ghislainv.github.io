@@ -2,6 +2,8 @@
 #+description: Presentations at ecology.ghislainv.fr
 #+setupfile: setup.org
 
+- [[file:presentations/deforisk-qgis-plugin-July2024.pdf][deforisk-qgis-plugin-July2024]]
+- [[file:presentations/riskmap-verra-July2024.pdf][riskmaps-verra-July2024]]
 - [[file:presentations/forestatrisk-melanobs-april2024.pdf][forestatrisk-melanobs-April2024]]
 - [[file:presentations/melanobs-fcc-carbon-biodiversity-data-april2024.pdf][melanobs-fcc-carbon-biodiversity-data-April2024]]
 - [[file:presentations/forestatrisk-EFI-COCOBOD-June2023.pdf][forestatrisk-EFI-COCOBOD-June2023]]
