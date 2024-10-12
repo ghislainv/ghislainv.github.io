@@ -10,6 +10,20 @@
 @@html:<h4 id=title-toc>Page ToC</h4@@
 #+TOC: headlines 2 :target #cv
 
+** Researcher profiles
+:PROPERTIES:
+:CUSTOM_ID: researcher-profiles
+:END:
+
+[[https://scholar.google.fr/citations?user=fv71B7UAAAAJ&hl=fr][GoogleScholar]] -- [[https://www.webofscience.com/wos/author/record/D-8323-2011][Web of Science]] --  [[https://orcid.org/0000-0002-1685-4997][ORCID]] --  [[https://www.researchgate.net/profile/Ghislain_Vieilledent][ResearchGate]] -- [[https://agritrop.cirad.fr/view/auteurcirad/556.date.html][Agritrop]]
+
+** iEcology profiles
+:PROPERTIES:
+:CUSTOM_ID: iecology-profiles
+:END:
+
+[[https://identify.plantnet.org/ab/users/100083444][Pl@ntNet]] -- [[https://ebird.org/profile/Mzk4Njk4/world][eBird]] -- [[https://www.inaturalist.org/people/ghislainv][iNaturalist]]
+
 ** Curriculum vit\aelig
 :PROPERTIES:
 :CUSTOM_ID: curriculum-vitae
@@ -22,6 +36,9 @@
 
 *January 2019 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]]. /Research
 scientist/. Tropical forest ecology.
+
+*December 2023 -- Present:* [[https://www.cirad.fr][Cirad]], [[https://amap.cirad.fr/en/index.php][UMR AMAP]], [[https://www.iac.nc/][IAC]]. /Research
+scientist/. Expat in New Caledonia.
 
 *September 2015 -- September 2018:* [[https://joint-research-centre.ec.europa.eu/index_en][JRC]]. /Seconded National Expert/.
 Detached to the Joint Research Center of the European Commission
