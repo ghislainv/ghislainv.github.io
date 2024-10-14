@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-10-12 Sat 16:58 -->
+<!-- 2024-10-14 Mon 09:35 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ecology.ghislainv.fr &#x2013; Software</title>
@@ -54,6 +54,7 @@
 <li><a href="#forestatrisk">forestatrisk</a></li>
 <li><a href="#pywdpa">pywdpa</a></li>
 <li><a href="#riskmapjnr">riskmapjnr</a></li>
+<li><a href="#geefcc">geefcc</a></li>
 <li><a href="#deforisk">deforisk</a></li>
 </ul>
 </li>
@@ -143,10 +144,7 @@ function). <a href="https://cran.r-project.org/package=MCMCpack">https://cran.r-
 <h4 id="twoe">twoe</h4>
 <div class="outline-text-4" id="text-twoe">
 <p>
-<code>twoe</code> (2e) is a software which aims first at estimating the
-demographic parameters of tropical tree species from permanent forest
-plot data (through an R package), and second at simulating forest
-dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a href="https://twoe.sourceforge.net">https://twoe.sourceforge.net</a>.
+<code>twoe</code> (2e) is a software which aims first at estimating the demographic parameters of tropical tree species from permanent forest plot data (through an R package), and second at simulating forest dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a href="https://twoe.sourceforge.net">https://twoe.sourceforge.net</a>.
 </p>
 </div>
 </div>
@@ -161,16 +159,7 @@ dynamics (through a <a href="https://capsis.cirad.fr/">Capsis</a> module). <a hr
 <h4 id="forestatrisk">forestatrisk</h4>
 <div class="outline-text-4" id="text-forestatrisk">
 <p>
-The <code>forestatrisk</code> Python package can be used to model the tropical
-deforestation spatially, predict the spatial risk of deforestation,
-and forecast the future forest cover in the tropics. It provides
-functions to estimate the spatial probability of deforestation as a
-function of various spatial explanatory variables. Spatial explanatory
-variables can be derived from topography (altitude, slope, and
-aspect), accessibility (distance to roads, towns, and forest edge),
-deforestation history (distance to previous deforestation), or land
-conservation status (eg. protected area) for
-example. <a href="https://ecology.ghislainv.fr/forestatrisk">https://ecology.ghislainv.fr/forestatrisk</a>.
+The <code>forestatrisk</code> Python package can be used to model the tropical deforestation spatially, predict the spatial risk of deforestation, and forecast the future forest cover in the tropics. It provides functions to estimate the spatial probability of deforestation as a function of various spatial explanatory variables. Spatial explanatory variables can be derived from topography (altitude, slope, and aspect), accessibility (distance to roads, towns, and forest edge), deforestation history (distance to previous deforestation), or land conservation status (eg. protected area) for example. <a href="https://ecology.ghislainv.fr/forestatrisk">https://ecology.ghislainv.fr/forestatrisk</a>.
 </p>
 </div>
 </div>
@@ -179,15 +168,7 @@ example. <a href="https://ecology.ghislainv.fr/forestatrisk">https://ecology.ghi
 <h4 id="pywdpa">pywdpa</h4>
 <div class="outline-text-4" id="text-pywdpa">
 <p>
-The <code>pywdpa</code> Python package is an interface to the World Database on
-Protected Areas (WDPA) hosted on the Protected Planet website at
-<a href="https://www.protectedplanet.net">https://www.protectedplanet.net</a>. The <code>pywdpa</code> package provides
-functions to download shapefiles of protected areas (PA) for any
-countries with an iso3 code using the Protected Planet API at
-<a href="https://api.protectedplanet.net">https://api.protectedplanet.net</a>. The <code>pywdpa</code> package translates some
-functions of the R package <code>worldpa</code>
-(<a href="https://github.com/FRBCesab/worldpa">https://github.com/FRBCesab/worldpa</a>) in the Python
-language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislainv.fr/pywdpa</a>.
+The <code>pywdpa</code> Python package is an interface to the World Database on Protected Areas (WDPA) hosted on the Protected Planet website at <a href="https://www.protectedplanet.net">https://www.protectedplanet.net</a>. The <code>pywdpa</code> package provides functions to download shapefiles of protected areas (PA) for any countries with an iso3 code using the Protected Planet API at <a href="https://api.protectedplanet.net">https://api.protectedplanet.net</a>. The <code>pywdpa</code> package translates some functions of the R package <code>worldpa</code> (<a href="https://github.com/FRBCesab/worldpa">https://github.com/FRBCesab/worldpa</a>) in the Python language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislainv.fr/pywdpa</a>.
 </p>
 </div>
 </div>
@@ -196,11 +177,16 @@ language. <a href="https://ecology.ghislainv.fr/pywdpa">https://ecology.ghislain
 <h4 id="riskmapjnr">riskmapjnr</h4>
 <div class="outline-text-4" id="text-riskmapjnr">
 <p>
-The <code>riskmapjnr</code> Python package can be used to obtain maps of the
-spatial risk of deforestation and forest degradation following the
-methodology developed in the context of the Jurisdictional and Nested
-REDD+ (JNR) and using only a forest cover change map as
-input. <a href="https://ecology.ghislainv.fr/riskmapjnr">https://ecology.ghislainv.fr/riskmapjnr</a>.
+The <code>riskmapjnr</code> Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input. <a href="https://ecology.ghislainv.fr/riskmapjnr">https://ecology.ghislainv.fr/riskmapjnr</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-geefcc" class="outline-4">
+<h4 id="geefcc">geefcc</h4>
+<div class="outline-text-4" id="text-geefcc">
+<p>
+The <code>geefcc</code> Python package can be used to make forest cover change (fcc) maps from Google Earth Engine (GEE) and download them locally. Forest cover change maps are obtained from two global tree/forest cover change products: Global Forest Change or Tropical Moist Forests. These two products are derived from the Landsat satellite image archive and provide tree/forest cover data at 30 m resolution. <a href="https://ecology.ghislainv.fr/geefcc">https://ecology.ghislainv.fr/geefcc</a>.
 </p>
 </div>
 </div>
@@ -239,7 +225,7 @@ The <code>deforisk</code> Qgis plugin (written in Python) can be used to map the
   </span>
   <br>
   <span class="update">
-    Updated on 2024-10-12 Sat 16:58.
+    Updated on 2024-10-14 Mon 09:35.
   </span>
 </footer>
 </div>
