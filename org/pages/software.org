@@ -117,10 +117,7 @@ for the demographic and deforestation models.
 :CUSTOM_ID: twoe
 :END:
 
-~twoe~ (2e) is a software which aims first at estimating the
-demographic parameters of tropical tree species from permanent forest
-plot data (through an R package), and second at simulating forest
-dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe.sourceforge.net]].
+~twoe~ (2e) is a software which aims first at estimating the demographic parameters of tropical tree species from permanent forest plot data (through an R package), and second at simulating forest dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe.sourceforge.net]].
 
 ** Python packages @@html:<i class="fa-brands fa-python"></i>@@
 :PROPERTIES:
@@ -132,42 +129,28 @@ dynamics (through a [[https://capsis.cirad.fr/][Capsis]] module). [[https://twoe
 :CUSTOM_ID: forestatrisk
 :END:
 
-The ~forestatrisk~ Python package can be used to model the tropical
-deforestation spatially, predict the spatial risk of deforestation,
-and forecast the future forest cover in the tropics. It provides
-functions to estimate the spatial probability of deforestation as a
-function of various spatial explanatory variables. Spatial explanatory
-variables can be derived from topography (altitude, slope, and
-aspect), accessibility (distance to roads, towns, and forest edge),
-deforestation history (distance to previous deforestation), or land
-conservation status (eg. protected area) for
-example. https://ecology.ghislainv.fr/forestatrisk.
+The ~forestatrisk~ Python package can be used to model the tropical deforestation spatially, predict the spatial risk of deforestation, and forecast the future forest cover in the tropics. It provides functions to estimate the spatial probability of deforestation as a function of various spatial explanatory variables. Spatial explanatory variables can be derived from topography (altitude, slope, and aspect), accessibility (distance to roads, towns, and forest edge), deforestation history (distance to previous deforestation), or land conservation status (eg. protected area) for example. https://ecology.ghislainv.fr/forestatrisk.
 
 *** pywdpa
 :PROPERTIES:
 :CUSTOM_ID: pywdpa
 :END:
 
-The ~pywdpa~ Python package is an interface to the World Database on
-Protected Areas (WDPA) hosted on the Protected Planet website at
-https://www.protectedplanet.net. The ~pywdpa~ package provides
-functions to download shapefiles of protected areas (PA) for any
-countries with an iso3 code using the Protected Planet API at
-https://api.protectedplanet.net. The ~pywdpa~ package translates some
-functions of the R package ~worldpa~
-(https://github.com/FRBCesab/worldpa) in the Python
-language. https://ecology.ghislainv.fr/pywdpa.
+The ~pywdpa~ Python package is an interface to the World Database on Protected Areas (WDPA) hosted on the Protected Planet website at https://www.protectedplanet.net. The ~pywdpa~ package provides functions to download shapefiles of protected areas (PA) for any countries with an iso3 code using the Protected Planet API at https://api.protectedplanet.net. The ~pywdpa~ package translates some functions of the R package ~worldpa~ (https://github.com/FRBCesab/worldpa) in the Python language. https://ecology.ghislainv.fr/pywdpa.
 
 *** riskmapjnr
 :PROPERTIES:
 :CUSTOM_ID: riskmapjnr
 :END:
 
-The ~riskmapjnr~ Python package can be used to obtain maps of the
-spatial risk of deforestation and forest degradation following the
-methodology developed in the context of the Jurisdictional and Nested
-REDD+ (JNR) and using only a forest cover change map as
-input. https://ecology.ghislainv.fr/riskmapjnr.
+The ~riskmapjnr~ Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input. https://ecology.ghislainv.fr/riskmapjnr.
+
+*** geefcc
+:PROPERTIES:
+:CUSTOM_ID: geefcc
+:END:
+
+The ~geefcc~ Python package can be used to make forest cover change (fcc) maps from Google Earth Engine (GEE) and download them locally. Forest cover change maps are obtained from two global tree/forest cover change products: Global Forest Change or Tropical Moist Forests. These two products are derived from the Landsat satellite image archive and provide tree/forest cover data at 30 m resolution. [[https://ecology.ghislainv.fr/geefcc]].
 
 *** deforisk
 :PROPERTIES:

@@ -2,6 +2,9 @@
 #+description: Ghislain Vieilledent short presentation
 #+setupfile: setup.org
 
+#+attr_html: :id ID_picture :style float:right;
+[[file:images/identity/gv_id_gnupg.jpg]]
+
 * Ghislain Vieilledent
 :PROPERTIES:
 :CUSTOM_ID: cv
