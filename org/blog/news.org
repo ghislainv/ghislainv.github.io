@@ -6,6 +6,31 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
+* Article Marion                                                   :noexport:
+:PROPERTIES:
+:ID:       73fe09e9-2248-4d1a-a441-bfc646bb3b08
+:PUBDATE:  2024-10-31 Thu 09:00
+:END:
+31/10/24
+https://doi.org/10.1111/1365-2435.14679
+Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests.
+/Functional Ecology/
+
+* Convention between Province Sud and AMAP                         :noexport:
+:PROPERTIES:
+:ID:       c69c9622-4906-476b-9c35-92f6b64779af
+:PUBDATE:  2024-10-18 Fri 10:00
+:END:
+18/10/24
+
+* Article Santoro                                                  :noexport:
+:PROPERTIES:
+:ID:       e3afdf5e-334e-4285-95c8-0f685cbae3c7
+:PUBDATE:  2024-09-30 Mon 09:00
+:END:
+30/09/2024
+https://doi.org/10.1016/j.srs.2024.100169
+
 * Wellington botanical garden                                      :noexport:
 :PROPERTIES:
 :ID:       74386a04-6272-4490-9ac5-722bf6c00ccf
