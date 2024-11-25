@@ -6,15 +6,41 @@
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@
 
-* Article Marion                                                   :noexport:
+* Permanent forest plot in Lifou                                   :noexport:
+:PROPERTIES:
+:ID:       618223a0-d27f-49b9-a460-ef72d67df03d
+:PUBDATE:  2024-12-02 Mon 09:00
+:END:
+02/12/24
+
+* Permanent forest plot in Vanuatu                                 :noexport:
+:PROPERTIES:
+:ID:       11da31a0-a12d-4888-adbf-3e6479d4c896
+:PUBDATE:  2024-11-04 Mon 09:00
+:END:
+04/11/24
+
+* New article on trait-environment relationships           :article:
 :PROPERTIES:
 :ID:       73fe09e9-2248-4d1a-a441-bfc646bb3b08
 :PUBDATE:  2024-10-31 Thu 09:00
 :END:
-31/10/24
-https://doi.org/10.1111/1365-2435.14679
-Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests.
-/Functional Ecology/
+
+*October 31, 2024*
+
+[[https://www.linkedin.com/in/boisseaux-marion-9a9587105][Marion Boisseaux]] has published a new paper from her PhD thesis which was part of the METRADICA project. For this paper, she measured nine leaf functional traits for 552 trees which belonged to 21 species that can be find in the tropical forests of French Guiana. Leaf traits included: carbon content, minimum leaf conductance, potassium content, leaf saturated water content, stomatal density, major vein density, nitrogen content, phosphorus content, and turgor loss point. Tree species were divided into specialist species that can be found preferentially in /terra firme/ (TF) or seasonally flooded (SF) forests and generalist species that can be found in both habitats. In the paper, we tested the influence of the topographic wetness index (TWI), a proxy for soil moisture and nutrient gradients, in determining trait values and trait syndromes (combinations of trait values). We found that while environment didn't explain much of the trait value variation when traits were considered individually, it had a strong influence on trait syndromes. Trait value space was significantly constrained for extreme values of TWI (Fig. [[fig:boisseaux2024-fe-constraint-on-trait-space]]). This work highlights the need to investigate functional strategies as multidimensional trait syndromes to fully understand and predict species distribution along environmental gradients.
+
+#+name: fig:boisseaux2024-fe-constraint-on-trait-space
+#+attr_html: :style display:block;margin:auto;max-width:80%;
+#+caption: *Variation of trait integration indices (TI) along the topographic wetness index (TWI).* The index can be either the range or the standard deviation of the eigenvalues of the PCA on leaf functional traits. The index value reflects the level of constraints on the multidimensional trait space. For high values of TI, one or a few axes of the PCA explain a large proportion of the variation in the trait values, meaning that the trait space is more constrained than for low values of TI.
+[[file:images/blog/Boisseaux2024-FE.png]]
+
+*Boisseaux M., D. Nemetschek, C. Baraloto, B. Burban, A. Casado-Garcia, J. Cazal, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, I. Maréchaux, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* 2024. Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests. /Functional Ecology/. *00*:1-17. {{{doi(10.1111/1365-2435.14679)}}}. {{{pdf(Boisseaux2024-FE.pdf)}}}, Supplementary materials {{{supp(Boisseaux2024-FE-SM.pdf)}}} {{{altm(10.1111/1365-2435.14679)}}}
+
+#+attr_html: :style display:block;margin:auto;max-width:80%;border-radius:10px;
+[[file:images/blog/Iglesias2024-illustration-Boisseaux2024.png]]
+
+Above is an illustration of the article by [[https://antiaiglesias.com/][Antía Iglesias]]. See also the related book written by Antía and Marion untitled /"The multidimensionality of the plant: an art and ecophysiology approach to the comprehension of Amazonian tree seedlings"/ ([[https://hdl.handle.net/11093/5563]]).
 
 * Convention between Province Sud and AMAP                         :noexport:
 :PROPERTIES:
@@ -41,7 +67,7 @@ https://doi.org/10.1016/j.srs.2024.100169
 * Visiting Conaf                                                   :noexport:
 :PROPERTIES:
 :ID:       4bc9445b-5698-4645-92b5-a1b63453188c
-:PUBDATE:  2024-08-22 Thu 19:31
+:PUBDATE:  2024-07-28 Thu 19:31
 :END:
 28/07/2024
 
@@ -91,7 +117,7 @@ https://www.lemonde.fr/en/le-monde-africa/article/2024/06/25/in-madagascar-a-rac
 * Article wood density                                             :noexport:
 :PROPERTIES:
 :ID:       6eec30c1-1f21-49f3-8ae9-f9c1079c6501
-:PUBDATE:  2024-08-22 Thu 19:31
+:PUBDATE:  2024-03-08 Fri 09:00
 :END:
 08/03/2024
 https://doi.org/10.1111/gcb.17224
@@ -105,7 +131,7 @@ https://doi.org/10.1111/gcb.17224
 
 *April 05, 2024*
 
-Together with Rachel Neugarten and colleagues, we published a paper comparing the effectiveness of community forests and protected areas in Madagascar in reducing deforestation. The comparison of the two conservation approaches was done before, during, and after the political crisis that prevailed in the country in the period 2009--2014. Quasi-experimental methods (statistical matching and event study) were used to control for site differences and other confounding factors. We found that the crisis and post-crisis dynamics negatively affected the performance of both community forests and protected areas in Madagascar, but that community forests were particularly vulnerable to strong post-crisis deforestation pressure (Fig [[fig:comparing-cfm-mnp-deforestation-mada]]). Further research is needed to better understand what explains the surge in deforestation after the political crisis but some hypothesis can be put forward to explain the higher vulnerability of community forests. Deforestation for agriculture and charcoal production is a way for communities to meet their basic needs, but at the expense of biodiversity. In Madagascar, community forests do not receive continuous financial support. Given the extremely high poverty rate and food insecurity, it is understandable that more deforestation is observed in community forests in times of crisis. A more detailed presentation of the study and its conclusions is available in an [[https://communities.springernature.com/posts/shock-proofing-conservation-are-community-forests-in-madagascar-resilient-to-a-political-crisis-and-its-aftermath][article published in the Research Communities blog by Springer Nature]].
+Together with [[https://www.linkedin.com/in/rachel-neugarten][Rachel Neugarten]] and colleagues, we published a paper comparing the effectiveness of community forests and protected areas in Madagascar in reducing deforestation. The comparison of the two conservation approaches was done before, during, and after the political crisis that prevailed in the country in the period 2009--2014. Quasi-experimental methods (statistical matching and event study) were used to control for site differences and other confounding factors. We found that the crisis and post-crisis dynamics negatively affected the performance of both community forests and protected areas in Madagascar, but that community forests were particularly vulnerable to strong post-crisis deforestation pressure (Fig [[fig:comparing-cfm-mnp-deforestation-mada]]). Further research is needed to better understand what explains the surge in deforestation after the political crisis but some hypothesis can be put forward to explain the higher vulnerability of community forests. Deforestation for agriculture and charcoal production is a way for communities to meet their basic needs, but at the expense of biodiversity. In Madagascar, community forests do not receive continuous financial support. Given the extremely high poverty rate and food insecurity, it is understandable that more deforestation is observed in community forests in times of crisis. A more detailed presentation of the study and its conclusions is available in an [[https://communities.springernature.com/posts/shock-proofing-conservation-are-community-forests-in-madagascar-resilient-to-a-political-crisis-and-its-aftermath][article published in the Research Communities blog by Springer Nature]].
 
 #+name: fig:comparing-cfm-mnp-deforestation-mada
 #+attr_html: :style display:block;margin:auto;max-width:80%;
