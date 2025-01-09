@@ -35,7 +35,7 @@
 #+caption: *Variation of trait integration indices (TI) along the topographic wetness index (TWI).* The index can be either the range or the standard deviation of the eigenvalues of the PCA on leaf functional traits. The index value reflects the level of constraints on the multidimensional trait space. For high values of TI, one or a few axes of the PCA explain a large proportion of the variation in the trait values, meaning that the trait space is more constrained than for low values of TI.
 [[file:images/blog/Boisseaux2024-FE.png]]
 
-*Boisseaux M., D. Nemetschek, C. Baraloto, B. Burban, A. Casado-Garcia, J. Cazal, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, I. Maréchaux, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* 2024. Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests. /Functional Ecology/. *00*:1-17. {{{doi(10.1111/1365-2435.14679)}}}. {{{pdf(Boisseaux2024-FE.pdf)}}}, Supplementary materials {{{supp(Boisseaux2024-FE-SM.pdf)}}} {{{altm(10.1111/1365-2435.14679)}}}
+*Boisseaux M., D. Nemetschek, C. Baraloto, B. Burban, A. Casado-Garcia, J. Cazal, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, I. Maréchaux, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* 2025. Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests. /Functional Ecology/. *39*:1, 21--37. {{{doi(10.1111/1365-2435.14679)}}}. {{{pdf(Boisseaux2025-FE.pdf)}}}, Supplementary materials {{{supp(Boisseaux2025-FE-SM.pdf)}}} {{{altm(10.1111/1365-2435.14679)}}}
 
 #+attr_html: :style display:block;margin:auto;max-width:80%;border-radius:10px;
 [[file:images/blog/Iglesias2024-illustration-Boisseaux2024.png]]
