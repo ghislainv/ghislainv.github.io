@@ -22,23 +22,24 @@
 
 * New article on trait-environment relationships           :article:
 :PROPERTIES:
+:CUSTOM_ID: article-boisseaux2025-trait-environment
 :ID:       73fe09e9-2248-4d1a-a441-bfc646bb3b08
 :PUBDATE:  2024-10-31 Thu 09:00
 :END:
 
 *October 31, 2024*
 
-[[https://www.linkedin.com/in/boisseaux-marion-9a9587105][Marion Boisseaux]] has published a new paper from her PhD thesis which was part of the METRADICA project. For this paper, she measured nine leaf functional traits for 552 trees which belonged to 21 species that can be find in the tropical forests of French Guiana. Leaf traits included: carbon content, minimum leaf conductance, potassium content, leaf saturated water content, stomatal density, major vein density, nitrogen content, phosphorus content, and turgor loss point. Tree species were divided into specialist species that can be found preferentially in /terra firme/ (TF) or seasonally flooded (SF) forests and generalist species that can be found in both habitats. In the paper, we tested the influence of the topographic wetness index (TWI), a proxy for soil moisture and nutrient gradients, in determining trait values and trait syndromes (combinations of trait values). We found that while environment didn't explain much of the trait value variation when traits were considered individually, it had a strong influence on trait syndromes. Trait value space was significantly constrained for extreme values of TWI (Fig. [[fig:boisseaux2024-fe-constraint-on-trait-space]]). This work highlights the need to investigate functional strategies as multidimensional trait syndromes to fully understand and predict species distribution along environmental gradients.
+[[https://www.linkedin.com/in/boisseaux-marion-9a9587105][Marion Boisseaux]] has published a new paper from her PhD thesis which was part of the METRADICA project. For this paper, she measured nine leaf functional traits for 552 trees which belonged to 21 species that can be find in the tropical forests of French Guiana. Leaf traits included: carbon content, minimum leaf conductance, potassium content, leaf saturated water content, stomatal density, major vein density, nitrogen content, phosphorus content, and turgor loss point. Tree species were divided into specialist species that can be found preferentially in /terra firme/ (TF) or seasonally flooded (SF) forests and generalist species that can be found in both habitats. In the paper, we tested the influence of the topographic wetness index (TWI), a proxy for soil moisture and nutrient gradients, in determining trait values and trait syndromes (combinations of trait values). We found that while environment didn't explain much of the trait value variation when traits were considered individually, it had a strong influence on trait syndromes. Trait value space was significantly constrained for extreme values of TWI (Fig. [[fig:boisseaux2025-fe-constraint-on-trait-space]]). This work highlights the need to investigate functional strategies as multidimensional trait syndromes to fully understand and predict species distribution along environmental gradients.
 
-#+name: fig:boisseaux2024-fe-constraint-on-trait-space
+#+name: fig:boisseaux2025-fe-constraint-on-trait-space
 #+attr_html: :style display:block;margin:auto;max-width:80%;
 #+caption: *Variation of trait integration indices (TI) along the topographic wetness index (TWI).* The index can be either the range or the standard deviation of the eigenvalues of the PCA on leaf functional traits. The index value reflects the level of constraints on the multidimensional trait space. For high values of TI, one or a few axes of the PCA explain a large proportion of the variation in the trait values, meaning that the trait space is more constrained than for low values of TI.
-[[file:images/blog/Boisseaux2024-FE.png]]
+[[file:images/blog/Boisseaux2025-FE.png]]
 
 *Boisseaux M., D. Nemetschek, C. Baraloto, B. Burban, A. Casado-Garcia, J. Cazal, J. Clément, G. Derroire, C. Fortunel, J.-Y. Goret, J. Heras, G. Jaouen, I. Maréchaux, C. Scoffoni, G. Vieilledent, J. Vleminckx, S. Coste, H. Schimann, C. Stahl.* 2025. Shifting trait coordination along a soil-moisture-nutrient gradient in tropical forests. /Functional Ecology/. *39*:1, 21--37. {{{doi(10.1111/1365-2435.14679)}}}. {{{pdf(Boisseaux2025-FE.pdf)}}}, Supplementary materials {{{supp(Boisseaux2025-FE-SM.pdf)}}} {{{altm(10.1111/1365-2435.14679)}}}
 
 #+attr_html: :style display:block;margin:auto;max-width:80%;border-radius:10px;
-[[file:images/blog/Iglesias2024-illustration-Boisseaux2024.png]]
+[[file:images/blog/Iglesias2024-illustration-Boisseaux2025.png]]
 
 Above is an illustration of the article by [[https://antiaiglesias.com/][Antía Iglesias]]. See also the related book written by Antía and Marion untitled /"The multidimensionality of the plant: an art and ecophysiology approach to the comprehension of Amazonian tree seedlings"/ ([[https://hdl.handle.net/11093/5563]]).
 
