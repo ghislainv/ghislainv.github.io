@@ -152,11 +152,16 @@ The ~riskmapjnr~ Python package can be used to obtain maps of the spatial risk o
 
 The ~geefcc~ Python package can be used to make forest cover change (fcc) maps from Google Earth Engine (GEE) and download them locally. Forest cover change maps are obtained from two global tree/forest cover change products: Global Forest Change or Tropical Moist Forests. These two products are derived from the Landsat satellite image archive and provide tree/forest cover data at 30 m resolution. [[https://ecology.ghislainv.fr/geefcc]].
 
+** QGIS plugins @@html:<i class="fa-solid fa-q"></i>@@
+:PROPERTIES:
+:CUSTOM_ID: qgis-plugins
+:END:
+
 *** deforisk
 :PROPERTIES:
 :CUSTOM_ID: deforisk
 :END:
 
-The ~deforisk~ Qgis plugin (written in Python) can be used to map the deforestation risk for a country or area of interest. The plugin relies on the ~forestatrisk~ and ~riskmapjnr~ packages. Four models can be used to derive the risk maps: iCAR, GLM, Random Forest, and Moving Window models. All models are calibrated using past deforestation observations for a given period of time between 2000 and 2022. Forest cover change maps are provided by the user or derived from two global tree/forest cover change products: Global Forest Change and Tropical Moist Forests. Accuracy of the different risk maps can be compared to identify the best model and the best map. [[https://ecology.ghislainv.fr/deforisk]].
+The ~deforisk~ Qgis plugin (written in Python) can be used to derive maps of the deforestation risk for a country or area of interest. The plugin relies on the ~forestatrisk~ and ~riskmapjnr~ packages. Four models can be used to derive the risk maps: iCAR, GLM, Random Forest, and Moving Window models. All models are calibrated using past deforestation observations. Forest cover change maps are provided by the user or derived from two global tree/forest cover change products: Global Forest Change and Tropical Moist Forests. Accuracy of the different risk maps can be compared to identify the best model and the best map. [[https://deforisk-qgis-plugin.org]].
 
 # End
