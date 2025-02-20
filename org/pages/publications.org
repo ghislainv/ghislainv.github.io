@@ -277,13 +277,15 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 :CUSTOM_ID: books
 :END:
 
+[v]. *Munoz F., J. Estopinan, R. Bose, R. Pélissier, and G. Vieilledent*. 2024. Future impacts of climate change and deforestation on endemic trees of Western Ghats, South India. Chapter 5 in /On the Edge of the Sixth Mass Extinction in Biodiversity Hotspots: Facts, needs, solutions and opportunities in Thailand and adjacent countries/. J. Claude and N. Kitana (eds). CU Press, 2024. xiv + 336pp. {{{pdf(Munoz2024-chapter5.pdf)}}}
+
 [iv]. *Birnbaum P., Hequet V., Girardi J., Vandrot H., Mangeard T., Ibanez T., Blanchard E., Pouteau R., Blanchard G., Justeau-Allaire D., Vieilledent G., and Cassan J.-J.* 2021. Atlas de la forêt, Province Nord, Nouvelle-Calédonie. Editions province Nord, Koohnê, Nouvelle-Calédonie, 188 p. ISBN 13: 978-2-919510-30-6.
 
 [iii]. *Joint Research Centre (European Commission).* 2017. Science for the AU-EU partnership. Building knowledge for sustainable development. ISBN 13: 978-92-79-86961-7. {{{doi(10.2760/360029)}}}. {{{pdf_url(https://op.europa.eu/o/opportal-service/download-handler?identifier=62cde83f-72a2-11e8-9483-01aa75ed71a1&format=pdf&language=en&productionSystem=cellar&part=)}}} {{{altm(10.2760/360029)}}}
 
 [ii]. *Plumptre A.J., Nixon S., Critchlow R., Vieilledent G., Nishuli R., Kirkby A., Williamson E.A., Hall J.S. and Kujirakwinja D.* 2016. Status of Grauer's gorilla and chimpanzees in eastern Democratic Republic of Congo: Historical and current distribution and abundance. Unpublished report to Arcus Foundation, USAID and US Fish and Wildlife Service. ISBN 10: 0-9792418-5-5. ISBN 13: 978-0-9792418-5-7. {{{doi(10.19121/2015.Report.DMX3094100000)}}}. Report in [[https://agritrop.cirad.fr/580036/2/Status%20of%20Grauers%20gorilla%20and%20eastern%20chimpanzee%20Report%20Final.pdf][English]] and [[https://agritrop.cirad.fr/580036/1/Statut%20du%20Gorille%20de%20Grauer%20et%20des%20Chimpanzes%20dans%20l%27est%20de%20la%20Republique%20Democratique%20du%20Congo%20Final.pdf][French]]. {{{github(gorillas)}}} {{{altm(10.19121/2015.Report.DMX3094100000)}}}
 
-[i]. *Fox J. C., G. Vieilledent and R. J. Keenan*. 2011. Native forest individual-tree modelling in Papua New Guinea. in /Native forest individual-tree modelling in Papua New Guinea/ by J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. {{{pdf(Fox2011a-PapuaNewGuinea.pdf)}}}
+[i]. *Fox J. C., G. Vieilledent and R. J. Keenan*. 2011. Native forest individual-tree modelling in Papua New Guinea. in /Native forest individual-tree modelling in Papua New Guinea/. J. C. Fox, R. J. Keenan, C. L. Brack and S. Saulei (eds). ACIAR Proceedings Series, Australian Centre for International Agricultural Research (ACIAR), 106-120. ISBN: 978-1-921962-11-0. {{{pdf(Fox2011a-PapuaNewGuinea.pdf)}}}
 
 ** Popular science articles
 :PROPERTIES:
