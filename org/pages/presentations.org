@@ -2,6 +2,7 @@
 #+description: Presentations at ecology.ghislainv.fr
 #+setupfile: setup.org
 
+- [[file:presentations/20250605-forets-tropicales-premiere-svt.pdf][les-forets-tropicales-et-leur-importance-pour-nos-societes-June2025]]
 - [[file:presentations/deforisk-qgis-plugin-July2024.pdf][deforisk-qgis-plugin-July2024]]
 - [[file:presentations/riskmaps-verra-July2024.pdf][riskmaps-verra-July2024]]
 - [[file:presentations/forestatrisk-melanobs-april2024.pdf][forestatrisk-melanobs-April2024]]
