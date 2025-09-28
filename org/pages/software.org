@@ -152,6 +152,14 @@ The ~riskmapjnr~ Python package can be used to obtain maps of the spatial risk o
 
 The ~geefcc~ Python package can be used to make forest cover change (fcc) maps from Google Earth Engine (GEE) and download them locally. Forest cover change maps are obtained from two global tree/forest cover change products: Global Forest Change or Tropical Moist Forests. These two products are derived from the Landsat satellite image archive and provide tree/forest cover data at 30 m resolution. [[https://ecology.ghislainv.fr/geefcc]].
 
+*** DownClim
+:PROPERTIES:
+:CUSTOM_ID: downclim
+:END:
+
+The Python package ~DownClim~ allows downscaling climate projections, i.e. obtaining climate projections at a high spatial resolution (≤ 1 km) from low resolution (≥ 10 km) global climate models ([[https://www.wcrp-cmip.org/][CMIP]] GCMs) or regional climate models ([[https://cordex.org/][CORDEX]] RCMs). This is done by interpolating climate anomalies and adding these anomalies to a high spatial resolution (30 arc-seconds) climatic baseline such as [[https://chelsa-climate.org/][Chelsa]] or [[https://www.worldclim.org/][WorldClim]].
+https://downclim.readthedocs.io.
+
 ** QGIS plugins @@html:<i class="fa-solid fa-q"></i>@@
 :PROPERTIES:
 :CUSTOM_ID: qgis-plugins
