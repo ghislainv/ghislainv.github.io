@@ -25,7 +25,7 @@
 :CUSTOM_ID: iecology-profiles
 :END:
 
-[[https://identify.plantnet.org/users/100083444/observations][Pl@ntNet]] -- [[https://ebird.org/profile/Mzk4Njk4/world][eBird]] -- [[https://www.inaturalist.org/people/ghislainv][iNaturalist]]
+[[https://identify.plantnet.org/users/100083444/observations][Pl@ntNet]] -- [[https://ebird.org/profile/Mzk4Njk4][eBird]] -- [[https://www.inaturalist.org/people/ghislainv][iNaturalist]]
 
 ** Curriculum vit\aelig
 :PROPERTIES:
