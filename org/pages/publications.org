@@ -268,12 +268,19 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 :CUSTOM_ID: preprints
 :END:
 
+*Araza, A., M. Herold, V. Avitabile, K. Black, J. Carreiras, E. Cienciala, M. Campbell, S. de Bruin, J. J. Dida, R. A. Flores, H. Gilani, L. Hein, A. Kumar, G. V. Laurin, H. Li, R. Lucas, J. Liang, E. Mitchard, A. Morel, A. M. Pacheco-Pascagaza, P. Bispo, O. Phillips, C. Ryan, D. Schepaschenko, H. Sukhdeo, K. Stereńczak, K. Tomomichi, M. Urbazaev, S. Willcock, H. Verbeeck, G. Vieilledent, F. Slik, A. Wijaya, and S. Lewis.* 2026. AGBref: A global reference dataset of above-ground forest biomass. /Research Square/: [[doi:10.21203/rs.3.rs-8211898/v1][rs.3.rs-8211898/v1]].
+{{{pdf_url(https://www.researchsquare.com/article/rs-8211898/v1.pdf)}}}
+{{{altm(10.21203/rs.3.rs-8211898/v1)}}}
+
+*Khan S., I. Maréchaux, G. Vieilledent, S. Guitet, O. Brunaux, B. Ferry, F. Soulard, C. Stahl, C. Baraloto, C. Fortunel, and V. Freycon*. 2024. Regional soil profile data reveals the predominant role of geomorphology and geology in accurately deriving digital soil texture maps in a tropical area. /SSRN/: [[doi:10.2139/ssrn.4789279][ssrn.4789279]].
+{{{pdf_url(https://doi.org/10.2139/ssrn.4789279)}}}
+{{{altm(10.2139/ssrn.4789279)}}}
+
 *Vieilledent G., C. Vancutsem, C. Bourgoin, P. Ploton, P. Verley, and F. Achard.* 2023. Spatial scenario of tropical deforestation and carbon emissions for the 21^{st} century. /bioRxiv/: [[doi:10.1101/2022.03.22.485306][485306]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2022.03.22.485306v3.full.pdf)}}}, Supplementary materials {{{supp_url(https://www.biorxiv.org/content/biorxiv/early/2023/05/12/2022.03.22.485306/DC1/embed/media-1.pdf)}}} {{{altm(10.1101/2022.03.22.485306)}}}
 
 *Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/: [[doi:10.22541/au.166029509.96486640/v1][au.166029509.96486640/v1]]. {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
 
 *Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
-
 
 ** Books or book chapters
 :PROPERTIES:
