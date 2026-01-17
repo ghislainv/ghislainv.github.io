@@ -43,7 +43,6 @@
 :END:
 
 - *Clément J., F. Gosselin, P. Couteron, and G. Vieilledent.* 2023. =jSDM=: an R package to fit joint species distribution models. /Methods in Ecology and Evolution/.
-- *Khan S., I. Maréchaux, G. Vieilledent, S. Guitet, O. Brunaux, B. Ferry, F. Soulard, C. Stahl, C. Baraloto, C. Fortunel and V. Freycon* Regional soil profile data reveals the predominant role of geomorphology and geology in accurately deriving digital soil texture maps in a tropical area. /Geoderma/.
 - *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, A. Fayolle, R. A. Ferreira de Lima, G. Vieilledent, and XX coauthors.* A global map of wood density. /Nature Plant/.
 
 *** 2026
@@ -51,7 +50,7 @@
 :CUSTOM_ID: yr2026
 :END:
 
-[56]. *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, A. Fayolle, R. A. Ferreira de Lima, G. Vieilledent, and coauthors.* Beyond species means -- the intraspecific contribution to global wood density variation. /New Phytologist/.
+[56]. *Fischer F. J., J. Chave, A. Zanne, T. Jucker, A. Fajardo, A. Fayolle, R. A. Ferreira de Lima, G. Vieilledent, and coauthors.* 2026. Beyond species means -- the intraspecific contribution to global wood density variation. /New Phytologist/.
 {{{doi(10.1111/nph.70860)}}}. {{{pdf(Fischer2026-NewPhytologist.pdf)}}}, Supplementary materials {{{supp(Fischer2026-NewPhytologist-SM.pdf)}}} {{{altm(10.1111/nph.70860)}}}
 
 *** 2025
