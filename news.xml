@@ -14,8 +14,8 @@
   <link>https://ecology.ghislainv.fr/</link>
   <description><![CDATA[Ghislain Vieilledent -- Forest ecology and statistics]]></description>
   <language>en</language>
-  <pubDate>Thu, 15 Jan 2026 11:13:25 +0000</pubDate>
-  <lastBuildDate>Thu, 15 Jan 2026 11:13:25 +0000</lastBuildDate>
+  <pubDate>Sat, 17 Jan 2026 18:07:09 +0000</pubDate>
+  <lastBuildDate>Sat, 17 Jan 2026 18:07:09 +0000</lastBuildDate>
   <generator>Emacs 28.1 Org-mode 9.5.2</generator>
   <webMaster>ghislain.vieilledent@cirad.fr (Ghislain Vieilledent)</webMaster>
   <image>
@@ -40,11 +40,11 @@
     </p>
 
     <p>
-    <a href="https://www.linkedin.com/in/boisseaux-marion-9a9587105">Marion Boisseaux</a> has published a new paper from her PhD thesis which was part of the METRADICA project. For this paper, she measured nine leaf functional traits for 552 trees which belonged to 21 species that can be find in the tropical forests of French Guiana. Leaf traits included: carbon content, minimum leaf conductance, potassium content, leaf saturated water content, stomatal density, major vein density, nitrogen content, phosphorus content, and turgor loss point. Tree species were divided into specialist species that can be found preferentially in <i>terra firme</i> (TF) or seasonally flooded (SF) forests and generalist species that can be found in both habitats. In the paper, we tested the influence of the topographic wetness index (TWI), a proxy for soil moisture and nutrient gradients, in determining trait values and trait syndromes (combinations of trait values). We found that while environment didn't explain much of the trait value variation when traits were considered individually, it had a strong influence on trait syndromes. Trait value space was significantly constrained for extreme values of TWI (Fig. <a href="#orgb055ec4">1</a>). This work highlights the need to investigate functional strategies as multidimensional trait syndromes to fully understand and predict species distribution along environmental gradients.
+    <a href="https://www.linkedin.com/in/boisseaux-marion-9a9587105">Marion Boisseaux</a> has published a new paper from her PhD thesis which was part of the METRADICA project. For this paper, she measured nine leaf functional traits for 552 trees which belonged to 21 species that can be find in the tropical forests of French Guiana. Leaf traits included: carbon content, minimum leaf conductance, potassium content, leaf saturated water content, stomatal density, major vein density, nitrogen content, phosphorus content, and turgor loss point. Tree species were divided into specialist species that can be found preferentially in <i>terra firme</i> (TF) or seasonally flooded (SF) forests and generalist species that can be found in both habitats. In the paper, we tested the influence of the topographic wetness index (TWI), a proxy for soil moisture and nutrient gradients, in determining trait values and trait syndromes (combinations of trait values). We found that while environment didn't explain much of the trait value variation when traits were considered individually, it had a strong influence on trait syndromes. Trait value space was significantly constrained for extreme values of TWI (Fig. <a href="#org69953fe">1</a>). This work highlights the need to investigate functional strategies as multidimensional trait syndromes to fully understand and predict species distribution along environmental gradients.
     </p>
 
 
-    <figure id="orgb055ec4">
+    <figure id="org69953fe">
     <img src="images/blog/Boisseaux2025-FE.png" alt="Boisseaux2025-FE.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 1: </span><b>Variation of trait integration indices (TI) along the topographic wetness index (TWI).</b> The index can be either the range or the standard deviation of the eigenvalues of the PCA on leaf functional traits. The index value reflects the level of constraints on the multidimensional trait space. For high values of TI, one or a few axes of the PCA explain a large proportion of the variation in the trait values, meaning that the trait space is more constrained than for low values of TI.</figcaption>
@@ -55,7 +55,7 @@
     </p>
 
 
-    <figure id="org15675d4">
+    <figure id="orga9fe0de">
     <img src="images/blog/Iglesias2024-illustration-Boisseaux2025.png" alt="Iglesias2024-illustration-Boisseaux2025.png" style="display:block;margin:auto;max-width:80%;border-radius:10px;">
 
     </figure>
@@ -78,11 +78,11 @@
     </p>
 
     <p>
-    Together with <a href="https://www.linkedin.com/in/rachel-neugarten">Rachel Neugarten</a> and colleagues, we published a paper comparing the effectiveness of community forests and protected areas in Madagascar in reducing deforestation. The comparison of the two conservation approaches was done before, during, and after the political crisis that prevailed in the country in the period 2009--2014. Quasi-experimental methods (statistical matching and event study) were used to control for site differences and other confounding factors. We found that the crisis and post-crisis dynamics negatively affected the performance of both community forests and protected areas in Madagascar, but that community forests were particularly vulnerable to strong post-crisis deforestation pressure (Fig <a href="#org3d7cc73">2</a>). Further research is needed to better understand what explains the surge in deforestation after the political crisis but some hypothesis can be put forward to explain the higher vulnerability of community forests. Deforestation for agriculture and charcoal production is a way for communities to meet their basic needs, but at the expense of biodiversity. In Madagascar, community forests do not receive continuous financial support. Given the extremely high poverty rate and food insecurity, it is understandable that more deforestation is observed in community forests in times of crisis. A more detailed presentation of the study and its conclusions is available in an <a href="https://communities.springernature.com/posts/shock-proofing-conservation-are-community-forests-in-madagascar-resilient-to-a-political-crisis-and-its-aftermath">article published in the Research Communities blog by Springer Nature</a>.
+    Together with <a href="https://www.linkedin.com/in/rachel-neugarten">Rachel Neugarten</a> and colleagues, we published a paper comparing the effectiveness of community forests and protected areas in Madagascar in reducing deforestation. The comparison of the two conservation approaches was done before, during, and after the political crisis that prevailed in the country in the period 2009--2014. Quasi-experimental methods (statistical matching and event study) were used to control for site differences and other confounding factors. We found that the crisis and post-crisis dynamics negatively affected the performance of both community forests and protected areas in Madagascar, but that community forests were particularly vulnerable to strong post-crisis deforestation pressure (Fig <a href="#orge3962e9">2</a>). Further research is needed to better understand what explains the surge in deforestation after the political crisis but some hypothesis can be put forward to explain the higher vulnerability of community forests. Deforestation for agriculture and charcoal production is a way for communities to meet their basic needs, but at the expense of biodiversity. In Madagascar, community forests do not receive continuous financial support. Given the extremely high poverty rate and food insecurity, it is understandable that more deforestation is observed in community forests in times of crisis. A more detailed presentation of the study and its conclusions is available in an <a href="https://communities.springernature.com/posts/shock-proofing-conservation-are-community-forests-in-madagascar-resilient-to-a-political-crisis-and-its-aftermath">article published in the Research Communities blog by Springer Nature</a>.
     </p>
 
 
-    <figure id="org3d7cc73">
+    <figure id="orge3962e9">
     <img src="images/blog/Neugarten2024-NatureComm.png" alt="Neugarten2024-NatureComm.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 2: </span><b>Annual deforestation in community forests (CFM), protected areas (MNP), and the rest of the country</b></figcaption>
@@ -105,7 +105,7 @@
     <b>Feb. 20, 2024</b>
     </p>
 
-    <figure id="org93a643b">
+    <figure id="org32af0ef">
     <img src="images/blog/reconnaissance-mission-parc-riviere-bleue.jpg" alt="reconnaissance-mission-parc-riviere-bleue.jpg" title="Nathan, Thomas, Jean-Marc, and Coline." class="blog_thumbnail">
 
     </figure>
@@ -129,7 +129,7 @@
     <b>Feb. 19, 2024</b>
     </p>
 
-    <figure id="org57c3a00">
+    <figure id="orgf77bf95">
     <img src="images/blog/rediscovering-lost-plant-species.jpg" alt="rediscovering-lost-plant-species.jpg" title="Field mission participants in front of Port-Bouquet Bay." class="blog_thumbnail">
 
     </figure>
@@ -139,7 +139,7 @@
     </p>
 
 
-    <figure id="org5f0f4dd">
+    <figure id="orgdb53239">
     <img src="images/blog/rediscovering-lost-plant-species-collage.jpg" alt="rediscovering-lost-plant-species-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 3: </span><b>Rediscovering long-lost plant species in New-Caledonia.</b> <i>Top-right</i>: Type specimens of <i>Litsea imbricata</i> and <i>Canarium trifoliolatum</i>. <i>Bottom-right</i>: David and the film crew in front of an individual of <a href="https://en.wikipedia.org/wiki/Parasitaxus"><i>Parasitaxus usta</i></a>, the only known parasitic gymnosperm.</figcaption>
@@ -158,11 +158,11 @@
     <category><![CDATA[article]]></category>
     <description><![CDATA[<p>
     <b>Feb. 11, 2024</b><br>
-    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#orgf182fb3">4</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area \(\text{CWA}\) can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute \(\text{CWA}\) using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
+    <a href="https://dimitri-justeau.github.io/">Dimitri Justeau-Allaire</a>, IRD researcher and colleague at UMR AMAP, has published a paper showing how to account for intra-patch connectivity in landscape fragmentation indices. Patches \(p\) of landscape are usually described by their area \(A_{p}\) (in m<sup>2</sup>) but no information is given on the connectivity between cells (or sites) within the patches. Two patches with the same area can have very different spatial configurations (Fig. <a href="#org14ac20c">4</a>). As a measure of intra-patch connectivity, we defined the "complexity-weighted patch area" of a patch as \(\text{CWA}_{p} = C_{p} \times A_{p}\), with \(C_{p}\) the patch complexity ranging from 0 (infinite high complexity) to 1 (optimal low complexity). Several indices can be used to define complexity \(C\), such as the shape index (SHAPE), the fractal dimension index (FRAC), or the mean detour index (MDI). The complexity-weighted patch area \(\text{CWA}\) can be used to replace the patch area \(A\) in several commonly used fragmentation or connectivity index such as the effective mesh size (MESH), the integral index of connectivity (IIC), or the probability of connectivity (PC). The R package <a href="https://github.com/dimitri-justeau/intra"><code>intra</code></a> provides functions to compute \(\text{CWA}\) using SHAPE, FRAC, or MDI as patch complexity indices. Based on a real case study considering the forest landscape in New Caledonia, we showed that considering intra-patch connectivity can substantially impact decisions regarding forest conservation or restoration planning.
     </p>
 
 
-    <figure id="orgf182fb3">
+    <figure id="org14ac20c">
     <img src="images/blog/Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" alt="Justeau-Allaire2023-Landscape-Ecology-intra-patch-connectivity.png" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 4: </span><b>Two landscapes containing a single patch of equal size and different shapes.</b></figcaption>
@@ -185,7 +185,7 @@
     <b>Jan. 29, 2024</b>
     </p>
 
-    <figure id="orgbcb86d5">
+    <figure id="org8619f07">
     <img src="images/blog/collect-parc-riviere-bleue.jpg" alt="collect-parc-riviere-bleue.jpg" title="Collecting /Dutailliopsis gordonii/ with Arnaud, Thomas, and David." class="blog_thumbnail">
 
     </figure>
@@ -195,7 +195,7 @@
     </p>
 
 
-    <figure id="orgf8903a4">
+    <figure id="orgfff3d7d">
     <img src="images/blog/collect-parc-riviere-bleue-collage.jpg" alt="collect-parc-riviere-bleue-collage.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 5: </span><b>Collecting plant material in Parc de la Rivière Bleue.</b> White flower of new species of genus <i>Pycnandra</i>, small flower of a new species of Burseraceae, and branch of the only known individual of the species <i>Dutailliopsis gordonii</i> with fruits and floral buds.</figcaption>
@@ -223,7 +223,7 @@
     </p>
 
 
-    <figure id="org3059617">
+    <figure id="org77e885b">
     <img src="images/blog/Girard-Tercieux2024-Peer_Community_Journal.jpg" alt="Girard-Tercieux2024-Peer_Community_Journal.jpg" style="display:block;margin:auto;max-width:80%;">
 
     <figcaption><span class="figure-number">Figure 6: </span><b>Effect of using a random variance around species means on the number of coexisting species.</b> PK is the Perfect Knowledge model with 15 environmental variables.</figcaption>
@@ -250,7 +250,7 @@
   <b>Dec. 07, 2023</b>
   </p>
 
-  <figure id="org32ccf83">
+  <figure id="org99de4de">
   <img src="images/blog/moving-to-new-caledonia_2.jpg" alt="moving-to-new-caledonia_2.jpg" title="Beach and vegetation in Lifou, New Caledonia." class="blog_thumbnail">
 
   </figure>
@@ -274,7 +274,7 @@
   <b>Sep. 29, 2023</b>
   </p>
 
-  <figure id="org2985814">
+  <figure id="org0bb8803">
   <img src="images/blog/Intraco-group-photo-Leipzig-2023.jpg" alt="Intraco-group-photo-Leipzig-2023.jpg" title="Group photo at sDiv in Leipzig in September 2023." class="blog_thumbnail" style="margin-bottom:20px;">
 
   </figure>
@@ -315,7 +315,7 @@
   <b>Jul. 13, 2023</b>
   </p>
 
-  <figure id="org2ef5817">
+  <figure id="orgba899df">
   <img src="images/blog/Soil_samples_metradica.jpg" alt="Soil_samples_metradica.jpg" title="Vincent and Pierre-André collecting soil samples in the tropical forest of /Montagne de Kaw/ in French Guiana." class="blog_thumbnail">
 
   </figure>
@@ -339,7 +339,7 @@
   <b>Jun. 23, 2023</b>
   </p>
 
-  <figure id="orgecfaa25">
+  <figure id="org9efea0a">
   <img src="images/blog/Intraco.jpg" alt="Intraco.jpg" title="Coexisting tree species in a New Caledonian tropical forest." class="blog_thumbnail">
 
   </figure>
@@ -363,7 +363,7 @@
   <b>May 10, 2023</b>
   </p>
 
-  <figure id="org420dd2e">
+  <figure id="org4bdf4d7">
   <img src="images/blog/Dombeya.jpg" alt="Dombeya.jpg" title="The Réunion endemic tree /Dombeya ficulnea/ (foreground) in a dense thicket of the alien small tree /Psidium cattleyanum/ (background). Photo by Robin Pouteau." class="blog_thumbnail">
 
   </figure>
@@ -389,7 +389,7 @@
   </p>
 
 
-  <figure id="orgc0cb453">
+  <figure id="orga886f28">
   <img src="images/blog/Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" alt="Blanchard2023-JoE-canopy-structure-mediates-edge-effect-in-forests.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 7: </span><b>Maps of the study site with the forest sample plots and Lidar-derived canopy structure in the South of New Caledonia.</b></figcaption>
@@ -414,7 +414,7 @@
   </p>
 
 
-  <figure id="orgea3eb70">
+  <figure id="org6549078">
   <img src="images/blog/Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" alt="Birnbaum2023-BiologyLetters-trees-species-ultramafic-soils-NC.png" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 8: </span><b>Classification of the 22 ultramafic areas in New Caledonia based on their floristic dissimilarities.</b></figcaption>
@@ -455,7 +455,7 @@
   </p>
 
 
-  <figure id="org2e7cf94">
+  <figure id="orgdc39967">
   <img src="images/blog/Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" alt="Girard-Tercieux2023-Ecology-and-Evolution-IV.jpg" style="display:block;margin:auto;max-width:80%;">
 
   <figcaption><span class="figure-number">Figure 9: </span><b>Apparent species niche overlap when considering a low dimensional environment.</b></figcaption>
