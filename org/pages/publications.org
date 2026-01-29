@@ -306,7 +306,7 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 
 [b]. *Plumptre A. J., S. Nixon, D. Kujirakwinja, G. Vieilledent, R. Critchlow, E. A. Williamson, R. Nishuli, A. Kirkby, and J. S. Hall*. 2017. How does war affect gorillas? in /Science Journal for Kids/, L. Hall (Associate Editor). [[file:publications/Plumptre2017-ScienceJournalForKids.pdf][English]], [[file:publications/Plumptre2017-ScienceJournalForKids-French.pdf][French]], [[file:publications/Plumptre2017-ScienceJournalForKids-Spanish.pdf][Spanish]], [[https://www.sciencejournalforkids.org/search-articles/how-does-war-affect-gorillas][link]]
 
-[a]. *Vieilledent G.*. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in /The Conversation/, J. Gallé (Associate Editor). {{{pdf(Vieilledent2016-TheConversation.pdf)}}}, [[https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281][link]]
+[a]. *Vieilledent G.*. 2016. Les forêts tropicales, des "puits de carbone" hautement vulnérables. in /The Conversation/, J. Gallé (Associate Editor). {{{doi(10.64628/AAK.jnukq3gng)}}}. {{{pdf(Vieilledent2016-TheConversation.pdf)}}}, [[https://theconversation.com/les-forets-tropicales-des-puits-de-carbone-hautement-vulnerables-54281][link]] {{{altm(10.64628/AAK.jnukq3gng)}}}
 
 ** Oral presentations
 :PROPERTIES:
