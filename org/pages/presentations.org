@@ -2,8 +2,8 @@
 #+description: Presentations at ecology.ghislainv.fr
 #+setupfile: setup.org
 
-- [[file:~/Code/ghislainv.github.io/org/presentations/20260604-CESABINAR_INTRACO.pdf][INTRACO project Sesabinar, June 2026]]
-- [[file:~/Code/ghislainv.github.io/org/presentations/20260603-trabajar-como-investigador-en-ecologia-tropical.pdf][Trabajar como investigador en ecologia tropical, June 2026]]
+- [[file:presentations/20260604-CESABINAR_INTRACO.pdf][INTRACO project Sesabinar, June 2026]]
+- [[file:presentations/20260603-trabajar-como-investigador-en-ecologia-tropical.pdf][Trabajar como investigador en ecologia tropical, June 2026]]
 - [[file:presentations/20250605-forets-tropicales-premiere-svt.pdf][Les forets tropicales et leur importance pour nos societes, June 2025]]
 - [[file:presentations/deforisk-qgis-plugin-July2024.pdf][deforisk qgis plugin, July 2024]]
 - [[file:presentations/riskmaps-verra-July2024.pdf][riskmaps-verra-July2024]]
