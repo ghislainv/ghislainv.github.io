@@ -167,13 +167,13 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :END:
 
 #+attr_html: :id metradica
-*2020 -- 2023* [[https://www.labex-ceba.fr/projets-strategiques/][*METRADICA*]], Mechanistic traits to predict shifts in tree species abundance and distribution with climate change in the Amazonian forest. *Labex CEBA*, Projets stratégiques, 200,000 \euro, 48 months. Partners: UMR AMAP (France), UMR Ecofog (French Guiana), UPR Forêts et Sociétés (France), UMR Silva (France). Coordination: Clément Stahl (INRAE, UMR Ecofog), Ghislain Vieilledent (Cirad, UMR AMAP).
+*2020 -- 2023* [[https://www.labex-ceba.fr/projets-strategiques/][*METRADICA*]], Mechanistic traits to predict shifts in tree species abundance and distribution with climate change in the Amazonian forest. *Labex CEBA*, Projets stratégiques, 200,000 \euro, 48 months. Partners: UMR AMAP (France), UMR Ecofog (French Guiana), UPR Forêts et Sociétés (France), UMR Silva (France). Coordination: Clément Stahl (INRAE, UMR Ecofog), Ghislain Vieilledent (Cirad, UMR AMAP).
 
 #+attr_html: :id intraco
-*2021 -- 2023* [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/intraco/][*INTRACO*]], Role of intraspecific variability in tree species coexistence in tropical forest. [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/intraco/][*FRB-Cesab*]] (France) -- [[https://www.idiv.de/research/sdiv/working-groups/intraco/][*sDiv*]] (Germany), [[https://www.fondationbiodiversite.fr/appel/joint-call-cesab-sdiv-synergy-coexistence-and-stability-high-diversity-communities/][Synergy Call 2019]], 4 workshops (\sim40,000 \euro), 24 months. Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several invited researchers. Coordination: Ghislain Vieilledent (Cirad, UMR AMAP), Isabelle Maréchaux (INRAE, UMR AMAP).
+*2021 -- 2023* [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/intraco/][*INTRACO*]], Role of intraspecific variability in tree species coexistence in tropical forest. [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/le-cesab/intraco/][*FRB-Cesab*]] (France) -- [[https://www.idiv.de/research/sdiv/working-groups/intraco/][*sDiv*]] (Germany), [[https://www.fondationbiodiversite.fr/appel/joint-call-cesab-sdiv-synergy-coexistence-and-stability-high-diversity-communities/][Synergy Call 2019]], 4 workshops (\sim40,000 \euro), 24 months. Participants: Ghislain Vieilledent (Cirad, France), Isabelle Maréchaux (INRAE, France), Adam T. Clark (University of Graz, Austria), James S. Clark (Duke University, USA / INRAE, France), Benoît Courbaud (INRAE, France), Camille Girard-Tercieux (CNRS, France), Nadja Rüger (iDiv, Germany), and several invited researchers. Coordination: Ghislain Vieilledent (Cirad, UMR AMAP), Isabelle Maréchaux (INRAE, UMR AMAP).
 
 #+attr_html: :id bioscenemada
-*2014 -- 2019* [[https://bioscenemada.cirad.fr][*BIOSCENEMADA*]], Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar. *FRB -- FFEM*, [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/modelisation-scenarios/bioscenemada/][AAP-SCEN-2013-I]], 265,000 \euro, 60 months. Partners: Cirad, UMR AMAP (France), WCS and REBIOMA (Madagascar), ETC Terra (France), Office National pour l'Environnement (Madagascar). Coordination: Ghislain Vieilledent (Cirad, UMR AMAP).
+*2014 -- 2019* [[https://bioscenemada.cirad.fr][*BIOSCENEMADA*]], Biodiversity scenarios under the effect of climate change and future deforestation in Madagascar. *FRB -- FFEM*, [[https://www.fondationbiodiversite.fr/la-frb-en-action/programmes-et-projets/modelisation-scenarios/bioscenemada/][AAP-SCEN-2013-I]], 265,000 \euro, 60 months. Partners: Cirad, UMR AMAP (France), WCS and REBIOMA (Madagascar), ETC Terra (France), Office National pour l'Environnement (Madagascar). Coordination: Ghislain Vieilledent (Cirad, UMR AMAP).
 
 *** In charge of work-packages
 :PROPERTIES:
@@ -181,7 +181,7 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :END:
 
 #+attr_html: :id reliques
-*2019 -- 2022* [[https://cnrt.nc/reliques][*RELIQUES*]], Effect of forest fragmentation on biodiversity in New-Caledonia. *CNRT*, 251,380 \euro, 36 months. Partners: Cirad, UMR AMAP (France), IRD, UMR AMAP (France), IRD, UMR IMBE (France). Coordination: Philippe Birnbaum (Cirad, UMR AMAP).
+*2019 -- 2022* [[https://cnrt.nc/reliques][*RELIQUES*]], Effect of forest fragmentation on biodiversity in New-Caledonia. *CNRT*, 251,380 \euro, 36 months. Partners: Cirad, UMR AMAP (France), IRD, UMR AMAP (France), IRD, UMR IMBE (France). Coordination: Philippe Birnbaum (Cirad, UMR AMAP).
 
 *** Participation in projects
 :PROPERTIES:
@@ -189,10 +189,10 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :END:
 
 #+attr_html: :id monitor
-*2024 -- 2030* [[https://www.pepr-forestt.fr/projets/pc-monitor][*PC MONITOR*]], Smart ecological forest monitoring systems. *ANR, PEPR FORESTT*, 6M \euro, 72 months. Coordination: Jérôme Chave (CNRS, Université de Toulouse), Camille Piponiot (CIRAD, UPR Forêts et Sociétés), Sylvain Schmitt (CIRAD, UPR Forêts et Sociétés).
+*2024 -- 2030* [[https://www.pepr-forestt.fr/projets/pc-monitor][*PC MONITOR*]], Smart ecological forest monitoring systems. *ANR, PEPR FORESTT*, 6M \euro, 72 months. Coordination: Jérôme Chave (CNRS, Université de Toulouse), Camille Piponiot (CIRAD, UPR Forêts et Sociétés), Sylvain Schmitt (CIRAD, UPR Forêts et Sociétés).
 
 #+attr_html: :id melanobs
-*2024 -- 2025* [[https://amap.cirad.fr/fr/edit-projet.php?projet_id=310][*MELANOBS*]], Melanesian forest observatory. *IRD, Fonds Pacifique, NYBG*, 168,410 \euro, 24 months. Coordination: Thomas Ibanez (IRD, UMR AMAP).
+*2024 -- 2025* [[https://amap.cirad.fr/fr/edit-projet.php?projet_id=310][*MELANOBS*]], Melanesian forest observatory. *IRD, Fonds Pacifique, NYBG*, 168,410 \euro, 24 months. Coordination: Thomas Ibanez (IRD, UMR AMAP).
 
 #+attr_html: :id edene
 *2023 -- 2026* [[https://sites.google.com/view/edene][*EDENE*]], Ecological Dynamics behind species Extinctions in Novel Ecosystems. *ANR*, 302,165 \euro. Coordination: Robin Pouteau (IRD, UMR AMAP).
@@ -208,13 +208,13 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :CUSTOM_ID: consultancy-works
 :END:
 
-*2024* Developing the *deforisk* QGIS plugin for obtaining and comparing deforestation risk maps. *FAO*, 60,188 \euro, 12 months.
+*2024* Developing the *deforisk* QGIS plugin for obtaining and comparing deforestation risk maps. *FAO*, 60,188 \euro, 12 months.
 
-*2023* Validation of the use of global deforestation products (TMF and GFC) in New Caledonia over the period 2000--2010--2020 by photo-interpretation. *Oeil*, 12,000 \euro, 12 months.
+*2023* Validation of the use of global deforestation products (TMF and GFC) in New Caledonia over the period 2000--2010--2020 by photo-interpretation. *Oeil*, 12,000 \euro, 12 months.
 
-*2022* Developing the *riskmapjnr* Python package for obtaining maps of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro, 12 months.
+*2022* Developing the *riskmapjnr* Python package for obtaining maps of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro, 12 months.
 
-*2012 -- 2013* Technical assistance to Office National pour l'Environnement for implementing REDD+ in Madagascar. *AFD*, 290,210 \euro, 24 months. Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France). Coordination: Julia Randimbisoa (Helvetas).
+*2012 -- 2013* Technical assistance to Office National pour l'Environnement for implementing REDD+ in Madagascar. *AFD*, 290,210 \euro, 24 months. Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France). Coordination: Julia Randimbisoa (Helvetas).
 
 *2012* Forest inventories and development of height-diameter allometric equations for Madagascar dry forests. *WWF*, 3500 \euro.
 
