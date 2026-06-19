@@ -191,7 +191,7 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 #+attr_html: :id monitor
 *2024 -- 2030* [[https://www.pepr-forestt.fr/projets/pc-monitor][*PC MONITOR*]], Smart ecological forest monitoring systems. *ANR, PEPR FORESTT*, 6M \euro, 72 months. Coordination: Jérôme Chave (CNRS Université de Toulouse), Camille Piponiot (CIRAD, UPR Forêts et Sociétés), Sylvain Schmitt (CIRAD, UPR Forêts et Sociétés).
 
-#+attr_html: :id monitor
+#+attr_html: :id melanobs
 *2024 -- 2025* [[https://amap.cirad.fr/fr/edit-projet.php?projet_id=310][*MELANOBS*]], Melanesian forest observatory. *IRD, Fonds Pacifique, NYBG*, 168,410 \euro, 24 months. Coordination: Thomas Ibanez (IRD, UMR AMAP).
 
 #+attr_html: :id edene
