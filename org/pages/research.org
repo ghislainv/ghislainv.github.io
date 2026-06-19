@@ -188,14 +188,17 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :CUSTOM_ID: participation-projects
 :END:
 
+#+attr_html: :id monitor
+*2024 -- 2030* [[https://www.pepr-forestt.fr/projets/pc-monitor][*PC MONITOR*]], Smart ecological forest monitoring systems. *ANR, PEPR FORESTT*, 6M \euro, 72 months. Coordination: Jérôme Chave (CNRS Université de Toulouse), Camille Piponiot (CIRAD, UPR Forêts et Sociétés), Sylvain Schmitt (CIRAD, UPR Forêts et Sociétés).
+
+#+attr_html: :id monitor
+*2024 -- 2025* [[https://amap.cirad.fr/fr/edit-projet.php?projet_id=310][*MELANOBS*]], Melanesian forest observatory. *IRD, Fonds Pacifique, NYBG*, 168,410 \euro, 24 months. Coordination: Thomas Ibanez (IRD, UMR AMAP).
+
 #+attr_html: :id edene
 *2023 -- 2026* [[https://sites.google.com/view/edene][*EDENE*]], Ecological Dynamics behind species Extinctions in Novel Ecosystems. *ANR*, 302,165 \euro. Coordination: Robin Pouteau (IRD, UMR AMAP).
 
-#+attr_html: :id alt
-*2022 -- 2025* *ALT*, Amazonian Landscapes in Transition. *ANR*, 659,799 \euro. Coordination: Jérôme Chave (CNRS, Université de Toulouse).
-
 #+attr_html: :id guarden
-*2022 -- 2025* *GUARDEN*, safeGUARDing biodivErsity aNd critical ecosystem services across sectors and scales. *Union Européenne*, Horizon Europe, 4.5M \euro. Coordination: Pierre Bonnet (Cirad, UMR AMAP).
+*2022 -- 2025* [[https://guarden.org][*GUARDEN*]], safeGUARDing biodivErsity aNd critical ecosystem services across sectors and scales. *Union Européenne*, Horizon Europe, 4.5M \euro. Coordination: Pierre Bonnet (Cirad, UMR AMAP).
 
 #+attr_html: :id gambas
 *2019 -- 2023* *GAMBAS*, Generating Advances in Modeling Biodiversity And ecosystem Services (GAMBAS): statistical improvements and ecological relevance of joint species distribution models. *ANR*, 569,033 \euro. Coordination: Frédéric Mortier (Cirad, UPR Forêts et Sociétés).
@@ -205,9 +208,11 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :CUSTOM_ID: consultancy-works
 :END:
 
-# *2023* Validation de l'utilisation de cartes globales de déforestation en Nouvelle-Calédonie sur la période 2000--2010--2020 par photo-interprétation, *Oeil*, 12,000 \euro.
+*2024* Developing the *deforisk* QGIS plugin for obtaining and comparing deforestation risk maps. *FAO*, 60,188 \euro, 12 months.
 
-*2022* Developing the *riskmapjnr* Python package for obtaining maps of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro.
+*2023* Validation of the use of global deforestation products (TMF and GFC) in New Caledonia over the period 2000--2010--2020 by photo-interpretation. *Oeil*, 12,000 \euro, 12 months.
+
+*2022* Developing the *riskmapjnr* Python package for obtaining maps of the deforestation risk following the JNR (Jurisdictional Nested REDD+) methodology, *FAO*, 28,000 \euro, 12 months.
 
 *2012 -- 2013* Technical assistance to Office National pour l'Environnement for implementing REDD+ in Madagascar. *AFD*, 290,210 \euro, 24 months. Partners: Office National pour l'Environnement (Madagascar), Helvetas Swiss Intercooperation (Switzerland), Cirad, UPR Forêts et Sociétés (France). Coordination: Julia Randimbisoa (Helvetas).
 
