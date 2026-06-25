@@ -180,6 +180,10 @@ with broad applications (MCMCpack). Selected references: [[https://ecology.ghisl
 :CUSTOM_ID: project-wp
 :END:
 
+#+attr_html: :id carbon
+*2025 -- 2027* [[https://www.cresica.nc/][*CARBON*]], Carbon stocks in metal-rich soils under contrasting land uses in New Caledonia -- Quantification
+and controlling factors. *CRESICA*, 37,000 \euro, 36 months. Partners: IAC, IRD, CIRAD, University of New-Caledonia. Coordination: Audrey Leopold (IAC).
+
 #+attr_html: :id reliques
 *2019 -- 2022* [[https://cnrt.nc/reliques][*RELIQUES*]], Effect of forest fragmentation on biodiversity in New-Caledonia. *CNRT*, 251,380 \euro, 36 months. Partners: Cirad, UMR AMAP (France), IRD, UMR AMAP (France), IRD, UMR IMBE (France). Coordination: Philippe Birnbaum (Cirad, UMR AMAP).
 
