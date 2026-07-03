@@ -1,9 +1,14 @@
-#+title: ecology.ghislainv.fr -- About
-#+description: Ghislain Vieilledent -- Forest ecology and statistics
+#+title: Ghislain Vieilledent | Forest Ecology & Statistics
+#+description: Research on tropical forests, carbon cycle, and biodiversity at Cirad AMAP, Montpellier.
 #+setupfile: setup.org
 
 #+attr_html: :id banner :alt banner
 [[file:images/banner.jpg]]
+
+#+html_head: <meta property="og:title" content="Ghislain Vieilledent | Forest Ecology & Statistics"/>
+#+html_head: <meta property="og:description" content="Research on tropical forests, carbon cycle, and biodiversity at Cirad AMAP, Montpellier."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr"/>
 
 * About
 :PROPERTIES:
@@ -34,9 +39,8 @@
 :CUSTOM_ID: contact
 :END:
 
-(1) Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
-(2) Institut Agronomique néo-Calédonien (IAC), Nouméa, NEW CALEDONIA\\
-ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
+Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F-34398 Montpellier, FRANCE\\
+E-mail: @@html:<span class="email-placeholder"></span>@@\\
 You can also find me on @@html:<a class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a rel="me" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.
 
 #+begin_export html

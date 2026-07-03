@@ -3,3 +3,4 @@
 #+property:    header-args :eval no-export
 #+export_select_tags: export
 #+export_exclude_tags: noexport
+#+html_head: <meta property="og:type" content="website"/>

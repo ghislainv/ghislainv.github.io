@@ -1,9 +1,14 @@
-#+title: ecology.ghislainv.fr -- Research
-#+description: Research at ecology.ghislainv.fr
+#+title: Research | Ghislain Vieilledent
+#+description: Research on community ecology, conservation biology, and statistics applied to tropical forests. Projects funded by ANR, FRB, FAO, and EU.
 #+setupfile: setup.org
 
 #+ATTR_HTML: :id banner :alt research-banner
 [[file:images/research/research-banner.jpg]]
+
+#+html_head: <meta property="og:title" content="Research | Ghislain Vieilledent"/>
+#+html_head: <meta property="og:description" content="Research on community ecology, conservation biology, and statistics applied to tropical forests. Projects funded by ANR, FRB, FAO, and EU."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/research/research-banner.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/research.html"/>
 
 * Research
 :PROPERTIES:

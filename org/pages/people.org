@@ -1,6 +1,11 @@
-#+title: ecology.ghislainv.fr -- People
-#+description: People at ecology.ghislainv.fr
+#+title: Team & Collaborators | Ghislain Vieilledent
+#+description: Students, postdocs, and collaborators of Ghislain Vieilledent at Cirad AMAP.
 #+setupfile: setup.org
+
+#+html_head: <meta property="og:title" content="Team & Collaborators | Ghislain Vieilledent"/>
+#+html_head: <meta property="og:description" content="Students, postdocs, and collaborators of Ghislain Vieilledent at Cirad AMAP."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/people.html"/>
 
 * People
 :PROPERTIES:

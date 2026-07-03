@@ -1,6 +1,12 @@
-#+title: ecology.ghislainv.fr -- ghislainv
-#+description: Ghislain Vieilledent short presentation
+#+title: Ghislain Vieilledent | Research Scientist in Tropical Forest Ecology
+#+description: Research scientist at Cirad AMAP (Montpellier). PhD in ecology and applied statistics. Expert in tropical forest ecology. ORCID 0000-0002-1685-4997.
 #+setupfile: setup.org
+
+#+html_head: <meta property="og:title" content="Ghislain Vieilledent | Research Scientist in Tropical Forest Ecology"/>
+#+html_head: <meta property="og:description" content="Research scientist at Cirad AMAP (Montpellier). PhD in ecology. Expert in tropical forest ecology. ORCID 0000-0002-1685-4997."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/identity/gv_id_gnupg.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/ghislainv.html"/>
+#+html_head: <meta property="og:type" content="profile"/>
 
 #+attr_html: :id ID_picture :style float:right;
 [[file:images/identity/gv_id_gnupg.jpg]]
@@ -96,5 +102,5 @@ Download my CV as a pdf file in [[https://github.com/ghislainv/cv/raw/master/cv_
 :END:
 
 Cirad, [[https://amap.cirad.fr/][UMR AMAP]], F--34398 Montpellier, FRANCE\\
-ghislain@@html:<!-- mzkc@peo -->@@.vieilledentAA@@html:<!-- alp@mtu -->@@cirad.fr (replace AA with @)\\
+E-mail: @@html:<span class="email-placeholder"></span>@@\\
 You can also find me on @@html:<a target="_blank" rel="noopener" class="nav-link" href="https://github.com/ghislainv">GitHub <i class="fa-brands fa-github"></i></a> and <a target="_blank" rel="noopener" class="nav-link" href="https://ecoevo.social/@ghislainv">Mastodon <i class="fa-brands fa-mastodon"></i></a>@@.

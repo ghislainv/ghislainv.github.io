@@ -1,7 +1,13 @@
-#+title: ecology.ghislainv.fr -- News
-#+description: Ghislain Vieilledent -- Forest ecology and statistics
+#+title: News | Ghislain Vieilledent
+#+description: Ghislain Vieilledent | Forest Ecology & Statistics
 #+setupfile: setup.org
 #+tags: article(a) fieldwork(f) media(m) position(p) project(j) student(s) software(t) workshop(w) noexport(n)
+
+#+html_head: <meta property="og:title" content="News | Ghislain Vieilledent"/>
+#+html_head: <meta property="og:description" content="Latest news and updates on research activities, publications, and software releases."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/news.html"/>
+
 #+html_head_extra: <link rel="alternate" type="application/rss+xml" href="https://ecology.ghislainv.fr/news.xml" title="RSS feed for ecology.ghislainv.fr">
 
 @@html:<h1>News <a target="_blank" rel="noopener" class="nav-link" href="news.xml"><i class="fas fa-rss"></i></a></h1>@@

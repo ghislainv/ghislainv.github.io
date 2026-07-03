@@ -1,6 +1,11 @@
-#+title: ecology.ghislainv.fr -- Software
-#+description: Software at ecology.ghislainv.fr
+#+title: Software & R/Python Packages | Ghislain Vieilledent
+#+description: R and Python packages for modelling deforestation, species distribution, and tropical forest dynamics (forestatrisk, jSDM, hSDM...).
 #+setupfile: setup.org
+
+#+html_head: <meta property="og:title" content="Software & R/Python Packages | Ghislain Vieilledent"/>
+#+html_head: <meta property="og:description" content="R and Python packages for modelling deforestation, species distribution, and tropical forest dynamics (forestatrisk, jSDM, hSDM...)."/>
+#+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
+#+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/software.html"/>
 
 # #+ATTR_HTML: :id banner :alt software-banner
 # [[file:images/software/software-banner.png]]
