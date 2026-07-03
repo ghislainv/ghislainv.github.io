@@ -1,23 +1,31 @@
 name: Publish to GitHub Pages
-
 on:
   push:
     branches:
       - master
 
+permissions:
+  contents: write
+
 jobs:
   publish:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Add package repository
         run: sudo add-apt-repository ppa:kelleyk/emacs
 
       - name: Update package list
         run: sudo apt-get update
-        
+
+      - name: Cache apt packages
+        uses: actions/cache@v4
+        with:
+          path: /var/cache/apt/archives
+          key: ${{ runner.os }}-apt-emacs28
+
       - name: Install Emacs
         run: sudo apt-get install emacs28-nox --yes
 
@@ -25,7 +33,7 @@ jobs:
         run: make website
 
       - name: Publish generated content to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: docs
