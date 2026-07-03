@@ -12,22 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v4
-
-      - name: Add package repository
-        run: sudo add-apt-repository ppa:kelleyk/emacs
+        uses: actions/checkout@v7
 
       - name: Update package list
-        run: sudo apt-get update
-
-      - name: Cache apt packages
-        uses: actions/cache@v4
-        with:
-          path: /var/cache/apt/archives
-          key: ${{ runner.os }}-apt-emacs28
+        run: sudo apt update
 
       - name: Install Emacs
-        run: sudo apt-get install emacs28-nox --yes
+        run: sudo apt install emacs-nox --yes
 
       - name: Build the site
         run: make website
