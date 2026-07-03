@@ -6,6 +6,7 @@
 #+html_head: <meta property="og:description" content="Scientific publications in community ecology, conservation biology, and applied statistics."/>
 #+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
 #+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/publications.html"/>
+#+html_head: <meta property="og:type" content="website"/>
 
 #+html_head_extra: <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 

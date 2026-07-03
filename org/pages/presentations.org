@@ -6,6 +6,7 @@
 #+html_head: <meta property="og:description" content="Talks and presentations on tropical forest ecology, ecological modelling, and biodiversity conservation."/>
 #+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
 #+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/presentations.html"/>
+#+html_head: <meta property="og:type" content="website"/>
 
 - [[file:presentations/20260604-CESABINAR_INTRACO.pdf][INTRACO project Sesabinar, June 2026]]
 - [[file:presentations/20260603-trabajar-como-investigador-en-ecologia-tropical.pdf][Trabajar como investigador en ecologia tropical, June 2026]]

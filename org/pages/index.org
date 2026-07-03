@@ -9,6 +9,7 @@
 #+html_head: <meta property="og:description" content="Research on tropical forests, carbon cycle, and biodiversity at Cirad AMAP, Montpellier."/>
 #+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/banner.jpg"/>
 #+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr"/>
+#+html_head: <meta property="og:type" content="website"/>
 
 * About
 :PROPERTIES:

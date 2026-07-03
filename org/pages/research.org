@@ -9,6 +9,7 @@
 #+html_head: <meta property="og:description" content="Research on community ecology, conservation biology, and statistics applied to tropical forests. Projects funded by ANR, FRB, FAO, and EU."/>
 #+html_head: <meta property="og:image" content="https://ecology.ghislainv.fr/images/research/research-banner.jpg"/>
 #+html_head: <meta property="og:url" content="https://ecology.ghislainv.fr/research.html"/>
+#+html_head: <meta property="og:type" content="website"/>
 
 * Research
 :PROPERTIES:
