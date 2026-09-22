@@ -274,6 +274,8 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 :CUSTOM_ID: preprints
 :END:
 
+*Rojat, M., G. Vieilledent, S. Schmitt, R. Pélissier, O. Flores, and R. Pouteau.* 2026. Weak consensus among statistical modelling, functional and expert-based estimates of invasive-threatened plant interactions. /Authorea/: {{{doi(10.22541/authorea.15006463/v1)}}}
+
 *Araza, A., M. Herold, V. Avitabile, K. Black, J. Carreiras, E. Cienciala, M. Campbell, S. de Bruin, J. J. Dida, R. A. Flores, H. Gilani, L. Hein, A. Kumar, G. V. Laurin, H. Li, R. Lucas, J. Liang, E. Mitchard, A. Morel, A. M. Pacheco-Pascagaza, P. Bispo, O. Phillips, C. Ryan, D. Schepaschenko, H. Sukhdeo, K. Stereńczak, K. Tomomichi, M. Urbazaev, S. Willcock, H. Verbeeck, G. Vieilledent, F. Slik, A. Wijaya, and S. Lewis.* 2026. AGBref: A global reference dataset of above-ground forest biomass. /Research Square/: [[doi:10.21203/rs.3.rs-8211898/v1][rs.3.rs-8211898/v1]].
 {{{pdf_url(https://www.researchsquare.com/article/rs-8211898/v1.pdf)}}}
 {{{altm(10.21203/rs.3.rs-8211898/v1)}}}
