@@ -267,8 +267,6 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 
 [1]. *Vieilledent G., Courbaud B., Kunstler G., Dhôte J.-F., and Clark J. S.* 2009. Biases in the estimation of size dependent mortality models: advantages of a semi-parametric approach. /Canadian Journal of Forest Research/. *39* (8): 1430--1443. {{{doi(10.1139/X09-047)}}}. {{{pdf(Vieilledent2009-CJoFR.pdf)}}}, R script {{{github(U-shape-tree-mortality-DBH)}}} {{{altm(10.1139/X09-047)}}}
 
-[0]. *Vieilledent G.* 2009. Structuring uncertainty and variability of ecological processes in forest dynamics models -- Application to silver Fir and Norway Spruce coexistence. PhD Thesis. Cemagref--AgroParisTech. 259 p. oai:[[https://pastel.archives-ouvertes.fr/pastel-00005391][pastel.archives-ouvertes.fr:pastel-00005391]]. {{{pdf(MS-PhDThesis-GVieilledent.pdf)}}}
-
 ** Preprints
 :PROPERTIES:
 :CUSTOM_ID: preprints
@@ -291,6 +289,10 @@ It featured also in the /Conservation Corridor/ post [[https://conservationcorri
 *Clark J. S., A. T. Clark, B. Courbaud, C. Fortunel, C. Girard-Tercieux, G. Kunstler, I. Maréchaux, N. Rüger, and G. Vieilledent.* 2022. A universal coexistence hypothesis resolves the biodiversity paradox: Species differences that generate diverse forests. /Authorea/. {{{doi(10.22541/au.166029509.96486640/v1)}}} {{{pdf_url(https://www.authorea.com/users/490348/articles/581492/master/file/data/clarkMainText/clarkMainText.pdf)}}} {{{altm(10.22541/au.166029509.96486640/v1)))}}}
 
 *Vieilledent G., M. Nourtier, C. Grinand, M. Pedrono, A. Clausen, T. Rabetrano, J.-R. Rakotoarijaona, B. Rakotoarivelo, F. A. Rakotomalala, L. Rakotomalala, A. Razafimpahanana, J. M. Ralison, and F. Achard.* 2020. It's not just poverty: unregulated global market and bad governance explain unceasing deforestation in Western Madagascar. /bioRxiv/: [[doi:10.1101/2020.07.30.229104][229104]]. {{{pdf_url(https://www.biorxiv.org/content/10.1101/2020.07.30.229104v1.full.pdf)}}} {{{altm(10.1101/2020.07.30.229104)}}}
+
+** PhD thesis
+
+*Vieilledent G.* 2009. Structuring uncertainty and variability of ecological processes in forest dynamics models -- Application to silver Fir and Norway Spruce coexistence. PhD thesis. Cemagref--AgroParisTech. 259 p. oai:[[https://pastel.archives-ouvertes.fr/pastel-00005391][pastel.archives-ouvertes.fr:pastel-00005391]]. {{{pdf(MS-PhDThesis-GVieilledent.pdf)}}}
 
 ** Books or book chapters
 :PROPERTIES:
